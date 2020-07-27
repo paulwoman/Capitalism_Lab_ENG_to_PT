@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of crop that being grown.^ ~Crop in Barn~</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210014Z">
+        <seg>O nome da cultura que está sendo plantada.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When crops are harvested, they are stored in barns, which are represented by the blue bars.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210014Z">
+        <seg>~Crop in Barn~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The blue bars increases in length when crops are being harvested. Conversely, their lengths decrease when crops are being sold.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210014Z">
+        <seg>Quando culturas são colhidas, o estoque é representado por barras azuis.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bar indicates the growth progress of the crop.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210014Z">
+        <seg>A barra indica o crescimento da cultura.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

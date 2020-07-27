@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of product that the unit is currently manufacturing.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210730Z">
+        <seg>O produto que está sendo manufaturado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^ </seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210730Z">
+        <seg>O estoque do produto na unidade.^ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stocks of raw materials are represented by a row of green bars here. The length of each bar indicates the quantity of the raw material stocked in the unit. During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products. The manufacturing process is suspended whenever any of its required raw materials is lacking. Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210730Z">
+        <seg>O estoque de matéria-prima é representado por barras verdes.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity. It can manufacture no more goods even if there is additional supply and demand. On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively. This might contribute to the firm's low profitability.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210730Z">
+        <seg>A barra marrom mostra a utilização de cada unidade.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

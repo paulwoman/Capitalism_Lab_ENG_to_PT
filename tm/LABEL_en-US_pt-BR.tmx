@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A private labeling unit converts products of other brands to your own brand by labeling the product with your own corporate insignia.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>~Product Name~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are tired of manufacturing products yourself, you can label products of a less popular brand with your own brand.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>O produto que está sendo processado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This saves you the trouble of managing production lines and lets you concentrate on marketing.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>~Product Stock~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any products directed into the private-labeling unit are relabeled immediately.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>O estoque de cada unidade.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually linking a private labeling unit between a purchasing unit and a sale unit is the easiest way to label the products from another corporation.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>~Utilization Bar~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this arrangement of units, the purchased goods from another company are labeled with your brand and resold as if you had produced them yourself.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210431Z">
+        <seg>A utilização de cada unidade.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

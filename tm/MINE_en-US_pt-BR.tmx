@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The raw material which the unit is currently producing.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210630Z">
+        <seg>A matéria prima que está sendo produzida.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the raw material in the unit. Each box represents one cargo of the raw material.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210630Z">
+        <seg>Esta área mostra o estoque de matéria prima na unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each cargo can store a certain quantity of the raw material.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210630Z">
+        <seg>Cada caixa representa um carregamento de matéria prima.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T210630Z">
+        <seg>A barra marrom representa a utilização da unidade.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

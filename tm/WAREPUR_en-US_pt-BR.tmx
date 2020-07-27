@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of product that is being brought into the warehouse.^ ~Product Stock~</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>O produto que está sendo estocado no armazém.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>~Product Stock~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>A quantidade de estoque em cada unidade.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For some expensive products, such as cars, one cargo can hold only a few units of the product. For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>~Supply and Demand Bar~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This makes the total value of all cargoes of all types of products about the same.^ ~Supply and Demand Bar~</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>A barra amarela indica o fornecimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The yellow bar indicates the supply of the product from the source. The orange bar indicates the demand of the product from the current firm.^</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>A barra laranja indica a demanda pela firma atual.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20200721T211131Z">
+        <seg>A barra marrom indica a utilização da unidade.^</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
