@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081336Z" creationid="Olivier" creationdate="20200728T081336Z">
+        <seg>Todas as suas são mais avançadas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060254Z" creationid="Olivier" creationdate="20200728T060254Z">
@@ -955,6 +963,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081307Z" creationid="Olivier" creationdate="20200728T081307Z">
         <seg>[0549]&lt;AII4&gt;  falha em construir entradas da fábrica.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0551]&lt;FHQ1&gt;Acquire Technology From Other Companies|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081312Z" creationid="Olivier" creationdate="20200728T081312Z">
+        <seg>[0551]&lt;FHQ1&gt;Adquirir tecnologia de outras firmas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0552]&lt;FHQ2&gt;You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081348Z" creationid="Olivier" creationdate="20200728T081315Z">
+        <seg>[0552]&lt;FHQ2&gt;Você não pode adquirir novas tecnologias agora.</seg>
       </tuv>
     </tu>
     <tu>
