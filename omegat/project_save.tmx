@@ -3847,6 +3847,262 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1075]&lt;0231&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091428Z" creationid="Olivier" creationdate="20200728T091428Z">
+        <seg>[1075]&lt;0231&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1076]&lt;0232&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091433Z" creationid="Olivier" creationdate="20200728T091433Z">
+        <seg>[1076]&lt;0232&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1077]&lt;0233&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091511Z" creationid="Olivier" creationdate="20200728T091511Z">
+        <seg>[1077]&lt;0233&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1078]&lt;0234&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091538Z" creationid="Olivier" creationdate="20200728T091538Z">
+        <seg>[1078]&lt;0234&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1079]&lt;0235&gt;Return on Equity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091542Z" creationid="Olivier" creationdate="20200728T091542Z">
+        <seg>[1079]&lt;0235&gt;Retorno em equity|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1080]&lt;0236&gt;Return on Total Assets|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091544Z" creationid="Olivier" creationdate="20200728T091544Z">
+        <seg>[1080]&lt;0236&gt;retorno sobre os ativos totais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1081]&lt;0237&gt;Dividend Yield|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091546Z" creationid="Olivier" creationdate="20200728T091546Z">
+        <seg>[1081]&lt;0237&gt;retorno dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1082]&lt;0238&gt;Stock Return to Investors|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091547Z" creationid="Olivier" creationdate="20200728T091547Z">
+        <seg>[1082]&lt;0238&gt;Retorno ações para investidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1083]&lt;0239&gt;Operating Profit Margin|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091548Z" creationid="Olivier" creationdate="20200728T091548Z">
+        <seg>[1083]&lt;0239&gt;Margem de lucro operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1084]&lt;0240&gt;Net Profit Margin|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091550Z" creationid="Olivier" creationdate="20200728T091550Z">
+        <seg>[1084]&lt;0240&gt;Margem de lucro líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1087]&lt;0243&gt;Equity-to-Assets Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091628Z" creationid="Olivier" creationdate="20200728T091628Z">
+        <seg>[1087]&lt;0243&gt;Razão PL ativos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1088]&lt;0244&gt;Researching new product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091630Z" creationid="Olivier" creationdate="20200728T091630Z">
+        <seg>[1088]&lt;0244&gt;Pesquisando novo produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1089]&lt;0245&gt;years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091631Z" creationid="Olivier" creationdate="20200728T091631Z">
+        <seg>[1089]&lt;0245&gt;anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1090]&lt;0246&gt;year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091633Z" creationid="Olivier" creationdate="20200728T091633Z">
+        <seg>[1090]&lt;0246&gt;ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1091]&lt;0247&gt;units|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091635Z" creationid="Olivier" creationdate="20200728T091635Z">
+        <seg>[1091]&lt;0247&gt;unidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1092]&lt;0248&gt;unit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091636Z" creationid="Olivier" creationdate="20200728T091636Z">
+        <seg>[1092]&lt;0248&gt;unidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1093]&lt;0249&gt;Public Shareholders|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091640Z" creationid="Olivier" creationdate="20200728T091640Z">
+        <seg>[1093]&lt;0249&gt;sharehders. públicos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1094]&lt;0250&gt;total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091701Z" creationid="Olivier" creationdate="20200728T091701Z">
+        <seg>[1094]&lt;0250&gt;para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1095]&lt;0251&gt;Annual Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091703Z" creationid="Olivier" creationdate="20200728T091703Z">
+        <seg>[1095]&lt;0251&gt;Lucro anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1096]&lt;0252&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091705Z" creationid="Olivier" creationdate="20200728T091705Z">
+        <seg>[1096]&lt;0252&gt;Preço da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1099]&lt;0255&gt;P/E Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091707Z" creationid="Olivier" creationdate="20200728T091707Z">
+        <seg>[1099]&lt;0255&gt;Razão P/L|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1100]&lt;0256&gt;Dividend Yield|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091708Z" creationid="Olivier" creationdate="20200728T091708Z">
+        <seg>[1100]&lt;0256&gt;Retorno de dividendos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1102]&lt;0257&gt;Annual Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091709Z" creationid="Olivier" creationdate="20200728T091709Z">
+        <seg>[1102]&lt;0257&gt;Retorno anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1104]&lt;0259&gt;Merger|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091711Z" creationid="Olivier" creationdate="20200728T091711Z">
+        <seg>[1104]&lt;0259&gt;Fusão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1105]&lt;0260&gt;Buy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091713Z" creationid="Olivier" creationdate="20200728T091713Z">
+        <seg>[1105]&lt;0260&gt;Comprar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1106]&lt;0261&gt;Sell|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091714Z" creationid="Olivier" creationdate="20200728T091714Z">
+        <seg>[1106]&lt;0261&gt;Vender|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1107]&lt;0262&gt;Price    P/E    Owned%  Stock Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091715Z" creationid="Olivier" creationdate="20200728T091715Z">
+        <seg>[1107]&lt;0262&gt;Preço    P/L    Qde%  Valor da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1108]&lt;0263&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091717Z" creationid="Olivier" creationdate="20200728T091717Z">
+        <seg>[1108]&lt;0263&gt;Preço da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1109]&lt;0264&gt;Total Shares|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091719Z" creationid="Olivier" creationdate="20200728T091719Z">
+        <seg>[1109]&lt;0264&gt;Ações totais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091721Z" creationid="Olivier" creationdate="20200728T091721Z">
+        <seg>[1110]&lt;0265&gt;Equity por ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1111]&lt;0266&gt;Earnings Per Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091722Z" creationid="Olivier" creationdate="20200728T091722Z">
+        <seg>[1111]&lt;0266&gt;Ganhos por ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1112]&lt;0267&gt;P/E Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091723Z" creationid="Olivier" creationdate="20200728T091723Z">
+        <seg>[1112]&lt;0267&gt;Razão P/L|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
@@ -3963,6 +4219,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Employees|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091459Z" creationid="Olivier" creationdate="20200728T091459Z">
+        <seg>empregados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Classes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091524Z" creationid="Olivier" creationdate="20200728T091524Z">
+        <seg>classes produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Types|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091533Z" creationid="Olivier" creationdate="20200728T091533Z">
+        <seg>tipos produto|</seg>
       </tuv>
     </tu>
     <tu>
