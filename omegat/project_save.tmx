@@ -5623,6 +5623,126 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1419]&lt;0484&gt;The severance for terminating the employment of \n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181110Z" creationid="Olivier" creationdate="20200728T181110Z">
+        <seg>[1419]&lt;0484&gt;O custo para terminar a contratação de \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1424]&lt;0489&gt;, is \n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181118Z" creationid="Olivier" creationdate="20200728T181118Z">
+        <seg>[1424]&lt;0489&gt;, é \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1425]&lt;0490&gt; (monthly salary)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181125Z" creationid="Olivier" creationdate="20200728T181125Z">
+        <seg>[1425]&lt;0490&gt; (Salário mensal)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1426]&lt;0491&gt; (weekly salary) x|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181134Z" creationid="Olivier" creationdate="20200728T181134Z">
+        <seg>[1426]&lt;0491&gt; (Salário semanal) x|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1427]&lt;0492&gt; (years of service)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181202Z" creationid="Olivier" creationdate="20200728T181202Z">
+        <seg>[1427]&lt;0492&gt; (anos de serviço)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1428]&lt;0493&gt;Do you want to proceed ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181231Z" creationid="Olivier" creationdate="20200728T181231Z">
+        <seg>[1428]&lt;0493&gt;Você quer proceder?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1445]&lt;0510&gt;You offered|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181241Z" creationid="Olivier" creationdate="20200728T181241Z">
+        <seg>[1445]&lt;0510&gt;Você ofereceu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1448]&lt;0513&gt;She|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181314Z" creationid="Olivier" creationdate="20200728T181314Z">
+        <seg>[1448]&lt;0513&gt;Ela|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1449]&lt;0514&gt;He|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181316Z" creationid="Olivier" creationdate="20200728T181316Z">
+        <seg>[1449]&lt;0514&gt;Ele|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1450]&lt;0515&gt; rejected your offer.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181324Z" creationid="Olivier" creationdate="20200728T181324Z">
+        <seg>[1450]&lt;0515&gt; rejeitou sua oferta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1451]&lt;0516&gt; requested an annual salary of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181331Z" creationid="Olivier" creationdate="20200728T181331Z">
+        <seg>[1451]&lt;0516&gt; requisitou um salário anual de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1452]&lt;0517&gt;Do you accept?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181341Z" creationid="Olivier" creationdate="20200728T181341Z">
+        <seg>[1452]&lt;0517&gt;Você aceita?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1474]&lt;0539&gt;Crop Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181349Z" creationid="Olivier" creationdate="20200728T181349Z">
+        <seg>[1474]&lt;0539&gt;Nome da cultura|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1475]&lt;0540&gt;Crop in Barn|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181358Z" creationid="Olivier" creationdate="20200728T181358Z">
+        <seg>[1475]&lt;0540&gt;Pés em celeiros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1476]&lt;0541&gt;Growth Progress|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181404Z" creationid="Olivier" creationdate="20200728T181404Z">
+        <seg>[1476]&lt;0541&gt;Progresso do crescimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
