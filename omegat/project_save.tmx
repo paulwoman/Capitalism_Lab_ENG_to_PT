@@ -1455,6 +1455,414 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0632]&lt;DI27&gt;Advertising Cost (CPM)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083218Z" creationid="Olivier" creationdate="20200728T083218Z">
+        <seg>[0632]&lt;DI27&gt;Custo Advertising (CPM)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0633]&lt;ECO0&gt;Retailing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083221Z" creationid="Olivier" creationdate="20200728T083221Z">
+        <seg>[0633]&lt;ECO0&gt;Varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0634]&lt;ECO1&gt;Manufacturing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083223Z" creationid="Olivier" creationdate="20200728T083223Z">
+        <seg>[0634]&lt;ECO1&gt;Produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0635]&lt;ECO2&gt;Farming|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083225Z" creationid="Olivier" creationdate="20200728T083225Z">
+        <seg>[0635]&lt;ECO2&gt;Agricultura|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0637]&lt;FAT1&gt;Small|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083227Z" creationid="Olivier" creationdate="20200728T083227Z">
+        <seg>[0637]&lt;FAT1&gt;Pequeno|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0638]&lt;FAT2&gt;Medium|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083228Z" creationid="Olivier" creationdate="20200728T083228Z">
+        <seg>[0638]&lt;FAT2&gt;Médio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0639]&lt;FAT3&gt;Large|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083229Z" creationid="Olivier" creationdate="20200728T083229Z">
+        <seg>[0639]&lt;FAT3&gt;Largo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0640]&lt;FAT4&gt;Demolish the apartment and sell the land|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083232Z" creationid="Olivier" creationdate="20200728T083232Z">
+        <seg>[0640]&lt;FAT4&gt;Demolir apartamento e vender a terra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0641]&lt;FAT5&gt;Put this apartment on sale for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083233Z" creationid="Olivier" creationdate="20200728T083233Z">
+        <seg>[0641]&lt;FAT5&gt;Colocar esse apartamento à venda por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0642]&lt;FAT6&gt;Owner|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083236Z" creationid="Olivier" creationdate="20200728T083236Z">
+        <seg>[0642]&lt;FAT6&gt;Dono|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0643]&lt;FAT7&gt;Annual rent per square foot|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083238Z" creationid="Olivier" creationdate="20200728T083238Z">
+        <seg>[0643]&lt;FAT7&gt;Aluguel anual por m2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0644]&lt;FAT8&gt;Occupancy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083240Z" creationid="Olivier" creationdate="20200728T083240Z">
+        <seg>[0644]&lt;FAT8&gt;Ocupação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0645]&lt;FAT9&gt;You bought this Apartment at|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083241Z" creationid="Olivier" creationdate="20200728T083241Z">
+        <seg>[0645]&lt;FAT9&gt;Você comprou esse apartamento por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0646]&lt;FA10&gt;Land and Building Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083243Z" creationid="Olivier" creationdate="20200728T083243Z">
+        <seg>[0646]&lt;FA10&gt;Custo terra + construção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0647]&lt;FA11&gt;Market Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083245Z" creationid="Olivier" creationdate="20200728T083245Z">
+        <seg>[0647]&lt;FA11&gt;Valor mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0648]&lt;FA12&gt;Profit Graph|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083247Z" creationid="Olivier" creationdate="20200728T083247Z">
+        <seg>[0648]&lt;FA12&gt;Gráfico lucro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0649]&lt;FA13&gt;Past 12 months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083248Z" creationid="Olivier" creationdate="20200728T083248Z">
+        <seg>[0649]&lt;FA13&gt;Últimos 12 meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0650]&lt;FA14&gt;Occupancy graph|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083250Z" creationid="Olivier" creationdate="20200728T083250Z">
+        <seg>[0650]&lt;FA14&gt;Gráfico ocupação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0651]&lt;FA15&gt;Put this apartment on sale|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083253Z" creationid="Olivier" creationdate="20200728T083253Z">
+        <seg>[0651]&lt;FA15&gt;Colocar esse apartamento à venda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0652]&lt;FA16&gt;Buy this apartment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083254Z" creationid="Olivier" creationdate="20200728T083254Z">
+        <seg>[0652]&lt;FA16&gt;Comprar esse apartamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0653]&lt;FA17&gt;Offer now|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083256Z" creationid="Olivier" creationdate="20200728T083256Z">
+        <seg>[0653]&lt;FA17&gt;Oferecer agora|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0655]&lt;FA19&gt;Demolish the building and sell the land |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083257Z" creationid="Olivier" creationdate="20200728T083257Z">
+        <seg>[0655]&lt;FA19&gt;Demolir este prédio e vender a terra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0656]&lt;FA20&gt;Put this building on sale for:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083259Z" creationid="Olivier" creationdate="20200728T083259Z">
+        <seg>[0656]&lt;FA20&gt;Colocar esse prédio à venda por:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0658]&lt;FA22&gt;This commercial building is for sale at|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083301Z" creationid="Olivier" creationdate="20200728T083301Z">
+        <seg>[0658]&lt;FA22&gt;Esse prédio comercial está sendo vendido por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0661]&lt;FR00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083302Z" creationid="Olivier" creationdate="20200728T083302Z">
+        <seg>[0661]&lt;FR00&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0662]&lt;FR01&gt;Raw Material Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083303Z" creationid="Olivier" creationdate="20200728T083303Z">
+        <seg>[0662]&lt;FR01&gt;Custo de matéria-prima|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0663]&lt;FR02&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083307Z" creationid="Olivier" creationdate="20200728T083307Z">
+        <seg>[0663]&lt;FR02&gt;Custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0664]&lt;FR03&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083311Z" creationid="Olivier" creationdate="20200728T083311Z">
+        <seg>[0664]&lt;FR03&gt;Gastos com salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0665]&lt;FR04&gt;Factory Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083313Z" creationid="Olivier" creationdate="20200728T083313Z">
+        <seg>[0665]&lt;FR04&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0666]&lt;FR05&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083315Z" creationid="Olivier" creationdate="20200728T083315Z">
+        <seg>[0666]&lt;FR05&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0667]&lt;FR06&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083318Z" creationid="Olivier" creationdate="20200728T083318Z">
+        <seg>[0667]&lt;FR06&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0668]&lt;FR07&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083320Z" creationid="Olivier" creationdate="20200728T083320Z">
+        <seg>[0668]&lt;FR07&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0669]&lt;FR10&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083323Z" creationid="Olivier" creationdate="20200728T083323Z">
+        <seg>[0669]&lt;FR10&gt;Despesas com salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0670]&lt;FR11&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083325Z" creationid="Olivier" creationdate="20200728T083325Z">
+        <seg>[0670]&lt;FR11&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0671]&lt;FR12&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083337Z" creationid="Olivier" creationdate="20200728T083337Z">
+        <seg>[0671]&lt;FR12&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0672]&lt;FR13&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083400Z" creationid="Olivier" creationdate="20200728T083400Z">
+        <seg>[0672]&lt;FR13&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0673]&lt;FR20&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083401Z" creationid="Olivier" creationdate="20200728T083401Z">
+        <seg>[0673]&lt;FR20&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0674]&lt;FR21&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083403Z" creationid="Olivier" creationdate="20200728T083403Z">
+        <seg>[0674]&lt;FR21&gt;Despesas com salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0675]&lt;FR22&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083405Z" creationid="Olivier" creationdate="20200728T083405Z">
+        <seg>[0675]&lt;FR22&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0676]&lt;FR23&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083406Z" creationid="Olivier" creationdate="20200728T083406Z">
+        <seg>[0676]&lt;FR23&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0677]&lt;FR24&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083408Z" creationid="Olivier" creationdate="20200728T083408Z">
+        <seg>[0677]&lt;FR24&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0678]&lt;FR25&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083410Z" creationid="Olivier" creationdate="20200728T083410Z">
+        <seg>[0678]&lt;FR25&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0679]&lt;FR30&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083413Z" creationid="Olivier" creationdate="20200728T083413Z">
+        <seg>[0679]&lt;FR30&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0680]&lt;FR31&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083414Z" creationid="Olivier" creationdate="20200728T083414Z">
+        <seg>[0680]&lt;FR31&gt;Despesas com salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0681]&lt;FR32&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083416Z" creationid="Olivier" creationdate="20200728T083416Z">
+        <seg>[0681]&lt;FR32&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0682]&lt;FR33&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083417Z" creationid="Olivier" creationdate="20200728T083417Z">
+        <seg>[0682]&lt;FR33&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0683]&lt;FR34&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083419Z" creationid="Olivier" creationdate="20200728T083419Z">
+        <seg>[0683]&lt;FR34&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0684]&lt;FR35&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083437Z" creationid="Olivier" creationdate="20200728T083437Z">
+        <seg>[0684]&lt;FR35&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0685]&lt;FR40&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083449Z" creationid="Olivier" creationdate="20200728T083449Z">
+        <seg>[0685]&lt;FR40&gt;Receitas de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0686]&lt;FR41&gt;Consumption of Reserve|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083453Z" creationid="Olivier" creationdate="20200728T083453Z">
+        <seg>[0686]&lt;FR41&gt;Consumo de reservas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0687]&lt;FR42&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083516Z" creationid="Olivier" creationdate="20200728T083516Z">
+        <seg>[0687]&lt;FR42&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
