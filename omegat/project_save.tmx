@@ -903,6 +903,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0540]&lt;FAP3&gt;Confirm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062520Z" creationid="Olivier" creationdate="20200728T062520Z">
+        <seg>[0540]&lt;FAP3&gt;Confirmar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0541]&lt;FAP4&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062523Z" creationid="Olivier" creationdate="20200728T062523Z">
+        <seg>[0541]&lt;FAP4&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0543]&lt;FAP6&gt;Sorry, you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062525Z" creationid="Olivier" creationdate="20200728T062525Z">
+        <seg>[0543]&lt;FAP6&gt;desculpe, Você não tem caixa suficiente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0546]&lt;AII1&gt;Game Design Mode Warning|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062552Z" creationid="Olivier" creationdate="20200728T062552Z">
+        <seg>[0546]&lt;AII1&gt;Aviso Modo de Game Design|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0547]&lt;AII2&gt;Grand strategy plan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062616Z" creationid="Olivier" creationdate="20200728T062616Z">
+        <seg>[0547]&lt;AII2&gt;Grande plano estratégico|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0548]&lt;AII3&gt; building farm input failed.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062640Z" creationid="Olivier" creationdate="20200728T062640Z">
+        <seg>[0548]&lt;AII3&gt; falha em construir entradas da fazenda.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0549]&lt;AII4&gt; building factory input failed.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081307Z" creationid="Olivier" creationdate="20200728T081307Z">
+        <seg>[0549]&lt;AII4&gt;  falha em construir entradas da fábrica.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
