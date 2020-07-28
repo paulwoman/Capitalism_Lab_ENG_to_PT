@@ -4759,6 +4759,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1268]&lt;0382&gt;Function: Borrowing bank loans|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094405Z" creationid="Olivier" creationdate="20200728T094405Z">
+        <seg>[1268]&lt;0382&gt;Função: Pegar empréstimos bancários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1269]&lt;0383&gt;Function: Trading stocks|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094420Z" creationid="Olivier" creationdate="20200728T094420Z">
+        <seg>[1269]&lt;0383&gt;Função: Negociar ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1270]&lt;0384&gt;Function: Advertising your products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094446Z" creationid="Olivier" creationdate="20200728T094446Z">
+        <seg>[1270]&lt;0384&gt;Função: Advertising de produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
