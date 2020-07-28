@@ -166,6 +166,39 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0120]&lt;RFU2&gt;Cannot join a load game session|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055643Z" creationid="Olivier" creationdate="20200728T055643Z">
+        <seg>[0120]&lt;RFU2&gt;Não foi possivel carregar uma nova sessão de jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0121]&lt;RFU3&gt;You cannot join the game because the save game is different from the host|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055658Z" creationid="Olivier" creationdate="20200728T055658Z">
+        <seg>[0121]&lt;RFU3&gt;Erro. Versão do anfitrião é diferente da sua|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0122]&lt;RFU4&gt;You cannot join the game because the host does not accept your game version|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055724Z" creationid="Olivier" creationdate="20200728T055724Z">
+        <seg>[0122]&lt;RFU4&gt;Erro. Anfitrião não aceita a sua versão do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0123]&lt;RFU5&gt;You cannot join the game because the session is full|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055824Z" creationid="Olivier" creationdate="20200728T055824Z">
+        <seg>[0123]&lt;RFU5&gt;Erro. Sessão cheia|
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
