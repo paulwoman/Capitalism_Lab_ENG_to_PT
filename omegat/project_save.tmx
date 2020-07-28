@@ -1863,6 +1863,86 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0688]&lt;FR43&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083530Z" creationid="Olivier" creationdate="20200728T083530Z">
+        <seg>[0688]&lt;FR43&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0689]&lt;FR44&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083606Z" creationid="Olivier" creationdate="20200728T083606Z">
+        <seg>[0689]&lt;FR44&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0690]&lt;FR45&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083623Z" creationid="Olivier" creationdate="20200728T083623Z">
+        <seg>[0690]&lt;FR45&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0691]&lt;FR46&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083620Z" creationid="Olivier" creationdate="20200728T083620Z">
+        <seg>[0691]&lt;FR46&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0703]&lt;FBK2&gt;Total Loan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083634Z" creationid="Olivier" creationdate="20200728T083634Z">
+        <seg>[0703]&lt;FBK2&gt;Total emprest.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0704]&lt;FBK3&gt;Monthly Interest|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083656Z" creationid="Olivier" creationdate="20200728T083656Z">
+        <seg>[0704]&lt;FBK3&gt;Juros mensais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0705]&lt;FBK4&gt;Credit Limit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083701Z" creationid="Olivier" creationdate="20200728T083701Z">
+        <seg>[0705]&lt;FBK4&gt;Limite de crédito|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0706]&lt;FBK5&gt;Interest Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083703Z" creationid="Olivier" creationdate="20200728T083703Z">
+        <seg>[0706]&lt;FBK5&gt;Taxa de juros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0707]&lt;FBK6&gt;Borrow|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083750Z" creationid="Olivier" creationdate="20200728T083717Z">
+        <seg>[0707]&lt;FBK6&gt;Empréstimo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0708]&lt;FBK7&gt;Repay|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083803Z" creationid="Olivier" creationdate="20200728T083726Z">
+        <seg>[0708]&lt;FBK7&gt;Reembolso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
