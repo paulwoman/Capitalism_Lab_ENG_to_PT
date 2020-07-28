@@ -1327,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0613]&lt;DIJ8&gt;Seaports|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083005Z" creationid="Olivier" creationdate="20200728T083005Z">
+        <seg>[0613]&lt;DIJ8&gt;Portos maritimos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
