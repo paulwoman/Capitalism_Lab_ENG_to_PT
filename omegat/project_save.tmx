@@ -5191,6 +5191,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1349]&lt;0414&gt;Career|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095401Z" creationid="Olivier" creationdate="20200728T095401Z">
+        <seg>[1349]&lt;0414&gt;Carreira|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1350]&lt;0415&gt;Personality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095415Z" creationid="Olivier" creationdate="20200728T095415Z">
+        <seg>[1350]&lt;0415&gt;Personalidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095523Z" creationid="Olivier" creationdate="20200728T095523Z">
+        <seg>[1353]&lt;0418&gt;Balanço da corporação||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1354]&lt;0419&gt;Corporate Income Statement|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095536Z" creationid="Olivier" creationdate="20200728T095536Z">
+        <seg>[1354]&lt;0419&gt;Declaração de renda da corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1355]&lt;0420&gt;Firm Income Statement|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095558Z" creationid="Olivier" creationdate="20200728T095558Z">
+        <seg>[1355]&lt;0420&gt;Declaração de renda da firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1360]&lt;0425&gt;TARGET|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095639Z" creationid="Olivier" creationdate="20200728T095639Z">
+        <seg>[1360]&lt;0425&gt;META|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1361]&lt;0426&gt;CURRENT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095655Z" creationid="Olivier" creationdate="20200728T095655Z">
+        <seg>[1361]&lt;0426&gt;ATUAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -5371,6 +5427,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084711Z" creationid="Olivier" creationdate="20200728T084657Z">
         <seg>empregados de linha de frente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of years passed|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095614Z" creationid="Olivier" creationdate="20200728T095614Z">
+        <seg>de anos passados|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
