@@ -1191,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0583]&lt;SYF1&gt;Save Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081936Z" creationid="Olivier" creationdate="20200728T081936Z">
+        <seg>[0583]&lt;SYF1&gt;Salvar Game|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
