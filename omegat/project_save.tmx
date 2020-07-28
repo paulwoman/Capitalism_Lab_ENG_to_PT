@@ -4703,26 +4703,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1249]&lt;0363&gt;Output|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092318Z" creationid="Olivier" creationdate="20200728T092318Z">
-        <seg>[1249]&lt;0363&gt;Output|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1250]&lt;0364&gt;Input|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092322Z" creationid="Olivier" creationdate="20200728T092322Z">
-        <seg>[1250]&lt;0364&gt;Input|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1251]&lt;0365&gt;Available|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092344Z" creationid="Olivier" creationdate="20200728T092344Z">
         <seg>[1251]&lt;0365&gt;Disponível|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1255]&lt;0369&gt;He currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092443Z" creationid="Olivier" creationdate="20200728T092443Z">
+        <seg>[1255]&lt;0369&gt;Ele atualmente gerencia essa firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1256]&lt;0370&gt;She currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092457Z" creationid="Olivier" creationdate="20200728T092457Z">
+        <seg>[1256]&lt;0370&gt;Ela atualmente gerencia essa firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1263]&lt;0377&gt;Market Value:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092520Z" creationid="Olivier" creationdate="20200728T092520Z">
+        <seg>[1263]&lt;0377&gt;Valor mercado:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1264]&lt;0378&gt;This mansion is for sale|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092605Z" creationid="Olivier" creationdate="20200728T092605Z">
+        <seg>[1264]&lt;0378&gt;Essa mansão está à venda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
+        <seg>[2876]&lt;LAN3&gt;Decrease Tudo Commercial Firm Setup Costs by|</seg>
       </tuv>
     </tu>
     <tu>
