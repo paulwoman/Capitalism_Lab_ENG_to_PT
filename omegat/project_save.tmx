@@ -407,6 +407,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0175]&lt;LOBC&gt;Cannot get connection string from lobby|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061858Z" creationid="Olivier" creationdate="20200728T061858Z">
+        <seg>[0175]&lt;LOBC&gt;Erro ao adquirir string do lobby|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061901Z" creationid="Olivier" creationdate="20200728T061901Z">
+        <seg>[0186]&lt;STAY&gt;Você quer continuar no jogo?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0188]&lt;RSTT&gt;Restart Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061904Z" creationid="Olivier" creationdate="20200728T061904Z">
+        <seg>[0188]&lt;RSTT&gt;Reiniciar jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0189]&lt;RETI&gt;Retire|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061905Z" creationid="Olivier" creationdate="20200728T061905Z">
+        <seg>[0189]&lt;RETI&gt;Aposentar-se|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0190]&lt;RETR&gt;Retreat|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061908Z" creationid="Olivier" creationdate="20200728T061908Z">
+        <seg>[0190]&lt;RETR&gt;Retirar-se|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0196]&lt;ASRS&gt;Do you really want to restart?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061910Z" creationid="Olivier" creationdate="20200728T061910Z">
+        <seg>[0196]&lt;ASRS&gt;Você realmente quer recomeçar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0241]&lt;CHEA&gt;Cheat Mode Enabled.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061912Z" creationid="Olivier" creationdate="20200728T061912Z">
+        <seg>[0241]&lt;CHEA&gt;Modo trapaça ativado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
