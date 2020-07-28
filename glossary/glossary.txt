@@ -46,3 +46,8 @@ Expertise	Expertise
 Corporate Balance Sheet	Balanço da corporação
 TARGET	META
 CURRENT	ATUAL
+years of service	anos de serviço
+Do you want to proceed ?	Você quer proceder?
+She	Ela
+He	Ele
+units	unidades
