@@ -575,10 +575,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180220Z" creationid="Olivier" creationdate="20200728T180220Z">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062011Z" creationid="Olivier" creationdate="20200728T062011Z">
         <seg>[0300]&lt;#?L0&gt;#r - ranking dos jogadores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180226Z" creationid="Olivier" creationdate="20200728T180226Z">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1071,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0561]&lt;FIN9&gt;OK|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180311Z" creationid="Olivier" creationdate="20200728T180311Z">
+        <seg>[0561]&lt;FIN9&gt;OK|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0562]&lt;FMN1&gt;Mansion Demolish|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081429Z" creationid="Olivier" creationdate="20200728T081429Z">
@@ -1403,6 +1427,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083110Z" creationid="Olivier" creationdate="20200728T083110Z">
         <seg>[0620]&lt;DI15&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0621]&lt;DI16&gt;Ok|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180330Z" creationid="Olivier" creationdate="20200728T180330Z">
+        <seg>[0621]&lt;DI16&gt;Ok|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3495,6 +3527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1018]&lt;0175&gt;Total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180342Z" creationid="Olivier" creationdate="20200728T180342Z">
+        <seg>[1018]&lt;0175&gt;Para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1021]&lt;0178&gt;Management|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085528Z" creationid="Olivier" creationdate="20200728T085528Z">
@@ -5251,6 +5291,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095655Z" creationid="Olivier" creationdate="20200728T095655Z">
         <seg>[1361]&lt;0426&gt;ATUAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180513Z" creationid="Olivier" creationdate="20200728T180513Z">
+        <seg>[1362]&lt;0427&gt;ALCANÇADA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180345Z" creationid="Olivier" creationdate="20200728T180345Z">
+        <seg>[1364]&lt;0429&gt;Personal Riqueza|</seg>
       </tuv>
     </tu>
     <tu>
