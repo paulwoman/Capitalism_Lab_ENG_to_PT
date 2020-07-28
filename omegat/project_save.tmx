@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060254Z" creationid="Olivier" creationdate="20200728T060254Z">
+        <seg>Proceder?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is not saved.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060347Z" creationid="Olivier" creationdate="20200728T060347Z">
+        <seg>O jogo não será salvo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0011]&lt;QUIT&gt;Quit|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055306Z" creationid="Olivier" creationdate="20200728T055306Z">
@@ -195,6 +211,150 @@
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055824Z" creationid="Olivier" creationdate="20200728T055824Z">
         <seg>[0123]&lt;RFU5&gt;Erro. Sessão cheia|
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0148]&lt;SV_G&gt;Save Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060155Z" creationid="Olivier" creationdate="20200728T060155Z">
+        <seg>[0148]&lt;SV_G&gt;Salvar jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0149]&lt;0SAV&gt;You haven't saved any games yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060159Z" creationid="Olivier" creationdate="20200728T060159Z">
+        <seg>[0149]&lt;0SAV&gt;Você ainda não salvou nenhum jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0150]&lt;SAVE&gt;Save|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060201Z" creationid="Olivier" creationdate="20200728T060201Z">
+        <seg>[0150]&lt;SAVE&gt;Salvar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0152]&lt;LOAD&gt;Load|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060203Z" creationid="Olivier" creationdate="20200728T060203Z">
+        <seg>[0152]&lt;LOAD&gt;Carregar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0154]&lt;EMGS&gt;Empty Game Slot|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060205Z" creationid="Olivier" creationdate="20200728T060205Z">
+        <seg>[0154]&lt;EMGS&gt;Esvaziar slot de jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0155]&lt;PAGE&gt;page %1d/%2d|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060208Z" creationid="Olivier" creationdate="20200728T060208Z">
+        <seg>[0155]&lt;PAGE&gt;página %1d/%2d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0156]&lt;-DSL&gt;Cannot delete this slot|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060212Z" creationid="Olivier" creationdate="20200728T060212Z">
+        <seg>[0156]&lt;-DSL&gt;Não pode deletar esse slot|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0158]&lt;GDAT&gt;Game date: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060215Z" creationid="Olivier" creationdate="20200728T060215Z">
+        <seg>[0158]&lt;GDAT&gt;Data de jogo: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0159]&lt;FDAT&gt;File date: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060217Z" creationid="Olivier" creationdate="20200728T060217Z">
+        <seg>[0159]&lt;FDAT&gt;Dados do arquivo: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0160]&lt;FNAM&gt;File name: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060221Z" creationid="Olivier" creationdate="20200728T060221Z">
+        <seg>[0160]&lt;FNAM&gt;Nome do arquivo: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060247Z" creationid="Olivier" creationdate="20200728T060223Z">
+        <seg>[0161]&lt;AOVW&gt;Vai sobreescrever arquivo existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0162]&lt;SE-L&gt;Cannot load in scenario editor|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060258Z" creationid="Olivier" creationdate="20200728T060258Z">
+        <seg>[0162]&lt;SE-L&gt;Erro ao abrir editor de cenário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060311Z" creationid="Olivier" creationdate="20200728T060311Z">
+        <seg>[0163]&lt;ADLS&gt;Esse arquivo salvo será deletado.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0164]&lt;DESV&gt;Description of the save game:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060324Z" creationid="Olivier" creationdate="20200728T060324Z">
+        <seg>[0164]&lt;DESV&gt;Descrição do jogo salvo :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0165]&lt;OUTD&gt;Insufficient disk space !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060340Z" creationid="Olivier" creationdate="20200728T060340Z">
+        <seg>[0165]&lt;OUTD&gt;Espaço em disco insuficiente!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0166]&lt;LE_O&gt;Cannot open the save game file|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060402Z" creationid="Olivier" creationdate="20200728T060402Z">
+        <seg>[0166]&lt;LE_O&gt;Erro ao abrir o arquivo salvo de jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0167]&lt;LE_H&gt;Cannot read file header|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060405Z" creationid="Olivier" creationdate="20200728T060405Z">
+        <seg>[0167]&lt;LE_H&gt;Erro ao ler título do arquivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0168]&lt;LE_P&gt;Cannot load the save game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060418Z" creationid="Olivier" creationdate="20200728T060418Z">
+        <seg>[0168]&lt;LE_P&gt;Erro ao carregar jogo salvo.</seg>
       </tuv>
     </tu>
     <tu>
