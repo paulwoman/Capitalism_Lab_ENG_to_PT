@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>- help|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062051Z" creationid="Olivier" creationdate="20200728T062051Z">
+        <seg>- ajuda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -459,6 +467,126 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061912Z" creationid="Olivier" creationdate="20200728T061912Z">
         <seg>[0241]&lt;CHEA&gt;Modo trapaça ativado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0257]&lt;SVSU&gt;Game Saved Successfully|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061915Z" creationid="Olivier" creationdate="20200728T061915Z">
+        <seg>[0257]&lt;SVSU&gt;Jogo salvo com súcesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0258]&lt;WAIT&gt;Waiting for %1s %2s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061928Z" creationid="Olivier" creationdate="20200728T061928Z">
+        <seg>[0258]&lt;WaiT&gt;Esperando por %1s %2s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0274]&lt;GOAW&gt;You will be victorious when you have:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061931Z" creationid="Olivier" creationdate="20200728T061931Z">
+        <seg>[0274]&lt;GOAW&gt;Você será vitorioso quando tiver:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0286]&lt;IPXL&gt;Join a local area network game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061934Z" creationid="Olivier" creationdate="20200728T061934Z">
+        <seg>[0286]&lt;IPXL&gt;Unir-se a um jogo de rede local|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0287]&lt;TCPL&gt;Join a local area network or Internet game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061936Z" creationid="Olivier" creationdate="20200728T061936Z">
+        <seg>[0287]&lt;TCPL&gt;Unir-se a um jogo de rede local ou de internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0288]&lt;MODL&gt;Join with another player by Modem|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061938Z" creationid="Olivier" creationdate="20200728T061938Z">
+        <seg>[0288]&lt;MODL&gt;Unir-se a outro jogador por modem|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0289]&lt;COML&gt;Join with another player linked by serial cable|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061940Z" creationid="Olivier" creationdate="20200728T061940Z">
+        <seg>[0289]&lt;COML&gt;Unir-se a outro jogador ligado por cabo serial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061942Z" creationid="Olivier" creationdate="20200728T061942Z">
+        <seg>[0298]&lt;PRFL&gt;Aviso: Isso vai deletar  todas as informações de seu lobby multijogador que está ligado ao perfil do jogador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062011Z" creationid="Olivier" creationdate="20200728T062011Z">
+        <seg>[0300]&lt;#?L0&gt;#r - ranking dos jogadores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0322]&lt;ENVI&gt;ENVIRONMENT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062054Z" creationid="Olivier" creationdate="20200728T062054Z">
+        <seg>[0322]&lt;ENVI&gt;AMBIENTE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0323]&lt;CMPT&gt;COMPETITORS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062057Z" creationid="Olivier" creationdate="20200728T062057Z">
+        <seg>[0323]&lt;CMPT&gt;COMPETIDORES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0324]&lt;IMPT&gt;PRODUCTS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062059Z" creationid="Olivier" creationdate="20200728T062059Z">
+        <seg>[0324]&lt;IMPT&gt;PRODUTOS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0325]&lt;GOAL&gt;GOALS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062113Z" creationid="Olivier" creationdate="20200728T062113Z">
+        <seg>[0325]&lt;GOAL&gt;OBJETIVOS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0326]&lt;CITY&gt;Number of Cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062130Z" creationid="Olivier" creationdate="20200728T062130Z">
+        <seg>[0326]&lt;CITY&gt;Número de cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0327]&lt;SCAP&gt;Your Start-up Capital|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062158Z" creationid="Olivier" creationdate="20200728T062158Z">
+        <seg>[0327]&lt;SCAP&gt;Seu capital inicial|</seg>
       </tuv>
     </tu>
     <tu>
