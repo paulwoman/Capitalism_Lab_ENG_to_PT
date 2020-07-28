@@ -4783,6 +4783,110 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1271]&lt;0385&gt;Function: Provide information|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094455Z" creationid="Olivier" creationdate="20200728T094455Z">
+        <seg>[1271]&lt;0385&gt;Função: Providênciar informação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1272]&lt;0386&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094505Z" creationid="Olivier" creationdate="20200728T094505Z">
+        <seg>[1272]&lt;0386&gt;Pontos Rating|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094520Z" creationid="Olivier" creationdate="20200728T094520Z">
+        <seg>[1273]&lt;0387&gt;Pontos Rating para os Últ. 36 meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1274]&lt;0388&gt;Content Volume|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094528Z" creationid="Olivier" creationdate="20200728T094528Z">
+        <seg>[1274]&lt;0388&gt;Volume conteúdo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1275]&lt;0389&gt;Content Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094539Z" creationid="Olivier" creationdate="20200728T094539Z">
+        <seg>[1275]&lt;0389&gt;Qualid. conteúdo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1278]&lt;0392&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094547Z" creationid="Olivier" creationdate="20200728T094547Z">
+        <seg>[1278]&lt;0392&gt;Pontos Rating|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1281]&lt;0395&gt;Monthly Budget for New Content Development|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094558Z" creationid="Olivier" creationdate="20200728T094558Z">
+        <seg>[1281]&lt;0395&gt;orçamento mensal para desenvolver novo conteúdo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1287]&lt;0401&gt;Next Month Advertising Pricing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094605Z" creationid="Olivier" creationdate="20200728T094605Z">
+        <seg>[1287]&lt;0401&gt;Preço do advertising para o próximo mês|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1289]&lt;0403&gt;Current Advertising Pricing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094612Z" creationid="Olivier" creationdate="20200728T094612Z">
+        <seg>[1289]&lt;0403&gt;preço atual do advertising|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1292]&lt;0406&gt;Buy Firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094626Z" creationid="Olivier" creationdate="20200728T094626Z">
+        <seg>[1292]&lt;0406&gt;comprar firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1298]&lt;AA00&gt;All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094629Z" creationid="Olivier" creationdate="20200728T094629Z">
+        <seg>[1298]&lt;AA00&gt;Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1299]&lt;AA01&gt;Has Trade Sales|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094655Z" creationid="Olivier" creationdate="20200728T094655Z">
+        <seg>[1299]&lt;AA01&gt;Vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1300]&lt;AA02&gt;Has Retail Sales|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094654Z" creationid="Olivier" creationdate="20200728T094654Z">
+        <seg>[1300]&lt;AA02&gt;Has Varejo Sales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
