@@ -5743,6 +5743,158 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1477]&lt;0542&gt; units|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181419Z" creationid="Olivier" creationdate="20200728T181419Z">
+        <seg>[1477]&lt;0542&gt; unidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1478]&lt;0543&gt; unit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181435Z" creationid="Olivier" creationdate="20200728T181435Z">
+        <seg>[1478]&lt;0543&gt; unidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1479]&lt;0544&gt;Quality: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181432Z" creationid="Olivier" creationdate="20200728T181432Z">
+        <seg>[1479]&lt;0544&gt;Qualid: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1480]&lt;0545&gt;Quality is determined by:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181456Z" creationid="Olivier" creationdate="20200728T181456Z">
+        <seg>[1480]&lt;0545&gt;Qualid. é determinada por:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1481]&lt;0546&gt;Production Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181510Z" creationid="Olivier" creationdate="20200728T181510Z">
+        <seg>[1481]&lt;0546&gt;tec. de produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1482]&lt;0547&gt;Raw Material Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181518Z" creationid="Olivier" creationdate="20200728T181518Z">
+        <seg>[1482]&lt;0547&gt;Matéria-prima|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1483]&lt;0548&gt;Tech Invented|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181525Z" creationid="Olivier" creationdate="20200728T181525Z">
+        <seg>[1483]&lt;0548&gt;Inventado?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1484]&lt;0549&gt;Tech Known to You|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181555Z" creationid="Olivier" creationdate="20200728T181555Z">
+        <seg>[1484]&lt;0549&gt;Conhecido?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1485]&lt;0550&gt;Character:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181606Z" creationid="Olivier" creationdate="20200728T181606Z">
+        <seg>[1485]&lt;0550&gt;Personagem:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1487]&lt;0552&gt;Degree (0-100)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181618Z" creationid="Olivier" creationdate="20200728T181618Z">
+        <seg>[1487]&lt;0552&gt;Grau (0-100)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1488]&lt;0553&gt;Investing in Research and Development|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181626Z" creationid="Olivier" creationdate="20200728T181626Z">
+        <seg>[1488]&lt;0553&gt;Investindo em pesquisa e desenvolvimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1489]&lt;0554&gt;Investing in Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181634Z" creationid="Olivier" creationdate="20200728T181634Z">
+        <seg>[1489]&lt;0554&gt;Investindo em treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1490]&lt;0555&gt;Frequency of Upgrading Production Facilities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181640Z" creationid="Olivier" creationdate="20200728T181640Z">
+        <seg>[1490]&lt;0555&gt;Frequência das melhorias de produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1491]&lt;0556&gt;Spending on Advertising|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181646Z" creationid="Olivier" creationdate="20200728T181646Z">
+        <seg>[1491]&lt;0556&gt;Gastos em Advertising|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1492]&lt;0557&gt;Paying Dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181652Z" creationid="Olivier" creationdate="20200728T181652Z">
+        <seg>[1492]&lt;0557&gt;Pagando dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1493]&lt;0558&gt;Investing in Stocks|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181702Z" creationid="Olivier" creationdate="20200728T181702Z">
+        <seg>[1493]&lt;0558&gt;Investindo em ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1494]&lt;0559&gt;Corporation Takeover and Merger|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181708Z" creationid="Olivier" creationdate="20200728T181708Z">
+        <seg>[1494]&lt;0559&gt;Takeover e fusão de corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1495]&lt;0560&gt;Strengthening Corporation Ownership|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181715Z" creationid="Olivier" creationdate="20200728T181715Z">
+        <seg>[1495]&lt;0560&gt;Fortalecer controle corporativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1496]&lt;0561&gt;Endure Loss for Avoiding Layoff|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T205844Z" creationid="Olivier" creationdate="20200728T205844Z">
+        <seg>[1496]&lt;0561&gt;Aguentar perda por evitar layoff|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
