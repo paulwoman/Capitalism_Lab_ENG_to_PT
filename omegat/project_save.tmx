@@ -1943,6 +1943,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0715]&lt;FET1&gt;Building Types|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083931Z" creationid="Olivier" creationdate="20200728T083931Z">
+        <seg>[0715]&lt;FET1&gt;Tipos de construções|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0718]&lt;FET4&gt;Monthly:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083951Z" creationid="Olivier" creationdate="20200728T083951Z">
+        <seg>[0718]&lt;FET4&gt;Mensal:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0719]&lt;FET5&gt;Please select a location|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083954Z" creationid="Olivier" creationdate="20200728T083954Z">
+        <seg>[0719]&lt;FET5&gt;Favor, escolher um local|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0721]&lt;FET7&gt;Land cost: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083956Z" creationid="Olivier" creationdate="20200728T083956Z">
+        <seg>[0721]&lt;FET7&gt;Custo da terra: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0722]&lt;FET8&gt;The location is occupied by residential|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083959Z" creationid="Olivier" creationdate="20200728T083959Z">
+        <seg>[0722]&lt;FET8&gt;Local ocupado por residências.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0723]&lt;FET9&gt;buildings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084052Z" creationid="Olivier" creationdate="20200728T084052Z">
+        <seg>[0715]&lt;FET1&gt;Tipos de construções|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
