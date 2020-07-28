@@ -1199,6 +1199,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0584]&lt;AIG0&gt;Diversified|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082007Z" creationid="Olivier" creationdate="20200728T082007Z">
+        <seg>[0584]&lt;AIG0&gt;Diversificado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0585]&lt;AIG1&gt;Retail Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082019Z" creationid="Olivier" creationdate="20200728T082019Z">
+        <seg>[0585]&lt;AIG1&gt;Focado em varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0586]&lt;AIG2&gt;Stock Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082033Z" creationid="Olivier" creationdate="20200728T082033Z">
+        <seg>[0586]&lt;AIG2&gt;Focado em ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0587]&lt;AIG3&gt;Real Estate Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082048Z" creationid="Olivier" creationdate="20200728T082048Z">
+        <seg>[0587]&lt;AIG3&gt;Focado em real estate|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0588]&lt;AIS0&gt;All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082120Z" creationid="Olivier" creationdate="20200728T082120Z">
+        <seg>[0588]&lt;AIS0&gt;Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0589]&lt;AIS1&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082204Z" creationid="Olivier" creationdate="20200728T082204Z">
+        <seg>[0589]&lt;AIS1&gt;Varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0590]&lt;AIS2&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082244Z" creationid="Olivier" creationdate="20200728T082244Z">
+        <seg>[0590]&lt;AIS2&gt;Ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
