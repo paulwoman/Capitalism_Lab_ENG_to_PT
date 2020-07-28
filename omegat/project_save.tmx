@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freq.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085411Z" creationid="Olivier" creationdate="20200728T085411Z">
+        <seg>Ad..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062419Z" creationid="Olivier" creationdate="20200728T062419Z">
         <seg>Proceder?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spending|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085344Z" creationid="Olivier" creationdate="20200728T085344Z">
+        <seg> mensal com Ad|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3275,6 +3291,422 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085333Z" creationid="Olivier" creationdate="20200728T085333Z">
         <seg>[0929]&lt;0137&gt;Gasto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085404Z" creationid="Olivier" creationdate="20200728T085348Z">
+        <seg>[0930]&lt;0138&gt;Frequencia diária de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0931]&lt;0139&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085413Z" creationid="Olivier" creationdate="20200728T085413Z">
+        <seg>[0931]&lt;0139&gt;Pontos de audiência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0932]&lt;0140&gt;Sort By Product Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085414Z" creationid="Olivier" creationdate="20200728T085414Z">
+        <seg>[0932]&lt;0140&gt;Classificar por nome de produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0933]&lt;0141&gt;Sort By City Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085416Z" creationid="Olivier" creationdate="20200728T085416Z">
+        <seg>[0933]&lt;0141&gt;Classificar por nome de cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0934]&lt;0142&gt;Corporate Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085418Z" creationid="Olivier" creationdate="20200728T085418Z">
+        <seg>[0934]&lt;0142&gt;corporativa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0935]&lt;0143&gt;Range Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085420Z" creationid="Olivier" creationdate="20200728T085420Z">
+        <seg>[0935]&lt;0143&gt;de amplitude|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0936]&lt;0144&gt;Unique Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085421Z" creationid="Olivier" creationdate="20200728T085421Z">
+        <seg>[0936]&lt;0144&gt;única|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0937]&lt;0145&gt;A Single Brand Covers All Products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085422Z" creationid="Olivier" creationdate="20200728T085422Z">
+        <seg>[0937]&lt;0145&gt;Única marca cobre todos os produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0938]&lt;0146&gt;A Brand Covers a Range of Products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085424Z" creationid="Olivier" creationdate="20200728T085424Z">
+        <seg>[0938]&lt;0146&gt;Uma marca para cada tipo de produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0939]&lt;0147&gt;Each Product has a Unique Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085425Z" creationid="Olivier" creationdate="20200728T085425Z">
+        <seg>[0939]&lt;0147&gt;Cada produto tem uma marca única|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0940]&lt;0148&gt;Industry|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085426Z" creationid="Olivier" creationdate="20200728T085426Z">
+        <seg>[0940]&lt;0148&gt;Industria|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0941]&lt;0149&gt;Leader Market Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085427Z" creationid="Olivier" creationdate="20200728T085427Z">
+        <seg>[0941]&lt;0149&gt;Marketshare do líder|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0942]&lt;0150&gt;Market Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085428Z" creationid="Olivier" creationdate="20200728T085428Z">
+        <seg>[0942]&lt;0150&gt;Marketshare|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0944]&lt;0152&gt;Product Class|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085436Z" creationid="Olivier" creationdate="20200728T085436Z">
+        <seg>[0944]&lt;0152&gt;Classe do produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0945]&lt;0153&gt;Product Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085438Z" creationid="Olivier" creationdate="20200728T085438Z">
+        <seg>[0945]&lt;0153&gt;Nome do produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0949]&lt;0157&gt;With Market Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085439Z" creationid="Olivier" creationdate="20200728T085439Z">
+        <seg>[0949]&lt;0157&gt;Com Marketshare|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0950]&lt;0158&gt;Only Dominated|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085441Z" creationid="Olivier" creationdate="20200728T085441Z">
+        <seg>[0950]&lt;0158&gt;Somente dominados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0951]&lt;0159&gt;Description|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085442Z" creationid="Olivier" creationdate="20200728T085442Z">
+        <seg>[0951]&lt;0159&gt;Descrição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0952]&lt;0160&gt;Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085444Z" creationid="Olivier" creationdate="20200728T085444Z">
+        <seg>[0952]&lt;0160&gt;Valor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0954]&lt;0162&gt;Leader|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085451Z" creationid="Olivier" creationdate="20200728T085451Z">
+        <seg>[0954]&lt;0162&gt;Líder|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1007]&lt;0164&gt;Description|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085453Z" creationid="Olivier" creationdate="20200728T085453Z">
+        <seg>[1007]&lt;0164&gt;Descrição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1013]&lt;0170&gt;Operating Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085455Z" creationid="Olivier" creationdate="20200728T085455Z">
+        <seg>[1013]&lt;0170&gt;Lucro operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1015]&lt;0172&gt;Net Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085456Z" creationid="Olivier" creationdate="20200728T085456Z">
+        <seg>[1015]&lt;0172&gt;Lucro líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1016]&lt;0173&gt;Shareholders|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085517Z" creationid="Olivier" creationdate="20200728T085517Z">
+        <seg>[1016]&lt;0173&gt;Sharehders|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1017]&lt;0174&gt;Chart|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085519Z" creationid="Olivier" creationdate="20200728T085519Z">
+        <seg>[1017]&lt;0174&gt;Gráfico|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1021]&lt;0178&gt;Management|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085528Z" creationid="Olivier" creationdate="20200728T085528Z">
+        <seg>[1021]&lt;0178&gt;Gerência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1022]&lt;0179&gt;Strategy:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085529Z" creationid="Olivier" creationdate="20200728T085529Z">
+        <seg>[1022]&lt;0179&gt;Sttaxagia:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1024]&lt;0181&gt;Chairman and CEO|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085530Z" creationid="Olivier" creationdate="20200728T085530Z">
+        <seg>[1024]&lt;0181&gt;Presidente e CEO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1025]&lt;0182&gt;Chairman|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085532Z" creationid="Olivier" creationdate="20200728T085532Z">
+        <seg>[1025]&lt;0182&gt;Presidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1028]&lt;0185&gt;Financial Overview|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085539Z" creationid="Olivier" creationdate="20200728T085539Z">
+        <seg>[1028]&lt;0185&gt;Visão financeira|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1029]&lt;0186&gt;Stock Overview|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085541Z" creationid="Olivier" creationdate="20200728T085541Z">
+        <seg>[1029]&lt;0186&gt;Visão das ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1031]&lt;0188&gt;Private Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085542Z" creationid="Olivier" creationdate="20200728T085542Z">
+        <seg>[1031]&lt;0188&gt;Visão corporativa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1032]&lt;0189&gt;Firm Overview|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085543Z" creationid="Olivier" creationdate="20200728T085543Z">
+        <seg>[1032]&lt;0189&gt;Visão da firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1033]&lt;0190&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085545Z" creationid="Olivier" creationdate="20200728T085545Z">
+        <seg>[1033]&lt;0190&gt;Receita anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1034]&lt;0191&gt;Annual Gross Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085546Z" creationid="Olivier" creationdate="20200728T085546Z">
+        <seg>[1034]&lt;0191&gt;Lucro bruto anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1035]&lt;0192&gt;Production &amp; Retail|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085547Z" creationid="Olivier" creationdate="20200728T085547Z">
+        <seg>[1035]&lt;0192&gt;Produção e varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1036]&lt;0193&gt;Production|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085549Z" creationid="Olivier" creationdate="20200728T085549Z">
+        <seg>[1036]&lt;0193&gt;Produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1037]&lt;0194&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085550Z" creationid="Olivier" creationdate="20200728T085550Z">
+        <seg>[1037]&lt;0194&gt;Varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1039]&lt;0196&gt;Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085552Z" creationid="Olivier" creationdate="20200728T085552Z">
+        <seg>[1039]&lt;0196&gt;Receita|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1040]&lt;0197&gt;Operating Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085554Z" creationid="Olivier" creationdate="20200728T085554Z">
+        <seg>[1040]&lt;0197&gt;Lucro operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1041]&lt;0198&gt;Net Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085556Z" creationid="Olivier" creationdate="20200728T085556Z">
+        <seg>[1041]&lt;0198&gt;Lucro líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1042]&lt;0199&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085558Z" creationid="Olivier" creationdate="20200728T085558Z">
+        <seg>[1042]&lt;0199&gt;Valor líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1043]&lt;0200&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085559Z" creationid="Olivier" creationdate="20200728T085559Z">
+        <seg>[1043]&lt;0200&gt;Preço da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1044]&lt;0201&gt;Past 30 Years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085601Z" creationid="Olivier" creationdate="20200728T085601Z">
+        <seg>[1044]&lt;0201&gt;Últimos 30 anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1046]&lt;0203&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085602Z" creationid="Olivier" creationdate="20200728T085602Z">
+        <seg>[1046]&lt;0203&gt;Caixa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1047]&lt;0204&gt;Inventory|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085603Z" creationid="Olivier" creationdate="20200728T085603Z">
+        <seg>[1047]&lt;0204&gt;inventário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1048]&lt;0205&gt;Business Assets|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085605Z" creationid="Olivier" creationdate="20200728T085605Z">
+        <seg>[1048]&lt;0205&gt;Ativos do negócio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1049]&lt;0206&gt;Land &amp; Resource|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085606Z" creationid="Olivier" creationdate="20200728T085606Z">
+        <seg>[1049]&lt;0206&gt;Terra e recursos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1050]&lt;0207&gt;Stock Assets|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085608Z" creationid="Olivier" creationdate="20200728T085608Z">
+        <seg>[1050]&lt;0207&gt;Ativos acionários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1051]&lt;0208&gt;Total Loans|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085609Z" creationid="Olivier" creationdate="20200728T085609Z">
+        <seg>[1051]&lt;0208&gt;Empréstimos totais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1052]&lt;0209&gt;Dividend Paid|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085613Z" creationid="Olivier" creationdate="20200728T085613Z">
+        <seg>[1052]&lt;0209&gt;dividendos pagos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1053]&lt;0210&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085615Z" creationid="Olivier" creationdate="20200728T085615Z">
+        <seg>[1053]&lt;0210&gt;Retorno da ação|</seg>
       </tuv>
     </tu>
     <tu>
