@@ -4951,6 +4951,246 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1309]&lt;AC05&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095109Z" creationid="Olivier" creationdate="20200728T095109Z">
+        <seg>[1309]&lt;AC05&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1310]&lt;AC06&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095112Z" creationid="Olivier" creationdate="20200728T095112Z">
+        <seg>[1310]&lt;AC06&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1311]&lt;AC07&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095113Z" creationid="Olivier" creationdate="20200728T095113Z">
+        <seg>[1311]&lt;AC07&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1312]&lt;AD00&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095115Z" creationid="Olivier" creationdate="20200728T095115Z">
+        <seg>[1312]&lt;AD00&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1313]&lt;AD01&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095117Z" creationid="Olivier" creationdate="20200728T095117Z">
+        <seg>[1313]&lt;AD01&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1314]&lt;AD02&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095118Z" creationid="Olivier" creationdate="20200728T095118Z">
+        <seg>[1314]&lt;AD02&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1315]&lt;AD03&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095119Z" creationid="Olivier" creationdate="20200728T095119Z">
+        <seg>[1315]&lt;AD03&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1316]&lt;AE00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095135Z" creationid="Olivier" creationdate="20200728T095135Z">
+        <seg>[1316]&lt;AE00&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1317]&lt;AE01&gt;Purchase Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095155Z" creationid="Olivier" creationdate="20200728T095136Z">
+        <seg>[1317]&lt;AE01&gt;Custo compra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1318]&lt;AE02&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095137Z" creationid="Olivier" creationdate="20200728T095137Z">
+        <seg>[1318]&lt;AE02&gt;Custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1319]&lt;AE03&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095201Z" creationid="Olivier" creationdate="20200728T095201Z">
+        <seg>[1319]&lt;AE03&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1320]&lt;AE04&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095206Z" creationid="Olivier" creationdate="20200728T095206Z">
+        <seg>[1320]&lt;AE04&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095207Z" creationid="Olivier" creationdate="20200728T095207Z">
+        <seg>[1321]&lt;AE05&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1322]&lt;AE06&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095208Z" creationid="Olivier" creationdate="20200728T095208Z">
+        <seg>[1322]&lt;AE06&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1323]&lt;AE07&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095209Z" creationid="Olivier" creationdate="20200728T095209Z">
+        <seg>[1323]&lt;AE07&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1324]&lt;AF00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095210Z" creationid="Olivier" creationdate="20200728T095210Z">
+        <seg>[1324]&lt;AF00&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1325]&lt;AF01&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095210Z" creationid="Olivier" creationdate="20200728T095210Z">
+        <seg>[1325]&lt;AF01&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1326]&lt;AF02&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095210Z" creationid="Olivier" creationdate="20200728T095210Z">
+        <seg>[1326]&lt;AF02&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095211Z" creationid="Olivier" creationdate="20200728T095211Z">
+        <seg>[1327]&lt;AF03&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1328]&lt;AF04&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095212Z" creationid="Olivier" creationdate="20200728T095212Z">
+        <seg>[1328]&lt;AF04&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1329]&lt;AF05&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095213Z" creationid="Olivier" creationdate="20200728T095213Z">
+        <seg>[1329]&lt;AF05&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1330]&lt;AG00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095213Z" creationid="Olivier" creationdate="20200728T095213Z">
+        <seg>[1330]&lt;AG00&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095242Z" creationid="Olivier" creationdate="20200728T095242Z">
+        <seg>[1331]&lt;AG01&gt;Consumption de Reserva|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095217Z" creationid="Olivier" creationdate="20200728T095217Z">
+        <seg>[1332]&lt;AG02&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1333]&lt;AG03&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095245Z" creationid="Olivier" creationdate="20200728T095245Z">
+        <seg>[1333]&lt;AG03&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095247Z" creationid="Olivier" creationdate="20200728T095247Z">
+        <seg>[1334]&lt;AG04&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1335]&lt;AG05&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095247Z" creationid="Olivier" creationdate="20200728T095247Z">
+        <seg>[1335]&lt;AG05&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1336]&lt;AG06&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095248Z" creationid="Olivier" creationdate="20200728T095248Z">
+        <seg>[1336]&lt;AG06&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1347]&lt;0412&gt;Summary|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095326Z" creationid="Olivier" creationdate="20200728T095326Z">
+        <seg>[1347]&lt;0412&gt;Sumário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1348]&lt;0413&gt;Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095340Z" creationid="Olivier" creationdate="20200728T095340Z">
+        <seg>[1348]&lt;0413&gt;Riqueza|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
