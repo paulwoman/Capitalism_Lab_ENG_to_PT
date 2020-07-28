@@ -983,6 +983,214 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0553]&lt;FIN1&gt;Switch Brand Strategy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081354Z" creationid="Olivier" creationdate="20200728T081354Z">
+        <seg>[0553]&lt;FIN1&gt;Trocar estratégia de marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0554]&lt;FIN2&gt;When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081408Z" creationid="Olivier" creationdate="20200728T081408Z">
+        <seg>[0554]&lt;FIN2&gt;Quando trocar sua estratégia de marca, todos os seus índices de marca resetarão para zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0555]&lt;FIN3&gt;Employment Termination|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081412Z" creationid="Olivier" creationdate="20200728T081412Z">
+        <seg>[0555]&lt;FIN3&gt;Terminar contratação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0556]&lt;FIN4&gt;Employment rejected|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081415Z" creationid="Olivier" creationdate="20200728T081415Z">
+        <seg>[0556]&lt;FIN4&gt;Rejeitar contratação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0557]&lt;FIN5&gt;Employment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081417Z" creationid="Olivier" creationdate="20200728T081417Z">
+        <seg>[0557]&lt;FIN5&gt;Contratação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081420Z" creationid="Olivier" creationdate="20200728T081420Z">
+        <seg>[0558]&lt;FIN6&gt;Politica de contratação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0559]&lt;FIN7&gt;Cannot purchase the stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081422Z" creationid="Olivier" creationdate="20200728T081422Z">
+        <seg>[0559]&lt;FIN7&gt;Não é possível comprar ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0560]&lt;FIN8&gt;Issue New Shares|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081424Z" creationid="Olivier" creationdate="20200728T081424Z">
+        <seg>[0560]&lt;FIN8&gt;Emitir Novo ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0562]&lt;FMN1&gt;Mansion Demolish|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081429Z" creationid="Olivier" creationdate="20200728T081429Z">
+        <seg>[0562]&lt;FMN1&gt;Demolir mansão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0564]&lt;FM21&gt;Change Group Manager|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081432Z" creationid="Olivier" creationdate="20200728T081432Z">
+        <seg>[0564]&lt;FM21&gt;Mudar gerente do grupo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0567]&lt;GAM1&gt;GOAL|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081447Z" creationid="Olivier" creationdate="20200728T081447Z">
+        <seg>[0567]&lt;GAM1&gt;OBJECTIVO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0568]&lt;GME1&gt;Lost Ownership|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081454Z" creationid="Olivier" creationdate="20200728T081454Z">
+        <seg>[0568]&lt;GME1&gt;Perdeu posse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0569]&lt;GP21&gt;Stock Exchange News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081457Z" creationid="Olivier" creationdate="20200728T081457Z">
+        <seg>[0569]&lt;GP21&gt;Novidades sobre ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0570]&lt;JMF1&gt;Upgrade Production Technology|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081501Z" creationid="Olivier" creationdate="20200728T081501Z">
+        <seg>[0570]&lt;JMF1&gt;Melhorar tecnologia de produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0571]&lt;JMF2&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081503Z" creationid="Olivier" creationdate="20200728T081503Z">
+        <seg>[0571]&lt;JMF2&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0572]&lt;JMF3&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081505Z" creationid="Olivier" creationdate="20200728T081505Z">
+        <seg>[0572]&lt;JMF3&gt;Nâo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0573]&lt;NGO1&gt;Cannot purchase the mansion|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081508Z" creationid="Olivier" creationdate="20200728T081508Z">
+        <seg>[0573]&lt;NGO1&gt;Não é possivel comprar a Mansão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0574]&lt;NGO2&gt;Cannot purchase the firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081511Z" creationid="Olivier" creationdate="20200728T081511Z">
+        <seg>[0574]&lt;NGO2&gt;Não é possivel comprar a firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0575]&lt;NGO3&gt;Cannot purchase the technology|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081514Z" creationid="Olivier" creationdate="20200728T081514Z">
+        <seg>[0575]&lt;NGO3&gt;Não é possivel comprar a tecnologia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0576]&lt;PR31&gt;Salary Raise Request|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081516Z" creationid="Olivier" creationdate="20200728T081516Z">
+        <seg>[0576]&lt;PR31&gt;Pedido de aumento de salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0577]&lt;PLB1&gt;Layout Plan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081525Z" creationid="Olivier" creationdate="20200728T081525Z">
+        <seg>[0577]&lt;PLB1&gt;Plano de layout|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0578]&lt;PLB2&gt;The highlighted firm doesn't have a layout.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081545Z" creationid="Olivier" creationdate="20200728T081545Z">
+        <seg>[0578]&lt;PLB2&gt;a firma selecionada não tem layout.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0579]&lt;PLB3&gt;The firm type of the current plan is different from that of the highlighted firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081549Z" creationid="Olivier" creationdate="20200728T081549Z">
+        <seg>[0579]&lt;PLB3&gt;O plano da firma é diferente da usada pela firma selecionada.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0580]&lt;SK21&gt;Stock Exchange News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081552Z" creationid="Olivier" creationdate="20200728T081552Z">
+        <seg>[0580]&lt;SK21&gt;Novidades sobre ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0581]&lt;SK51&gt;Tender Offer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081554Z" creationid="Olivier" creationdate="20200728T081554Z">
+        <seg>[0581]&lt;SK51&gt;Oferta agressiva|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0582]&lt;SYD1&gt;CHEAT ENABLE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081604Z" creationid="Olivier" creationdate="20200728T081604Z">
+        <seg>[0582]&lt;SYD1&gt;TRAPAÇAS HABILITADAS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
