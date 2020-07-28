@@ -1,0 +1,48 @@
+All	Tudo
+Retail	Varejo
+Supplier	Suprimento
+Cidade	Cidade
+Distance	Distancia
+Price	Preço
+Freight Cost	Custo de frete
+Supply	Suprimento
+Demand	Demanda
+Seaports	Portos maritimos
+Quality	Qualid
+Brand	Marca
+OVERALL	GERAL
+Media	Mídia
+Rating Points	Pts. audiência
+Treinamento	Training
+Write-offs	Depreciação
+Salaries Expense	Despesas de salários
+Operating Overhead	Custos fixos operacionais
+Advertising & PR Expense	Advertising e relações públicas
+Training	Treinamento
+Monthly Interest	Juros mensais
+Borrow	Empréstimo
+Repay	Reembolso
+Building Types	Tipos de construções
+buildings	construções
+Land Cost|	Custo de terra
+Cost	Custo
+Employees	empregados
+total	para
+TV Broadcast	Emissão de TV
+Radio Broadcast	Emissão de rádio
+Description	Descrição
+Market Value	Valor mercado
+Has Trade Sales	Vendas
+Has Retail Sales	Somente varejo
+Consumer Goods	Bens consumo
+Sales Revenue	Receita de vendas
+Industrial Goods	Bens Industriais
+Consumption of Reserve	Consumption de Reserva
+Summary	Sumário
+Wealth	Riqueza
+Career	Carreira
+Personality	Personalidade
+Expertise	Expertise
+Corporate Balance Sheet	Balanço da corporação
+TARGET	META
+CURRENT	ATUAL
