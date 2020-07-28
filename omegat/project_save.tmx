@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>[BOX2]Cancel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
+        <seg>[BOX2]Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T054706Z" creationid="Olivier" creationdate="20200728T054706Z">
@@ -42,6 +50,78 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T054902Z" creationid="Olivier" creationdate="20200728T054902Z">
         <seg>[MON4]Abril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON5]May</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055044Z" creationid="Olivier" creationdate="20200728T055044Z">
+        <seg>[MON5]Maio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON6]June</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055046Z" creationid="Olivier" creationdate="20200728T055046Z">
+        <seg>[MON6]Junho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON7]July</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055047Z" creationid="Olivier" creationdate="20200728T055047Z">
+        <seg>[MON7]Julho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON8]August</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055048Z" creationid="Olivier" creationdate="20200728T055048Z">
+        <seg>[MON8]Agosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON9]September</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055050Z" creationid="Olivier" creationdate="20200728T055050Z">
+        <seg>[MON9]Setembro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONA]October</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055051Z" creationid="Olivier" creationdate="20200728T055051Z">
+        <seg>[MONA]Outubro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONB]November</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055053Z" creationid="Olivier" creationdate="20200728T055053Z">
+        <seg>[MONB]Novembro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONC]December</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055054Z" creationid="Olivier" creationdate="20200728T055054Z">
+        <seg>[MONC]Dezembro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
