@@ -1335,6 +1335,126 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0614]&lt;DIJ9&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083022Z" creationid="Olivier" creationdate="20200728T083022Z">
+        <seg>[0614]&lt;DIJ9&gt;Qualid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0615]&lt;DI10&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083036Z" creationid="Olivier" creationdate="20200728T083036Z">
+        <seg>[0615]&lt;DI10&gt;Marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0616]&lt;DI11&gt;OVERALL|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083058Z" creationid="Olivier" creationdate="20200728T083058Z">
+        <seg>[0616]&lt;DI11&gt;GERAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0617]&lt;DI12&gt;SELECT SUPPLIER|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083105Z" creationid="Olivier" creationdate="20200728T083105Z">
+        <seg>[0617]&lt;DI12&gt;SELECIONAR FABRICANTE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0619]&lt;DI14&gt;Select Building Location|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083108Z" creationid="Olivier" creationdate="20200728T083108Z">
+        <seg>[0619]&lt;DI14&gt;Selecionar local do prédio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0620]&lt;DI15&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083110Z" creationid="Olivier" creationdate="20200728T083110Z">
+        <seg>[0620]&lt;DI15&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0622]&lt;DI17&gt;CLIENT LIST|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083114Z" creationid="Olivier" creationdate="20200728T083114Z">
+        <seg>[0622]&lt;DI17&gt;LISTA DE CLIENTES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0624]&lt;DI19&gt;SELECT ADVERTISING MEDIA|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083117Z" creationid="Olivier" creationdate="20200728T083117Z">
+        <seg>[0624]&lt;DI19&gt;SELECIONAR MÍDIA DE ADVERTISING|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0625]&lt;DI20&gt;Go to Media|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083120Z" creationid="Olivier" creationdate="20200728T083120Z">
+        <seg>[0625]&lt;DI20&gt;Ir para mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0626]&lt;DI21&gt;All products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083122Z" creationid="Olivier" creationdate="20200728T083122Z">
+        <seg>[0626]&lt;DI21&gt;Todos os produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0627]&lt;DI22&gt;All cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083134Z" creationid="Olivier" creationdate="20200728T083134Z">
+        <seg>[0627]&lt;DI22&gt;Tudo cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0628]&lt;DI23&gt;All suppliers|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083139Z" creationid="Olivier" creationdate="20200728T083139Z">
+        <seg>[0628]&lt;DI23&gt;Todos os fornecedores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0629]&lt;DI24&gt;Client|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083142Z" creationid="Olivier" creationdate="20200728T083142Z">
+        <seg>[0629]&lt;DI24&gt;Cliente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0630]&lt;DI25&gt;Media|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083154Z" creationid="Olivier" creationdate="20200728T083154Z">
+        <seg>[0630]&lt;DI25&gt;Mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0631]&lt;DI26&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083215Z" creationid="Olivier" creationdate="20200728T083215Z">
+        <seg>[0631]&lt;DI26&gt;Pts. audiência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
