@@ -3711,6 +3711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1054]&lt;0211&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085618Z" creationid="Olivier" creationdate="20200728T085618Z">
+        <seg>[1054]&lt;0211&gt;Gastos com salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
