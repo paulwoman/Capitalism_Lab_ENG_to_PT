@@ -5303,10 +5303,154 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180518Z" creationid="Olivier" creationdate="20200728T180518Z">
+        <seg>[1363]&lt;0428&gt;Relatório de pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180345Z" creationid="Olivier" creationdate="20200728T180345Z">
         <seg>[1364]&lt;0429&gt;Personal Riqueza|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1365]&lt;0430&gt;Value of Companies Controlled by You|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180530Z" creationid="Olivier" creationdate="20200728T180530Z">
+        <seg>[1365]&lt;0430&gt;valor companhias controladas por você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1366]&lt;0431&gt;Dominated Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180539Z" creationid="Olivier" creationdate="20200728T180539Z">
+        <seg>[1366]&lt;0431&gt;Industrias dominados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1367]&lt;0432&gt;Dominated Products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180548Z" creationid="Olivier" creationdate="20200728T180548Z">
+        <seg>[1367]&lt;0432&gt;Produtos dominados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1370]&lt;0435&gt; Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180558Z" creationid="Olivier" creationdate="20200728T180558Z">
+        <seg>[1370]&lt;0435&gt; Pontos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180602Z" creationid="Olivier" creationdate="20200728T180602Z">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180605Z" creationid="Olivier" creationdate="20200728T180605Z">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1374]&lt;0439&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180616Z" creationid="Olivier" creationdate="20200728T180616Z">
+        <seg>[1374]&lt;0439&gt;Pontuação Total: -1 (Você habilitou o modo trapaça)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1375]&lt;0440&gt;Total Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180626Z" creationid="Olivier" creationdate="20200728T180626Z">
+        <seg>[1375]&lt;0440&gt;Pontuação Total:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1376]&lt;0441&gt; x |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180629Z" creationid="Olivier" creationdate="20200728T180629Z">
+        <seg>[1376]&lt;0441&gt; x |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1377]&lt;0442&gt; (Difficulty)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180640Z" creationid="Olivier" creationdate="20200728T180640Z">
+        <seg>[1377]&lt;0442&gt; (Dificuldade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1379]&lt;0444&gt; (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180648Z" creationid="Olivier" creationdate="20200728T180648Z">
+        <seg>[1379]&lt;0444&gt; (objetivo Bonus) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1380]&lt;0445&gt; x 2 (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180658Z" creationid="Olivier" creationdate="20200728T180658Z">
+        <seg>[1380]&lt;0445&gt; x 2 (objetivo Bonus) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1381]&lt;0446&gt; =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180703Z" creationid="Olivier" creationdate="20200728T180703Z">
+        <seg>[1381]&lt;0446&gt; =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1382]&lt;0447&gt; (Years)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180714Z" creationid="Olivier" creationdate="20200728T180714Z">
+        <seg>[1382]&lt;0447&gt; (Anos)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1383]&lt;0448&gt; x 2 (Goal Bonus)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180722Z" creationid="Olivier" creationdate="20200728T180722Z">
+        <seg>[1383]&lt;0448&gt; x 2 (objetivo Bonus)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1386]&lt;0451&gt;MORE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180735Z" creationid="Olivier" creationdate="20200728T180735Z">
+        <seg>[1386]&lt;0451&gt;MAIS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1387]&lt;0452&gt; million|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180744Z" creationid="Olivier" creationdate="20200728T180744Z">
+        <seg>[1387]&lt;0452&gt; milhão|</seg>
       </tuv>
     </tu>
     <tu>
