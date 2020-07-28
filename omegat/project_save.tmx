@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>It was saved with a different version of Capitalism.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
+        <seg>Foi salvo com uma versão diferente do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060254Z" creationid="Olivier" creationdate="20200728T060254Z">
@@ -355,6 +363,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060418Z" creationid="Olivier" creationdate="20200728T060418Z">
         <seg>[0168]&lt;LE_P&gt;Erro ao carregar jogo salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0169]&lt;LE_G&gt;Load game error|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060429Z" creationid="Olivier" creationdate="20200728T060429Z">
+        <seg>[0169]&lt;LE_G&gt;Erro ao carregar jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0170]&lt;SE_C&gt;Error creating save game file.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060432Z" creationid="Olivier" creationdate="20200728T060432Z">
+        <seg>[0170]&lt;SE_C&gt;Erro ao criar arquivo de jogo salvo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0171]&lt;SE_H&gt;Error creating save game header.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060436Z" creationid="Olivier" creationdate="20200728T060436Z">
+        <seg>[0171]&lt;SE_H&gt;Erro ao criar leitor de arquivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0172]&lt;SE_G&gt;Error writing save game data.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060438Z" creationid="Olivier" creationdate="20200728T060438Z">
+        <seg>[0172]&lt;SE_G&gt;Erro ao escrever dados do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0174]&lt;LOB?&gt;Cannot connect to lobby|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061854Z" creationid="Olivier" creationdate="20200728T061854Z">
+        <seg>[0174]&lt;LOB?&gt;Erro ao conectar ao lobby|</seg>
       </tuv>
     </tu>
     <tu>
