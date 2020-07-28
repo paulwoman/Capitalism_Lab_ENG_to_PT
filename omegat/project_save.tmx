@@ -4881,8 +4881,72 @@
       <tuv lang="en-US">
         <seg>[1300]&lt;AA02&gt;Has Retail Sales|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094654Z" creationid="Olivier" creationdate="20200728T094654Z">
-        <seg>[1300]&lt;AA02&gt;Has Varejo Sales|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094758Z" creationid="Olivier" creationdate="20200728T094758Z">
+        <seg>[1300]&lt;AA02&gt;Somente varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1301]&lt;AB00&gt;All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094752Z" creationid="Olivier" creationdate="20200728T094752Z">
+        <seg>[1301]&lt;AB00&gt;Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1302]&lt;AB01&gt;Consumer Goods|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094839Z" creationid="Olivier" creationdate="20200728T094839Z">
+        <seg>[1302]&lt;AB01&gt;Bens consumo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1303]&lt;AB02&gt;Industrial Goods|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094948Z" creationid="Olivier" creationdate="20200728T094948Z">
+        <seg>[1303]&lt;AB02&gt;Bens Industriais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1304]&lt;AC00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094921Z" creationid="Olivier" creationdate="20200728T094921Z">
+        <seg>[1304]&lt;AC00&gt;Receita de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1305]&lt;AC01&gt;Raw Material Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095032Z" creationid="Olivier" creationdate="20200728T094901Z">
+        <seg>[1305]&lt;AC01&gt;Custo da matéria-prima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1306]&lt;AC02&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095035Z" creationid="Olivier" creationdate="20200728T095035Z">
+        <seg>[1306]&lt;AC02&gt;Custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1307]&lt;AC03&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095037Z" creationid="Olivier" creationdate="20200728T095037Z">
+        <seg>[1307]&lt;AC03&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1308]&lt;AC04&gt;Factory Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095058Z" creationid="Olivier" creationdate="20200728T095058Z">
+        <seg>[1308]&lt;AC04&gt;Custos fixos de produção|</seg>
       </tuv>
     </tu>
     <tu>
