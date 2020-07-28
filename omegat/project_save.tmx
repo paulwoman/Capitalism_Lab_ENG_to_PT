@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062419Z" creationid="Olivier" creationdate="20200728T062419Z">
+        <seg>Proceder?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060347Z" creationid="Olivier" creationdate="20200728T060347Z">
@@ -587,6 +595,310 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062158Z" creationid="Olivier" creationdate="20200728T062158Z">
         <seg>[0327]&lt;SCAP&gt;Seu capital inicial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0329]&lt;ALLS&gt;Stock Market|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062221Z" creationid="Olivier" creationdate="20200728T062221Z">
+        <seg>[0329]&lt;ALLS&gt;ação Market|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0341]&lt;NCOM&gt;Number of Competitors|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062227Z" creationid="Olivier" creationdate="20200728T062227Z">
+        <seg>[0341]&lt;NCOM&gt;Número de competidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0342]&lt;CCAP&gt;Competitor Start-up Capital|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062229Z" creationid="Olivier" creationdate="20200728T062229Z">
+        <seg>[0342]&lt;CCAP&gt;Capital inicial dos competidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062233Z" creationid="Olivier" creationdate="20200728T062233Z">
+        <seg>[0343]&lt;CAGG&gt;Agressividade do competidor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0344]&lt;COML&gt;AI Expertise Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062237Z" creationid="Olivier" creationdate="20200728T062237Z">
+        <seg>[0344]&lt;COML&gt;Nível de expertise dos competidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062240Z" creationid="Olivier" creationdate="20200728T062240Z">
+        <seg>[0346]&lt;CSEC&gt;Mostrar segredos de companhias concorrentes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0347]&lt;CCOM&gt;Competence of Local Competitors|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062243Z" creationid="Olivier" creationdate="20200728T062243Z">
+        <seg>[0347]&lt;CCOM&gt;Competência dos competidores locais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0348]&lt;CSEA&gt;Seaports Importing Consumer Goods per City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062246Z" creationid="Olivier" creationdate="20200728T062246Z">
+        <seg>[0348]&lt;CSEA&gt;Número de portos importando bens de consumo por cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062253Z" creationid="Olivier" creationdate="20200728T062253Z">
+        <seg>[0349]&lt;ISEA&gt;Número de portos importando bens industriais por cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0351]&lt;ISUP&gt;Constant Import Supply|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062255Z" creationid="Olivier" creationdate="20200728T062255Z">
+        <seg>[0351]&lt;ISUP&gt;Importação constante|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0352]&lt;IQUA&gt;Import Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062257Z" creationid="Olivier" creationdate="20200728T062257Z">
+        <seg>[0352]&lt;IQUA&gt;Qualid. das importações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0460]&lt;CCTI&gt;Macro Economy Realism|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062302Z" creationid="Olivier" creationdate="20200728T062302Z">
+        <seg>[0460]&lt;CCTI&gt;Realismo macroeconômico|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0462]&lt;DSMI&gt;Retail Store Type|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062305Z" creationid="Olivier" creationdate="20200728T062305Z">
+        <seg>[0462]&lt;DSMI&gt;Tipos de loja de varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0463]&lt;DSM1&gt;Many|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062309Z" creationid="Olivier" creationdate="20200728T062309Z">
+        <seg>[0463]&lt;DSM1&gt;Muito|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0464]&lt;DSM2&gt;One|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062313Z" creationid="Olivier" creationdate="20200728T062313Z">
+        <seg>[0464]&lt;DSM2&gt;Um|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0467]&lt;GSYI&gt;Game Starting Year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062316Z" creationid="Olivier" creationdate="20200728T062316Z">
+        <seg>[0467]&lt;GSYI&gt;Ano inicial do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062319Z" creationid="Olivier" creationdate="20200728T062319Z">
+        <seg>[0504]&lt;aiG1&gt;Estratégia falhou, não foi possível encontrar local para construir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062322Z" creationid="Olivier" creationdate="20200728T062322Z">
+        <seg>[0505]&lt;GP41&gt;Declarar falência. TEM CERTEZA?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0506]&lt;GP42&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062326Z" creationid="Olivier" creationdate="20200728T062326Z">
+        <seg>[0506]&lt;GP42&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0507]&lt;GP43&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062329Z" creationid="Olivier" creationdate="20200728T062329Z">
+        <seg>[0507]&lt;GP43&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0508]&lt;IGM1&gt;Do you really want to retire?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062332Z" creationid="Olivier" creationdate="20200728T062332Z">
+        <seg>[0508]&lt;IGM1&gt;Você quer realmente se aposentar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0509]&lt;IGM2&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062334Z" creationid="Olivier" creationdate="20200728T062334Z">
+        <seg>[0509]&lt;IGM2&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0510]&lt;IGM3&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062336Z" creationid="Olivier" creationdate="20200728T062336Z">
+        <seg>[0510]&lt;IGM3&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0511]&lt;IGM4&gt;Do you really want to quit to the Main Menu?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062340Z" creationid="Olivier" creationdate="20200728T062340Z">
+        <seg>[0511]&lt;IGM4&gt;Você realmente quer sair para o menu principal?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0512]&lt;IGM5&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062341Z" creationid="Olivier" creationdate="20200728T062341Z">
+        <seg>[0512]&lt;IGM5&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0513]&lt;IGM6&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062343Z" creationid="Olivier" creationdate="20200728T062343Z">
+        <seg>[0513]&lt;IGM6&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0514]&lt;IGM7&gt;Do you really want to quit to Windows?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062346Z" creationid="Olivier" creationdate="20200728T062346Z">
+        <seg>[0514]&lt;IGM7&gt;Você realmente quer sair para o Windows?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0515]&lt;IGM8&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062348Z" creationid="Olivier" creationdate="20200728T062348Z">
+        <seg>[0515]&lt;IGM8&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0516]&lt;IGM9&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062349Z" creationid="Olivier" creationdate="20200728T062349Z">
+        <seg>[0516]&lt;IGM9&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0517]&lt;PR31&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062351Z" creationid="Olivier" creationdate="20200728T062351Z">
+        <seg>[0517]&lt;PR31&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0518]&lt;PR32&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062354Z" creationid="Olivier" creationdate="20200728T062354Z">
+        <seg>[0518]&lt;PR32&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062411Z" creationid="Olivier" creationdate="20200728T062358Z">
+        <seg>[0519]&lt;PLB1&gt;O plano vai substituir o layout existente da firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0520]&lt;PLB2&gt;Delete the current plan, confirm ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062422Z" creationid="Olivier" creationdate="20200728T062422Z">
+        <seg>[0520]&lt;PLB2&gt;Deletar a atual plan, confirma ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0521]&lt;PLB3&gt;Replace the current plan with the highlighted firm's plan, confirm ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062427Z" creationid="Olivier" creationdate="20200728T062427Z">
+        <seg>[0521]&lt;PLB3&gt;Substituir a atual plan with a highlighted firma's plan, confirma ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0522]&lt;STK1&gt;Sorry, you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062429Z" creationid="Olivier" creationdate="20200728T062429Z">
+        <seg>[0522]&lt;STK1&gt;desculpe, Você não tem caixa suficiente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0536]&lt;CHE1&gt;Wrong Firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062510Z" creationid="Olivier" creationdate="20200728T062510Z">
+        <seg>[0536]&lt;CHE1&gt;firma errada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0537]&lt;CHE2&gt;Firm can not be taken by player!!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062514Z" creationid="Olivier" creationdate="20200728T062514Z">
+        <seg>[0537]&lt;CHE2&gt;firma can not be taken by jogador!!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0539]&lt;FAP2&gt;Null|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062518Z" creationid="Olivier" creationdate="20200728T062518Z">
+        <seg>[0539]&lt;FAP2&gt;Nulo|</seg>
       </tuv>
     </tu>
     <tu>
