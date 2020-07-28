@@ -6,6 +6,166 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>[0011]&lt;QUIT&gt;Quit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055306Z" creationid="Olivier" creationdate="20200728T055306Z">
+        <seg>[0011]&lt;QUIT&gt;Sair|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0012]&lt;TRAN&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055312Z" creationid="Olivier" creationdate="20200728T055312Z">
+        <seg>[0012]&lt;TRAN&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0017]&lt;CANC&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055317Z" creationid="Olivier" creationdate="20200728T055317Z">
+        <seg>[0017]&lt;CANC&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0019]&lt;NEWP&gt;New Player|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055320Z" creationid="Olivier" creationdate="20200728T055320Z">
+        <seg>[0019]&lt;NEWP&gt;Novo jogador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0020]&lt;DELP&gt;Delete|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055323Z" creationid="Olivier" creationdate="20200728T055323Z">
+        <seg>[0020]&lt;DELP&gt;Deletar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0021]&lt;SELP&gt;Continue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055328Z" creationid="Olivier" creationdate="20200728T055328Z">
+        <seg>[0021]&lt;SELP&gt;Continuar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0022]&lt;PRF1&gt;Please select your name from this list|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055330Z" creationid="Olivier" creationdate="20200728T055330Z">
+        <seg>[0022]&lt;PRF1&gt;Favor, selecionar seu nome desta lista|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055333Z" creationid="Olivier" creationdate="20200728T055333Z">
+        <seg>[0023]&lt;PRF2&gt;Se seu nome não estar aqui, selecione "novo jogador" abaixo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055335Z" creationid="Olivier" creationdate="20200728T055335Z">
+        <seg>[0024]&lt;PRFN&gt;Favor, digite seu nome|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055337Z" creationid="Olivier" creationdate="20200728T055337Z">
+        <seg>[0025]&lt;PRFD&gt;Quer mesmo deletar essa pessoa da lista?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0026]&lt;PRDY&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055343Z" creationid="Olivier" creationdate="20200728T055343Z">
+        <seg>[0026]&lt;PRDY&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0027]&lt;PRDN&gt;No|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055346Z" creationid="Olivier" creationdate="20200728T055346Z">
+        <seg>[0027]&lt;PRDN&gt;Não|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055358Z" creationid="Olivier" creationdate="20200728T055358Z">
+        <seg>[0028]&lt;PRED&gt;perfil já criado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0029]&lt;PREI&gt;Error creating %1s directory|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055403Z" creationid="Olivier" creationdate="20200728T055403Z">
+        <seg>[0029]&lt;PREI&gt;Erro ao criar diretório %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0030]&lt;PREC&gt;Error creating profile|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055406Z" creationid="Olivier" creationdate="20200728T055406Z">
+        <seg>[0030]&lt;PREC&gt;Erro ao criar perfil|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0038]&lt;NAH_&gt;Human|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055408Z" creationid="Olivier" creationdate="20200728T055408Z">
+        <seg>[0038]&lt;NAH_&gt;Humano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0040]&lt;DIFF&gt;Difficulty Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055414Z" creationid="Olivier" creationdate="20200728T055414Z">
+        <seg>[0040]&lt;DIFF&gt;Dificuldade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0092]&lt;RNDE&gt;Random Events|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055417Z" creationid="Olivier" creationdate="20200728T055417Z">
+        <seg>[0092]&lt;RNDE&gt;Eventos aleatórios|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0118]&lt;RFU0&gt;The host refuses you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055420Z" creationid="Olivier" creationdate="20200728T055420Z">
+        <seg>[0118]&lt;RFU0&gt;O anfitrião recusou Você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0119]&lt;RFU1&gt;Cannot join a new game session|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055422Z" creationid="Olivier" creationdate="20200728T055422Z">
+        <seg>[0119]&lt;RFU1&gt;Não foi possivel entrar em uma nova sessão de jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
