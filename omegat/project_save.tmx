@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may acquire them for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084238Z" creationid="Olivier" creationdate="20200728T084227Z">
+        <seg>Você pode adquirir por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0011]&lt;QUIT&gt;Quit|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055306Z" creationid="Olivier" creationdate="20200728T055306Z">
@@ -1985,8 +1993,192 @@
       <tuv lang="en-US">
         <seg>[0723]&lt;FET9&gt;buildings.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084052Z" creationid="Olivier" creationdate="20200728T084052Z">
-        <seg>[0715]&lt;FET1&gt;Tipos de construções|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084230Z" creationid="Olivier" creationdate="20200728T084230Z">
+        <seg>[0723]&lt;FET9&gt;construções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0724]&lt;FE10&gt;LEFT CLICK TO BUILD|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084243Z" creationid="Olivier" creationdate="20200728T084243Z">
+        <seg>[0724]&lt;FE10&gt;BOTÃO ESQUERDO PARA CONSTRUIR|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0725]&lt;FE11&gt;Natural Resource|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084246Z" creationid="Olivier" creationdate="20200728T084246Z">
+        <seg>[0725]&lt;FE11&gt;Recursos naturais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0726]&lt;FE12&gt;Reserve|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084247Z" creationid="Olivier" creationdate="20200728T084247Z">
+        <seg>[0726]&lt;FE12&gt;Reservas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0727]&lt;FE13&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084250Z" creationid="Olivier" creationdate="20200728T084250Z">
+        <seg>[0727]&lt;FE13&gt;Qualid.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0728]&lt;FE14&gt;Land Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084311Z" creationid="Olivier" creationdate="20200728T084311Z">
+        <seg>[0728]&lt;FE14&gt;Custo de terra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0729]&lt;FE15&gt;Cannot set up here:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084314Z" creationid="Olivier" creationdate="20200728T084314Z">
+        <seg>[0736]&lt;FE22&gt;Operação não possivel:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0730]&lt;FE16&gt;The area does not have enough trees.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084317Z" creationid="Olivier" creationdate="20200728T084317Z">
+        <seg>[0730]&lt;FE16&gt;A área não tem árvores suficientes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0731]&lt;FE17&gt;The area does not have any mineral deposit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084319Z" creationid="Olivier" creationdate="20200728T084319Z">
+        <seg>[0731]&lt;FE17&gt;A área não tem minerais suficientes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0732]&lt;FE18&gt;The area does not have any oil deposit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084321Z" creationid="Olivier" creationdate="20200728T084321Z">
+        <seg>[0732]&lt;FE18&gt;A área não tem depósito de minerais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0733]&lt;FE19&gt;The land is not available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084323Z" creationid="Olivier" creationdate="20200728T084323Z">
+        <seg>[0733]&lt;FE19&gt;A terra não está disponivel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0734]&lt;FE20&gt;Location is not next to roads|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084325Z" creationid="Olivier" creationdate="20200728T084325Z">
+        <seg>[0734]&lt;FE20&gt;Local não está proximo das estradas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0736]&lt;FE22&gt;Cannot set up:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084326Z" creationid="Olivier" creationdate="20200728T084326Z">
+        <seg>[0736]&lt;FE22&gt;Operação não possivel:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0737]&lt;FE23&gt;Your company does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084329Z" creationid="Olivier" creationdate="20200728T084329Z">
+        <seg>[0737]&lt;FE23&gt;Sua companhia não tem caixa suficiente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0740]&lt;FAT1&gt;Link This Item|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084331Z" creationid="Olivier" creationdate="20200728T084331Z">
+        <seg>[0740]&lt;FAT1&gt;Ligar esse item|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0741]&lt;FAT2&gt;Can be sold in:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084333Z" creationid="Olivier" creationdate="20200728T084333Z">
+        <seg>[0741]&lt;FAT2&gt;Pode ser vendido em:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0742]&lt;FAT3&gt;Cannot be sold in:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084335Z" creationid="Olivier" creationdate="20200728T084335Z">
+        <seg>[0742]&lt;FAT3&gt;Não pode ser vendido em:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0743]&lt;FAT4&gt;retail stores.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084337Z" creationid="Olivier" creationdate="20200728T084337Z">
+        <seg>[0743]&lt;FAT4&gt;Lojas de varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0744]&lt;FAT5&gt;Double-click here to view the product detail report.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084339Z" creationid="Olivier" creationdate="20200728T084339Z">
+        <seg>[0744]&lt;FAT5&gt;Clique duplo aqui para ver relatório de produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0745]&lt;FAT6&gt;Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084341Z" creationid="Olivier" creationdate="20200728T084341Z">
+        <seg>[0745]&lt;FAT6&gt;Lucro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0746]&lt;FAT7&gt;Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084344Z" creationid="Olivier" creationdate="20200728T084344Z">
+        <seg>[0746]&lt;FAT7&gt;Receita|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0747]&lt;FAT8&gt;Quantity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084346Z" creationid="Olivier" creationdate="20200728T084346Z">
+        <seg>[0747]&lt;FAT8&gt;Quantidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0748]&lt;FAT9&gt;Market Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084348Z" creationid="Olivier" creationdate="20200728T084348Z">
+        <seg>[0748]&lt;FAT9&gt;Marketshare|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0749]&lt;FA10&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084352Z" creationid="Olivier" creationdate="20200728T084352Z">
+        <seg>[0749]&lt;FA10&gt;Preço|</seg>
       </tuv>
     </tu>
     <tu>
