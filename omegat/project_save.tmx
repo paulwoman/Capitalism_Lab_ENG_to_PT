@@ -4743,6 +4743,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1265]&lt;0379&gt;FOR SALE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092922Z" creationid="Olivier" creationdate="20200728T092922Z">
+        <seg>[1265]&lt;0379&gt;A VENDA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1267]&lt;0381&gt;Function: Issuing new shares|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094316Z" creationid="Olivier" creationdate="20200728T094316Z">
+        <seg>[1267]&lt;0381&gt;Função: Emitir novas ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
