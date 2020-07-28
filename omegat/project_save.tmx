@@ -1255,6 +1255,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0592]&lt;CET1&gt;Sowing Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082302Z" creationid="Olivier" creationdate="20200728T082302Z">
+        <seg>[0592]&lt;CET1&gt;Mês de semear|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0593]&lt;CET2&gt;Harvesting Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082316Z" creationid="Olivier" creationdate="20200728T082316Z">
+        <seg>[0593]&lt;CET2&gt;Mês de colheita|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0606]&lt;DIJ1&gt;Supplier|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082337Z" creationid="Olivier" creationdate="20200728T082337Z">
+        <seg>[0606]&lt;DIJ1&gt;Suprimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0607]&lt;DIJ2&gt;City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082351Z" creationid="Olivier" creationdate="20200728T082351Z">
+        <seg>[0607]&lt;DIJ2&gt;Cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0608]&lt;DIJ3&gt;Distance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082405Z" creationid="Olivier" creationdate="20200728T082405Z">
+        <seg>[0608]&lt;DIJ3&gt;Distancia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0609]&lt;DIJ4&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082502Z" creationid="Olivier" creationdate="20200728T082502Z">
+        <seg>[0609]&lt;DIJ4&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0610]&lt;DIJ5&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082526Z" creationid="Olivier" creationdate="20200728T082526Z">
+        <seg>[0610]&lt;DIJ5&gt;Custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0611]&lt;DIJ6&gt;Supply|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082543Z" creationid="Olivier" creationdate="20200728T082543Z">
+        <seg>[0611]&lt;DIJ6&gt;Suprimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0612]&lt;DIJ7&gt;Demand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082556Z" creationid="Olivier" creationdate="20200728T082556Z">
+        <seg>[0612]&lt;DIJ7&gt;Demanda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
