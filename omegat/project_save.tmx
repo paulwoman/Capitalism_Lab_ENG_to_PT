@@ -6335,6 +6335,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1625]&lt;0650&gt;Livestock Products:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190134Z" creationid="Olivier" creationdate="20200729T190134Z">
+        <seg>[1625]&lt;0650&gt;Produtos pecuária:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1626]&lt;0651&gt; Unit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190136Z" creationid="Olivier" creationdate="20200729T190136Z">
+        <seg>[1626]&lt;0651&gt; Unidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190157Z" creationid="Olivier" creationdate="20200729T190157Z">
+        <seg>[1632]&lt;AK00&gt;Receita operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1633]&lt;AK01&gt;Cost of Sales|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T211740Z" creationid="Olivier" creationdate="20200729T211740Z">
+        <seg>[1633]&lt;AK01&gt;Custo de vendas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
