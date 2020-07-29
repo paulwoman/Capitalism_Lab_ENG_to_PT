@@ -6063,6 +6063,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1521]&lt;0586&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185214Z" creationid="Olivier" creationdate="20200729T185214Z">
+        <seg>[1521]&lt;0586&gt;Ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1522]&lt;0587&gt;Total Wealth|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
@@ -6073,8 +6081,40 @@
       <tuv lang="en-US">
         <seg>[1546]&lt;0611&gt;Personal Wealth|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
-        <seg>[1546]&lt;0611&gt;Personal Riqueza|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185300Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1546]&lt;0611&gt;Riqueza pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1547]&lt;0612&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185217Z" creationid="Olivier" creationdate="20200729T185217Z">
+        <seg>[1547]&lt;0612&gt;Caixa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1548]&lt;0613&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185305Z" creationid="Olivier" creationdate="20200729T185305Z">
+        <seg>[1548]&lt;0613&gt;Ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1549]&lt;0614&gt;Mansions market|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185353Z" creationid="Olivier" creationdate="20200729T185353Z">
+        <seg>[1549]&lt;0614&gt;Mercado mansões|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1550]&lt;0615&gt;   values|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185407Z" creationid="Olivier" creationdate="20200729T185407Z">
+        <seg>[1550]&lt;0615&gt;   valores|</seg>
       </tuv>
     </tu>
     <tu>
