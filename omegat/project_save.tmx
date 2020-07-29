@@ -5895,6 +5895,110 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1497]&lt;0562&gt;Purchasing Goods from Own Firms|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184703Z" creationid="Olivier" creationdate="20200729T184703Z">
+        <seg>[1497]&lt;0562&gt;Comprar produtos das próprias firmas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1498]&lt;0563&gt;Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184733Z" creationid="Olivier" creationdate="20200729T184638Z">
+        <seg>[1498]&lt;0563&gt;Riqueza pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1499]&lt;0564&gt;Market Cap of Companies Controlled|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184716Z" creationid="Olivier" creationdate="20200729T184716Z">
+        <seg>[1499]&lt;0564&gt;Market cap das companhias controladas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1501]&lt;0566&gt; billion x 100|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184802Z" creationid="Olivier" creationdate="20200729T184802Z">
+        <seg>[1501]&lt;0566&gt; bilhões x 100|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1503]&lt;0568&gt; billion x 10|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184804Z" creationid="Olivier" creationdate="20200729T184804Z">
+        <seg>[1503]&lt;0568&gt; bilhões x 10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1504]&lt;0569&gt;Dominated Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184817Z" creationid="Olivier" creationdate="20200729T184817Z">
+        <seg>[1504]&lt;0569&gt;Industrias dominadas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1510]&lt;0575&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184638Z" creationid="Olivier" creationdate="20200729T184638Z">
+        <seg>[1510]&lt;0575&gt;Para Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1511]&lt;0576&gt;Total Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1511]&lt;0576&gt;Para Score:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1522]&lt;0587&gt;Total Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1522]&lt;0587&gt;Para Riqueza|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1546]&lt;0611&gt;Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1546]&lt;0611&gt;Personal Riqueza|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1551]&lt;0616&gt;Total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184640Z" creationid="Olivier" creationdate="20200729T184640Z">
+        <seg>[1551]&lt;0616&gt;Para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1554]&lt;0619&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184640Z" creationid="Olivier" creationdate="20200729T184640Z">
+        <seg>[1554]&lt;0619&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1559]&lt;0624&gt;Total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184640Z" creationid="Olivier" creationdate="20200729T184640Z">
+        <seg>[1559]&lt;0624&gt;Para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
