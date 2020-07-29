@@ -52,3 +52,5 @@ She	Ela
 He	Ele
 units	unidades
 unit	unidade
+billion	bilhões
+Dominated Products	Produtos dominados
