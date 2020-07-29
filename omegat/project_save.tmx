@@ -5919,10 +5919,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1500]&lt;0565&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184933Z" creationid="Olivier" creationdate="20200729T184933Z">
+        <seg>[1500]&lt;0565&gt;Pontuação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1501]&lt;0566&gt; billion x 100|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184802Z" creationid="Olivier" creationdate="20200729T184802Z">
         <seg>[1501]&lt;0566&gt; bilhões x 100|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1502]&lt;0567&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184938Z" creationid="Olivier" creationdate="20200729T184938Z">
+        <seg>[1502]&lt;0567&gt;Pontuação:|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5943,6 +5959,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1505]&lt;0570&gt;Dominated Products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184853Z" creationid="Olivier" creationdate="20200729T184853Z">
+        <seg>[1505]&lt;0570&gt;Produtos dominados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1506]&lt;0571&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184942Z" creationid="Olivier" creationdate="20200729T184942Z">
+        <seg>[1506]&lt;0571&gt;Pontuação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1507]&lt;0572&gt; x 20 =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184859Z" creationid="Olivier" creationdate="20200729T184859Z">
+        <seg>[1507]&lt;0572&gt; x 20 =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1509]&lt;0574&gt; x 5 =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184902Z" creationid="Olivier" creationdate="20200729T184902Z">
+        <seg>[1509]&lt;0574&gt; x 5 =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1510]&lt;0575&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184638Z" creationid="Olivier" creationdate="20200729T184638Z">
@@ -5953,8 +6001,64 @@
       <tuv lang="en-US">
         <seg>[1511]&lt;0576&gt;Total Score:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
-        <seg>[1511]&lt;0576&gt;Para Score:|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184959Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1511]&lt;0576&gt;Total Pontuação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1512]&lt;0577&gt; (Difficulty)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185013Z" creationid="Olivier" creationdate="20200729T185013Z">
+        <seg>[1512]&lt;0577&gt; (Dificuldade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1513]&lt;0578&gt; (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185040Z" creationid="Olivier" creationdate="20200729T185040Z">
+        <seg>[1513]&lt;0578&gt; (Objetivo Bonus) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1515]&lt;0580&gt; (Years)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185105Z" creationid="Olivier" creationdate="20200729T185105Z">
+        <seg>[1515]&lt;0580&gt; (anos)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1517]&lt;0582&gt;Character  |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185112Z" creationid="Olivier" creationdate="20200729T185112Z">
+        <seg>[1517]&lt;0582&gt;Personagem  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1518]&lt;0583&gt;Job Title  |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185124Z" creationid="Olivier" creationdate="20200729T185124Z">
+        <seg>[1518]&lt;0583&gt;Cargo |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1519]&lt;0584&gt;Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185144Z" creationid="Olivier" creationdate="20200729T185144Z">
+        <seg>[1519]&lt;0584&gt;Corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1520]&lt;0585&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185155Z" creationid="Olivier" creationdate="20200729T185155Z">
+        <seg>[1520]&lt;0585&gt;Caixa|</seg>
       </tuv>
     </tu>
     <tu>
