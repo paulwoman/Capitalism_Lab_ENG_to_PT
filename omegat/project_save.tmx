@@ -6255,6 +6255,86 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1608]&lt;0633&gt;Last Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185828Z" creationid="Olivier" creationdate="20200729T185828Z">
+        <seg>[1608]&lt;0633&gt;Mês passado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1615]&lt;0640&gt;Description|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185830Z" creationid="Olivier" creationdate="20200729T185830Z">
+        <seg>[1615]&lt;0640&gt;Descrição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1616]&lt;0641&gt;Current Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185848Z" creationid="Olivier" creationdate="20200729T185848Z">
+        <seg>[1616]&lt;0641&gt;Mês atual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1617]&lt;0642&gt;Last Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185856Z" creationid="Olivier" creationdate="20200729T185856Z">
+        <seg>[1617]&lt;0642&gt;Mês passado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1619]&lt;0644&gt;OPERATING REVENUE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185955Z" creationid="Olivier" creationdate="20200729T185912Z">
+        <seg>[1619]&lt;0644&gt;RECEITA OPERACIONAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1620]&lt;0645&gt;OPERATING EXPENSES|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190013Z" creationid="Olivier" creationdate="20200729T185931Z">
+        <seg> [1620]&lt;0645&gt;CUSTOS OPEACIONAIS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1621]&lt;0646&gt;OPERATING PROFIT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190025Z" creationid="Olivier" creationdate="20200729T190025Z">
+        <seg>[1621]&lt;0646&gt;Lucro operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1622]&lt;0647&gt;Sowing Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190033Z" creationid="Olivier" creationdate="20200729T190033Z">
+        <seg>[1622]&lt;0647&gt;Mês de semear|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1623]&lt;0648&gt;Product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190051Z" creationid="Olivier" creationdate="20200729T190051Z">
+        <seg>[1623]&lt;0648&gt;Produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1624]&lt;0649&gt;Harvesting Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190125Z" creationid="Olivier" creationdate="20200729T190125Z">
+        <seg>[1624]&lt;0649&gt;Mês de colher|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
