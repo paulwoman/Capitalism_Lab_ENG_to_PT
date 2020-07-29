@@ -6121,8 +6121,24 @@
       <tuv lang="en-US">
         <seg>[1551]&lt;0616&gt;Total|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184640Z" creationid="Olivier" creationdate="20200729T184640Z">
-        <seg>[1551]&lt;0616&gt;Para|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185547Z" creationid="Olivier" creationdate="20200729T185547Z">
+        <seg>[1551]&lt;0616&gt;Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1552]&lt;0617&gt;Owned Stocks|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185602Z" creationid="Olivier" creationdate="20200729T185602Z">
+        <seg>[1552]&lt;0617&gt;Ações possuidas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1553]&lt;0618&gt;Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185604Z" creationid="Olivier" creationdate="20200729T185604Z">
+        <seg>[1553]&lt;0618&gt;Corporação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6135,10 +6151,106 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1555]&lt;0620&gt;Owned Qty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185619Z" creationid="Olivier" creationdate="20200729T185619Z">
+        <seg>[1555]&lt;0620&gt;Qde possuida|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1556]&lt;0621&gt;Owned %|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185626Z" creationid="Olivier" creationdate="20200729T185626Z">
+        <seg>[1556]&lt;0621&gt;Possuida %|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1557]&lt;0622&gt;Stock Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185635Z" creationid="Olivier" creationdate="20200729T185635Z">
+        <seg>[1557]&lt;0622&gt;Valor da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1558]&lt;0623&gt;Position|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185645Z" creationid="Olivier" creationdate="20200729T185645Z">
+        <seg>[1558]&lt;0623&gt;Posição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1559]&lt;0624&gt;Total|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184640Z" creationid="Olivier" creationdate="20200729T184640Z">
-        <seg>[1559]&lt;0624&gt;Para|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185649Z" creationid="Olivier" creationdate="20200729T184640Z">
+        <seg>[1559]&lt;0624&gt;Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1600]&lt;0625&gt;YTD Changes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185657Z" creationid="Olivier" creationdate="20200729T185657Z">
+        <seg>[1600]&lt;0625&gt;Mudanças YTD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1601]&lt;0626&gt;Last Year Changes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185704Z" creationid="Olivier" creationdate="20200729T185704Z">
+        <seg>[1601]&lt;0626&gt;Mudanças últ. ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1602]&lt;0627&gt;YTD Changes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185712Z" creationid="Olivier" creationdate="20200729T185712Z">
+        <seg>[1602]&lt;0627&gt;Mudanças YTD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1603]&lt;0628&gt;YTD Changes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185721Z" creationid="Olivier" creationdate="20200729T185721Z">
+        <seg>[1603]&lt;0628&gt;Mudanças YTD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1604]&lt;0629&gt;Last Year Changes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185740Z" creationid="Olivier" creationdate="20200729T185740Z">
+        <seg>[1604]&lt;0629&gt;Mudanças YTD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1605]&lt;0630&gt;Lifetime |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185759Z" creationid="Olivier" creationdate="20200729T185759Z">
+        <seg>[1605]&lt;0630&gt;Tempo de vida |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1606]&lt;0631&gt;Description|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185757Z" creationid="Olivier" creationdate="20200729T185757Z">
+        <seg>[1606]&lt;0631&gt;Descrição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1607]&lt;0632&gt;Current Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185817Z" creationid="Olivier" creationdate="20200729T185817Z">
+        <seg>[1607]&lt;0632&gt;Mês atual|</seg>
       </tuv>
     </tu>
     <tu>
