@@ -27,7 +27,6 @@ buildings	construções
 Land Cost|	Custo de terra
 Cost	Custo
 Employees	empregados
-total	para
 TV Broadcast	Emissão de TV
 Radio Broadcast	Emissão de rádio
 Description	Descrição
@@ -62,3 +61,6 @@ Character	Personagem
 Corporation	Corporação
 Cash	Caixa
 Stock	Ação
+Personal Wealth	Riqueza pessoal
+Mansions market	Mercado mansões
+values	valores
