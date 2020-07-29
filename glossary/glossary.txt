@@ -64,3 +64,5 @@ Stock	Ação
 Personal Wealth	Riqueza pessoal
 Mansions market	Mercado mansões
 values	valores
+Last Year Changes	Mudanças YTD
+Lifetime	Tempo de vida
