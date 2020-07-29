@@ -54,3 +54,11 @@ units	unidades
 unit	unidade
 billion	bilhões
 Dominated Products	Produtos dominados
+Score	Pontuação
+Difficulty	Dificuldade
+Goal Bonus	Objetivo Bonus
+Years	anos
+Character	Personagem
+Corporation	Corporação
+Cash	Caixa
+Stock	Ação
