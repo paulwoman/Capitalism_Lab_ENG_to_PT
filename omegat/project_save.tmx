@@ -8047,6 +8047,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2105]&lt;AS04&gt;Goats|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123516Z" creationid="Olivier" creationdate="20200730T123516Z">
+        <seg>[2105]&lt;AS04&gt;Cabras|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2106]&lt;AS05&gt;Geese|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123501Z" creationid="Olivier" creationdate="20200730T123501Z">
+        <seg>[2106]&lt;AS05&gt;Gansos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2107]&lt;AS06&gt;Ostriches|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123601Z" creationid="Olivier" creationdate="20200730T123601Z">
+        <seg>[2107]&lt;AS06&gt;Avestruzes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2108]&lt;AS07&gt;Turkeys|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123615Z" creationid="Olivier" creationdate="20200730T123615Z">
+        <seg>[2108]&lt;AS07&gt;Perus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2109]&lt;AT00&gt;Operations News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123659Z" creationid="Olivier" creationdate="20200730T123659Z">
+        <seg>[2109]&lt;AT00&gt;Novidades sobre operações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2110]&lt;AT01&gt;Financial News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123701Z" creationid="Olivier" creationdate="20200730T123701Z">
+        <seg>[2110]&lt;AT01&gt;Novidades financeiras|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2111]&lt;AT02&gt;Technology News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123709Z" creationid="Olivier" creationdate="20200730T123709Z">
+        <seg>[2111]&lt;AT02&gt;Novidades tecnologicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2112]&lt;AT03&gt;Special News|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123718Z" creationid="Olivier" creationdate="20200730T123718Z">
+        <seg>[2112]&lt;AT03&gt;Novidades especiais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2113]&lt;AU00&gt;News related to all corporations|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124451Z" creationid="Olivier" creationdate="20200730T124451Z">
+        <seg>[2113]&lt;AU00&gt;News related para o tudo corporations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
