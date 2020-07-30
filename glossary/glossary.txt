@@ -189,6 +189,6 @@ an	um
 Borrow	Pegar
 Repay	Pagar
 Operating Overhead	Custos operacionais
-billion	bilhõe
 billions	bilhões
 Tech	teq.
+billion	bilhão
