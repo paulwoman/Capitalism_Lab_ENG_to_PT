@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hurry Up!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095743Z" creationid="Olivier" creationdate="20200730T095743Z">
+        <seg>Seja rapido!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -6667,6 +6675,142 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095545Z" creationid="Olivier" creationdate="20200730T095545Z">
         <seg>[1673]&lt;0677&gt;Dominância de mercado no |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1674]&lt;0678&gt; Sector|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095601Z" creationid="Olivier" creationdate="20200730T095601Z">
+        <seg>[1674]&lt;0678&gt; setor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1675]&lt;0679&gt;Market Dominance of the |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095617Z" creationid="Olivier" creationdate="20200730T095617Z">
+        <seg>[1675]&lt;0679&gt;Dominância de mercado na |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1676]&lt;0680&gt; Industry|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095633Z" creationid="Olivier" creationdate="20200730T095633Z">
+        <seg>[1676]&lt;0680&gt; industria|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1678]&lt;0681&gt;Score: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095634Z" creationid="Olivier" creationdate="20200730T095634Z">
+        <seg>[1678]&lt;0681&gt;Pontuação: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1679]&lt;0682&gt;Wealth: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095635Z" creationid="Olivier" creationdate="20200730T095635Z">
+        <seg>[1679]&lt;0682&gt;Riqueza: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1680]&lt;0683&gt; billion|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095636Z" creationid="Olivier" creationdate="20200730T095636Z">
+        <seg>[1680]&lt;0683&gt; bilhões|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1681]&lt;0684&gt; million|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095653Z" creationid="Olivier" creationdate="20200730T095653Z">
+        <seg>[1681]&lt;0684&gt; milhão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1682]&lt;0685&gt;Period: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095712Z" creationid="Olivier" creationdate="20200730T095712Z">
+        <seg>[1682]&lt;0685&gt;Periodo: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1712]&lt;0715&gt;You have |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095724Z" creationid="Olivier" creationdate="20200730T095724Z">
+        <seg>[1712]&lt;0715&gt;Você tem |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1715]&lt;0718&gt; left to achieve the main goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095740Z" creationid="Olivier" creationdate="20200730T095740Z">
+        <seg>[1715]&lt;0718&gt; restantes para chegar ao principal objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1721]&lt;0724&gt;Corporation Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095754Z" creationid="Olivier" creationdate="20200730T095754Z">
+        <seg>[1721]&lt;0724&gt;Nome da corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1722]&lt;0725&gt;Your Name|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095810Z" creationid="Olivier" creationdate="20200730T095810Z">
+        <seg>[1722]&lt;0725&gt;Sua nome|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1787]&lt;0790&gt;You corporation has been taken over by |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095818Z" creationid="Olivier" creationdate="20200730T095818Z">
+        <seg>[1787]&lt;0790&gt;Sua corporação foi tomada por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1788]&lt;0791&gt;You have lost the ownership of your corporation !|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095825Z" creationid="Olivier" creationdate="20200730T095825Z">
+        <seg>[1788]&lt;0791&gt;Você perdeu a posse de sua corporação !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1789]&lt;0792&gt;Government|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095832Z" creationid="Olivier" creationdate="20200730T095832Z">
+        <seg>[1789]&lt;0792&gt;Governo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1790]&lt;0793&gt;Creating a New Game .</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095844Z" creationid="Olivier" creationdate="20200730T095844Z">
+        <seg>[1790]&lt;0793&gt;Criando um novo jogo . </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1791]&lt;0794&gt;FINAL SCORE UPON RETIREMENT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095900Z" creationid="Olivier" creationdate="20200730T095900Z">
+        <seg>[1791]&lt;0794&gt;Pontuação final ao se aposentar|</seg>
       </tuv>
     </tu>
     <tu>
