@@ -7215,6 +7215,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181249Z" creationid="Olivier" creationdate="20200730T181249Z">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1858]&lt;AL01&gt; million|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101638Z" creationid="Olivier" creationdate="20200730T101638Z">
@@ -7225,8 +7233,8 @@
       <tuv lang="en-US">
         <seg>[1859]&lt;AL02&gt; billion|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101639Z" creationid="Olivier" creationdate="20200730T101639Z">
-        <seg>[1859]&lt;AL02&gt; bilhões|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181312Z" creationid="Olivier" creationdate="20200730T181312Z">
+        <seg>[1859]&lt;AL02&gt; bilhõe|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7415,6 +7423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1923]&lt;0872&gt;Market Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181320Z" creationid="Olivier" creationdate="20200730T181320Z">
+        <seg>[1923]&lt;0872&gt;Marketshare|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1929]&lt;0878&gt;Price|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102354Z" creationid="Olivier" creationdate="20200730T102354Z">
@@ -7425,8 +7441,8 @@
       <tuv lang="en-US">
         <seg>[1930]&lt;0879&gt;Quality|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102402Z" creationid="Olivier" creationdate="20200730T102402Z">
-        <seg>[1930]&lt;0879&gt;Qualid|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181336Z" creationid="Olivier" creationdate="20200730T181336Z">
+        <seg>[1930]&lt;0879&gt;Qualid.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,8 +7489,8 @@
       <tuv lang="en-US">
         <seg>[1962]&lt;0911&gt;Quality|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102436Z" creationid="Olivier" creationdate="20200730T102436Z">
-        <seg>[1962]&lt;0911&gt;Qualid|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181347Z" creationid="Olivier" creationdate="20200730T181347Z">
+        <seg>[1962]&lt;0911&gt;Qualid.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7521,8 +7537,8 @@
       <tuv lang="en-US">
         <seg>[1968]&lt;AQ00&gt;Waiting for Sowing Season|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102639Z" creationid="Olivier" creationdate="20200730T102639Z">
-        <seg>1968]&lt;AQ00&gt;Aguardando estação de semear|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181400Z" creationid="Olivier" creationdate="20200730T102639Z">
+        <seg>[1968]&lt;AQ00&gt;Aguardando estação de semear|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7593,16 +7609,16 @@
       <tuv lang="en-US">
         <seg>[1977]&lt;0922&gt;Advertising on Newspaper|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103029Z" creationid="Olivier" creationdate="20200730T103029Z">
-        <seg>[1977]&lt;0922&gt;Advertising na jornal|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181404Z" creationid="Olivier" creationdate="20200730T103029Z">
+        <seg>[1977]&lt;0922&gt;Advertising no jornal|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1978]&lt;0923&gt;Advertising on Radio|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103059Z" creationid="Olivier" creationdate="20200730T103042Z">
-        <seg>[1978]&lt;0923&gt;Advertising no radio|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181418Z" creationid="Olivier" creationdate="20200730T103042Z">
+        <seg>[1978]&lt;0923&gt;Advertising no rádio|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7657,8 +7673,8 @@
       <tuv lang="en-US">
         <seg>[1987]&lt;0932&gt;Quality|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103913Z" creationid="Olivier" creationdate="20200730T103913Z">
-        <seg>[1987]&lt;0932&gt;Qualid|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181435Z" creationid="Olivier" creationdate="20200730T181435Z">
+        <seg>[1987]&lt;0932&gt;Qualid.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7785,8 +7801,8 @@
       <tuv lang="en-US">
         <seg>[2028]&lt;0973&gt; to level |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105421Z" creationid="Olivier" creationdate="20200730T105421Z">
-        <seg>[2028]&lt;0973&gt; para o  nível |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181504Z" creationid="Olivier" creationdate="20200730T105421Z">
+        <seg>[2028]&lt;0973&gt; para o nível |</seg>
       </tuv>
     </tu>
     <tu>
@@ -12930,8 +12946,8 @@
       <tuv lang="en-US">
         <seg>of Product Classes Being Produced|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101409Z" creationid="Olivier" creationdate="20200730T101409Z">
-        <seg>classes de produto sendo produzidos|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181247Z" creationid="Olivier" creationdate="20200730T101409Z">
+        <seg>de classes de produto sendo produzidos|</seg>
       </tuv>
     </tu>
     <tu>
