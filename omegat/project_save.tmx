@@ -8153,8 +8153,8 @@
       <tuv lang="en-US">
         <seg>[2118]&lt;1039&gt; Firm Setting Up|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124911Z" creationid="Olivier" creationdate="20200730T124804Z">
-        <seg>[2118]&lt;1039&gt; Firma abrindo|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124954Z" creationid="Olivier" creationdate="20200730T124804Z">
+        <seg>[2118]&lt;1039&gt; firma abrindo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8163,6 +8163,110 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124947Z" creationid="Olivier" creationdate="20200730T124926Z">
         <seg>[2119]&lt;1040&gt; firma fechando|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2120]&lt;1041&gt; Competitor Bankrupts|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124959Z" creationid="Olivier" creationdate="20200730T124959Z">
+        <seg>[2120]&lt;1041&gt; competidor faliu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2121]&lt;1042&gt; Resource Reserve Exhausted|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125025Z" creationid="Olivier" creationdate="20200730T125018Z">
+        <seg>[2121]&lt;1042&gt; Reserva de recurso exaurida|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2122]&lt;1043&gt; Resource DISCOVERY|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125055Z" creationid="Olivier" creationdate="20200730T125055Z">
+        <seg>[2122]&lt;1043&gt; Reserva de recurso descoberta|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2123]&lt;1044&gt; Competitor Borrows Bank Loan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125126Z" creationid="Olivier" creationdate="20200730T125126Z">
+        <seg>[2123]&lt;1044&gt; competidor pega empréstimo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2124]&lt;1045&gt; Competitor Repaies Bank Loan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125149Z" creationid="Olivier" creationdate="20200730T125149Z">
+        <seg>[2124]&lt;1045&gt; competidor paga empréstimo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2125]&lt;1046&gt; Competitor Issues New Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125158Z" creationid="Olivier" creationdate="20200730T125158Z">
+        <seg>[2125]&lt;1046&gt; competidor emite nova ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2126]&lt;1047&gt; Competitor Buys/Sells Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125205Z" creationid="Olivier" creationdate="20200730T125205Z">
+        <seg>[2126]&lt;1047&gt; competidor compra/vende ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2127]&lt;1048&gt; Competitor Takes/Loses Ownership|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125212Z" creationid="Olivier" creationdate="20200730T125212Z">
+        <seg>[2127]&lt;1048&gt; competidor toma/perde companhia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2128]&lt;1049&gt; MERGER|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125220Z" creationid="Olivier" creationdate="20200730T125220Z">
+        <seg>[2128]&lt;1049&gt; FUSÃO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2129]&lt;1050&gt; Annual Stock Dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125228Z" creationid="Olivier" creationdate="20200730T125228Z">
+        <seg>[2129]&lt;1050&gt; dividendo anual da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2130]&lt;1051&gt; Competitors Retires|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125233Z" creationid="Olivier" creationdate="20200730T125233Z">
+        <seg>[2130]&lt;1051&gt; Competidores aposentados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2131]&lt;1052&gt; Resource Discovered|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125243Z" creationid="Olivier" creationdate="20200730T125243Z">
+        <seg>[2131]&lt;1052&gt; recurso descoberto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2132]&lt;1053&gt; New City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125249Z" creationid="Olivier" creationdate="20200730T125249Z">
+        <seg>[2132]&lt;1053&gt; Nova cidade|</seg>
       </tuv>
     </tu>
     <tu>
