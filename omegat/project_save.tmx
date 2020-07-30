@@ -8271,6 +8271,110 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2133]&lt;1054&gt; Competitor Declares a Price War|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125258Z" creationid="Olivier" creationdate="20200730T125258Z">
+        <seg>[2133]&lt;1054&gt; competidor Declara uma guerra de preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2134]&lt;1055&gt; Ultimate Dominance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125313Z" creationid="Olivier" creationdate="20200730T125313Z">
+        <seg>[2134]&lt;1055&gt; Dominância absoluta|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2135]&lt;1056&gt; Tender Offering|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125400Z" creationid="Olivier" creationdate="20200730T125400Z">
+        <seg>[2134]&lt;1055&gt; Dominância absoluta|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2136]&lt;1057&gt; Tender Offer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125413Z" creationid="Olivier" creationdate="20200730T125413Z">
+        <seg>[2136]&lt;1057&gt; Oferta agressiva|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2137]&lt;1058&gt; Succeeding CEO|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125440Z" creationid="Olivier" creationdate="20200730T125440Z">
+        <seg>[2137]&lt;1058&gt; CEO sucessor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2138]&lt;1059&gt; New Invention|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125450Z" creationid="Olivier" creationdate="20200730T125450Z">
+        <seg>[2138]&lt;1059&gt; Nova invenção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2139]&lt;1060&gt; Technology Acquisition|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125457Z" creationid="Olivier" creationdate="20200730T125457Z">
+        <seg>[2139]&lt;1060&gt; Aquisição tecnológica|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2140]&lt;1061&gt; Animal Disease!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125508Z" creationid="Olivier" creationdate="20200730T125508Z">
+        <seg>[2140]&lt;1061&gt; Doença de animal!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2141]&lt;1062&gt; Fire!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125520Z" creationid="Olivier" creationdate="20200730T125520Z">
+        <seg>[2141]&lt;1062&gt; Fogo!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2142]&lt;1063&gt; Plague of Insects!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125531Z" creationid="Olivier" creationdate="20200730T125531Z">
+        <seg>[2142]&lt;1063&gt; Praga de insetos! |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2143]&lt;1064&gt; Technology Breakthrough!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125540Z" creationid="Olivier" creationdate="20200730T125540Z">
+        <seg>[2143]&lt;1064&gt; Avanço tecnológico|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2146]&lt;1067&gt; Firm Acquisition|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125545Z" creationid="Olivier" creationdate="20200730T125545Z">
+        <seg>[2146]&lt;1067&gt; Aquisição de firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2147]&lt;1068&gt; Stock Offer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125550Z" creationid="Olivier" creationdate="20200730T125550Z">
+        <seg>[2147]&lt;1068&gt; Oferta de ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
