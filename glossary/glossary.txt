@@ -101,6 +101,7 @@ Concern	Peso
 Sowing	Semeando
 Growing	Crescendo
 Harvesting	Coletando
-Link	Ligar mídia
+Link	Ligar 
 on	na
 Newspaper	jornal
+Abort	Abortar
