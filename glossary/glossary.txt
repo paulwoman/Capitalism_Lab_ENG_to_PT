@@ -88,3 +88,6 @@ Start	Iniciar
 Back	Voltar
 of	de
 Annual Revenue	Receita anual
+Net Worth	Valor líquido
+Total No	No. total
+of Employees	de empregados
