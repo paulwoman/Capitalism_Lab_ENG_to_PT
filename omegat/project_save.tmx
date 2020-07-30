@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How much can you pay?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132606Z" creationid="Olivier" creationdate="20200730T132606Z">
+        <seg> Quanto Você pode pagar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hurry Up!|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095743Z" creationid="Olivier" creationdate="20200730T095743Z">
@@ -9172,6 +9180,102 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132319Z" creationid="Olivier" creationdate="20200730T132319Z">
         <seg>[2280]&lt;1200&gt;Esqueça!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2281]&lt;1201&gt;I'll pay this much.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132352Z" creationid="Olivier" creationdate="20200730T132352Z">
+        <seg>[2281]&lt;1201&gt;Ofereço essa quantidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2282]&lt;1202&gt;I accept.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132400Z" creationid="Olivier" creationdate="20200730T132400Z">
+        <seg>[2282]&lt;1202&gt;Eu aceito.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2283]&lt;1203&gt;Pay Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132407Z" creationid="Olivier" creationdate="20200730T132407Z">
+        <seg>[2283]&lt;1203&gt;Pagar dinheiro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2284]&lt;1204&gt;Issue Shares|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132414Z" creationid="Olivier" creationdate="20200730T132414Z">
+        <seg>[2284]&lt;1204&gt;Emitir ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2285]&lt;1205&gt;I pay this much.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132449Z" creationid="Olivier" creationdate="20200730T132449Z">
+        <seg>[2285]&lt;1205&gt;Ofereço essa quantia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2286]&lt;1206&gt;Accept resignation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132455Z" creationid="Olivier" creationdate="20200730T132455Z">
+        <seg>[2286]&lt;1206&gt;Aceitar renuncia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2287]&lt;1207&gt;Offer a salary raise|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132501Z" creationid="Olivier" creationdate="20200730T132501Z">
+        <seg>[2287]&lt;1207&gt;Oferecer aumento de salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2288]&lt;1208&gt;Accept Resignation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132507Z" creationid="Olivier" creationdate="20200730T132507Z">
+        <seg>[2288]&lt;1208&gt;Aceitar renuncia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2289]&lt;1209&gt;Offer this much|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132513Z" creationid="Olivier" creationdate="20200730T132513Z">
+        <seg>[2289]&lt;1209&gt;Oferece essa quantia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2290]&lt;1210&gt;I want to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132518Z" creationid="Olivier" creationdate="20200730T132518Z">
+        <seg>[2290]&lt;1210&gt;Eu quero vender essa firma por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2291]&lt;1211&gt;I want to sell this firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132602Z" creationid="Olivier" creationdate="20200730T132602Z">
+        <seg>[2291]&lt;1211&gt;Eu quero vender essa firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2292]&lt;1212&gt;I would like to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132617Z" creationid="Olivier" creationdate="20200730T132617Z">
+        <seg>[2292]&lt;1212&gt;Eu gostaria de comprar essa firma por |</seg>
       </tuv>
     </tu>
     <tu>
