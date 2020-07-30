@@ -11928,6 +11928,142 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2716]&lt;NCJ1&gt;founded|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173239Z" creationid="Olivier" creationdate="20200730T173239Z">
+        <seg>[2716]&lt;NCJ1&gt;fundado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2717]&lt;NCJ2&gt;and serves as its|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173248Z" creationid="Olivier" creationdate="20200730T173248Z">
+        <seg>[2717]&lt;NCJ2&gt;e serves como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2718]&lt;NCJ3&gt;joins|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173301Z" creationid="Olivier" creationdate="20200730T173301Z">
+        <seg>[2718]&lt;NCJ3&gt;se une|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2719]&lt;NCJ4&gt;as|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173307Z" creationid="Olivier" creationdate="20200730T173307Z">
+        <seg>[2719]&lt;NCJ4&gt;como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2720]&lt;NCJ5&gt;becomes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173317Z" creationid="Olivier" creationdate="20200730T173317Z">
+        <seg>[2720]&lt;NCJ5&gt;se torna|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2721]&lt;NCJ6&gt;of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173319Z" creationid="Olivier" creationdate="20200730T173319Z">
+        <seg>[2721]&lt;NCJ6&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2722]&lt;NCJ7&gt;resigns from his job at|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173326Z" creationid="Olivier" creationdate="20200730T173326Z">
+        <seg>[2722]&lt;NCJ7&gt;sai de seu trabalho como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2723]&lt;NCJ8&gt;resigns from her job at|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173350Z" creationid="Olivier" creationdate="20200730T173350Z">
+        <seg>[2723]&lt;NCJ8&gt;sai de seu trabalho como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2724]&lt;NCJ9&gt;discharged by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173405Z" creationid="Olivier" creationdate="20200730T173405Z">
+        <seg>[2724]&lt;NCJ9&gt;dispensado by|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2725]&lt;NCK1&gt;went bankrupt and|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173412Z" creationid="Olivier" creationdate="20200730T173412Z">
+        <seg>[2725]&lt;NCK1&gt;faliu e|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2726]&lt;NCK2&gt;loses his job as|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173417Z" creationid="Olivier" creationdate="20200730T173417Z">
+        <seg>[2726]&lt;NCK2&gt;perdeu seu emprego como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2727]&lt;NCK3&gt;loses her job as|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173423Z" creationid="Olivier" creationdate="20200730T173423Z">
+        <seg>[2727]&lt;NCK3&gt;perdeu seu emprego como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173427Z" creationid="Olivier" creationdate="20200730T173427Z">
+        <seg>[2728]&lt;NCK4&gt;depois de servir como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2729]&lt;NCK5&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173432Z" creationid="Olivier" creationdate="20200730T173432Z">
+        <seg>[2729]&lt;NCK5&gt;depois de servir como|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2730]&lt;MTH1&gt;month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173432Z" creationid="Olivier" creationdate="20200730T173432Z">
+        <seg>[2730]&lt;MTH1&gt;mês|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2731]&lt;MTH2&gt;months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173450Z" creationid="Olivier" creationdate="20200730T173450Z">
+        <seg>[2731]&lt;MTH2&gt;meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2732]&lt;NBF1&gt;opens an|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173509Z" creationid="Olivier" creationdate="20200730T173509Z">
+        <seg>[2732]&lt;NBF1&gt;abre um|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
