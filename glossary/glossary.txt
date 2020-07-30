@@ -144,3 +144,4 @@ Area	área
 Hours	Horas
 Forget it	Esqueça
 shares	ações
+its own stock	sua própria ação
