@@ -10648,6 +10648,206 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2502]&lt;1392&gt; layout plan found|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171103Z" creationid="Olivier" creationdate="20200730T171103Z">
+        <seg>[2502]&lt;1392&gt; plano de layout encontrado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2503]&lt;1393&gt;All products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171109Z" creationid="Olivier" creationdate="20200730T171109Z">
+        <seg>[2503]&lt;1393&gt;Todo os produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2504]&lt;1394&gt;Product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171112Z" creationid="Olivier" creationdate="20200730T171112Z">
+        <seg>[2504]&lt;1394&gt;Produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2505]&lt;1395&gt;Research on which product?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171118Z" creationid="Olivier" creationdate="20200730T171118Z">
+        <seg>[2505]&lt;1395&gt;pesquisar qual produto?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2506]&lt;1396&gt;Duration|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171135Z" creationid="Olivier" creationdate="20200730T171135Z">
+        <seg>[2506]&lt;1396&gt;Duração|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2508]&lt;1398&gt;Current Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171143Z" creationid="Olivier" creationdate="20200730T171130Z">
+        <seg>[2508]&lt;1398&gt;tec. atual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2509]&lt;1399&gt;Top Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171150Z" creationid="Olivier" creationdate="20200730T171150Z">
+        <seg>[2509]&lt;1399&gt;tec. top.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2510]&lt;1400&gt; years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171151Z" creationid="Olivier" creationdate="20200730T171151Z">
+        <seg>[2510]&lt;1400&gt; anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2511]&lt;1401&gt; year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171152Z" creationid="Olivier" creationdate="20200730T171152Z">
+        <seg>[2511]&lt;1401&gt; ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2512]&lt;1402&gt; proceeds with a multiplayer save game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171159Z" creationid="Olivier" creationdate="20200730T171159Z">
+        <seg>[2512]&lt;1402&gt; procede com um jogo multiplayer salvo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2513]&lt;1403&gt;Save game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171205Z" creationid="Olivier" creationdate="20200730T171205Z">
+        <seg>[2513]&lt;1403&gt;Salvar jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2515]&lt;1405&gt; You have enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171209Z" creationid="Olivier" creationdate="20200730T171209Z">
+        <seg>[2515]&lt;1405&gt; Você habilitou modo trapaça.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2516]&lt;1406&gt;CHEAT ENABLE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171218Z" creationid="Olivier" creationdate="20200730T171218Z">
+        <seg>[2516]&lt;1406&gt;Habilitar trapaça|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2517]&lt;1407&gt;How Long is the Research?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171227Z" creationid="Olivier" creationdate="20200730T171227Z">
+        <seg>[2517]&lt;1407&gt;Quanto tempo dura a pesquisa?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2518]&lt;1408&gt;Your large quantity stock purchase put an upward pressure on the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171232Z" creationid="Olivier" creationdate="20200730T171232Z">
+        <seg>[2518]&lt;1408&gt;Sua compra em grande quantidade pressionou a subida do preço da ação. |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2519]&lt;1409&gt;Your large quantity stock sale put a downward pressure on the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171304Z" creationid="Olivier" creationdate="20200730T171235Z">
+        <seg>[2519]&lt;1409&gt;Sua venda em grande quantidade pressionou a queda do preço da ação. |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2520]&lt;1410&gt;The stock price rose from |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171259Z" creationid="Olivier" creationdate="20200730T171259Z">
+        <seg>[2520]&lt;1410&gt;The ação preço rose do |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2521]&lt;1411&gt;The stock price fell from |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171310Z" creationid="Olivier" creationdate="20200730T171310Z">
+        <seg>[2521]&lt;1411&gt;o preço da ação caiu de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2522]&lt;1412&gt; to |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171320Z" creationid="Olivier" creationdate="20200730T171320Z">
+        <seg>[2522]&lt;1412&gt; para |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2523]&lt;1413&gt;Your Average Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171328Z" creationid="Olivier" creationdate="20200730T171328Z">
+        <seg>[2523]&lt;1413&gt;Sua Média de preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2524]&lt;1414&gt;Your Average Purchase Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171334Z" creationid="Olivier" creationdate="20200730T171334Z">
+        <seg>[2524]&lt;1414&gt;Sua Média de preço de compra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2525]&lt;1415&gt;Your Total Sale Amount|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171340Z" creationid="Olivier" creationdate="20200730T171340Z">
+        <seg>[2525]&lt;1415&gt;Sua quantidade total de venda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2526]&lt;1416&gt;Your Total Purchase Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171345Z" creationid="Olivier" creationdate="20200730T171345Z">
+        <seg>[2526]&lt;1416&gt;Seu custo total de compra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2533]&lt;1423&gt;My Firms|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171350Z" creationid="Olivier" creationdate="20200730T171350Z">
+        <seg>[2533]&lt;1423&gt;Possuo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2534]&lt;1424&gt;Corp.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171356Z" creationid="Olivier" creationdate="20200730T171356Z">
+        <seg>[2534]&lt;1424&gt;Corp.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -10956,6 +11156,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170749Z" creationid="Olivier" creationdate="20200730T170749Z">
         <seg>de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171238Z" creationid="Olivier" creationdate="20200730T171238Z">
+        <seg>|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
