@@ -76,3 +76,4 @@ Day	Dia
 Month	Mês
 Mansion	Mansão
 Your	Sua
+No.	No.
