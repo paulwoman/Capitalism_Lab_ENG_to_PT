@@ -11032,6 +11032,214 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2569]&lt;1450&gt;Next|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171709Z" creationid="Olivier" creationdate="20200730T171709Z">
+        <seg>[2569]&lt;1450&gt;Próximo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2570]&lt;1451&gt;Go|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171711Z" creationid="Olivier" creationdate="20200730T171711Z">
+        <seg>[2570]&lt;1451&gt;Ir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2571]&lt;1452&gt;Ignore|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171722Z" creationid="Olivier" creationdate="20200730T171722Z">
+        <seg>[2571]&lt;1452&gt;Ignorar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2572]&lt;1453&gt;Ignore All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171723Z" creationid="Olivier" creationdate="20200730T171723Z">
+        <seg>[2572]&lt;1453&gt;Ignorar Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2573]&lt;1454&gt;Apply Latest Production Technology to This Manufacturing Unit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171731Z" creationid="Olivier" creationdate="20200730T171731Z">
+        <seg>[2573]&lt;1454&gt;Aplicar tec. de produção mais recente à unidade produtiva|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2574]&lt;1455&gt;Current Technology Level: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171738Z" creationid="Olivier" creationdate="20200730T171738Z">
+        <seg>[2574]&lt;1455&gt;Nível de tec. atual |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2575]&lt;1456&gt;Target Technology Level: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171743Z" creationid="Olivier" creationdate="20200730T171743Z">
+        <seg>[2575]&lt;1456&gt;Meta de tec.:l |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2576]&lt;1457&gt;\nUpdate production facilities now ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171749Z" creationid="Olivier" creationdate="20200730T171749Z">
+        <seg>[2576]&lt;1457&gt;\nMelhorar o processo produtivo agora ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2577]&lt;1458&gt;Message |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171752Z" creationid="Olivier" creationdate="20200730T171752Z">
+        <seg>[2577]&lt;1458&gt;Messagem |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2578]&lt;1459&gt;Prev|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171753Z" creationid="Olivier" creationdate="20200730T171753Z">
+        <seg>[2578]&lt;1459&gt;Anterior|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2579]&lt;1460&gt;Next|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171753Z" creationid="Olivier" creationdate="20200730T171753Z">
+        <seg>[2579]&lt;1460&gt;Próximo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2580]&lt;1461&gt;Go|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171754Z" creationid="Olivier" creationdate="20200730T171754Z">
+        <seg>[2580]&lt;1461&gt;Ir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2581]&lt;1462&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171810Z" creationid="Olivier" creationdate="20200730T171810Z">
+        <seg>[2581]&lt;1462&gt;Sim|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2582]&lt;1463&gt;Yes All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171829Z" creationid="Olivier" creationdate="20200730T171808Z">
+        <seg>[2582]&lt;1463&gt;Sim a tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2583]&lt;1464&gt;Ignore|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171830Z" creationid="Olivier" creationdate="20200730T171830Z">
+        <seg>[2583]&lt;1464&gt;Ignorar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2584]&lt;1465&gt;Ignore All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171832Z" creationid="Olivier" creationdate="20200730T171832Z">
+        <seg>[2584]&lt;1465&gt;Ignorar Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2585]&lt;1466&gt;City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171856Z" creationid="Olivier" creationdate="20200730T171856Z">
+        <seg>[2585]&lt;1466&gt;cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2586]&lt;1467&gt;Population|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171857Z" creationid="Olivier" creationdate="20200730T171857Z">
+        <seg>[2586]&lt;1467&gt;população|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2588]&lt;1469&gt;Real Wage Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171917Z" creationid="Olivier" creationdate="20200730T171917Z">
+        <seg>[2588]&lt;1469&gt;Taxa do salário real|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2589]&lt;1470&gt;Unemployment Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171923Z" creationid="Olivier" creationdate="20200730T171923Z">
+        <seg>[2589]&lt;1470&gt;Taxa de desemprego|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2590]&lt;1471&gt;Current city|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171929Z" creationid="Olivier" creationdate="20200730T171929Z">
+        <seg>[2590]&lt;1471&gt;Cidade atual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2591]&lt;1472&gt;Your Final Score|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171934Z" creationid="Olivier" creationdate="20200730T171934Z">
+        <seg>[2591]&lt;1472&gt;Sua Pontuação final|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2594]&lt;1475&gt;The Corporation Name and Player Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171939Z" creationid="Olivier" creationdate="20200730T171939Z">
+        <seg>[2594]&lt;1475&gt;o Nome da corporação e do jogador não podem ficar vazios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2595]&lt;1476&gt;The Player Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171946Z" creationid="Olivier" creationdate="20200730T171946Z">
+        <seg>[2595]&lt;1476&gt;o nome do jogador não pode ser vazio.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2596]&lt;1477&gt;The Corporation Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171951Z" creationid="Olivier" creationdate="20200730T171951Z">
+        <seg>[2596]&lt;1477&gt;a Nome da corporação não pode ser vazio.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2599]&lt;1479&gt;Select Building Type|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171958Z" creationid="Olivier" creationdate="20200730T171958Z">
+        <seg>[2599]&lt;1479&gt;selecione construção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
