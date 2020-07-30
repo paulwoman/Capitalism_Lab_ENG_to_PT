@@ -7553,8 +7553,24 @@
       <tuv lang="en-US">
         <seg>[1981]&lt;0926&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103715Z" creationid="Olivier" creationdate="20200730T103715Z">
-        <seg>[1981]&lt;0926&gt;Pts. audiência|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103744Z" creationid="Olivier" creationdate="20200730T103744Z">
+        <seg>[1981]&lt;0926&gt;Rating Points|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1982]&lt;0927&gt;Link|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103758Z" creationid="Olivier" creationdate="20200730T103737Z">
+        <seg>[1982]&lt;0927&gt;Ligar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1983]&lt;0928&gt;Abort|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103848Z" creationid="Olivier" creationdate="20200730T103848Z">
+        <seg>[1983]&lt;0928&gt;Abortar|</seg>
       </tuv>
     </tu>
     <tu>
