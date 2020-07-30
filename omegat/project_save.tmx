@@ -160,7 +160,7 @@
       <tuv lang="en-US">
         <seg>The raw material which the unit is currently producing.^</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213929Z" creationid="Olivier" creationdate="20200730T195912Z">
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214255Z" creationid="Olivier" creationdate="20200730T214255Z">
         <seg>A matéria prima que está sendo produzida.^</seg>
       </tuv>
     </tu>
@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product that the unit is currently manufacturing.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214138Z" creationid="Olivier" creationdate="20200730T214138Z">
+        <seg>O produto que está sendo manufaturado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
@@ -211,6 +219,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195741Z" creationid="Olivier" creationdate="20200730T195741Z">
         <seg>Esta barra representa quanto a unidade gasta mensalmente com advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This brown bar shows the utilization of the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214211Z" creationid="Olivier" creationdate="20200730T214211Z">
+        <seg>A barra marrom mostra a utilização de cada unidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13027,16 +13043,16 @@
       <tuv lang="en-US">
         <seg>[Manufacturing Unit]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195924Z" creationid="Olivier" creationdate="20200730T195924Z">
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214123Z" creationid="Olivier" creationdate="20200730T214123Z">
         <seg>[Manufacturing Unit]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[Oil Extraction Unit]</seg>
+        <seg>[Mining Unit]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195932Z" creationid="Olivier" creationdate="20200730T195932Z">
-        <seg>[Oil Extraction Unit]</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214227Z" creationid="Olivier" creationdate="20200730T214227Z">
+        <seg>[Mining Unit]</seg>
       </tuv>
     </tu>
     <tu>
