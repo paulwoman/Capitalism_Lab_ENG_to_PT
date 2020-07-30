@@ -122,3 +122,7 @@ Turkeys	Perus
 Competitor Borrows Bank Loan	competidor pega empréstimo
 Tender Offering	Dominância absoluta
 Fire	Fogo
+Merger	Fusão
+sets up	abre
+Headquarters	HQ
+Factory	fabrica
