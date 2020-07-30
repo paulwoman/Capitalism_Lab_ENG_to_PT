@@ -8479,6 +8479,86 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2163]&lt;1084&gt; Builds an Apartment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130249Z" creationid="Olivier" creationdate="20200730T130249Z">
+        <seg>[2163]&lt;1084&gt; Constrói um apartmento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2164]&lt;1085&gt; Builds a Commercial Building|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130318Z" creationid="Olivier" creationdate="20200730T130318Z">
+        <seg>[2164]&lt;1085&gt; Constrói um  prédio comercial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2165]&lt;1086&gt; in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130333Z" creationid="Olivier" creationdate="20200730T130333Z">
+        <seg>[2165]&lt;1086&gt; em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2170]&lt;1091&gt; Closes Down its |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130352Z" creationid="Olivier" creationdate="20200730T130352Z">
+        <seg>[2170]&lt;1091&gt; Fecha seus |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2171]&lt;1092&gt; in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130353Z" creationid="Olivier" creationdate="20200730T130353Z">
+        <seg>[2171]&lt;1092&gt; em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2172]&lt;1093&gt; near |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130410Z" creationid="Olivier" creationdate="20200730T130410Z">
+        <seg>[2172]&lt;1093&gt; perto |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2173]&lt;1094&gt; after |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130424Z" creationid="Olivier" creationdate="20200730T130424Z">
+        <seg>[2173]&lt;1094&gt; depois |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2174]&lt;1095&gt; Year |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130424Z" creationid="Olivier" creationdate="20200730T130424Z">
+        <seg>[2174]&lt;1095&gt; Ano |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2175]&lt;1096&gt; Years |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130452Z" creationid="Olivier" creationdate="20200730T130452Z">
+        <seg>[2175]&lt;1096&gt; Anos |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2176]&lt;1097&gt;of Operation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130521Z" creationid="Olivier" creationdate="20200730T130521Z">
+        <seg>[2176]&lt;1097&gt;de Operação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
