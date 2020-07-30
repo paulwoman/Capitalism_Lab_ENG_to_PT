@@ -8647,6 +8647,119 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2189]&lt;1110&gt;Production at the |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130823Z" creationid="Olivier" creationdate="20200730T130823Z">
+        <seg>[2189]&lt;1110&gt;produção em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2190]&lt;1111&gt; Owned by |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130833Z" creationid="Olivier" creationdate="20200730T130833Z">
+        <seg>[2190]&lt;1111&gt; Pertencente a |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2191]&lt;1112&gt; Ceases.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130840Z" creationid="Olivier" creationdate="20200730T130840Z">
+        <seg>[2191]&lt;1112&gt; termina.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2192]&lt;1113&gt; Deposit Discovered near |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130858Z" creationid="Olivier" creationdate="20200730T130858Z">
+        <seg>[2192]&lt;1113&gt; Deposito Descoberto perto |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2193]&lt;1114&gt; Deposit Discovered Accidentally on the Construction Site of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130930Z" creationid="Olivier" creationdate="20200730T130930Z">
+        <seg>[2193]&lt;1114&gt; Deposito Descoberto acidentalmente na área de construção de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2194]&lt;1115&gt;'s New |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130939Z" creationid="Olivier" creationdate="20200730T130939Z">
+        <seg>[2194]&lt;1115&gt; novo |
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2198]&lt;1119&gt; Issues |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130945Z" creationid="Olivier" creationdate="20200730T130945Z">
+        <seg>[2198]&lt;1119&gt; emite |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2199]&lt;1120&gt; New Shares at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130950Z" creationid="Olivier" creationdate="20200730T130950Z">
+        <seg>[2199]&lt;1120&gt; novas ações a |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2200]&lt;1121&gt; Per Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131003Z" creationid="Olivier" creationdate="20200730T131003Z">
+        <seg>[2200]&lt;1121&gt; per ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2201]&lt;1122&gt; Buys Back |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131016Z" creationid="Olivier" creationdate="20200730T131016Z">
+        <seg>[2201]&lt;1122&gt; compra de volta |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2202]&lt;1123&gt; Buys |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131029Z" creationid="Olivier" creationdate="20200730T131029Z">
+        <seg>[2202]&lt;1123&gt; compra |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2203]&lt;1124&gt; Sells |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131058Z" creationid="Olivier" creationdate="20200730T131058Z">
+        <seg>[2203]&lt;1124&gt; vende |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2204]&lt;1125&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131056Z" creationid="Olivier" creationdate="20200730T131056Z">
+        <seg>[2204]&lt;1125&gt; Shares de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2205]&lt;1126&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131100Z" creationid="Olivier" creationdate="20200730T131100Z">
+        <seg>[2205]&lt;1126&gt;its Own Ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
