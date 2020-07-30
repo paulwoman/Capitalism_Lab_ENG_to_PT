@@ -116,3 +116,5 @@ now	agora
 Cost+Freight	custo+frete
 Reserve	Reserva
 Terminate	finalizar
+Progress	Progresso
+Internal Sale	Vendas internas
