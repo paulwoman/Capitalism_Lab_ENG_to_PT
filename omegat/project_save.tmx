@@ -9672,6 +9672,126 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2342]&lt;1262&gt;its own stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165248Z" creationid="Olivier" creationdate="20200730T165248Z">
+        <seg>[2342]&lt;1262&gt;sua própria ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2343]&lt;1263&gt; held by |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165307Z" creationid="Olivier" creationdate="20200730T165307Z">
+        <seg>[2343]&lt;1263&gt; possuida por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2344]&lt;1264&gt;The market price of the stock is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165326Z" creationid="Olivier" creationdate="20200730T165326Z">
+        <seg>[2344]&lt;1264&gt;O preço de mercado da ação é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2345]&lt;1265&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165336Z" creationid="Olivier" creationdate="20200730T165336Z">
+        <seg>[2345]&lt;1265&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2346]&lt;1266&gt;I would like to sell this stock for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165357Z" creationid="Olivier" creationdate="20200730T165357Z">
+        <seg>[2346]&lt;1266&gt;Eu gostaria de vender esta ação por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2347]&lt;1267&gt;I reject your offer and demand |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165408Z" creationid="Olivier" creationdate="20200730T165408Z">
+        <seg>[2347]&lt;1267&gt;Eu rejeito sua oferta e Demanda |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2348]&lt;1268&gt; per share.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165411Z" creationid="Olivier" creationdate="20200730T165411Z">
+        <seg>[2348]&lt;1268&gt; por ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2349]&lt;1269&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165430Z" creationid="Olivier" creationdate="20200730T165430Z">
+        <seg>[2348]&lt;1268&gt; per ação. \nVocê aceita essa oferta?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2350]&lt;1270&gt;I would like to buy this stock for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165457Z" creationid="Olivier" creationdate="20200730T165444Z">
+        <seg>[2350]&lt;1270&gt;Eu gostaria de comprar esta ação por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2351]&lt;1271&gt;I want to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165503Z" creationid="Olivier" creationdate="20200730T165503Z">
+        <seg>[2351]&lt;1271&gt;Eu quero to comprar esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2352]&lt;1272&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165510Z" creationid="Olivier" creationdate="20200730T165510Z">
+        <seg>[2352]&lt;1272&gt; \nO Valor mercado desta mansão é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2353]&lt;1273&gt;I would like to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165519Z" creationid="Olivier" creationdate="20200730T165519Z">
+        <seg>[2353]&lt;1273&gt;Eu gostaria de vender esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2354]&lt;1274&gt;I would like to sell this mansion.\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165526Z" creationid="Olivier" creationdate="20200730T165526Z">
+        <seg>[2354]&lt;1274&gt;Eu gostaria de vender esta mansão.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2355]&lt;1275&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165533Z" creationid="Olivier" creationdate="20200730T165533Z">
+        <seg>[2355]&lt;1275&gt;quanto Você pode oferecer?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2356]&lt;1276&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165539Z" creationid="Olivier" creationdate="20200730T165539Z">
+        <seg>[2356]&lt;1276&gt; \nO Valor mercado desta mansão é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
