@@ -10200,6 +10200,142 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2410]&lt;1323&gt;CLOSE DOWN FIRMS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170150Z" creationid="Olivier" creationdate="20200730T170150Z">
+        <seg>[2410]&lt;1323&gt;Fechar firmas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2411]&lt;1324&gt;BANKRUPTCY|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170153Z" creationid="Olivier" creationdate="20200730T170153Z">
+        <seg>[2411]&lt;1324&gt;Falência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2412]&lt;1325&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170153Z" creationid="Olivier" creationdate="20200730T170153Z">
+        <seg>[2412]&lt;1325&gt;Caixa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2413]&lt;1326&gt;Sale of Land|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170226Z" creationid="Olivier" creationdate="20200730T170226Z">
+        <seg>2413]&lt;1326&gt;Venda de terra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2414]&lt;1327&gt;Sale of Stocks|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170252Z" creationid="Olivier" creationdate="20200730T170252Z">
+        <seg>[2414]&lt;1327&gt;Venda de ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2415]&lt;1328&gt;Bank Loan Repayment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170257Z" creationid="Olivier" creationdate="20200730T170257Z">
+        <seg>[2415]&lt;1328&gt;Pagar empréstimo bancário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2416]&lt;1329&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170259Z" creationid="Olivier" creationdate="20200730T170259Z">
+        <seg>[2416]&lt;1329&gt;Caixa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2417]&lt;1330&gt;Payment Per Share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170318Z" creationid="Olivier" creationdate="20200730T170318Z">
+        <seg>[2417]&lt;1330&gt;Pagamento por ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2435]&lt;AU00&gt;Conservative|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170329Z" creationid="Olivier" creationdate="20200730T170329Z">
+        <seg>[2435]&lt;AU00&gt;Conservador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2436]&lt;AU01&gt;Moderate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170340Z" creationid="Olivier" creationdate="20200730T170340Z">
+        <seg>[2436]&lt;AU01&gt;Moderado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2437]&lt;AU02&gt;Aggressive|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170349Z" creationid="Olivier" creationdate="20200730T170349Z">
+        <seg>[2437]&lt;AU02&gt;Agressivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2438]&lt;AU03&gt;Very Aggressive|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170359Z" creationid="Olivier" creationdate="20200730T170359Z">
+        <seg>[2438]&lt;AU03&gt;Muito Agressivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2439]&lt;AU04&gt;Human Player|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170404Z" creationid="Olivier" creationdate="20200730T170404Z">
+        <seg>[2439]&lt;AU04&gt;Jogador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2440]&lt;AV00&gt;CEO|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170409Z" creationid="Olivier" creationdate="20200730T170409Z">
+        <seg>[2440]&lt;AV00&gt;CEO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2441]&lt;AV01&gt;Chairman|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170431Z" creationid="Olivier" creationdate="20200730T170431Z">
+        <seg>[2441]&lt;AV01&gt;Présidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2442]&lt;AV02&gt;CEO &amp; Chairman|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170433Z" creationid="Olivier" creationdate="20200730T170433Z">
+        <seg>[2442]&lt;AV02&gt;CEO &amp; Présidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2444]&lt;AV04&gt;COO &amp; Chairman|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170445Z" creationid="Olivier" creationdate="20200730T170445Z">
+        <seg>[2444]&lt;AV04&gt;COO &amp; Présidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
