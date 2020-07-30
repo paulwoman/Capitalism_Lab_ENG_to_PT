@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your current technology level is %3s.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165707Z" creationid="Olivier" creationdate="20200730T165707Z">
+        <seg>Seu nível atual de tec. é %3s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0011]&lt;QUIT&gt;Quit|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055306Z" creationid="Olivier" creationdate="20200728T055306Z">
@@ -9788,6 +9796,206 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165539Z" creationid="Olivier" creationdate="20200730T165539Z">
         <seg>[2356]&lt;1276&gt; \nO Valor mercado desta mansão é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2357]&lt;1277&gt;I want to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165544Z" creationid="Olivier" creationdate="20200730T165544Z">
+        <seg>[2357]&lt;1277&gt;Eu quero vender esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2358]&lt;1278&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165551Z" creationid="Olivier" creationdate="20200730T165551Z">
+        <seg>[2358]&lt;1278&gt; \nO Valor mercado desta mansão é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2359]&lt;1279&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165556Z" creationid="Olivier" creationdate="20200730T165556Z">
+        <seg>[2359]&lt;1279&gt;Eu gostaria de comprar esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2360]&lt;1280&gt;I want to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165601Z" creationid="Olivier" creationdate="20200730T165601Z">
+        <seg>[2360]&lt;1280&gt;Eu quero comprar esta firma por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2361]&lt;1281&gt; \nIts market value is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165607Z" creationid="Olivier" creationdate="20200730T165607Z">
+        <seg>[2361]&lt;1281&gt; \nSeu Valor mercado é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2362]&lt;1282&gt;I would like to sell it for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165616Z" creationid="Olivier" creationdate="20200730T165616Z">
+        <seg>[2362]&lt;1282&gt;Eu gostaria de vender por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2363]&lt;1283&gt;I would like to sell this firm.\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165622Z" creationid="Olivier" creationdate="20200730T165622Z">
+        <seg>[2363]&lt;1283&gt;Eu gostaria de vender esta firma.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2364]&lt;1284&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165631Z" creationid="Olivier" creationdate="20200730T165631Z">
+        <seg>[2364]&lt;1284&gt;quanto Você pode oferecer?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2365]&lt;1285&gt; \nThe market value of this firm is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165635Z" creationid="Olivier" creationdate="20200730T165635Z">
+        <seg>[2365]&lt;1285&gt; \nO Valor mercado desta firma é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2366]&lt;1286&gt;I want to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165640Z" creationid="Olivier" creationdate="20200730T165640Z">
+        <seg>[2366]&lt;1286&gt;Eu quero vender esta firma for |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2367]&lt;1287&gt; \nThe market value of this firm is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165646Z" creationid="Olivier" creationdate="20200730T165646Z">
+        <seg>[2367]&lt;1287&gt; \nO Valor mercado desta firma é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2368]&lt;1288&gt;I would like to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165651Z" creationid="Olivier" creationdate="20200730T165651Z">
+        <seg>[2368]&lt;1288&gt;Eu gostaria de comprar essa firma por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2369]&lt;1289&gt;I want to buy the production technology of %1s from you for %2s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165703Z" creationid="Olivier" creationdate="20200730T165703Z">
+        <seg>[2369]&lt;1289&gt;Eu quero comprar a produção tec. de %1s de Você for %2s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2370]&lt;1290&gt;I will only sell this technology for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165712Z" creationid="Olivier" creationdate="20200730T165712Z">
+        <seg>[2370]&lt;1290&gt;Eu somente venderei essa tec. por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2371]&lt;1291&gt;I would like to sell this technology.\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165717Z" creationid="Olivier" creationdate="20200730T165717Z">
+        <seg>[2371]&lt;1291&gt;Eu gostaria de vender essa tec..\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2372]&lt;1292&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165723Z" creationid="Olivier" creationdate="20200730T165723Z">
+        <seg>[2372]&lt;1292&gt;quanto Você pode oferecer?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2373]&lt;1293&gt;I want to sell this technology for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165729Z" creationid="Olivier" creationdate="20200730T165729Z">
+        <seg>[2373]&lt;1293&gt;Eu quero vender essa tec. por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2374]&lt;1294&gt;I would like to buy this technology for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165736Z" creationid="Olivier" creationdate="20200730T165736Z">
+        <seg>[2374]&lt;1294&gt;Eu gostaria de comprar esta tec. por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2375]&lt;1295&gt;, CEO, |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165746Z" creationid="Olivier" creationdate="20200730T165746Z">
+        <seg>[2375]&lt;1295&gt;, CEO, |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2377]&lt;1297&gt;LOG|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165757Z" creationid="Olivier" creationdate="20200730T165757Z">
+        <seg>[2377]&lt;1297&gt;LOG|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2378]&lt;1298&gt;PREVIOUS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165808Z" creationid="Olivier" creationdate="20200730T165808Z">
+        <seg>[2378]&lt;1298&gt;ANTERIOR|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2379]&lt;1299&gt;NEXT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165815Z" creationid="Olivier" creationdate="20200730T165815Z">
+        <seg>[2379]&lt;1299&gt;PRÓXIMO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2380]&lt;1300&gt;CLOSE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165821Z" creationid="Olivier" creationdate="20200730T165821Z">
+        <seg>[2380]&lt;1300&gt;FECHAR|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2381]&lt;1301&gt;Invented|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165829Z" creationid="Olivier" creationdate="20200730T165829Z">
+        <seg>[2381]&lt;1301&gt;inventada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2382]&lt;1302&gt;Known to You|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165852Z" creationid="Olivier" creationdate="20200730T165852Z">
+        <seg>[2382]&lt;1302&gt;Known por Você|</seg>
       </tuv>
     </tu>
     <tu>
