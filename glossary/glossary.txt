@@ -183,3 +183,8 @@ Clear	Limpar
 Clients	Clientes
 View	Ver
 Tech level	Nível teq.
+founded	fundado
+joins	se une
+resigns from his job at	sai de seu trabalho como
+discharged	dispensado
+months	meses
