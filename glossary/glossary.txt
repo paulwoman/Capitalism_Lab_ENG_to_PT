@@ -148,3 +148,4 @@ its own stock	sua própria ação
 held by	possuida por
 Invented	inventada
 Known	Conhecida
+SELL	VENDER
