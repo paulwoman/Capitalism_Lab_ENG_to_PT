@@ -6895,6 +6895,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1818]&lt;0822&gt;Start|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100753Z" creationid="Olivier" creationdate="20200730T100753Z">
+        <seg>[1818]&lt;0822&gt;Iniciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1819]&lt;0823&gt;Back|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100815Z" creationid="Olivier" creationdate="20200730T100815Z">
+        <seg>[1819]&lt;0823&gt;Voltar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1820]&lt;0824&gt;Goal Values|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100812Z" creationid="Olivier" creationdate="20200730T100812Z">
+        <seg>[1820]&lt;0824&gt;Valores dos objetivos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -7099,6 +7123,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091423Z" creationid="Olivier" creationdate="20200728T091423Z">
         <seg>anos operação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100832Z" creationid="Olivier" creationdate="20200730T100832Z">
+        <seg>de anos|</seg>
       </tuv>
     </tu>
     <tu>
