@@ -156,3 +156,6 @@ Payment	Pagamento
 Conservative	Conservador
 Moderate	Moderado
 Chairman	Présidente
+Independent Investor	Investidor independente
+Do you agree?	Você concorda?
+president	presidente
