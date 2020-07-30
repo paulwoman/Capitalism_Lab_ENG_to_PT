@@ -171,3 +171,10 @@ Duration	Duração
 has stopped	parou
 Message	Messagem
 Prev	Anterior
+Next	Próximo
+Ignore	Ignorar
+Yes	Sim
+Yes Tudo	Sim a tudo
+City	cidade
+Population	população
+Real Wage Rate	Taxa do salário real
