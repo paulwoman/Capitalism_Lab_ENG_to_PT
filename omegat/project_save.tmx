@@ -1391,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0591]&lt;AIS3&gt;Real Estate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183914Z" creationid="Olivier" creationdate="20200730T183914Z">
+        <seg>[0591]&lt;AIS3&gt;Real State|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0592]&lt;CET1&gt;Sowing Month|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082302Z" creationid="Olivier" creationdate="20200728T082302Z">
@@ -2097,8 +2105,8 @@
       <tuv lang="en-US">
         <seg>[0716]&lt;FET2&gt;Select|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175042Z" creationid="Olivier" creationdate="20200730T175042Z">
-        <seg>[0716]&lt;FET2&gt;Selectionar|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184028Z" creationid="Olivier" creationdate="20200730T184028Z">
+        <seg>[0716]&lt;FET2&gt;Seletionar|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2177,8 +2185,8 @@
       <tuv lang="en-US">
         <seg>[0728]&lt;FE14&gt;Land Cost|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084311Z" creationid="Olivier" creationdate="20200728T084311Z">
-        <seg>[0728]&lt;FE14&gt;Custo de terra</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184031Z" creationid="Olivier" creationdate="20200728T084311Z">
+        <seg>[0728]&lt;FE14&gt;Custo de terra|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2521,8 +2529,8 @@
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084706Z" creationid="Olivier" creationdate="20200728T084610Z">
-        <seg>[0778]&lt;FH16&gt;No. de </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184112Z" creationid="Olivier" creationdate="20200728T084610Z">
+        <seg>[0778]&lt;FH16&gt;No</seg>
       </tuv>
     </tu>
     <tu>
@@ -12274,16 +12282,16 @@
       <tuv lang="en-US">
         <seg>[2757]&lt;NBM1&gt;buys an|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173833Z" creationid="Olivier" creationdate="20200730T173833Z">
-        <seg>[2757]&lt;NBM1&gt;compra um|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183654Z" creationid="Olivier" creationdate="20200730T173833Z">
+        <seg>[2757]&lt;NBM1&gt;comprar um|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2758]&lt;NBM2&gt;buys a|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173835Z" creationid="Olivier" creationdate="20200730T173835Z">
-        <seg>[2758]&lt;NBM2&gt;compra a|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183703Z" creationid="Olivier" creationdate="20200730T173835Z">
+        <seg>[2758]&lt;NBM2&gt;comprar a|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12434,8 +12442,8 @@
       <tuv lang="en-US">
         <seg>[2777]&lt;NSC0&gt;Stock Crash|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174028Z" creationid="Olivier" creationdate="20200730T174028Z">
-        <seg>[2777]&lt;NSC0&gt;Ação Crash|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183738Z" creationid="Olivier" creationdate="20200730T174028Z">
+        <seg>[2777]&lt;NSC0&gt;Queda da bolsa|</seg>
       </tuv>
     </tu>
     <tu>
