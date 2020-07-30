@@ -144,8 +144,8 @@
       <tuv lang="en-US">
         <seg>Will you accept this offer?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164825Z" creationid="Olivier" creationdate="20200730T164825Z">
-        <seg>Você aceita essa oferta?</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182807Z" creationid="Olivier" creationdate="20200730T164825Z">
+        <seg>Você aceita essa oferta?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9610,8 +9610,8 @@
       <tuv lang="en-US">
         <seg>[2328]&lt;1248&gt;What is your offer ?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165031Z" creationid="Olivier" creationdate="20200730T165031Z">
-        <seg>[2328]&lt;1248&gt;Qual a sua oferta ? \n|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182548Z" creationid="Olivier" creationdate="20200730T165031Z">
+        <seg>[2328]&lt;1248&gt;Qual a sua oferta ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9738,7 +9738,7 @@
       <tuv lang="en-US">
         <seg>[2345]&lt;1265&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165336Z" creationid="Olivier" creationdate="20200730T165336Z">
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182706Z" creationid="Olivier" creationdate="20200730T182658Z">
         <seg>[2345]&lt;1265&gt;.</seg>
       </tuv>
     </tu>
@@ -9770,8 +9770,8 @@
       <tuv lang="en-US">
         <seg>[2349]&lt;1269&gt;( Total payment: |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165430Z" creationid="Olivier" creationdate="20200730T165430Z">
-        <seg>[2348]&lt;1268&gt; per ação. \nVocê aceita essa oferta?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182845Z" creationid="Olivier" creationdate="20200730T165430Z">
+        <seg>[2349]&lt;1269&gt;( Pagamento total: |</seg>
       </tuv>
     </tu>
     <tu>
@@ -10026,8 +10026,8 @@
       <tuv lang="en-US">
         <seg>[2382]&lt;1302&gt;Known to You|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165852Z" creationid="Olivier" creationdate="20200730T165852Z">
-        <seg>[2382]&lt;1302&gt;Known por Você|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182911Z" creationid="Olivier" creationdate="20200730T165852Z">
+        <seg>[2382]&lt;1302&gt;Conhecida por Você|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10210,8 +10210,8 @@
       <tuv lang="en-US">
         <seg>[2407]&lt;1320&gt;SELL STOCK|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170129Z" creationid="Olivier" creationdate="20200730T170129Z">
-        <seg>[2407]&lt;1320&gt;SELL AÇÃO|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182942Z" creationid="Olivier" creationdate="20200730T182942Z">
+        <seg>[2407]&lt;1320&gt;VENDER AÇÃO|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10346,16 +10346,16 @@
       <tuv lang="en-US">
         <seg>[2441]&lt;AV01&gt;Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170431Z" creationid="Olivier" creationdate="20200730T170431Z">
-        <seg>[2441]&lt;AV01&gt;Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183009Z" creationid="Olivier" creationdate="20200730T183009Z">
+        <seg>[2441]&lt;AV01&gt;Presidente|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2442]&lt;AV02&gt;CEO &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170433Z" creationid="Olivier" creationdate="20200730T170433Z">
-        <seg>[2442]&lt;AV02&gt;CEO &amp; Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183011Z" creationid="Olivier" creationdate="20200730T183011Z">
+        <seg>[2442]&lt;AV02&gt;CEO &amp; Presidente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10370,8 +10370,8 @@
       <tuv lang="en-US">
         <seg>[2444]&lt;AV04&gt;COO &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170445Z" creationid="Olivier" creationdate="20200730T170445Z">
-        <seg>[2444]&lt;AV04&gt;COO &amp; Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183014Z" creationid="Olivier" creationdate="20200730T183014Z">
+        <seg>[2444]&lt;AV04&gt;COO &amp; Presidente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10386,8 +10386,8 @@
       <tuv lang="en-US">
         <seg>[2446]&lt;AV06&gt;CMO &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170455Z" creationid="Olivier" creationdate="20200730T170455Z">
-        <seg>[2446]&lt;AV06&gt;CMO &amp; Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183024Z" creationid="Olivier" creationdate="20200730T183024Z">
+        <seg>[2446]&lt;AV06&gt;CMO &amp; Presidente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10402,24 +10402,16 @@
       <tuv lang="en-US">
         <seg>[2448]&lt;AV08&gt;CTO &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170459Z" creationid="Olivier" creationdate="20200730T170459Z">
-        <seg>[2448]&lt;AV08&gt;CTO &amp; Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183019Z" creationid="Olivier" creationdate="20200730T183019Z">
+        <seg>[2448]&lt;AV08&gt;CTO &amp; Presidente|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2450]&lt;AW01&gt;Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170508Z" creationid="Olivier" creationdate="20200730T170508Z">
-        <seg>[2450]&lt;AW01&gt;Présidente|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2451]&lt;AW02&gt;Chief Executive Officer &amp; Chairman|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170517Z" creationid="Olivier" creationdate="20200730T170517Z">
-        <seg>[2451]&lt;AW02&gt;Chief Executive Officer &amp; Présidente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183027Z" creationid="Olivier" creationdate="20200730T183027Z">
+        <seg>[2450]&lt;AW01&gt;Presidente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,8 +12866,8 @@
       <tuv lang="en-US">
         <seg>\nWill you accept this offer?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164533Z" creationid="Olivier" creationdate="20200730T164533Z">
-        <seg> \nVocê aceita essa oferta?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182519Z" creationid="Olivier" creationdate="20200730T164533Z">
+        <seg>\nVocê aceita essa oferta?|</seg>
       </tuv>
     </tu>
     <tu>
