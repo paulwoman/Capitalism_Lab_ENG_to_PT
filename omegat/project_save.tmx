@@ -3599,26 +3599,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1016]&lt;0173&gt;Shareholders|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085517Z" creationid="Olivier" creationdate="20200728T085517Z">
-        <seg>[1016]&lt;0173&gt;Sharehders|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1017]&lt;0174&gt;Chart|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085519Z" creationid="Olivier" creationdate="20200728T085519Z">
         <seg>[1017]&lt;0174&gt;Gráfico|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1018]&lt;0175&gt;Total|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180342Z" creationid="Olivier" creationdate="20200728T180342Z">
-        <seg>[1018]&lt;0175&gt;Para|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,6 +4039,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1086]&lt;0242&gt;Assets Turnover|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175721Z" creationid="Olivier" creationdate="20200730T175721Z">
+        <seg>[1086]&lt;0242&gt;Turnover dos ativos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1087]&lt;0243&gt;Equity-to-Assets Ratio|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091628Z" creationid="Olivier" creationdate="20200728T091628Z">
@@ -4107,14 +4099,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091640Z" creationid="Olivier" creationdate="20200728T091640Z">
         <seg>[1093]&lt;0249&gt;sharehders. públicos|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1094]&lt;0250&gt;total|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091701Z" creationid="Olivier" creationdate="20200728T091701Z">
-        <seg>[1094]&lt;0250&gt;para|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4417,16 +4401,16 @@
       <tuv lang="en-US">
         <seg>[1139]&lt;0294&gt;Borrow|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091803Z" creationid="Olivier" creationdate="20200728T091803Z">
-        <seg>[1139]&lt;0294&gt;Empréstimo|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175748Z" creationid="Olivier" creationdate="20200730T175748Z">
+        <seg>[1139]&lt;0294&gt;Pegar|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1140]&lt;0295&gt;Repay|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091807Z" creationid="Olivier" creationdate="20200728T091807Z">
-        <seg>[1140]&lt;0295&gt;Reembolso|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175814Z" creationid="Olivier" creationdate="20200730T175814Z">
+        <seg>[1140]&lt;0295&gt;Pagar|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,8 +4513,8 @@
       <tuv lang="en-US">
         <seg>[1154]&lt;0308&gt;Are you sure that you want to demolish the mansion and sell the land?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091849Z" creationid="Olivier" creationdate="20200728T091849Z">
-        <seg>[1154]&lt;0308&gt;Tem certeza que quer demolir a mansão e vender a terra?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175819Z" creationid="Olivier" creationdate="20200728T091849Z">
+        <seg>[1154]&lt;0308&gt;Tem certeza que quer demolir a mansão e vender a terra?</seg>
       </tuv>
     </tu>
     <tu>
