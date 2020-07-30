@@ -181,3 +181,4 @@ Real Wage Rate	Taxa do salário real
 Point	Ponto
 Clear	Limpar
 Clients	Clientes
+View	Ver
