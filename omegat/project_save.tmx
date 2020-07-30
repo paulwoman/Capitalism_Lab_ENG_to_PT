@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blue bars indicate the quantity of products in the inventory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214051Z" creationid="Olivier" creationdate="20200730T214051Z">
+        <seg>As barras azuis representam o estoque desse produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creator's version is %1s while your version is %2s.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
@@ -152,8 +160,8 @@
       <tuv lang="en-US">
         <seg>The raw material which the unit is currently producing.^</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195912Z" creationid="Olivier" creationdate="20200730T195912Z">
-        <seg>The raw material which the unidade é currently producing.^</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213929Z" creationid="Olivier" creationdate="20200730T195912Z">
+        <seg>A matéria prima que está sendo produzida.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -171,6 +179,22 @@
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213744Z" creationid="Olivier" creationdate="20200730T213744Z">
         <seg>O tipo de animal que está sendo criado.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of livestock product being produced.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213806Z" creationid="Olivier" creationdate="20200730T213806Z">
+        <seg>O tipo de produto derivado de animal que está sendo produzido.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product in the inventory unit.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214039Z" creationid="Olivier" creationdate="20200730T214039Z">
+        <seg>O nome do produto que está sendo estocado.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -12883,7 +12907,7 @@
       <tuv lang="en-US">
         <seg>[Livestock Processing Unit]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195806Z" creationid="Olivier" creationdate="20200730T195806Z">
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213810Z" creationid="Olivier" creationdate="20200730T213810Z">
         <seg>[Livestock Processing Unit]</seg>
       </tuv>
     </tu>
@@ -12899,8 +12923,8 @@
       <tuv lang="en-US">
         <seg>[Logging Unit]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195809Z" creationid="Olivier" creationdate="20200730T195809Z">
-        <seg>[Logging Unidade]</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213911Z" creationid="Olivier" creationdate="20200730T213911Z">
+        <seg>[Logging Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13333,14 +13357,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195505Z" creationid="Olivier" creationdate="20200730T195505Z">
         <seg>~Pts. audiência~</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>~Raw Material Name~</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195810Z" creationid="Olivier" creationdate="20200730T195810Z">
-        <seg>~Raw Material nome~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
