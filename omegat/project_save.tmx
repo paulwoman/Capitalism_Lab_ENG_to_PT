@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blue bars indicate the quantity of products in the current warehouse storage unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214707Z" creationid="Olivier" creationdate="20200730T214707Z">
+        <seg>As barras azuis indicam a quantidade de produto em estoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The blue bars indicate the quantity of products in the inventory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214051Z" creationid="Olivier" creationdate="20200730T214051Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
         <seg>o governo anunciou que a moeda vai ser reavaliada a uma razão de 1 para 100.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214830Z" creationid="Olivier" creationdate="20200730T214830Z">
+        <seg>A barra laranja indica a demanda pela firma atual.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -231,6 +247,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product that is available from this warehouse unit.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214856Z" creationid="Olivier" creationdate="20200730T214856Z">
+        <seg>O produto disponibilizaddo nessa unidade de armazém.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product that is being brought into the warehouse.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214734Z" creationid="Olivier" creationdate="20200730T214734Z">
+        <seg>O produto que está sendo estocado no armazém.^ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of product that the unit is currently manufacturing.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214138Z" creationid="Olivier" creationdate="20200730T214138Z">
@@ -259,6 +291,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
         <seg>The type de technology currently being developed.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
+        <seg>A barra amarela indica o fornecimento pela firma atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar indicates the supply of the product from the source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214818Z" creationid="Olivier" creationdate="20200730T214818Z">
+        <seg>A barra amarela indica o fornecimento.</seg>
       </tuv>
     </tu>
     <tu>
