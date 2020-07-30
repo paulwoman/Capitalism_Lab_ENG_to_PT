@@ -72,3 +72,7 @@ Sales	vendas
 R&D Expense	Gastos com P&D
 Stock Return	Retorno da ação
 year	ano
+Day	Dia
+Month	Mês
+Mansion	Mansão
+Your	Sua
