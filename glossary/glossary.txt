@@ -141,3 +141,5 @@ Sells	vende
 at	a
 Succeeds	sucede
 Area	área
+Hours	Horas
+Forget it	Esqueça
