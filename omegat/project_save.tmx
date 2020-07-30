@@ -2073,16 +2073,16 @@
       <tuv lang="en-US">
         <seg>[0707]&lt;FBK6&gt;Borrow|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083750Z" creationid="Olivier" creationdate="20200728T083717Z">
-        <seg>[0707]&lt;FBK6&gt;Empréstimo|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174957Z" creationid="Olivier" creationdate="20200728T083717Z">
+        <seg>[0707]&lt;FBK6&gt;Pegar|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0708]&lt;FBK7&gt;Repay|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083803Z" creationid="Olivier" creationdate="20200728T083726Z">
-        <seg>[0708]&lt;FBK7&gt;Reembolso|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175039Z" creationid="Olivier" creationdate="20200728T083726Z">
+        <seg>[0708]&lt;FBK7&gt;Pagar|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2091,6 +2091,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083931Z" creationid="Olivier" creationdate="20200728T083931Z">
         <seg>[0715]&lt;FET1&gt;Tipos de construções|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0716]&lt;FET2&gt;Select|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175042Z" creationid="Olivier" creationdate="20200730T175042Z">
+        <seg>[0716]&lt;FET2&gt;Selectionar|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,14 +2179,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084311Z" creationid="Olivier" creationdate="20200728T084311Z">
         <seg>[0728]&lt;FE14&gt;Custo de terra</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[0729]&lt;FE15&gt;Cannot set up here:|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084314Z" creationid="Olivier" creationdate="20200728T084314Z">
-        <seg>[0736]&lt;FE22&gt;Operação não possivel:|</seg>
       </tuv>
     </tu>
     <tu>
