@@ -56,7 +56,7 @@ Dominated Products	Produtos dominados
 Score	Pontuação
 Difficulty	Dificuldade
 Goal Bonus	Objetivo Bonus
-Years	anos
+Years	Anos
 Character	Personagem
 Corporation	Corporação
 Cash	Caixa
@@ -128,3 +128,8 @@ Headquarters	HQ
 Factory	fabrica
 Farm	fazenda
 Mine	mina
+apartmento	apartmento
+in	em
+near	perto
+after	depois
+Operation	Operação
