@@ -69,3 +69,6 @@ Lifetime	Tempo de vida
 Product	Produto
 Operating Revenue	Receita operacional
 Sales	vendas
+R&D Expense	Gastos com P&D
+Stock Return	Retorno da ação
+year	ano
