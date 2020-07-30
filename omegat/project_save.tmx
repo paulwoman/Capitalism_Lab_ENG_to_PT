@@ -144,8 +144,8 @@
       <tuv lang="en-US">
         <seg>Will you accept this offer?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182807Z" creationid="Olivier" creationdate="20200730T164825Z">
-        <seg>Você aceita essa oferta?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
+        <seg>Você aceita esta oferta?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6881,8 +6881,8 @@
       <tuv lang="en-US">
         <seg>[1790]&lt;0793&gt;Creating a New Game .</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181102Z" creationid="Olivier" creationdate="20200730T095844Z">
-        <seg>[1790]&lt;0793&gt;Criando um novo jogo. </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193642Z" creationid="Olivier" creationdate="20200730T095844Z">
+        <seg>[1790]&lt;0793&gt;Criando um novo jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7249,8 +7249,8 @@
       <tuv lang="en-US">
         <seg>[1859]&lt;AL02&gt; billion|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181312Z" creationid="Olivier" creationdate="20200730T181312Z">
-        <seg>[1859]&lt;AL02&gt; bilhõe|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193818Z" creationid="Olivier" creationdate="20200730T193818Z">
+        <seg>[1859]&lt;AL02&gt; bilhão|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9778,8 +9778,8 @@
       <tuv lang="en-US">
         <seg>[2348]&lt;1268&gt; per share.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165411Z" creationid="Olivier" creationdate="20200730T165411Z">
-        <seg>[2348]&lt;1268&gt; por ação.</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193951Z" creationid="Olivier" creationdate="20200730T165411Z">
+        <seg>[2348]&lt;1268&gt; per ação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12962,8 +12962,8 @@
       <tuv lang="en-US">
         <seg>of Employees|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193253Z" creationid="Olivier" creationdate="20200728T091459Z">
-        <seg>empregados|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193727Z" creationid="Olivier" creationdate="20200728T091459Z">
+        <seg>de empregados|</seg>
       </tuv>
     </tu>
     <tu>
