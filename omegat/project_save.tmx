@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creator's version is %1s while your version is %2s.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
+        <seg>A versão do criador é %1s enquanto que a sua é %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060347Z" creationid="Olivier" creationdate="20200728T060347Z">
@@ -11708,6 +11716,142 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172601Z" creationid="Olivier" creationdate="20200730T172601Z">
         <seg>[2672]&lt;1552&gt;Valor mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2673]&lt;1553&gt;Spending on Public Relations|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172606Z" creationid="Olivier" creationdate="20200730T172606Z">
+        <seg>[2673]&lt;1553&gt;Gastos relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2674]&lt;1554&gt;Spending on Investor Relations|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172609Z" creationid="Olivier" creationdate="20200730T172609Z">
+        <seg>[2674]&lt;1554&gt;Gastos relações com investidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2675]&lt;1555&gt;Media Firms|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172613Z" creationid="Olivier" creationdate="20200730T172613Z">
+        <seg>[2675]&lt;1555&gt;Firmas mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2676]&lt;1556&gt;Current advertising pricing (CPM)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172618Z" creationid="Olivier" creationdate="20200730T172618Z">
+        <seg>[2676]&lt;1556&gt;Preço atual advertising (CPM)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2677]&lt;1557&gt;New content development budget|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172622Z" creationid="Olivier" creationdate="20200730T172622Z">
+        <seg>[2677]&lt;1557&gt;Orçamento desenv. conteúdo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2678]&lt;1558&gt;Products sold in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172627Z" creationid="Olivier" creationdate="20200730T172627Z">
+        <seg>[2678]&lt;1558&gt;produtos vendidos em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2679]&lt;C001&gt;Enlight Software|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172634Z" creationid="Olivier" creationdate="20200730T172634Z">
+        <seg>[2679]&lt;C001&gt;Enlight Software|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172639Z" creationid="Olivier" creationdate="20200730T172639Z">
+        <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2681]&lt;C003&gt;Trevor Chan|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172642Z" creationid="Olivier" creationdate="20200730T172642Z">
+        <seg>[2681]&lt;C003&gt;Trevor Chan|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2682]&lt;C004&gt;Project Management:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172649Z" creationid="Olivier" creationdate="20200730T172649Z">
+        <seg>[2682]&lt;C004&gt;Gerência projeto:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2697]&lt;YOUR&gt;Your |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172732Z" creationid="Olivier" creationdate="20200730T172732Z">
+        <seg>[2697]&lt;SUA&gt;Seu |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2698]&lt;RESI&gt; resigned from your corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172744Z" creationid="Olivier" creationdate="20200730T172744Z">
+        <seg>[2698]&lt;RESI&gt; resignou de sua corporação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2699]&lt;RES2&gt;Resignation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172748Z" creationid="Olivier" creationdate="20200730T172748Z">
+        <seg>[2699]&lt;RES2&gt;Resignação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2700]&lt;LAYS&gt; layout plans found|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172752Z" creationid="Olivier" creationdate="20200730T172752Z">
+        <seg>[2700]&lt;LAYS&gt; Plano layout encontrado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2701]&lt;LAYM&gt;You do not have enough cash to setup this layout.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172756Z" creationid="Olivier" creationdate="20200730T172756Z">
+        <seg>[2701]&lt;LAYM&gt;Você não tem caixa suficiente para usar este layout.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2702]&lt;DOWR&gt;You cannot join the game because your Capitalism II version is different from that of this multiplayer game's creator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172847Z" creationid="Olivier" creationdate="20200730T172801Z">
+        <seg>[2702]&lt;DOWR&gt;Você não pode entrar no jogo porque sua versão é diferente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2705]&lt;NCUR&gt;CURRENCY REVALUED!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172933Z" creationid="Olivier" creationdate="20200730T172933Z">
+        <seg>[2705]&lt;NCUR&gt;moeda reavaliada! </seg>
       </tuv>
     </tu>
     <tu>
