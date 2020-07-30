@@ -7857,8 +7857,8 @@
       <tuv lang="en-US">
         <seg>[2039]&lt;0984&gt;Stop Purchase|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105605Z" creationid="Olivier" creationdate="20200730T105605Z">
-        <seg>2039]&lt;0984&gt;Parar compra|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181507Z" creationid="Olivier" creationdate="20200730T105605Z">
+        <seg>[2039]&lt;0984&gt;Parar compra|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,8 +7897,8 @@
       <tuv lang="en-US">
         <seg>[2045]&lt;0990&gt;Supply|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105712Z" creationid="Olivier" creationdate="20200730T105712Z">
-        <seg>[2045]&lt;0990&gt;Suprimento|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181538Z" creationid="Olivier" creationdate="20200730T181538Z">
+        <seg>[2045]&lt;0990&gt;Fornecimento|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,8 +7961,8 @@
       <tuv lang="en-US">
         <seg>[2064]&lt;1009&gt;Apply Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T110009Z" creationid="Olivier" creationdate="20200730T110009Z">
-        <seg>[2064]&lt;1009&gt;Aplicar tec.</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181553Z" creationid="Olivier" creationdate="20200730T110009Z">
+        <seg>[2064]&lt;1009&gt;Aplicar tec.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,8 +8025,8 @@
       <tuv lang="en-US">
         <seg>[2091]&lt;1036&gt;Select|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111248Z" creationid="Olivier" creationdate="20200730T111248Z">
-        <seg>[2091]&lt;1036&gt;Selectione|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181626Z" creationid="Olivier" creationdate="20200730T111248Z">
+        <seg>[2091]&lt;1036&gt;Selecione|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,8 +8201,8 @@
       <tuv lang="en-US">
         <seg>[2113]&lt;AU00&gt;News related to all corporations|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124451Z" creationid="Olivier" creationdate="20200730T124451Z">
-        <seg>[2113]&lt;AU00&gt;News related para o tudo corporations|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181642Z" creationid="Olivier" creationdate="20200730T124451Z">
+        <seg>[2113]&lt;AU00&gt;Novidades relacionadas a todas as corporações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,8 +8377,8 @@
       <tuv lang="en-US">
         <seg>[2135]&lt;1056&gt; Tender Offering|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125400Z" creationid="Olivier" creationdate="20200730T125400Z">
-        <seg>[2134]&lt;1055&gt; Dominância absoluta|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181653Z" creationid="Olivier" creationdate="20200730T125400Z">
+        <seg>[2135]&lt;1056&gt; Oferecimento agressivo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8433,8 +8433,8 @@
       <tuv lang="en-US">
         <seg>[2142]&lt;1063&gt; Plague of Insects!</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125531Z" creationid="Olivier" creationdate="20200730T125531Z">
-        <seg>[2142]&lt;1063&gt; Praga de insetos! |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181705Z" creationid="Olivier" creationdate="20200730T125531Z">
+        <seg>[2142]&lt;1063&gt; Praga de insetos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8473,16 +8473,16 @@
       <tuv lang="en-US">
         <seg>[2149]&lt;1070&gt; sets up Headquarters|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125720Z" creationid="Olivier" creationdate="20200730T125720Z">
-        <seg>[2149]&lt;1070&gt; abre up HQ|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181719Z" creationid="Olivier" creationdate="20200730T125720Z">
+        <seg>[2149]&lt;1070&gt; abre HQ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2152]&lt;1073&gt; sets up a Factory|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125740Z" creationid="Olivier" creationdate="20200730T125740Z">
-        <seg>[2152]&lt;1073&gt; abre up a fabrica|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181723Z" creationid="Olivier" creationdate="20200730T125740Z">
+        <seg>[2152]&lt;1073&gt; abre a fabrica|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8665,8 +8665,8 @@
       <tuv lang="en-US">
         <seg>[2179]&lt;1100&gt;BANKRUPTCY!</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130629Z" creationid="Olivier" creationdate="20200730T130629Z">
-        <seg>[2179]&lt;1100&gt;Falência! |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181737Z" creationid="Olivier" creationdate="20200730T130629Z">
+        <seg>[2179]&lt;1100&gt;Falência!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,8 +8802,8 @@
       <tuv lang="en-US">
         <seg>[2200]&lt;1121&gt; Per Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131003Z" creationid="Olivier" creationdate="20200730T131003Z">
-        <seg>[2200]&lt;1121&gt; per ação|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181753Z" creationid="Olivier" creationdate="20200730T131003Z">
+        <seg>[2200]&lt;1121&gt; por ação|</seg>
       </tuv>
     </tu>
     <tu>
