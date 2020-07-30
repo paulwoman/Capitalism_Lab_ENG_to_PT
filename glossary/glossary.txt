@@ -85,3 +85,5 @@ Industry	Industria
 Industries	Industrias
 Products	produtos
 Start	Iniciar
+Back	Voltar
+of	de
