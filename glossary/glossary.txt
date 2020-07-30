@@ -151,7 +151,7 @@ Stocks	ação
 Payment	Pagamento
 Conservative	Conservador
 Moderate	Moderado
-Chairman	Présidente
+Chairman	Presidente
 Independent Investor	Investidor independente
 Do you agree?	Você concorda?
 president	presidente
