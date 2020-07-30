@@ -10000,6 +10000,206 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2383]&lt;AT00&gt;DISABLED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165901Z" creationid="Olivier" creationdate="20200730T165901Z">
+        <seg>[2383]&lt;AT00&gt;DESABILITADA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2384]&lt;AT01&gt;ENABLED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165910Z" creationid="Olivier" creationdate="20200730T165910Z">
+        <seg>[2384]&lt;AT01&gt;HABILITADA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2385]&lt;AU00&gt;OFF|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165921Z" creationid="Olivier" creationdate="20200730T165921Z">
+        <seg>[2385]&lt;AU00&gt;DESLIGADO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2386]&lt;AU01&gt;ON|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165926Z" creationid="Olivier" creationdate="20200730T165926Z">
+        <seg>[2386]&lt;AU01&gt;LIGADO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2387]&lt;AV00&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165932Z" creationid="Olivier" creationdate="20200730T165932Z">
+        <seg>[2387]&lt;AV00&gt;NENHUM|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2388]&lt;AV01&gt;BRIEF|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165938Z" creationid="Olivier" creationdate="20200730T165938Z">
+        <seg>[2388]&lt;AV01&gt;BREVE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2389]&lt;AV02&gt;DETAILED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165943Z" creationid="Olivier" creationdate="20200730T165943Z">
+        <seg>[2389]&lt;AV02&gt;DETALHADO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2390]&lt;1303&gt;Game Options|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165949Z" creationid="Olivier" creationdate="20200730T165949Z">
+        <seg>[2390]&lt;1303&gt;Opções de jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2392]&lt;1305&gt;Default Internal Sale|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165954Z" creationid="Olivier" creationdate="20200730T165954Z">
+        <seg>[2392]&lt;1305&gt;VENDA INTERNA PADRÃO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2393]&lt;1306&gt;Default Auto Link Supplier|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170001Z" creationid="Olivier" creationdate="20200730T170001Z">
+        <seg>[2393]&lt;1306&gt;AUTO LINK FORNECEDOR PADRÃO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2394]&lt;1307&gt;Consider Stock Offers from AI|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170009Z" creationid="Olivier" creationdate="20200730T170009Z">
+        <seg>[2394]&lt;1307&gt;CONSIDERAR OFERTA AGRESSIVA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2395]&lt;1308&gt;Music|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170014Z" creationid="Olivier" creationdate="20200730T170014Z">
+        <seg>[2395]&lt;1308&gt;MÚSICA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2396]&lt;1309&gt;Sound Effects|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170020Z" creationid="Olivier" creationdate="20200730T170020Z">
+        <seg>[2396]&lt;1309&gt;EFEITOS SONOROS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2397]&lt;1310&gt;Context Sensitive Help|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170025Z" creationid="Olivier" creationdate="20200730T170025Z">
+        <seg>[2397]&lt;1310&gt;AJUDA EM CAIXA DE DIALÓGO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2398]&lt;1311&gt;Auto Save|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170029Z" creationid="Olivier" creationdate="20200730T170029Z">
+        <seg>[2398]&lt;1311&gt;SALVAMENTO AUTOMÁTICO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2400]&lt;1313&gt;YOU HAVE RUN OUT OF CASH!!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170040Z" creationid="Olivier" creationdate="20200730T170040Z">
+        <seg>[2400]&lt;1313&gt;Você ficou sem caixa!!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2401]&lt;1314&gt;WHAT WOULD YOU LIKE TO DO ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170046Z" creationid="Olivier" creationdate="20200730T170046Z">
+        <seg>[2401]&lt;1314&gt;O que gostaria de fazer ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2402]&lt;1315&gt;If you do not respond in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170051Z" creationid="Olivier" creationdate="20200730T170051Z">
+        <seg>[2402]&lt;1315&gt;Se não responder em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2403]&lt;1316&gt; seconds, you will be forced to declare bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170056Z" creationid="Olivier" creationdate="20200730T170056Z">
+        <seg>[2403]&lt;1316&gt; segundos, Você será forçado a declarar falência.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2404]&lt;1317&gt;CASH|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170059Z" creationid="Olivier" creationdate="20200730T170059Z">
+        <seg>[2404]&lt;1317&gt;CAIXA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2405]&lt;1318&gt;NET WORTH|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170100Z" creationid="Olivier" creationdate="20200730T170100Z">
+        <seg>[2405]&lt;1318&gt;VALOR LÍQUIDO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2406]&lt;1319&gt;BORROW MONEY FROM BANK|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170108Z" creationid="Olivier" creationdate="20200730T170108Z">
+        <seg>[2406]&lt;1319&gt;Pegar dinheiro emprestado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2407]&lt;1320&gt;SELL STOCK|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170129Z" creationid="Olivier" creationdate="20200730T170129Z">
+        <seg>[2407]&lt;1320&gt;SELL AÇÃO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2408]&lt;1321&gt;DECLARE BANKRUPTCY|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170138Z" creationid="Olivier" creationdate="20200730T170129Z">
+        <seg>[2408]&lt;1321&gt;Declarar falência (jogo over)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2409]&lt;1322&gt;ISSUE NEW SHARES|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170144Z" creationid="Olivier" creationdate="20200730T170131Z">
+        <seg>[2409]&lt;1322&gt;Emitir novas ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
