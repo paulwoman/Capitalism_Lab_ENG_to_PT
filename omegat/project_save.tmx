@@ -8559,6 +8559,94 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2177]&lt;1098&gt;NEWCOMER!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130601Z" creationid="Olivier" creationdate="20200730T130601Z">
+        <seg>[2177]&lt;1098&gt;NOVO COMPETIDOR!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2178]&lt;1099&gt; Joins the Competition.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130614Z" creationid="Olivier" creationdate="20200730T130614Z">
+        <seg>[2178]&lt;1099&gt; entra no mercado.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2179]&lt;1100&gt;BANKRUPTCY!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130629Z" creationid="Olivier" creationdate="20200730T130629Z">
+        <seg>[2179]&lt;1100&gt;Falência! |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2181]&lt;1102&gt; Goes Bankrupt after |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130701Z" creationid="Olivier" creationdate="20200730T130701Z">
+        <seg>[2181]&lt;1102&gt; vai à falência depois |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2182]&lt;1103&gt; Year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130703Z" creationid="Olivier" creationdate="20200730T130703Z">
+        <seg>[2182]&lt;1103&gt; Ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2183]&lt;1104&gt; Years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130704Z" creationid="Olivier" creationdate="20200730T130704Z">
+        <seg>[2183]&lt;1104&gt; Anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2184]&lt;1105&gt; of Operation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130713Z" creationid="Olivier" creationdate="20200730T130713Z">
+        <seg>[2184]&lt;1105&gt; de operação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2185]&lt;1106&gt; The Shareholders Received |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130723Z" creationid="Olivier" creationdate="20200730T130723Z">
+        <seg>[2185]&lt;1106&gt; Os Shareholders Receberam |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2186]&lt;1107&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130748Z" creationid="Olivier" creationdate="20200730T130748Z">
+        <seg>[2186]&lt;1107&gt; por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2187]&lt;1108&gt; Reserve near |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130752Z" creationid="Olivier" creationdate="20200730T130752Z">
+        <seg>[2187]&lt;1108&gt; Reserva perto |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2188]&lt;1109&gt; Exhausted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130814Z" creationid="Olivier" creationdate="20200730T130814Z">
+        <seg>[2188]&lt;1109&gt; foi exaurida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
