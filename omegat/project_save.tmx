@@ -6367,6 +6367,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1634]&lt;AK02&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094408Z" creationid="Olivier" creationdate="20200730T094408Z">
+        <seg>[1634]&lt;AK02&gt;Despesas de salários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1635]&lt;AK03&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094409Z" creationid="Olivier" creationdate="20200730T094409Z">
+        <seg>[1635]&lt;AK03&gt;Custos fixos operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1636]&lt;AK04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094410Z" creationid="Olivier" creationdate="20200730T094410Z">
+        <seg>[1636]&lt;AK04&gt;Advertising e relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1637]&lt;AK05&gt;Training|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094410Z" creationid="Olivier" creationdate="20200730T094410Z">
+        <seg>[1637]&lt;AK05&gt;Treinamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1638]&lt;AK06&gt;R&amp;D Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094440Z" creationid="Olivier" creationdate="20200730T094440Z">
+        <seg>[1638]&lt;AK06&gt;Gastos com P&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1639]&lt;AK07&gt;Donation to Public Facilities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094455Z" creationid="Olivier" creationdate="20200730T094455Z">
+        <seg>[1639]&lt;AK07&gt;Doação à instit. públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1640]&lt;AK08&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094455Z" creationid="Olivier" creationdate="20200730T094455Z">
+        <seg>[1640]&lt;AK08&gt;Depreciação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1641]&lt;AK09&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094535Z" creationid="Olivier" creationdate="20200730T094535Z">
+        <seg>[1641]&lt;AK09&gt;Retorno da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1642]&lt;AL00&gt;6 months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094613Z" creationid="Olivier" creationdate="20200730T094613Z">
+        <seg>[1642]&lt;AL00&gt;6 meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
