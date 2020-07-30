@@ -6815,6 +6815,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1792]&lt;0795&gt;FINAL SCORE UPON TAKEOVER|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095933Z" creationid="Olivier" creationdate="20200730T095933Z">
+        <seg>[1792]&lt;0795&gt;Pontuação final ao perder a corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1797]&lt;0800&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095935Z" creationid="Olivier" creationdate="20200730T095935Z">
+        <seg>[1797]&lt;0800&gt;Pontuação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1807]&lt;0811&gt;Values 1|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095956Z" creationid="Olivier" creationdate="20200730T095956Z">
+        <seg>[1807]&lt;0811&gt;Valores 1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1808]&lt;0812&gt;Values 2|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095956Z" creationid="Olivier" creationdate="20200730T095956Z">
+        <seg>[1808]&lt;0812&gt;Valores 2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1809]&lt;0813&gt;Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100012Z" creationid="Olivier" creationdate="20200730T100012Z">
+        <seg>[1809]&lt;0813&gt;industrias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1810]&lt;0814&gt;Products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100128Z" creationid="Olivier" creationdate="20200730T100128Z">
+        <seg>[1810]&lt;0814&gt;produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1811]&lt;0815&gt;CORPORATE COLOR|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100125Z" creationid="Olivier" creationdate="20200730T100125Z">
+        <seg>[1811]&lt;0815&gt;Cor da corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1812]&lt;0816&gt;CORPORATE LOGO|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100136Z" creationid="Olivier" creationdate="20200730T100136Z">
+        <seg>[1812]&lt;0816&gt;Logo da corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1813]&lt;0817&gt;YOUR PORTRAIT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100146Z" creationid="Olivier" creationdate="20200730T100146Z">
+        <seg>[1813]&lt;0817&gt;Seu retrato|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
