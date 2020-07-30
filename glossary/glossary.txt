@@ -16,7 +16,7 @@ Rating Points	Pts. audiência
 Treinamento	Training
 Write-offs	Depreciação
 Salaries Expense	Despesas de salários
-Advertising & PR Expense	Advertising e relações públicas
+Advertising & PR Expense	Gastos advertising e P&D
 Training	Treinamento
 Monthly Interest	Juros mensais
 Building Types	Tipos de construções
@@ -190,4 +190,4 @@ for	para
 an	um
 Borrow	Pegar
 Repay	Pagar
-Operating Overhead	Custos operacionais|
+Operating Overhead	Custos operacionais
