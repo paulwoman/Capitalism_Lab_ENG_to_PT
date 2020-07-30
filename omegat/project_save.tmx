@@ -6919,6 +6919,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1821]&lt;0825&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100856Z" creationid="Olivier" creationdate="20200730T100856Z">
+        <seg>[1821]&lt;0825&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1822]&lt;0826&gt;Goal Score Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100844Z" creationid="Olivier" creationdate="20200730T100844Z">
+        <seg>[1822]&lt;0826&gt;Objetivo da pontuação bonus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1823]&lt;0827&gt;Player's Wealth ($million)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100916Z" creationid="Olivier" creationdate="20200730T100916Z">
+        <seg>[1823]&lt;0827&gt;Riqueza do jogador ($milhão)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1824]&lt;0828&gt;Goals of the Player's Own Corporation ($million)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100925Z" creationid="Olivier" creationdate="20200730T100925Z">
+        <seg>[1824]&lt;0828&gt;Metas da corporação do jogador($milhão)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1825]&lt;0829&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100946Z" creationid="Olivier" creationdate="20200730T100946Z">
+        <seg>[1825]&lt;0829&gt;Receita anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1826]&lt;0830&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100953Z" creationid="Olivier" creationdate="20200730T100953Z">
+        <seg>[1826]&lt;0830&gt;Valor líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1827]&lt;0831&gt;Annual Operating Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100959Z" creationid="Olivier" creationdate="20200730T100959Z">
+        <seg>[1827]&lt;0831&gt;Lucro operacional anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1829]&lt;0833&gt;Goals of Companies Controlled by the Player ($million)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101056Z" creationid="Olivier" creationdate="20200730T101056Z">
+        <seg>[1829]&lt;0833&gt;Metas das companhias controladas pelo jogador ($milhão)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1830]&lt;0834&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101109Z" creationid="Olivier" creationdate="20200730T101109Z">
+        <seg>[1830]&lt;0834&gt;Receita anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
