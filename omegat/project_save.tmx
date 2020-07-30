@@ -6601,8 +6601,8 @@
       <tuv lang="en-US">
         <seg>[1656]&lt;0660&gt;Your Personal Wealth|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094835Z" creationid="Olivier" creationdate="20200730T094835Z">
-        <seg>[1656]&lt;0660&gt;Your riqueza pessoal|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180806Z" creationid="Olivier" creationdate="20200730T094835Z">
+        <seg>[1656]&lt;0660&gt;Sua riqueza pessoal|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,8 +6681,8 @@
       <tuv lang="en-US">
         <seg>[1666]&lt;0670&gt;Total No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095412Z" creationid="Olivier" creationdate="20200730T095412Z">
-        <seg>[1666]&lt;0670&gt;No. total </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180819Z" creationid="Olivier" creationdate="20200730T095412Z">
+        <seg>[1666]&lt;0670&gt;No. total</seg>
       </tuv>
     </tu>
     <tu>
@@ -6785,8 +6785,8 @@
       <tuv lang="en-US">
         <seg>[1680]&lt;0683&gt; billion|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095636Z" creationid="Olivier" creationdate="20200730T095636Z">
-        <seg>[1680]&lt;0683&gt; bilhões|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180918Z" creationid="Olivier" creationdate="20200730T180918Z">
+        <seg>[1680]&lt;0683&gt; bilhõe|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,8 +6833,8 @@
       <tuv lang="en-US">
         <seg>[1722]&lt;0725&gt;Your Name|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095810Z" creationid="Olivier" creationdate="20200730T095810Z">
-        <seg>[1722]&lt;0725&gt;Sua nome|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180922Z" creationid="Olivier" creationdate="20200730T095810Z">
+        <seg>[1722]&lt;0725&gt;Sue nome|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6865,8 +6865,8 @@
       <tuv lang="en-US">
         <seg>[1790]&lt;0793&gt;Creating a New Game .</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095844Z" creationid="Olivier" creationdate="20200730T095844Z">
-        <seg>[1790]&lt;0793&gt;Criando um novo jogo . </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181102Z" creationid="Olivier" creationdate="20200730T095844Z">
+        <seg>[1790]&lt;0793&gt;Criando um novo jogo. </seg>
       </tuv>
     </tu>
     <tu>
