@@ -87,3 +87,4 @@ Products	produtos
 Start	Iniciar
 Back	Voltar
 of	de
+Annual Revenue	Receita anual
