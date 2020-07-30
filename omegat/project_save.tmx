@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The duration of the R&amp;D project.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214534Z" creationid="Olivier" creationdate="20200730T214534Z">
+        <seg>A duração da pesquisa.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060347Z" creationid="Olivier" creationdate="20200728T060347Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
         <seg>o governo anunciou que a moeda vai ser reavaliada a uma razão de 1 para 100.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The progress of the current R&amp;D project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
+        <seg>O progresso do projeto de pesquisa atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -191,10 +207,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product currently being researched.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214522Z" creationid="Olivier" creationdate="20200730T214522Z">
+        <seg>O nome do produto que está sendo pesquisado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of product in the inventory unit.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214039Z" creationid="Olivier" creationdate="20200730T214039Z">
         <seg>O nome do produto que está sendo estocado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product in this unit.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214655Z" creationid="Olivier" creationdate="20200730T214655Z">
+        <seg>O nome do produto desta unidade.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -207,10 +239,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product that the unit is currently purchasing.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214416Z" creationid="Olivier" creationdate="20200730T214416Z">
+        <seg>O produto que está sendo comprado.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product which the unit is currently selling.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214614Z" creationid="Olivier" creationdate="20200730T214614Z">
+        <seg>O nome do produto que está sendo vendido.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
         <seg>The type de technology currently being developed.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214435Z" creationid="Olivier" creationdate="20200730T214435Z">
+        <seg>Esta área indica o estoque do produto na unidade.</seg>
       </tuv>
     </tu>
     <tu>
