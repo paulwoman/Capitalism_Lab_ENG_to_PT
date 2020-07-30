@@ -7191,6 +7191,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1865]&lt;AM04&gt;Chief Executive Officer's Office|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101758Z" creationid="Olivier" creationdate="20200730T101758Z">
+        <seg>[1865]&lt;AM04&gt;Escritório do CEO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1866]&lt;AM05&gt;Chief Operating Officer's Office|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101807Z" creationid="Olivier" creationdate="20200730T101807Z">
+        <seg>[1866]&lt;AM05&gt;Escritório do COO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1867]&lt;AM06&gt;Chief Marketing Officer's Office|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101813Z" creationid="Olivier" creationdate="20200730T101813Z">
+        <seg>[1867]&lt;AM06&gt;Escritório do CMO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1868]&lt;AM07&gt;Chief Technical Officer's Office|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101819Z" creationid="Olivier" creationdate="20200730T101819Z">
+        <seg>[1868]&lt;AM07&gt;Escritório do CTO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1869]&lt;AM08&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101828Z" creationid="Olivier" creationdate="20200730T101828Z">
+        <seg>[1869]&lt;AM08&gt;Nenhum|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1870]&lt;AN00&gt;OPTIONS (O)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101940Z" creationid="Olivier" creationdate="20200730T101841Z">
+        <seg>[1870]&lt;AN00&gt;OPÇÕES (O)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1871]&lt;AN01&gt;SAVE GAME (S or Alt-S)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101948Z" creationid="Olivier" creationdate="20200730T101851Z">
+        <seg>[1871]&lt;AN01&gt;SALVAR JOGO (S)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1872]&lt;AN02&gt;LOAD GAME (L)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102025Z" creationid="Olivier" creationdate="20200730T101857Z">
+        <seg>[1872]&lt;AN02&gt;ABRIR JOGO (L)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1873]&lt;AN03&gt;RESTART GAME|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102020Z" creationid="Olivier" creationdate="20200730T101906Z">
+        <seg>[1873]&lt;AN03&gt;RECOMEÇAR JOGO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
