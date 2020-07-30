@@ -11240,6 +11240,254 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2600]&lt;1480&gt;Not enough cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172003Z" creationid="Olivier" creationdate="20200730T172003Z">
+        <seg>[2600]&lt;1480&gt;Sem caixa suficiente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2601]&lt;1481&gt;OK, I agree to sell my stock.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172008Z" creationid="Olivier" creationdate="20200730T172008Z">
+        <seg>[2601]&lt;1481&gt;OK, Eu concordo vender my ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2602]&lt;1482&gt;Randomize|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172015Z" creationid="Olivier" creationdate="20200730T172015Z">
+        <seg>[2602]&lt;1482&gt;Aleatório|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2605]&lt;1485&gt;enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172023Z" creationid="Olivier" creationdate="20200730T172023Z">
+        <seg>[2605]&lt;1485&gt;habilitar trapaças.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2606]&lt;1486&gt;Setup Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172028Z" creationid="Olivier" creationdate="20200730T172028Z">
+        <seg>[2606]&lt;1486&gt;Custo de instalação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2607]&lt;1487&gt;I want to buy your %1s for %2s.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172032Z" creationid="Olivier" creationdate="20200730T172032Z">
+        <seg>[2607]&lt;1487&gt;Eu quero comprar seu %1s for %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2608]&lt;1488&gt;Year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172035Z" creationid="Olivier" creationdate="20200730T172035Z">
+        <seg>[2608]&lt;1488&gt;Ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2609]&lt;1489&gt;Building cost: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172041Z" creationid="Olivier" creationdate="20200730T172041Z">
+        <seg>[2609]&lt;1489&gt;Construção: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2610]&lt;1490&gt;Annual return on investment:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172047Z" creationid="Olivier" creationdate="20200730T172047Z">
+        <seg>[2610]&lt;1490&gt;Retorno anual sob investimento:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2611]&lt;1491&gt;Market Share for past 36 months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172052Z" creationid="Olivier" creationdate="20200730T172052Z">
+        <seg>[2611]&lt;1491&gt;Marketshare Últ. 36 meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2612]&lt;1492&gt; Point|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172108Z" creationid="Olivier" creationdate="20200730T172108Z">
+        <seg>[2612]&lt;1492&gt; Ponto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2613]&lt;1493&gt;Clear|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172118Z" creationid="Olivier" creationdate="20200730T172118Z">
+        <seg>[2613]&lt;1493&gt;Limpar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2614]&lt;1494&gt;Clients|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172131Z" creationid="Olivier" creationdate="20200730T172131Z">
+        <seg>[2614]&lt;1494&gt;Clientes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2615]&lt;1495&gt;Firm Type|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172138Z" creationid="Olivier" creationdate="20200730T172138Z">
+        <seg>[2615]&lt;1495&gt;Tipo de firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2616]&lt;1496&gt;Monthly Purchase|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172143Z" creationid="Olivier" creationdate="20200730T172143Z">
+        <seg>[2616]&lt;1496&gt;Compra mensal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2618]&lt;1498&gt;NEWS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172147Z" creationid="Olivier" creationdate="20200730T172147Z">
+        <seg>[2618]&lt;1498&gt;Novidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2619]&lt;1499&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172152Z" creationid="Olivier" creationdate="20200730T172152Z">
+        <seg>[2619]&lt;1499&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2621]&lt;1501&gt;New Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172156Z" creationid="Olivier" creationdate="20200730T172156Z">
+        <seg>[2621]&lt;1501&gt;Novo p.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2622]&lt;1502&gt;Size|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172200Z" creationid="Olivier" creationdate="20200730T172200Z">
+        <seg>[2622]&lt;1502&gt;Tamanho|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2623]&lt;1503&gt;All Cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172204Z" creationid="Olivier" creationdate="20200730T172204Z">
+        <seg>[2623]&lt;1503&gt;cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2624]&lt;1504&gt;This City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172209Z" creationid="Olivier" creationdate="20200730T172209Z">
+        <seg>[2624]&lt;1504&gt; cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2626]&lt;1506&gt;View Clients|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172213Z" creationid="Olivier" creationdate="20200730T172213Z">
+        <seg>[2626]&lt;1506&gt;Ver Clientes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2628]&lt;1508&gt;YOUR FINANCIAL REPORT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172218Z" creationid="Olivier" creationdate="20200730T172218Z">
+        <seg>[2628]&lt;1508&gt;Seu relatório financeiro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2629]&lt;1509&gt;You do not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172225Z" creationid="Olivier" creationdate="20200730T172225Z">
+        <seg>[2629]&lt;1509&gt;Você não tem caixa suficiente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2630]&lt;1510&gt;You must resign your Chief Operating Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172230Z" creationid="Olivier" creationdate="20200730T172230Z">
+        <seg>[2630]&lt;1510&gt;Você deve exonerar Seu Chief Operating Officer antes antes de fechar o escritório.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2631]&lt;1511&gt;You must resign your Chief Marketing Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172234Z" creationid="Olivier" creationdate="20200730T172234Z">
+        <seg>[2631]&lt;1511&gt;Você deve exonerar Seu Chief Marketing Officer antes antes de fechar o escritório.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2632]&lt;1512&gt;You must resign your Chief Technical Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172241Z" creationid="Olivier" creationdate="20200730T172241Z">
+        <seg>[2632]&lt;1512&gt;Você deve exonerar Seu Chief Technical Officer antes antes de fechar o escritório.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2635]&lt;1515&gt;Annual Salary|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172246Z" creationid="Olivier" creationdate="20200730T172246Z">
+        <seg>[2635]&lt;1515&gt;salário anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2636]&lt;1516&gt;SELECT MEDIA|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172250Z" creationid="Olivier" creationdate="20200730T172250Z">
+        <seg>[2636]&lt;1516&gt;selecionar mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2637]&lt;1517&gt;Auto Apply R&amp;D Results To Factories|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172254Z" creationid="Olivier" creationdate="20200730T172254Z">
+        <seg>[2637]&lt;1517&gt;AUTO Aplicar RESULTADOS DE P&amp;D às fabricas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2638]&lt;1518&gt;Alert Messages (Hotkey: F5)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172258Z" creationid="Olivier" creationdate="20200730T172258Z">
+        <seg>[2638]&lt;1518&gt;Mensagens de aviso (Hotkey: F5)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
