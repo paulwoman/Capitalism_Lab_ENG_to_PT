@@ -16,7 +16,6 @@ Rating Points	Pts. audiência
 Treinamento	Training
 Write-offs	Depreciação
 Salaries Expense	Despesas de salários
-Operating Overhead	Custos fixos operacionais
 Advertising & PR Expense	Advertising e relações públicas
 Training	Treinamento
 Monthly Interest	Juros mensais
@@ -191,3 +190,4 @@ for	para
 an	um
 Borrow	Pegar
 Repay	Pagar
+Operating Overhead	Custos operacionais|
