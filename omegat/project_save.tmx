@@ -9328,6 +9328,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2299]&lt;1219&gt;I reject your offer and demand |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164510Z" creationid="Olivier" creationdate="20200730T164510Z">
+        <seg>[2299]&lt;1219&gt;Eu rejeito sua oferta e demanda |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2300]&lt;1220&gt; per share.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164529Z" creationid="Olivier" creationdate="20200730T164515Z">
+        <seg>[2300]&lt;1220&gt; por ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2301]&lt;1221&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164539Z" creationid="Olivier" creationdate="20200730T164539Z">
+        <seg>[2301]&lt;1221&gt;( Pagamento total: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2302]&lt;1222&gt;You don't have enough cash to purchase my stock.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164611Z" creationid="Olivier" creationdate="20200730T164551Z">
+        <seg>[2302]&lt;1222&gt;Você não tem caixa suficiente para comprar minha ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2303]&lt;1223&gt;How would you prefer to acquire the remaining shares of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164616Z" creationid="Olivier" creationdate="20200730T164552Z">
+        <seg>[2303]&lt;1223&gt;Como Você prefere adquirir as ações remanescentes de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2304]&lt;1224&gt;1) By paying |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164624Z" creationid="Olivier" creationdate="20200730T164624Z">
+        <seg>[2304]&lt;1224&gt;1) Pagando |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2305]&lt;1225&gt;) cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164625Z" creationid="Olivier" creationdate="20200730T164625Z">
+        <seg>[2305]&lt;1225&gt;) caixa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2306]&lt;1226&gt;2) By issuing |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164633Z" creationid="Olivier" creationdate="20200730T164633Z">
+        <seg>[2306]&lt;1226&gt;2) emitindo |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -9460,6 +9524,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091920Z" creationid="Olivier" creationdate="20200728T091920Z">
         <seg>\n \nA terra está a venda por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nWill you accept this offer?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164533Z" creationid="Olivier" creationdate="20200730T164533Z">
+        <seg> \nVocê aceita essa oferta?|</seg>
       </tuv>
     </tu>
     <tu>
