@@ -98,3 +98,8 @@ Go	Ir
 Profit	Lucro
 Ours	Nosso
 Concern	Peso
+Sowing	Semeando
+Growing	Crescendo
+Harvesting	Coletando
+Link	Ligar mídia
+on	na
