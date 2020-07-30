@@ -5161,8 +5161,8 @@
       <tuv lang="en-US">
         <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095207Z" creationid="Olivier" creationdate="20200728T095207Z">
-        <seg>[1321]&lt;AE05&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180225Z" creationid="Olivier" creationdate="20200728T095207Z">
+        <seg>[1321]&lt;AE05&gt;Gastos advertising e P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,16 +5201,16 @@
       <tuv lang="en-US">
         <seg>[1326]&lt;AF02&gt;Operating Overhead|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095210Z" creationid="Olivier" creationdate="20200728T095210Z">
-        <seg>[1326]&lt;AF02&gt;Custos fixos operacionais|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180238Z" creationid="Olivier" creationdate="20200728T095210Z">
+        <seg>[1326]&lt;AF02&gt;Custos operacionais|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095211Z" creationid="Olivier" creationdate="20200728T095211Z">
-        <seg>[1327]&lt;AF03&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180336Z" creationid="Olivier" creationdate="20200728T095211Z">
+        <seg>[1327]&lt;AF03&gt;Gastos advertising e P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5257,16 +5257,16 @@
       <tuv lang="en-US">
         <seg>[1333]&lt;AG03&gt;Operating Overhead|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095245Z" creationid="Olivier" creationdate="20200728T095245Z">
-        <seg>[1333]&lt;AG03&gt;Custos fixos operacionais|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180431Z" creationid="Olivier" creationdate="20200730T180431Z">
+        <seg>[1333]&lt;AG03&gt;Custos operacionais|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095247Z" creationid="Olivier" creationdate="20200728T095247Z">
-        <seg>[1334]&lt;AG04&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180455Z" creationid="Olivier" creationdate="20200728T095247Z">
+        <seg>[1334]&lt;AG04&gt;Gastos advertising e P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
