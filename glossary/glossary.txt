@@ -102,7 +102,6 @@ on	na
 Newspaper	jornal
 Abort	Abortar
 Select	Selectionar
-Tech	tec.
 Upgrade	Melhorar
 from	do
 level	nível
@@ -192,3 +191,4 @@ Repay	Pagar
 Operating Overhead	Custos operacionais
 billion	bilhõe
 billions	bilhões
+Tech	teq.
