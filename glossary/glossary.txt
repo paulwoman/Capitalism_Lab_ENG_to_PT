@@ -84,3 +84,4 @@ Name	nome
 Industry	Industria
 Industries	Industrias
 Products	produtos
+Start	Iniciar
