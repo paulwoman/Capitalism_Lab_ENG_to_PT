@@ -1473,8 +1473,8 @@
       <tuv lang="en-US">
         <seg>[0614]&lt;DIJ9&gt;Quality|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083022Z" creationid="Olivier" creationdate="20200728T083022Z">
-        <seg>[0614]&lt;DIJ9&gt;Qualid|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174855Z" creationid="Olivier" creationdate="20200730T174855Z">
+        <seg>[0614]&lt;DIJ9&gt;Qualid.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,8 +1561,8 @@
       <tuv lang="en-US">
         <seg>[0627]&lt;DI22&gt;All cities|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083134Z" creationid="Olivier" creationdate="20200728T083134Z">
-        <seg>[0627]&lt;DI22&gt;Tudo cidades|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174925Z" creationid="Olivier" creationdate="20200728T083134Z">
+        <seg>[0627]&lt;DI22&gt;Cidades|</seg>
       </tuv>
     </tu>
     <tu>
