@@ -178,3 +178,6 @@ Yes Tudo	Sim a tudo
 City	cidade
 Population	população
 Real Wage Rate	Taxa do salário real
+Point	Ponto
+Clear	Limpar
+Clients	Clientes
