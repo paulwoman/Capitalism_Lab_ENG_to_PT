@@ -9528,6 +9528,150 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2323]&lt;1243&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164949Z" creationid="Olivier" creationdate="20200730T164949Z">
+        <seg>[2323]&lt;1243&gt;Eu gostaria de comprar esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2324]&lt;1244&gt;OK, I agree to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164955Z" creationid="Olivier" creationdate="20200730T164955Z">
+        <seg>[2324]&lt;1244&gt;OK, Eu concordo em vender esta mansão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2325]&lt;1245&gt;I am the |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165000Z" creationid="Olivier" creationdate="20200730T165000Z">
+        <seg>[2325]&lt;1245&gt;Eu sou o |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2326]&lt;1246&gt; of your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165012Z" creationid="Olivier" creationdate="20200730T165012Z">
+        <seg>[2326]&lt;1246&gt; de sua companhia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2327]&lt;1247&gt;Will you accept my resignation ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165024Z" creationid="Olivier" creationdate="20200730T165024Z">
+        <seg>[2327]&lt;1247&gt;Você aceita minha resignação ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2328]&lt;1248&gt;What is your offer ?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165031Z" creationid="Olivier" creationdate="20200730T165031Z">
+        <seg>[2328]&lt;1248&gt;Qual a sua oferta ? \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2329]&lt;1249&gt;My current salary is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165039Z" creationid="Olivier" creationdate="20200730T165039Z">
+        <seg>[2329]&lt;1249&gt;Meu salário atual é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2330]&lt;1250&gt;I'll increase your annual salary to |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165045Z" creationid="Olivier" creationdate="20200730T165045Z">
+        <seg>[2330]&lt;1250&gt;Eu elevarei seu salário anual para |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2331]&lt;1251&gt;I accept your offer and withdraw my resignation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165053Z" creationid="Olivier" creationdate="20200730T165053Z">
+        <seg>[2331]&lt;1251&gt;Eu aceito sua oferta e retiro minha resignação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2332]&lt;1252&gt;I reject your offer and affirm my resignation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165122Z" creationid="Olivier" creationdate="20200730T165122Z">
+        <seg>[2332]&lt;1252&gt;Eu rejeito sua oferta e mantenho minha resignação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2333]&lt;1253&gt;I accept your offer and agree to buy the technology from you.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165133Z" creationid="Olivier" creationdate="20200730T165133Z">
+        <seg>[2333]&lt;1253&gt;Eu aceito sua oferta e concordo em comprar tec. de Você.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2334]&lt;1254&gt;I reject your offer.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165146Z" creationid="Olivier" creationdate="20200730T165146Z">
+        <seg>[2334]&lt;1254&gt;Eu rejeito sua oferta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2336]&lt;1256&gt; counter offers you |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165153Z" creationid="Olivier" creationdate="20200730T165153Z">
+        <seg>[2336]&lt;1256&gt; contra oferta a Você |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2337]&lt;1257&gt; offers you |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165158Z" creationid="Olivier" creationdate="20200730T165158Z">
+        <seg>[2337]&lt;1257&gt; oferece a você |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2338]&lt;1258&gt; per share for buying |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165210Z" creationid="Olivier" creationdate="20200730T165210Z">
+        <seg>[2338]&lt;1258&gt; por ação para comprar |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2339]&lt;1259&gt;back |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165216Z" creationid="Olivier" creationdate="20200730T165216Z">
+        <seg>[2339]&lt;1259&gt;Voltar |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2340]&lt;1260&gt; shares (|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165219Z" creationid="Olivier" creationdate="20200730T165219Z">
+        <seg>[2340]&lt;1260&gt; ações (|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2341]&lt;1261&gt;) of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165219Z" creationid="Olivier" creationdate="20200730T165219Z">
+        <seg>[2341]&lt;1261&gt;) de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -9700,6 +9844,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132807Z" creationid="Olivier" creationdate="20200730T132807Z">
         <seg> \nVocê não pode usar uma corporação que Você controla para comprar a ação que sua corporação ou suas subsidiarias tem posse.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165016Z" creationid="Olivier" creationdate="20200730T165016Z">
+        <seg>\n|</seg>
       </tuv>
     </tu>
     <tu>
