@@ -101,7 +101,7 @@ Link	Ligar
 on	na
 Newspaper	jornal
 Abort	Abortar
-Select	Selectionar
+Select	Selecionar
 Upgrade	Melhorar
 from	do
 level	nível
