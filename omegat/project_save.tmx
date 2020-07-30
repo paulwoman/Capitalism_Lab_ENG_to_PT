@@ -7815,6 +7815,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2046]&lt;0991&gt;Demand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105714Z" creationid="Olivier" creationdate="20200730T105714Z">
+        <seg>[2046]&lt;0991&gt;Demanda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2049]&lt;0994&gt;SUPPLY STOPPED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105736Z" creationid="Olivier" creationdate="20200730T105736Z">
+        <seg>[2049]&lt;0994&gt;FORNECIMENTO PAROU|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2056]&lt;1001&gt;Reserve|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105752Z" creationid="Olivier" creationdate="20200730T105752Z">
+        <seg>[2056]&lt;1001&gt;Reserva|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2059]&lt;1004&gt; years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105742Z" creationid="Olivier" creationdate="20200730T105742Z">
+        <seg>[2059]&lt;1004&gt; anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2060]&lt;1005&gt; year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105753Z" creationid="Olivier" creationdate="20200730T105753Z">
+        <seg>[2060]&lt;1005&gt; ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2062]&lt;1007&gt;R&amp;D New Product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105809Z" creationid="Olivier" creationdate="20200730T105809Z">
+        <seg>[2062]&lt;1007&gt;Novo produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2063]&lt;1008&gt;R&amp;D Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105816Z" creationid="Olivier" creationdate="20200730T105816Z">
+        <seg>[2063]&lt;1008&gt;tec. de P&amp;D.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2064]&lt;1009&gt;Apply Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T110009Z" creationid="Olivier" creationdate="20200730T110009Z">
+        <seg>[2064]&lt;1009&gt;Aplicar tec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
