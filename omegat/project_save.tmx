@@ -7047,6 +7047,150 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1843]&lt;0847&gt;Goal Industries - Goals of Industry Dominance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101453Z" creationid="Olivier" creationdate="20200730T101453Z">
+        <seg>[1843]&lt;0847&gt;objetivo industrial - metas de dominância industrial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1844]&lt;0848&gt;Excluded Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101458Z" creationid="Olivier" creationdate="20200730T101458Z">
+        <seg>[1844]&lt;0848&gt;Industrias excluidas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1845]&lt;0849&gt;Included Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101505Z" creationid="Olivier" creationdate="20200730T101505Z">
+        <seg>[1845]&lt;0849&gt;Industrias incluidas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1846]&lt;0850&gt;Goal Products - Goals of Product Market Dominance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101512Z" creationid="Olivier" creationdate="20200730T101512Z">
+        <seg>[1846]&lt;0850&gt;objetivo de produtos - metas de dominância de mercados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1847]&lt;0851&gt;Excluded products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101524Z" creationid="Olivier" creationdate="20200730T101524Z">
+        <seg>[1847]&lt;0851&gt;Produtos excluidos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1848]&lt;0852&gt;Included products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101530Z" creationid="Olivier" creationdate="20200730T101530Z">
+        <seg>[1848]&lt;0852&gt;Produtos incluidos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1849]&lt;0853&gt;Add|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101606Z" creationid="Olivier" creationdate="20200730T101606Z">
+        <seg>[1849]&lt;0853&gt;Adicionar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1850]&lt;0854&gt;Add All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101616Z" creationid="Olivier" creationdate="20200730T101616Z">
+        <seg>[1850]&lt;0854&gt;Adicionar Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1851]&lt;0855&gt;Remove|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101630Z" creationid="Olivier" creationdate="20200730T101630Z">
+        <seg>[1851]&lt;0855&gt;Subtrair|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1852]&lt;0856&gt;Remove All|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101632Z" creationid="Olivier" creationdate="20200730T101632Z">
+        <seg>[1852]&lt;0856&gt;Subtrair Tudo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1855]&lt;0859&gt; year)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101634Z" creationid="Olivier" creationdate="20200730T101634Z">
+        <seg>[1855]&lt;0859&gt; ano)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1856]&lt;0860&gt; years)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101634Z" creationid="Olivier" creationdate="20200730T101634Z">
+        <seg>[1856]&lt;0860&gt; anos)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1858]&lt;AL01&gt; million|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101638Z" creationid="Olivier" creationdate="20200730T101638Z">
+        <seg>[1858]&lt;AL01&gt; milhão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1859]&lt;AL02&gt; billion|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101639Z" creationid="Olivier" creationdate="20200730T101639Z">
+        <seg>[1859]&lt;AL02&gt; bilhões|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1861]&lt;AM00&gt;Finance Department|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101705Z" creationid="Olivier" creationdate="20200730T101705Z">
+        <seg>[1861]&lt;AM00&gt;Departamento financeiro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1862]&lt;AM01&gt;Human Resources Department|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101713Z" creationid="Olivier" creationdate="20200730T101713Z">
+        <seg>[1862]&lt;AM01&gt;Departamento de RH|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1863]&lt;AM02&gt;Public Relations Department|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101718Z" creationid="Olivier" creationdate="20200730T101718Z">
+        <seg>[1863]&lt;AM02&gt;Departamento de Relações públicas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1864]&lt;AM03&gt;Investor Relations Department|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101731Z" creationid="Olivier" creationdate="20200730T101731Z">
+        <seg>[1864]&lt;AM03&gt;Departamento relações com investidores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
