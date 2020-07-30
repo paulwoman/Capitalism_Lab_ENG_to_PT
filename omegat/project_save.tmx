@@ -40,8 +40,8 @@
       <tuv lang="en-US">
         <seg>Freq.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085411Z" creationid="Olivier" creationdate="20200728T085411Z">
-        <seg>Ad..|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
+        <seg>Ad.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,8 +2529,8 @@
       <tuv lang="en-US">
         <seg>[0779]&lt;FH17&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084717Z" creationid="Olivier" creationdate="20200728T084717Z">
-        <seg>[0778]&lt;FH16&gt;No. de </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175317Z" creationid="Olivier" creationdate="20200728T084717Z">
+        <seg>[0779]&lt;FH17&gt;No. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,8 +3089,8 @@
       <tuv lang="en-US">
         <seg>[0881]&lt;A302&gt;Unique Brand|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085119Z" creationid="Olivier" creationdate="20200728T085119Z">
-        <seg>[0881]&lt;A302&gt;Unique Marca|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175402Z" creationid="Olivier" creationdate="20200728T085119Z">
+        <seg>[0881]&lt;A302&gt;única|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3409,8 +3409,8 @@
       <tuv lang="en-US">
         <seg>[0929]&lt;0137&gt;Ad.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085333Z" creationid="Olivier" creationdate="20200728T085333Z">
-        <seg>[0929]&lt;0137&gt;Gasto.</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175522Z" creationid="Olivier" creationdate="20200728T085333Z">
+        <seg>[0929]&lt;0137&gt;Gasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13010,8 +13010,8 @@
       <tuv lang="en-US">
         <seg>of frontline employees|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084711Z" creationid="Olivier" creationdate="20200728T084657Z">
-        <seg>empregados de linha de frente|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175319Z" creationid="Olivier" creationdate="20200728T084657Z">
+        <seg>de empregados de linha de frente|</seg>
       </tuv>
     </tu>
     <tu>
