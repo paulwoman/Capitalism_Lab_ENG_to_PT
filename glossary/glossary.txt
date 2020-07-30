@@ -103,3 +103,4 @@ Growing	Crescendo
 Harvesting	Coletando
 Link	Ligar mídia
 on	na
+Newspaper	jornal
