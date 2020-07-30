@@ -7911,6 +7911,126 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2075]&lt;1020&gt;Progress|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111219Z" creationid="Olivier" creationdate="20200730T111219Z">
+        <seg>[2075]&lt;1020&gt;Progresso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2078]&lt;1023&gt;Internal Sale|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111236Z" creationid="Olivier" creationdate="20200730T111236Z">
+        <seg>[2078]&lt;1023&gt;Vendas internas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2084]&lt;1029&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111238Z" creationid="Olivier" creationdate="20200730T111238Z">
+        <seg>[2084]&lt;1029&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2091]&lt;1036&gt;Select|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111248Z" creationid="Olivier" creationdate="20200730T111248Z">
+        <seg>[2091]&lt;1036&gt;Selectione|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2092]&lt;1037&gt;Input Material|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111259Z" creationid="Olivier" creationdate="20200730T111259Z">
+        <seg>[2092]&lt;1037&gt;Material de entrada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2093]&lt;AR00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111307Z" creationid="Olivier" creationdate="20200730T111307Z">
+        <seg>[2093]&lt;AR00&gt;Gado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2094]&lt;AR01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111313Z" creationid="Olivier" creationdate="20200730T111313Z">
+        <seg>[2094]&lt;AR01&gt;Ovelha|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2095]&lt;AR02&gt;Pig|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111320Z" creationid="Olivier" creationdate="20200730T111320Z">
+        <seg>[2095]&lt;AR02&gt;Porco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2096]&lt;AR03&gt;Chicken|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111326Z" creationid="Olivier" creationdate="20200730T111326Z">
+        <seg>[2096]&lt;AR03&gt;Galinha|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2097]&lt;AR04&gt;Goat|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111333Z" creationid="Olivier" creationdate="20200730T111333Z">
+        <seg>[2097]&lt;AR04&gt;Cabra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2098]&lt;AR05&gt;Goose|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111339Z" creationid="Olivier" creationdate="20200730T111339Z">
+        <seg>[2098]&lt;AR05&gt;Ganso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2099]&lt;AR06&gt;Ostrich|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111343Z" creationid="Olivier" creationdate="20200730T111343Z">
+        <seg>[2099]&lt;AR06&gt;Avestruz|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2100]&lt;AR07&gt;Turkey|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111421Z" creationid="Olivier" creationdate="20200730T111421Z">
+        <seg>[2100]&lt;AR07&gt;Peru|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2101]&lt;AS00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111432Z" creationid="Olivier" creationdate="20200730T111432Z">
+        <seg>[2101]&lt;AS00&gt;Gado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2102]&lt;AS01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123144Z" creationid="Olivier" creationdate="20200730T123144Z">
+        <seg>[2102]&lt;AS01&gt;Ovelha|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
