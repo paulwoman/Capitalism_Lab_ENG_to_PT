@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bar indicates the growth progress of the crop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213720Z" creationid="Olivier" creationdate="20200730T213720Z">
+        <seg>A barra indica o crescimento da cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creator's version is %1s while your version is %2s.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
@@ -146,6 +154,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195912Z" creationid="Olivier" creationdate="20200730T195912Z">
         <seg>The raw material which the unidade é currently producing.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of crop that being grown.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213635Z" creationid="Olivier" creationdate="20200730T213635Z">
+        <seg>O nome da cultura que está sendo plantada.^ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of livestock being raised.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213744Z" creationid="Olivier" creationdate="20200730T213744Z">
+        <seg>O tipo de animal que está sendo criado.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -13276,6 +13301,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171238Z" creationid="Olivier" creationdate="20200730T171238Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Crop Name~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213541Z" creationid="Olivier" creationdate="20200730T213541Z">
+        <seg>~Nome da cultura~</seg>
       </tuv>
     </tu>
     <tu>
