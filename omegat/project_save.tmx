@@ -11866,8 +11866,8 @@
       <tuv lang="en-US">
         <seg>[2702]&lt;DOWR&gt;You cannot join the game because your Capitalism II version is different from that of this multiplayer game's creator.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172847Z" creationid="Olivier" creationdate="20200730T172801Z">
-        <seg>[2702]&lt;DOWR&gt;Você não pode entrar no jogo porque sua versão é diferente. </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183427Z" creationid="Olivier" creationdate="20200730T172801Z">
+        <seg>[2702]&lt;DOWR&gt;Você não pode entrar no jogo porque sua versão é diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,16 +11914,16 @@
       <tuv lang="en-US">
         <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173101Z" creationid="Olivier" creationdate="20200730T173008Z">
-        <seg>[2712]&lt;AIG5&gt;Foco mídia</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183512Z" creationid="Olivier" creationdate="20200730T173008Z">
+        <seg>[2712]&lt;AIG5&gt;Foco mídia|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2713]&lt;AIS4&gt;Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173113Z" creationid="Olivier" creationdate="20200730T173113Z">
-        <seg>[2713]&lt;AIS4&gt;Tec.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183554Z" creationid="Olivier" creationdate="20200730T173113Z">
+        <seg>[2713]&lt;AIS4&gt;Teq.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12010,8 +12010,8 @@
       <tuv lang="en-US">
         <seg>[2724]&lt;NCJ9&gt;discharged by|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173405Z" creationid="Olivier" creationdate="20200730T173405Z">
-        <seg>[2724]&lt;NCJ9&gt;dispensado by|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183600Z" creationid="Olivier" creationdate="20200730T173405Z">
+        <seg>[2724]&lt;NCJ9&gt;dispensado por|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,6 +12188,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173652Z" creationid="Olivier" creationdate="20200730T173652Z">
         <seg>[2746]&lt;NBF1&gt;adquire um|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2747]&lt;NBF2&gt;acquires a|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183624Z" creationid="Olivier" creationdate="20200730T183624Z">
+        <seg>[2747]&lt;NBF2&gt;adquire a|</seg>
       </tuv>
     </tu>
     <tu>
