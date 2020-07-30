@@ -168,3 +168,6 @@ Sort	Organizar
 Use	Usar
 Exit	Sair
 Duration	Duração
+has stopped	parou
+Message	Messagem
+Prev	Anterior
