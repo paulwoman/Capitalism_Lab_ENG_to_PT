@@ -48,8 +48,8 @@
       <tuv lang="en-US">
         <seg>How much can you pay?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132606Z" creationid="Olivier" creationdate="20200730T132606Z">
-        <seg> Quanto Você pode pagar?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182036Z" creationid="Olivier" creationdate="20200730T132606Z">
+        <seg>Quanto Você pode pagar?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>Panic Selling Ensues!|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132112Z" creationid="Olivier" creationdate="20200730T132112Z">
-        <seg>Panico por parte dos acionistas!</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182016Z" creationid="Olivier" creationdate="20200730T132112Z">
+        <seg>Panico por parte dos acionistas!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9314,8 +9314,8 @@
       <tuv lang="en-US">
         <seg>[2291]&lt;1211&gt;I want to sell this firm.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132602Z" creationid="Olivier" creationdate="20200730T132602Z">
-        <seg>[2291]&lt;1211&gt;Eu quero vender essa firma</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182033Z" creationid="Olivier" creationdate="20200730T132602Z">
+        <seg>[2291]&lt;1211&gt;Eu quero vender essa firma.</seg>
       </tuv>
     </tu>
     <tu>
