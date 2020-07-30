@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI will take over the duties.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132159Z" creationid="Olivier" creationdate="20200730T132159Z">
+        <seg>PC vai assumir suas funções.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fields are Completely Stripped of Vegetation.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
@@ -46,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Looters Steal |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132037Z" creationid="Olivier" creationdate="20200730T132037Z">
+        <seg>Saqueadores roubaram |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the other companies have a technology more advanced than yours.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081336Z" creationid="Olivier" creationdate="20200728T081336Z">
         <seg>Todas as suas são mais avançadas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Panic Selling Ensues!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132112Z" creationid="Olivier" creationdate="20200730T132112Z">
+        <seg>Panico por parte dos acionistas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9092,6 +9116,62 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132013Z" creationid="Olivier" creationdate="20200730T132013Z">
         <seg>[2257]&lt;1178&gt; apagão por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2258]&lt;1179&gt; Hours!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132026Z" creationid="Olivier" creationdate="20200730T132026Z">
+        <seg>[2258]&lt;1179&gt; Horas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2259]&lt;1180&gt; Worth of Goods from City's Retail Stores.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132051Z" creationid="Olivier" creationdate="20200730T132051Z">
+        <seg>[2259]&lt;1180&gt; valor em bens da cidade's lojas de varejo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2260]&lt;1181&gt;Stock Exchange Dives |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132058Z" creationid="Olivier" creationdate="20200730T132058Z">
+        <seg>[2260]&lt;1181&gt;Mercado de ações despenca |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132123Z" creationid="Olivier" creationdate="20200730T132123Z">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2278]&lt;1198&gt;Player group |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132136Z" creationid="Olivier" creationdate="20200730T132136Z">
+        <seg>[2278]&lt;1198&gt;jogador do grupo |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2279]&lt;1199&gt; has left the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132150Z" creationid="Olivier" creationdate="20200730T132150Z">
+        <seg>[2279]&lt;1199&gt; Saiu do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2280]&lt;1200&gt;Forget it!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132319Z" creationid="Olivier" creationdate="20200730T132319Z">
+        <seg>[2280]&lt;1200&gt;Esqueça!|</seg>
       </tuv>
     </tu>
     <tu>
