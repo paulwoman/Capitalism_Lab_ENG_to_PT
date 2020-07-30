@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The raw material which the unit is currently producing.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195912Z" creationid="Olivier" creationdate="20200730T195912Z">
+        <seg>The raw material which the unidade é currently producing.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195723Z" creationid="Olivier" creationdate="20200730T195723Z">
         <seg>Thus, the higher the pts. audiência, the greater the effect de the advertising.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
+        <seg>Title=1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12824,6 +12840,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200043Z" creationid="Olivier" creationdate="20200730T200043Z">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200032Z" creationid="Olivier" creationdate="20200730T200032Z">
+        <seg>[HEADER]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Inventory Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195915Z" creationid="Olivier" creationdate="20200730T195915Z">
+        <seg>[Inventory Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T054706Z" creationid="Olivier" creationdate="20200728T054706Z">
@@ -12832,10 +12872,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Livestock Processing Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195806Z" creationid="Olivier" creationdate="20200730T195806Z">
+        <seg>[Livestock Processing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195801Z" creationid="Olivier" creationdate="20200730T195801Z">
         <seg>[Livestock Raising Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Logging Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195809Z" creationid="Olivier" creationdate="20200730T195809Z">
+        <seg>[Logging Unidade]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12936,6 +12992,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Manufacturing Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195924Z" creationid="Olivier" creationdate="20200730T195924Z">
+        <seg>[Manufacturing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195932Z" creationid="Olivier" creationdate="20200730T195932Z">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Private Labelling Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195919Z" creationid="Olivier" creationdate="20200730T195919Z">
+        <seg>[Private Labelling Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Product Research and Development Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195951Z" creationid="Olivier" creationdate="20200730T195951Z">
+        <seg>[Product Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Project Management Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195941Z" creationid="Olivier" creationdate="20200730T195941Z">
+        <seg>[Project Management Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Project Programming Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195936Z" creationid="Olivier" creationdate="20200730T195936Z">
+        <seg>[Project Programming Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Purchasing Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200012Z" creationid="Olivier" creationdate="20200730T200012Z">
+        <seg>[Purchasing Unidade]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Radical Research and Development Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195948Z" creationid="Olivier" creationdate="20200730T195948Z">
+        <seg>[Radical Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
@@ -12944,10 +13064,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Sales Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195955Z" creationid="Olivier" creationdate="20200730T195955Z">
+        <seg>[Sales Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Tech Programming Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195431Z" creationid="Olivier" creationdate="20200730T195323Z">
         <seg>[Tech Programming Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Technology Research and Development Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195959Z" creationid="Olivier" creationdate="20200730T195959Z">
+        <seg>[Technology Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Output]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200014Z" creationid="Olivier" creationdate="20200730T200014Z">
+        <seg>[Warehouse Output]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Storage]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200006Z" creationid="Olivier" creationdate="20200730T200006Z">
+        <seg>[Warehouse Storage]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13156,6 +13308,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195505Z" creationid="Olivier" creationdate="20200730T195505Z">
         <seg>~Pts. audiência~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Raw Material Name~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195810Z" creationid="Olivier" creationdate="20200730T195810Z">
+        <seg>~Raw Material nome~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
