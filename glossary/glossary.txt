@@ -78,7 +78,9 @@ Mansion	Mansão
 Your	Sua
 No.	No.
 Sector	setor
-Industry	industria
 million	milhão
 Period	Periodo
 Name	nome
+Industry	Industria
+Industries	Industrias
+Products	produtos
