@@ -101,7 +101,7 @@ Concern	Peso
 Sowing	Semeando
 Growing	Crescendo
 Harvesting	Coletando
-Link	Ligar 
+Link	Ligar
 on	na
 Newspaper	jornal
 Abort	Abortar
@@ -118,3 +118,4 @@ Reserve	Reserva
 Terminate	finalizar
 Progress	Progresso
 Internal Sale	Vendas internas
+Turkeys	Perus
