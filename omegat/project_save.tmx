@@ -8409,8 +8409,72 @@
       <tuv lang="en-US">
         <seg>[2154]&lt;1075&gt; sets up a Farm|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125826Z" creationid="Olivier" creationdate="20200730T125826Z">
-        <seg>[2154]&lt;1075&gt; abre up a Farm|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125948Z" creationid="Olivier" creationdate="20200730T125948Z">
+        <seg>[2154]&lt;1075&gt; abre a fazenda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2155]&lt;1076&gt; sets up a Logging Camp|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125951Z" creationid="Olivier" creationdate="20200730T125951Z">
+        <seg>[2155]&lt;1076&gt; abre a madeireira|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2156]&lt;1077&gt; sets up a Mine|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130004Z" creationid="Olivier" creationdate="20200730T130004Z">
+        <seg>[2156]&lt;1077&gt; abre a mina|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2157]&lt;1078&gt; Drills an Oil Well|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130013Z" creationid="Olivier" creationdate="20200730T130013Z">
+        <seg>[2157]&lt;1078&gt; Excavou um poço de petróleo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2158]&lt;1079&gt;TV Station Started|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130049Z" creationid="Olivier" creationdate="20200730T130042Z">
+        <seg>[2158]&lt;1079&gt;Estação de TV iniciada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2159]&lt;1080&gt;Newspaper Publisher Started|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130139Z" creationid="Olivier" creationdate="20200730T130037Z">
+        <seg>[2159]&lt;1080&gt;Prensa de jornal iniciada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2160]&lt;1081&gt;Radio Station Started|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130142Z" creationid="Olivier" creationdate="20200730T130142Z">
+        <seg>[2160]&lt;1081&gt;Estação de rádio iniciada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2161]&lt;1082&gt;Seaport Opened|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130152Z" creationid="Olivier" creationdate="20200730T130152Z">
+        <seg>[2161]&lt;1082&gt;Porto maritimo aberto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2162]&lt;1083&gt; Builds a Mansion|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130200Z" creationid="Olivier" creationdate="20200730T130200Z">
+        <seg>[2162]&lt;1083&gt; Constrói uma mansão|</seg>
       </tuv>
     </tu>
     <tu>
