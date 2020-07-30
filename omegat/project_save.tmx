@@ -10512,6 +10512,142 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2474]&lt;1364&gt;, is |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170801Z" creationid="Olivier" creationdate="20200730T170801Z">
+        <seg>[2474]&lt;1364&gt;, é |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2475]&lt;1365&gt; (weekly salary) x |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170807Z" creationid="Olivier" creationdate="20200730T170807Z">
+        <seg>[2475]&lt;1365&gt; (salário semanal) x |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2476]&lt;1366&gt; (years of service)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170813Z" creationid="Olivier" creationdate="20200730T170813Z">
+        <seg>[2476]&lt;1366&gt; (anos de serviço)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2477]&lt;1367&gt;Do you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170857Z" creationid="Olivier" creationdate="20200730T170857Z">
+        <seg>[2477]&lt;1367&gt;Você quer proceder?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2478]&lt;1368&gt;Which job you want to offer ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170902Z" creationid="Olivier" creationdate="20200730T170902Z">
+        <seg>[2478]&lt;1368&gt;Qual emprego Você quer oferecer ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2479]&lt;1369&gt;Offer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170913Z" creationid="Olivier" creationdate="20200730T170913Z">
+        <seg>[2479]&lt;1369&gt;Oferecer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2480]&lt;1370&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170923Z" creationid="Olivier" creationdate="20200730T170923Z">
+        <seg>[2480]&lt;1370&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2481]&lt;1371&gt;President of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170928Z" creationid="Olivier" creationdate="20200730T170928Z">
+        <seg>[2481]&lt;1371&gt;Presidente de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2483]&lt;1373&gt; is disappointed by your rejection.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170940Z" creationid="Olivier" creationdate="20200730T170940Z">
+        <seg>[2483]&lt;1373&gt; está desapontado por sua rejeição.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2484]&lt;1374&gt;Select|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170943Z" creationid="Olivier" creationdate="20200730T170943Z">
+        <seg>[2484]&lt;1374&gt;Selectionar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2485]&lt;1375&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170944Z" creationid="Olivier" creationdate="20200730T170944Z">
+        <seg>[2485]&lt;1375&gt;Cancelar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2495]&lt;1385&gt;Add|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170951Z" creationid="Olivier" creationdate="20200730T170951Z">
+        <seg>[2495]&lt;1385&gt;Adicionar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2496]&lt;1386&gt;Delete|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171007Z" creationid="Olivier" creationdate="20200730T171007Z">
+        <seg>[2496]&lt;1386&gt;Deletar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2497]&lt;1387&gt;Replace|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171017Z" creationid="Olivier" creationdate="20200730T171017Z">
+        <seg>[2497]&lt;1387&gt;Substituir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2498]&lt;1388&gt;Sort|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171028Z" creationid="Olivier" creationdate="20200730T171028Z">
+        <seg>[2498]&lt;1388&gt;Organizar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2499]&lt;1389&gt;Use|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171040Z" creationid="Olivier" creationdate="20200730T171040Z">
+        <seg>[2499]&lt;1389&gt;Usar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2500]&lt;1390&gt;Exit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171057Z" creationid="Olivier" creationdate="20200730T171057Z">
+        <seg>[2500]&lt;1390&gt;Sair|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
