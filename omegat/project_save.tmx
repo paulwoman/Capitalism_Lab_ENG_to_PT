@@ -6991,6 +6991,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1831]&lt;0835&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101153Z" creationid="Olivier" creationdate="20200730T101153Z">
+        <seg>[1831]&lt;0835&gt;Valor líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1832]&lt;0836&gt;Annual Operating Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101200Z" creationid="Olivier" creationdate="20200730T101200Z">
+        <seg>[1832]&lt;0836&gt;Lucro operacional anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1835]&lt;0839&gt;Goals of the Player's Own Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101223Z" creationid="Olivier" creationdate="20200730T101223Z">
+        <seg>[1835]&lt;0839&gt;Metas da corporação do jogador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101332Z" creationid="Olivier" creationdate="20200730T101332Z">
+        <seg>[1837]&lt;0841&gt;Margem de lucro operacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1838]&lt;0842&gt;Return on Equity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101340Z" creationid="Olivier" creationdate="20200730T101340Z">
+        <seg>[1838]&lt;0842&gt;Retorno em equity|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1839]&lt;0843&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101347Z" creationid="Olivier" creationdate="20200730T101347Z">
+        <seg>[1839]&lt;0843&gt;Preço da ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1840]&lt;0844&gt;Ownership|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101353Z" creationid="Olivier" creationdate="20200730T101353Z">
+        <seg>[1840]&lt;0844&gt;Posse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
@@ -7135,6 +7191,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of Controlled Companies|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101215Z" creationid="Olivier" creationdate="20200730T101215Z">
+        <seg>de companhias controladas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>of Employees in Your Corporation|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095416Z" creationid="Olivier" creationdate="20200730T095416Z">
@@ -7151,6 +7215,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of Product Classes Being Produced|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101409Z" creationid="Olivier" creationdate="20200730T101409Z">
+        <seg>classes de produto sendo produzidos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>of Product Classes Produced by Your Corporation|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095503Z" creationid="Olivier" creationdate="20200730T095503Z">
@@ -7163,6 +7235,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091524Z" creationid="Olivier" creationdate="20200728T091524Z">
         <seg>classes produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Types Being Produced|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101429Z" creationid="Olivier" creationdate="20200730T101429Z">
+        <seg>de Tipos de produtos sendo produzidos|</seg>
       </tuv>
     </tu>
     <tu>
