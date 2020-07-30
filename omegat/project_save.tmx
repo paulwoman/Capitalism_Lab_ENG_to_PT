@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of technology currently being developed.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
+        <seg>The type de technology currently being developed.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will you accept this offer?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
@@ -12760,6 +12768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Advertising Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
+        <seg>[Advertising Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
@@ -12876,6 +12892,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Tech Programming Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195431Z" creationid="Olivier" creationdate="20200730T195323Z">
+        <seg>[Tech Programming Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13068,6 +13092,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171238Z" creationid="Olivier" creationdate="20200730T171238Z">
         <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~R&amp;D Progress~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195437Z" creationid="Olivier" creationdate="20200730T195437Z">
+        <seg>~R&amp;D Progress~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
