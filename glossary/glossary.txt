@@ -146,3 +146,5 @@ Forget it	Esqueça
 shares	ações
 its own stock	sua própria ação
 held by	possuida por
+Invented	inventada
+Known	Conhecida
