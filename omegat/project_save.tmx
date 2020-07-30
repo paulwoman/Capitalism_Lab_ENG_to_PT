@@ -8856,6 +8856,134 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2227]&lt;1148&gt; Buys |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131429Z" creationid="Olivier" creationdate="20200730T131429Z">
+        <seg>[2227]&lt;1148&gt; compra |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2228]&lt;1149&gt;Back |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131429Z" creationid="Olivier" creationdate="20200730T131429Z">
+        <seg>[2228]&lt;1149&gt;Voltar |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2229]&lt;1150&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131438Z" creationid="Olivier" creationdate="20200730T131438Z">
+        <seg>[2229]&lt;1150&gt; ações de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2230]&lt;1151&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131444Z" creationid="Olivier" creationdate="20200730T131444Z">
+        <seg>[2230]&lt;1151&gt;sua própria ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2231]&lt;1152&gt; from |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131450Z" creationid="Olivier" creationdate="20200730T131450Z">
+        <seg>[2231]&lt;1152&gt; de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2232]&lt;1153&gt; at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131501Z" creationid="Olivier" creationdate="20200730T131501Z">
+        <seg>[2232]&lt;1153&gt; a |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2233]&lt;1154&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131507Z" creationid="Olivier" creationdate="20200730T131507Z">
+        <seg>[2233]&lt;1154&gt; por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2234]&lt;1155&gt; Succeeds |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131543Z" creationid="Olivier" creationdate="20200730T131543Z">
+        <seg>[2234]&lt;1155&gt; sucede |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2235]&lt;1156&gt; as the CEO of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131540Z" creationid="Olivier" creationdate="20200730T131540Z">
+        <seg>[2235]&lt;1156&gt; como CEO da |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2236]&lt;1157&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131550Z" creationid="Olivier" creationdate="20200730T131541Z">
+        <seg>[2236]&lt;1157&gt;Pesquisadores no |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131619Z" creationid="Olivier" creationdate="20200730T131619Z">
+        <seg>[2237]&lt;1158&gt;'s centro de tec. anunciaram nova invenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2238]&lt;1159&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131626Z" creationid="Olivier" creationdate="20200730T131626Z">
+        <seg>[2238]&lt;1159&gt; Demonstrado na mídia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2241]&lt;1162&gt;Unknown Disease Decimates |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131632Z" creationid="Olivier" creationdate="20200730T131632Z">
+        <seg>[2241]&lt;1162&gt;Doença desconhecida dizima |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2242]&lt;1163&gt; Population in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131638Z" creationid="Olivier" creationdate="20200730T131638Z">
+        <seg>[2242]&lt;1163&gt; população em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2243]&lt;1164&gt; Area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131657Z" creationid="Olivier" creationdate="20200730T131654Z">
+        <seg>[2243]&lt;1164&gt; área. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2244]&lt;1165&gt; Are Destroyed.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131721Z" creationid="Olivier" creationdate="20200730T131721Z">
+        <seg>[2244]&lt;1165&gt; área destruida.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
