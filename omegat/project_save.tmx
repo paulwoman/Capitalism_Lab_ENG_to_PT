@@ -7879,6 +7879,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2065]&lt;1010&gt;Terminate R&amp;D|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111114Z" creationid="Olivier" creationdate="20200730T111024Z">
+        <seg>[2065]&lt;1010&gt;Finalizar P&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2070]&lt;1015&gt;New Product R&amp;D|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111105Z" creationid="Olivier" creationdate="20200730T111005Z">
+        <seg>[2070]&lt;1015&gt;Novo Produto P&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2073]&lt;1018&gt;Original Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111133Z" creationid="Olivier" creationdate="20200730T111133Z">
+        <seg>[2073]&lt;1018&gt;tec. original|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2074]&lt;1019&gt;Target Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111208Z" creationid="Olivier" creationdate="20200730T111208Z">
+        <seg>[2074]&lt;1019&gt;Meta tecn.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
