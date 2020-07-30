@@ -8119,6 +8119,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2114]&lt;AU01&gt;News related to corporations that you control + Special news|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124556Z" creationid="Olivier" creationdate="20200730T124556Z">
+        <seg>[2114]&lt;AU01&gt;Novidades relacionadas a corporações que Você controla + novidades especiais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2115]&lt;AU02&gt;News related to your corporation + Special news|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124614Z" creationid="Olivier" creationdate="20200730T124557Z">
+        <seg>[2115]&lt;AU02&gt;Novidades relacionadas a sua corporação + novidades especiais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2116]&lt;AU03&gt;Special news only|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124747Z" creationid="Olivier" creationdate="20200730T124609Z">
+        <seg>[2116]&lt;AU03&gt;Somente novidades especiais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
