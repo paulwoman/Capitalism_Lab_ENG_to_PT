@@ -167,3 +167,4 @@ Replace	Substituir
 Sort	Organizar
 Use	Usar
 Exit	Sair
+Duration	Duração
