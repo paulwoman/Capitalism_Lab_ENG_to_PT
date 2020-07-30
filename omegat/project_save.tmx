@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fields are Completely Stripped of Vegetation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
+        <seg>Campos estão destruidos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freq.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085411Z" creationid="Olivier" creationdate="20200728T085411Z">
@@ -8980,6 +8988,110 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131721Z" creationid="Olivier" creationdate="20200730T131721Z">
         <seg>[2244]&lt;1165&gt; área destruida.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2245]&lt;1166&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131733Z" creationid="Olivier" creationdate="20200730T131733Z">
+        <seg>[2245]&lt;1166&gt;Pesquisadores no |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2246]&lt;1167&gt;'s R&amp;D Center Make a Breakthrough.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131740Z" creationid="Olivier" creationdate="20200730T131740Z">
+        <seg>[2246]&lt;1167&gt;'s centro de tec. fizeram uma descoberta. |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2247]&lt;1168&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131758Z" creationid="Olivier" creationdate="20200730T131758Z">
+        <seg>[2247]&lt;1168&gt; Demonstrado na mídia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2248]&lt;1169&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131824Z" creationid="Olivier" creationdate="20200730T131824Z">
+        <seg>[2248]&lt;1169&gt;Pesquisadores em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2249]&lt;1170&gt;'s R&amp;D Center Make a Breakthrough in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131829Z" creationid="Olivier" creationdate="20200730T131829Z">
+        <seg>[2249]&lt;1170&gt;'s centro de tec. fizeram uma descoberta em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131834Z" creationid="Olivier" creationdate="20200730T131834Z">
+        <seg>[2250]&lt;1171&gt;'s tec. de produção.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2251]&lt;1172&gt;Fire Destroyed the |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131840Z" creationid="Olivier" creationdate="20200730T131840Z">
+        <seg>[2251]&lt;1172&gt;Fogo destruiu o |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2252]&lt;1173&gt;'s |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131857Z" creationid="Olivier" creationdate="20200730T131857Z">
+        <seg>[2252]&lt;1173&gt;'s |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2253]&lt;1174&gt; in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131848Z" creationid="Olivier" creationdate="20200730T131848Z">
+        <seg>[2253]&lt;1174&gt; em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2254]&lt;1175&gt; near |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131851Z" creationid="Olivier" creationdate="20200730T131851Z">
+        <seg>[2254]&lt;1175&gt; perto |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2255]&lt;1176&gt;Plague of Insects Descends on Crops in |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131929Z" creationid="Olivier" creationdate="20200730T131929Z">
+        <seg>[2255]&lt;1176&gt;Plague de Insects Descends na Crops em |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2256]&lt;1177&gt; Area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131945Z" creationid="Olivier" creationdate="20200730T131945Z">
+        <seg>[2256]&lt;1177&gt; área.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2257]&lt;1178&gt; Blacked Out for |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132013Z" creationid="Olivier" creationdate="20200730T132013Z">
+        <seg>[2257]&lt;1178&gt; apagão por |</seg>
       </tuv>
     </tu>
     <tu>
