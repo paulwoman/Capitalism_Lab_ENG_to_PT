@@ -6559,6 +6559,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1660]&lt;0664&gt;Annual Operating Profit of Your Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095214Z" creationid="Olivier" creationdate="20200730T095214Z">
+        <seg>[1660]&lt;0664&gt;Receita operacional anual de sua corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1661]&lt;0665&gt;Net Worth of Companies Under Your Control|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095226Z" creationid="Olivier" creationdate="20200730T095226Z">
+        <seg>[1661]&lt;0665&gt;Valor líquido das companhias sob o seu controle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1662]&lt;0666&gt;Market Cap of Companies Under Your Control|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095236Z" creationid="Olivier" creationdate="20200730T095236Z">
+        <seg>[1662]&lt;0666&gt;Market cap das companhias sob o seu controle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
