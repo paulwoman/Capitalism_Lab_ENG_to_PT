@@ -5,7 +5,7 @@ Cidade	Cidade
 Distance	Distancia
 Price	Preço
 Freight Cost	Custo de frete
-Supply	Suprimento
+Supply	Fornecimento
 Demand	Demanda
 Seaports	Portos maritimos
 Quality	Qualid.
@@ -110,3 +110,7 @@ Tech	tec.
 Upgrade	Melhorar
 from	do
 level	nível
+to	para o
+Upgrade	Melhorar
+now	agora
+Cost+Freight	custo+frete
