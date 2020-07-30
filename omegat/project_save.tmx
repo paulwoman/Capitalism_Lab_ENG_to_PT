@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the external demand of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T215016Z" creationid="Olivier" creationdate="20200730T215010Z">
+        <seg>A barra laranja indica a demanda externa pelo produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The progress of the current R&amp;D project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
