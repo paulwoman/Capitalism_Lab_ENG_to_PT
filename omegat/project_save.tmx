@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
+        <seg>o governo anunciou que a moeda vai ser reavaliada a uma razão de 1 para 100.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will you accept this offer?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164825Z" creationid="Olivier" creationdate="20200730T164825Z">
@@ -11852,6 +11860,70 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172933Z" creationid="Olivier" creationdate="20200730T172933Z">
         <seg>[2705]&lt;NCUR&gt;moeda reavaliada! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172951Z" creationid="Olivier" creationdate="20200730T172951Z">
+        <seg>[2708]&lt;BL01&gt;comprar terra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172955Z" creationid="Olivier" creationdate="20200730T172955Z">
+        <seg>[2709]&lt;BL02&gt;Você não pode comprar esta terra.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2710]&lt;P36M&gt;Past 36 months|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172959Z" creationid="Olivier" creationdate="20200730T172959Z">
+        <seg>[2710]&lt;P36M&gt;Últ. 36 meses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173039Z" creationid="Olivier" creationdate="20200730T173039Z">
+        <seg>[2711]&lt;AIG4&gt;Foco teq.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173101Z" creationid="Olivier" creationdate="20200730T173008Z">
+        <seg>[2712]&lt;AIG5&gt;Foco mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2713]&lt;AIS4&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173113Z" creationid="Olivier" creationdate="20200730T173113Z">
+        <seg>[2713]&lt;AIS4&gt;Tec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2714]&lt;AIS5&gt;Media|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173118Z" creationid="Olivier" creationdate="20200730T173118Z">
+        <seg>[2714]&lt;AIS5&gt;Mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2715]&lt;RDTL&gt;Tech level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173222Z" creationid="Olivier" creationdate="20200730T173222Z">
+        <seg>[2715]&lt;RDTL&gt;Nível teq.|</seg>
       </tuv>
     </tu>
     <tu>
