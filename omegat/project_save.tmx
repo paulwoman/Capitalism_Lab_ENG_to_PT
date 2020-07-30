@@ -6887,6 +6887,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1817]&lt;0821&gt;NEW SINGLE-PLAYER GAME|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100335Z" creationid="Olivier" creationdate="20200730T100335Z">
+        <seg>[1817]&lt;0821&gt;Novo jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
