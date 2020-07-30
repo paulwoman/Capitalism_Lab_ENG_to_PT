@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each shareholder now holds|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173744Z" creationid="Olivier" creationdate="20200730T173744Z">
+        <seg>Cada shareholder agora possui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fields are Completely Stripped of Vegetation.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
@@ -12060,6 +12068,190 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173509Z" creationid="Olivier" creationdate="20200730T173509Z">
         <seg>[2732]&lt;NBF1&gt;abre um|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2733]&lt;NBF2&gt;opens a|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173515Z" creationid="Olivier" creationdate="20200730T173515Z">
+        <seg>[2733]&lt;NBF2&gt;abre a|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2734]&lt;NBF3&gt;sets up a Warehouse|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173520Z" creationid="Olivier" creationdate="20200730T173520Z">
+        <seg>[2734]&lt;NBF3&gt;abre um armazém|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2735]&lt;NBF4&gt;sets up a TV Station|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173524Z" creationid="Olivier" creationdate="20200730T173524Z">
+        <seg>[2735]&lt;NBF4&gt;abre a Estação de TV|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2736]&lt;NBF5&gt;sets up a Newspaper Publisher|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173529Z" creationid="Olivier" creationdate="20200730T173529Z">
+        <seg>[2736]&lt;NBF5&gt;abre a Prensa de jornal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2737]&lt;NBF6&gt;sets up a Radio Station|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173532Z" creationid="Olivier" creationdate="20200730T173532Z">
+        <seg>[2737]&lt;NBF6&gt;abre a Estação de rádio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2738]&lt;NBF7&gt;builds a|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173536Z" creationid="Olivier" creationdate="20200730T173536Z">
+        <seg>[2738]&lt;NBF7&gt;Constrói a|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173540Z" creationid="Olivier" creationdate="20200730T173540Z">
+        <seg>[2739]&lt;NBF8&gt;Doar para construir a|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2740]&lt;NBF9&gt;sets up|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173551Z" creationid="Olivier" creationdate="20200730T173551Z">
+        <seg>[2740]&lt;NBF9&gt;abre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2741]&lt;NBG1&gt;builds|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173606Z" creationid="Olivier" creationdate="20200730T173606Z">
+        <seg>[2741]&lt;NBG1&gt;Constrói|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173611Z" creationid="Olivier" creationdate="20200730T173611Z">
+        <seg>[2742]&lt;NDF1&gt;demoliu sua mansão e vendeu a terra.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2743]&lt;NDF2&gt;demolishes her Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173616Z" creationid="Olivier" creationdate="20200730T173616Z">
+        <seg>[2743]&lt;NDF2&gt;demoliu sua mansão e vendeu a terra.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2744]&lt;NAC1&gt;changes its corporate strategy from|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173620Z" creationid="Olivier" creationdate="20200730T173620Z">
+        <seg>[2744]&lt;NAC1&gt;Muda sua estratégia corporacional de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2745]&lt;NAC2&gt;to|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173640Z" creationid="Olivier" creationdate="20200730T173640Z">
+        <seg>[2745]&lt;NAC2&gt;para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2746]&lt;NBF1&gt;acquires an|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173652Z" creationid="Olivier" creationdate="20200730T173652Z">
+        <seg>[2746]&lt;NBF1&gt;adquire um|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2748]&lt;NBF3&gt;in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173655Z" creationid="Olivier" creationdate="20200730T173655Z">
+        <seg>[2748]&lt;NBF3&gt;em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2749]&lt;NBF4&gt;from|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173703Z" creationid="Olivier" creationdate="20200730T173703Z">
+        <seg>[2749]&lt;NBF4&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2750]&lt;NBF5&gt;for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173719Z" creationid="Olivier" creationdate="20200730T173719Z">
+        <seg>[2750]&lt;NBF5&gt;para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2751]&lt;NSS1&gt;splits its share|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173725Z" creationid="Olivier" creationdate="20200730T173725Z">
+        <seg>[2751]&lt;NSS1&gt;divide sua ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2752]&lt;NSS2&gt;-for-1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173733Z" creationid="Olivier" creationdate="20200730T173733Z">
+        <seg>[2752]&lt;NSS2&gt;-em-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2753]&lt;NSS3&gt;times as many shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173758Z" creationid="Olivier" creationdate="20200730T173758Z">
+        <seg>[2753]&lt;NSS3&gt;vezes a quantidade ações.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2754]&lt;NSS4&gt;undergoes a 1-|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173803Z" creationid="Olivier" creationdate="20200730T173803Z">
+        <seg>[2754]&lt;NSS4&gt;passa por 1-|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173808Z" creationid="Olivier" creationdate="20200730T173808Z">
+        <seg>[2755]&lt;NSS5&gt;Fundir ações, que agrupa cada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2756]&lt;NSS6&gt;shares into one share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173813Z" creationid="Olivier" creationdate="20200730T173813Z">
+        <seg>[2756]&lt;NSS6&gt;ações em ação.|</seg>
       </tuv>
     </tu>
     <tu>
