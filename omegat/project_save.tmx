@@ -7263,6 +7263,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1874]&lt;AN04&gt;RETIRE|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102129Z" creationid="Olivier" creationdate="20200730T102129Z">
+        <seg>[1874]&lt;AN04&gt;APOSENTAR-SE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1875]&lt;AN05&gt;GAME SETTINGS (F9)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102147Z" creationid="Olivier" creationdate="20200730T102147Z">
+        <seg>[1875]&lt;AN05&gt;CONFIGURAÇÕES DE JOGO (F9)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1876]&lt;AN06&gt;QUIT TO MAIN MENU|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102155Z" creationid="Olivier" creationdate="20200730T102155Z">
+        <seg>[1876]&lt;AN06&gt;IR PARA MENU PRINCIPAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1877]&lt;AN07&gt;QUIT TO WINDOWS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102206Z" creationid="Olivier" creationdate="20200730T102206Z">
+        <seg>[1877]&lt;AN07&gt;IR PARA WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1878]&lt;AN08&gt;CONTINUE GAME|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102212Z" creationid="Olivier" creationdate="20200730T102212Z">
+        <seg>[1878]&lt;AN08&gt;CONTINUAR|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1879]&lt;AN09&gt;HOTKEY LIST (K)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102223Z" creationid="Olivier" creationdate="20200730T102223Z">
+        <seg>[1879]&lt;AN09&gt;LISTA DE HOTKEYS(K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1913]&lt;0862&gt;Revenue Graph|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102316Z" creationid="Olivier" creationdate="20200730T102233Z">
+        <seg>[1913]&lt;0862&gt;Gráfico receita|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1914]&lt;0863&gt;Qty Sold Graph|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102327Z" creationid="Olivier" creationdate="20200730T102327Z">
+        <seg>[1914]&lt;0863&gt;Gráfico Qde vendida|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
