@@ -95,3 +95,6 @@ Add	Adicionar
 Remove	Subtrair
 RETIRE	APOSENTAR-SE
 Go	Ir
+Profit	Lucro
+Ours	Nosso
+Concern	Peso
