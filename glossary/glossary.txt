@@ -126,3 +126,5 @@ Merger	Fusão
 sets up	abre
 Headquarters	HQ
 Factory	fabrica
+Farm	fazenda
+Mine	mina
