@@ -1009,8 +1009,8 @@
       <tuv lang="en-US">
         <seg>[0549]&lt;AII4&gt; building factory input failed.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081307Z" creationid="Olivier" creationdate="20200728T081307Z">
-        <seg>[0549]&lt;AII4&gt;  falha em construir entradas da fábrica.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T110417Z" creationid="Olivier" creationdate="20200728T081307Z">
+        <seg>[0549]&lt;AII4&gt; falha em construir entradas da fábrica.|</seg>
       </tuv>
     </tu>
     <tu>
