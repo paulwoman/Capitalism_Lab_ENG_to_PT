@@ -115,3 +115,4 @@ Upgrade	Melhorar
 now	agora
 Cost+Freight	custo+frete
 Reserve	Reserva
+Terminate	finalizar
