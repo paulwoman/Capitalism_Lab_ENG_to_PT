@@ -20,8 +20,6 @@ Operating Overhead	Custos fixos operacionais
 Advertising & PR Expense	Advertising e relações públicas
 Training	Treinamento
 Monthly Interest	Juros mensais
-Borrow	Empréstimo
-Repay	Reembolso
 Building Types	Tipos de construções
 buildings	construções
 Land Cost|	Custo de terra
@@ -191,3 +189,5 @@ months	meses
 builds	Constrói
 for	para
 an	um
+Borrow	Pegar
+Repay	Pagar
