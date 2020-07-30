@@ -5385,8 +5385,8 @@
       <tuv lang="en-US">
         <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180345Z" creationid="Olivier" creationdate="20200728T180345Z">
-        <seg>[1364]&lt;0429&gt;Personal Riqueza|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180459Z" creationid="Olivier" creationdate="20200728T180345Z">
+        <seg>[1364]&lt;0429&gt;Riqueza pessoal|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5833,8 +5833,8 @@
       <tuv lang="en-US">
         <seg>[1479]&lt;0544&gt;Quality: |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181432Z" creationid="Olivier" creationdate="20200728T181432Z">
-        <seg>[1479]&lt;0544&gt;Qualid: |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180605Z" creationid="Olivier" creationdate="20200730T180605Z">
+        <seg>[1479]&lt;0544&gt;Qualid.: |</seg>
       </tuv>
     </tu>
     <tu>
@@ -6065,8 +6065,8 @@
       <tuv lang="en-US">
         <seg>[1510]&lt;0575&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184638Z" creationid="Olivier" creationdate="20200729T184638Z">
-        <seg>[1510]&lt;0575&gt;Para Score: -1 (You have enabled the cheated mode.)|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180611Z" creationid="Olivier" creationdate="20200729T184638Z">
+        <seg>[1510]&lt;0575&gt;Total Pontuação: -1 (Você habilitou o modo trapaça.)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6145,8 +6145,8 @@
       <tuv lang="en-US">
         <seg>[1522]&lt;0587&gt;Total Wealth|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184639Z" creationid="Olivier" creationdate="20200729T184639Z">
-        <seg>[1522]&lt;0587&gt;Para Riqueza|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180635Z" creationid="Olivier" creationdate="20200729T184639Z">
+        <seg>[1522]&lt;0587&gt;Riqueza Total|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6297,8 +6297,8 @@
       <tuv lang="en-US">
         <seg>[1604]&lt;0629&gt;Last Year Changes|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185740Z" creationid="Olivier" creationdate="20200729T185740Z">
-        <seg>[1604]&lt;0629&gt;Mudanças YTD|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180709Z" creationid="Olivier" creationdate="20200729T185740Z">
+        <seg>[1604]&lt;0629&gt;Mudanças últ. ano|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6449,16 +6449,16 @@
       <tuv lang="en-US">
         <seg>[1635]&lt;AK03&gt;Operating Overhead|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094409Z" creationid="Olivier" creationdate="20200730T094409Z">
-        <seg>[1635]&lt;AK03&gt;Custos fixos operacionais|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180745Z" creationid="Olivier" creationdate="20200730T180745Z">
+        <seg>[1635]&lt;AK03&gt;Custos operacionais|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1636]&lt;AK04&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094410Z" creationid="Olivier" creationdate="20200730T094410Z">
-        <seg>[1636]&lt;AK04&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180758Z" creationid="Olivier" creationdate="20200730T180758Z">
+        <seg>[1636]&lt;AK04&gt;Gastos advertising e P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
