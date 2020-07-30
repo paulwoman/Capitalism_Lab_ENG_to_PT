@@ -8031,6 +8031,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2103]&lt;AS02&gt;Pigs|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123153Z" creationid="Olivier" creationdate="20200730T123153Z">
+        <seg>[2103]&lt;AS02&gt;Porcos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2104]&lt;AS03&gt;Chickens|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T123209Z" creationid="Olivier" creationdate="20200730T123203Z">
+        <seg>[2104]&lt;AS03&gt;Galinhas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
