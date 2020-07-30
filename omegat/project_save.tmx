@@ -5337,8 +5337,8 @@
       <tuv lang="en-US">
         <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095523Z" creationid="Olivier" creationdate="20200728T095523Z">
-        <seg>[1353]&lt;0418&gt;Balanço da corporação||</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193339Z" creationid="Olivier" creationdate="20200728T095523Z">
+        <seg>[1353]&lt;0418&gt;Balanço da corporação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6801,8 +6801,8 @@
       <tuv lang="en-US">
         <seg>[1680]&lt;0683&gt; billion|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180918Z" creationid="Olivier" creationdate="20200730T180918Z">
-        <seg>[1680]&lt;0683&gt; bilhõe|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193559Z" creationid="Olivier" creationdate="20200730T193559Z">
+        <seg>[1680]&lt;0683&gt; bilhão|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6849,8 +6849,8 @@
       <tuv lang="en-US">
         <seg>[1722]&lt;0725&gt;Your Name|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180922Z" creationid="Olivier" creationdate="20200730T095810Z">
-        <seg>[1722]&lt;0725&gt;Sue nome|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193623Z" creationid="Olivier" creationdate="20200730T095810Z">
+        <seg>[1722]&lt;0725&gt;Seu nome|</seg>
       </tuv>
     </tu>
     <tu>
