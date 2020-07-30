@@ -8143,6 +8143,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2117]&lt;1038&gt; New Competitor|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124750Z" creationid="Olivier" creationdate="20200730T124750Z">
+        <seg>[2117]&lt;1038&gt; Novo competidor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2118]&lt;1039&gt; Firm Setting Up|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124911Z" creationid="Olivier" creationdate="20200730T124804Z">
+        <seg>[2118]&lt;1039&gt; Firma abrindo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2119]&lt;1040&gt; Firm Closing Down|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T124947Z" creationid="Olivier" creationdate="20200730T124926Z">
+        <seg>[2119]&lt;1040&gt; firma fechando|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
