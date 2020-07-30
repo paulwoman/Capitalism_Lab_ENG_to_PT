@@ -159,3 +159,11 @@ Chairman	Présidente
 Independent Investor	Investidor independente
 Do you agree?	Você concorda?
 president	presidente
+is	é
+Offer	Oferecer
+Cancel	Cancelar
+Delete	Deletar
+Replace	Substituir
+Sort	Organizar
+Use	Usar
+Exit	Sair
