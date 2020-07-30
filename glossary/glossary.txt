@@ -135,3 +135,6 @@ after	depois
 Operation	Operação
 BANKRUPTCY	Falência
 Share	ação
+Per	Por
+Buys	compra
+Sells	vende
