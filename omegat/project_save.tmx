@@ -8375,6 +8375,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2148]&lt;1069&gt; Merger!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125601Z" creationid="Olivier" creationdate="20200730T125601Z">
+        <seg>[2148]&lt;1069&gt; Fusão!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2149]&lt;1070&gt; sets up Headquarters|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125720Z" creationid="Olivier" creationdate="20200730T125720Z">
+        <seg>[2149]&lt;1070&gt; abre up HQ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2152]&lt;1073&gt; sets up a Factory|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125740Z" creationid="Olivier" creationdate="20200730T125740Z">
+        <seg>[2152]&lt;1073&gt; abre up a fabrica|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2153]&lt;1074&gt; opens a R&amp;D Center|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125751Z" creationid="Olivier" creationdate="20200730T125751Z">
+        <seg>[2153]&lt;1074&gt; abre o centro de tec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2154]&lt;1075&gt; sets up a Farm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125826Z" creationid="Olivier" creationdate="20200730T125826Z">
+        <seg>[2154]&lt;1075&gt; abre up a Farm|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
