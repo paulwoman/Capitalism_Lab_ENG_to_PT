@@ -110,7 +110,7 @@ Tech	tec.
 Upgrade	Melhorar
 from	do
 level	nível
-to	para o
+to	para
 Upgrade	Melhorar
 now	agora
 Cost+Freight	custo+frete
@@ -188,3 +188,5 @@ joins	se une
 resigns from his job at	sai de seu trabalho como
 discharged	dispensado
 months	meses
+builds	Constrói
+for	para
