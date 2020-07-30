@@ -12504,6 +12504,222 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174122Z" creationid="Olivier" creationdate="20200730T174122Z">
+        <seg>[2789]&lt;CBP6&gt;Pouco solto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2790]&lt;CBP7&gt;Loose|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174125Z" creationid="Olivier" creationdate="20200730T174125Z">
+        <seg>[2790]&lt;CBP7&gt;Solto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2791]&lt;CBP8&gt;Very Loose|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174129Z" creationid="Olivier" creationdate="20200730T174129Z">
+        <seg>[2791]&lt;CBP8&gt;Muito solto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2792]&lt;CBP9&gt;Ultra Loose|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174133Z" creationid="Olivier" creationdate="20200730T174133Z">
+        <seg>[2792]&lt;CBP9&gt;Ultra solto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174202Z" creationid="Olivier" creationdate="20200730T174136Z">
+        <seg>[2793]&lt;AAS1&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode construir nada até o ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174206Z" creationid="Olivier" creationdate="20200730T174138Z">
+        <seg>[2794]&lt;AAS2&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode comprar terra até o ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174217Z" creationid="Olivier" creationdate="20200730T174159Z">
+        <seg>[2795]&lt;AAS3&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode comprar ação até o ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2796]&lt;SCO1&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174221Z" creationid="Olivier" creationdate="20200730T174221Z">
+        <seg>[2796]&lt;SCO1&gt;Pontuação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174231Z" creationid="Olivier" creationdate="20200730T174231Z">
+        <seg>[2797]&lt;SCO2&gt;bilhão x 100 x ajuste da inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2798]&lt;BF01&gt;Use your personal money to build your mansion.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174237Z" creationid="Olivier" creationdate="20200730T174237Z">
+        <seg>[2798]&lt;BF01&gt;Usar seu dinheiro pessoal para construir sua mansão.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174242Z" creationid="Olivier" creationdate="20200730T174242Z">
+        <seg>[2799]&lt;BF02&gt;relocar a firma.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174246Z" creationid="Olivier" creationdate="20200730T174246Z">
+        <seg>[2800]&lt;BF03&gt;duplicar a firma.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174251Z" creationid="Olivier" creationdate="20200730T174251Z">
+        <seg>[2801]&lt;BF04&gt;construir a firma.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2802]&lt;BF05&gt;Customer Traffic Index:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174255Z" creationid="Olivier" creationdate="20200730T174255Z">
+        <seg>[2802]&lt;BF05&gt;Tráfego de consumidores:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2803]&lt;BF06&gt;Compensation:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174258Z" creationid="Olivier" creationdate="20200730T174258Z">
+        <seg>[2803]&lt;BF06&gt;compensação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174302Z" creationid="Olivier" creationdate="20200730T174302Z">
+        <seg>[2804]&lt;BF07&gt;Preço Premium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to build more|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174307Z" creationid="Olivier" creationdate="20200730T174307Z">
+        <seg>[2805]&lt;BF08&gt;Segure tecla [SHIFT] para construir mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174313Z" creationid="Olivier" creationdate="20200730T174313Z">
+        <seg>[2806]&lt;PSTO&gt;Estoque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2807]&lt;FRE1&gt;Freight Cost Breakdown|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174317Z" creationid="Olivier" creationdate="20200730T174317Z">
+        <seg>[2807]&lt;FRE1&gt;Especificação do custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174322Z" creationid="Olivier" creationdate="20200730T174322Z">
+        <seg>[2808]&lt;FRE2&gt;caminhão - fornecedor ao Porto maritimo:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2809]&lt;FRE3&gt;Cargo Ship - City to City:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174332Z" creationid="Olivier" creationdate="20200730T174332Z">
+        <seg>[2809]&lt;FRE3&gt;Cargueiro - cidade para cidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174336Z" creationid="Olivier" creationdate="20200730T174336Z">
+        <seg>[2810]&lt;FRE4&gt;caminhão - Porto maritimo ao comprador:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2812]&lt;FRE6&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174346Z" creationid="Olivier" creationdate="20200730T174346Z">
+        <seg>[2812]&lt;FRE6&gt;Custo de frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174351Z" creationid="Olivier" creationdate="20200730T174351Z">
+        <seg>[2813]&lt;FRE7&gt;Envio do fornecedor ao comprador:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174400Z" creationid="Olivier" creationdate="20200730T174400Z">
+        <seg>[2814]&lt;SOW1&gt;Semear em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2815]&lt;HARV&gt;Harvest in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174406Z" creationid="Olivier" creationdate="20200730T174406Z">
+        <seg>[2815]&lt;HARV&gt;Colher em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174418Z" creationid="Olivier" creationdate="20200730T174418Z">
+        <seg>[2816]&lt;ITP1&gt;Organize um Intensive Treinamento Program|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
