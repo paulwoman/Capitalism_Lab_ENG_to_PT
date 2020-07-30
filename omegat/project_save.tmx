@@ -7705,8 +7705,112 @@
       <tuv lang="en-US">
         <seg>[2027]&lt;0972&gt;from level |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105400Z" creationid="Olivier" creationdate="20200730T105400Z">
-        <seg>[2027]&lt;0972&gt;do level |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105406Z" creationid="Olivier" creationdate="20200730T105400Z">
+        <seg>[2027]&lt;0972&gt;do nível |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2028]&lt;0973&gt; to level |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105421Z" creationid="Olivier" creationdate="20200730T105421Z">
+        <seg>[2028]&lt;0973&gt; para o  nível |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2029]&lt;0974&gt;\n\nUpgrade now ?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105502Z" creationid="Olivier" creationdate="20200730T105502Z">
+        <seg>[2029]&lt;0974&gt;\n\nMelhorar agora ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2030]&lt;0975&gt;Product Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105511Z" creationid="Olivier" creationdate="20200730T105511Z">
+        <seg>[2030]&lt;0975&gt;Qualid. do produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2032]&lt;0977&gt;Production Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105516Z" creationid="Olivier" creationdate="20200730T105516Z">
+        <seg>[2032]&lt;0977&gt;Qualid. da produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2033]&lt;0978&gt;Raw Material Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105528Z" creationid="Olivier" creationdate="20200730T105528Z">
+        <seg>[2033]&lt;0978&gt;Matéria-prima|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2037]&lt;0982&gt;Link|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105535Z" creationid="Olivier" creationdate="20200730T105535Z">
+        <seg>[2037]&lt;0982&gt;Ligar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2038]&lt;0983&gt;Supplier|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105550Z" creationid="Olivier" creationdate="20200730T105550Z">
+        <seg>[2038]&lt;0983&gt;Fornec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2039]&lt;0984&gt;Stop Purchase|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105605Z" creationid="Olivier" creationdate="20200730T105605Z">
+        <seg>2039]&lt;0984&gt;Parar compra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2041]&lt;0986&gt;Unit Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105613Z" creationid="Olivier" creationdate="20200730T105613Z">
+        <seg>[2041]&lt;0986&gt;Nível da unidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2042]&lt;0987&gt;Cost+Freight|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105631Z" creationid="Olivier" creationdate="20200730T105631Z">
+        <seg>[2042]&lt;0987&gt;custo+frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2043]&lt;0988&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105633Z" creationid="Olivier" creationdate="20200730T105633Z">
+        <seg>[2043]&lt;0988&gt;Qualid.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2044]&lt;0989&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105633Z" creationid="Olivier" creationdate="20200730T105633Z">
+        <seg>[2044]&lt;0989&gt;Marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2045]&lt;0990&gt;Supply|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105712Z" creationid="Olivier" creationdate="20200730T105712Z">
+        <seg>[2045]&lt;0990&gt;Suprimento|</seg>
       </tuv>
     </tu>
     <tu>
