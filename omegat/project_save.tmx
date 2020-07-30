@@ -9370,8 +9370,8 @@
       <tuv lang="en-US">
         <seg>[2298]&lt;1218&gt;I don't want to sell my stock to you.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164459Z" creationid="Olivier" creationdate="20200730T164459Z">
-        <seg>[2297]&lt;1217&gt;Eu não quero vender minha firma neste preço para Você.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182433Z" creationid="Olivier" creationdate="20200730T164459Z">
+        <seg>[2298]&lt;1218&gt;Eu não quero vender minha ação para Você.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12882,8 +12882,8 @@
       <tuv lang="en-US">
         <seg>\nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132839Z" creationid="Olivier" creationdate="20200730T132833Z">
-        <seg> \nVocê não pode comprar a ação que sua corporação ou subsidiaria tem posse.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182419Z" creationid="Olivier" creationdate="20200730T132833Z">
+        <seg>\nVocê não pode comprar a ação que sua corporação ou subsidiaria tem posse.|</seg>
       </tuv>
     </tu>
     <tu>
