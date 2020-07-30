@@ -4857,8 +4857,8 @@
       <tuv lang="en-US">
         <seg>[1265]&lt;0379&gt;FOR SALE|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092922Z" creationid="Olivier" creationdate="20200728T092922Z">
-        <seg>[1265]&lt;0379&gt;A VENDA|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175940Z" creationid="Olivier" creationdate="20200728T092922Z">
+        <seg>[1265]&lt;0379&gt;À VENDA|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5033,8 +5033,8 @@
       <tuv lang="en-US">
         <seg>[1305]&lt;AC01&gt;Raw Material Cost|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095032Z" creationid="Olivier" creationdate="20200728T094901Z">
-        <seg>[1305]&lt;AC01&gt;Custo da matéria-prima</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180000Z" creationid="Olivier" creationdate="20200728T094901Z">
+        <seg>[1305]&lt;AC01&gt;Custo da matéria-prima|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5065,8 +5065,8 @@
       <tuv lang="en-US">
         <seg>[1309]&lt;AC05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095109Z" creationid="Olivier" creationdate="20200728T095109Z">
-        <seg>[1309]&lt;AC05&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180024Z" creationid="Olivier" creationdate="20200728T095109Z">
+        <seg>[1309]&lt;AC05&gt;Gastos advertising e P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5097,8 +5097,8 @@
       <tuv lang="en-US">
         <seg>[1313]&lt;AD01&gt;Operating Overhead|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095117Z" creationid="Olivier" creationdate="20200728T095117Z">
-        <seg>[1313]&lt;AD01&gt;Custos fixos operacionais|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180049Z" creationid="Olivier" creationdate="20200728T095117Z">
+        <seg>[1313]&lt;AD01&gt;Custos operacionais|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5153,8 +5153,8 @@
       <tuv lang="en-US">
         <seg>[1320]&lt;AE04&gt;Operating Overhead|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095206Z" creationid="Olivier" creationdate="20200728T095206Z">
-        <seg>[1320]&lt;AE04&gt;Custos fixos operacionais|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180212Z" creationid="Olivier" creationdate="20200728T095206Z">
+        <seg>[1320]&lt;AE04&gt;Custos operacionais|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12914,8 +12914,8 @@
       <tuv lang="en-US">
         <seg>of Employees|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091459Z" creationid="Olivier" creationdate="20200728T091459Z">
-        <seg>empregados|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175909Z" creationid="Olivier" creationdate="20200728T091459Z">
+        <seg>de empregados|</seg>
       </tuv>
     </tu>
     <tu>
