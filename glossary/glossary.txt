@@ -93,3 +93,4 @@ Total No	No. total
 of Employees	de empregados
 Add	Adicionar
 Remove	Subtrair
+RETIRE	APOSENTAR-SE
