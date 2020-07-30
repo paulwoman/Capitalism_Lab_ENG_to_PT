@@ -6439,6 +6439,126 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1643]&lt;AL01&gt;1 year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094630Z" creationid="Olivier" creationdate="20200730T094630Z">
+        <seg>[1643]&lt;AL01&gt;1 ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1644]&lt;AL02&gt;2 years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094631Z" creationid="Olivier" creationdate="20200730T094631Z">
+        <seg>[1644]&lt;AL02&gt;2 anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1645]&lt;AL03&gt;3 years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094631Z" creationid="Olivier" creationdate="20200730T094631Z">
+        <seg>[1645]&lt;AL03&gt;3 anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1646]&lt;AL04&gt;5 years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094632Z" creationid="Olivier" creationdate="20200730T094632Z">
+        <seg>[1646]&lt;AL04&gt;5 anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1647]&lt;AL05&gt;10 years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094633Z" creationid="Olivier" creationdate="20200730T094633Z">
+        <seg>[1647]&lt;AL05&gt;10 anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1648]&lt;0652&gt;Stock Price Graph|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094701Z" creationid="Olivier" creationdate="20200730T094701Z">
+        <seg>[1648]&lt;0652&gt;Gráfico preço ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1650]&lt;0654&gt;Day|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094719Z" creationid="Olivier" creationdate="20200730T094719Z">
+        <seg>[1650]&lt;0654&gt;Dia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1651]&lt;0655&gt;Month|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094732Z" creationid="Olivier" creationdate="20200730T094732Z">
+        <seg>[1651]&lt;0655&gt;Mês|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1652]&lt;0656&gt;Mansion|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094750Z" creationid="Olivier" creationdate="20200730T094750Z">
+        <seg>[1652]&lt;0656&gt;Mansão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1653]&lt;0657&gt; year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094747Z" creationid="Olivier" creationdate="20200730T094747Z">
+        <seg>[1653]&lt;0657&gt; ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1654]&lt;0658&gt; years|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094807Z" creationid="Olivier" creationdate="20200730T094807Z">
+        <seg>[1654]&lt;0658&gt; anos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1656]&lt;0660&gt;Your Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094835Z" creationid="Olivier" creationdate="20200730T094835Z">
+        <seg>[1656]&lt;0660&gt;Your riqueza pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1657]&lt;0661&gt;Net Worth of Your Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094846Z" creationid="Olivier" creationdate="20200730T094846Z">
+        <seg>[1657]&lt;0661&gt;Valor líquido de sua corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1658]&lt;0662&gt;Market Cap of Your Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T094854Z" creationid="Olivier" creationdate="20200730T094854Z">
+        <seg>[1658]&lt;0662&gt;Market cap de sua corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1659]&lt;0663&gt;Annual Revenue of Your Corporation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095142Z" creationid="Olivier" creationdate="20200730T095142Z">
+        <seg>[1659]&lt;0663&gt;Receita anual de sua corporação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
