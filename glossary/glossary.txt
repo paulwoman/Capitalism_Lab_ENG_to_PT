@@ -8,7 +8,7 @@ Freight Cost	Custo de frete
 Supply	Suprimento
 Demand	Demanda
 Seaports	Portos maritimos
-Quality	Qualid
+Quality	Qualid.
 Brand	Marca
 OVERALL	GERAL
 Media	Mídia
@@ -105,3 +105,4 @@ Link	Ligar
 on	na
 Newspaper	jornal
 Abort	Abortar
+Select	Selectionar
