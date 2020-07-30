@@ -149,3 +149,10 @@ held by	possuida por
 Invented	inventada
 Known	Conhecida
 SELL	VENDER
+Sale	Venda
+Land	terra
+Stocks	ação
+Payment	Pagamento
+Conservative	Conservador
+Moderate	Moderado
+Chairman	Présidente
