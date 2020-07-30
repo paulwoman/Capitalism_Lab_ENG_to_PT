@@ -48,7 +48,6 @@ She	Ela
 He	Ele
 units	unidades
 unit	unidade
-billion	bilhões
 Dominated Products	Produtos dominados
 Score	Pontuação
 Difficulty	Dificuldade
@@ -191,3 +190,5 @@ an	um
 Borrow	Pegar
 Repay	Pagar
 Operating Overhead	Custos operacionais
+billion	bilhõe
+billions	bilhões
