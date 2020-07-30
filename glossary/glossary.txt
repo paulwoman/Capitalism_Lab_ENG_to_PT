@@ -138,3 +138,6 @@ Share	ação
 Per	Por
 Buys	compra
 Sells	vende
+at	a
+Succeeds	sucede
+Area	área
