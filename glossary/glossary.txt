@@ -182,3 +182,4 @@ Point	Ponto
 Clear	Limpar
 Clients	Clientes
 View	Ver
+Tech level	Nível teq.
