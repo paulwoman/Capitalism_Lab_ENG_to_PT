@@ -94,3 +94,4 @@ of Employees	de empregados
 Add	Adicionar
 Remove	Subtrair
 RETIRE	APOSENTAR-SE
+Go	Ir
