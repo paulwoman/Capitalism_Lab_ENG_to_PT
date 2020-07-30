@@ -7519,6 +7519,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1977]&lt;0922&gt;Advertising on Newspaper|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103029Z" creationid="Olivier" creationdate="20200730T103029Z">
+        <seg>[1977]&lt;0922&gt;Advertising na jornal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1978]&lt;0923&gt;Advertising on Radio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103059Z" creationid="Olivier" creationdate="20200730T103042Z">
+        <seg>[1978]&lt;0923&gt;Advertising no radio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1979]&lt;0924&gt;Monthly Spending Per Product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103057Z" creationid="Olivier" creationdate="20200730T103057Z">
+        <seg>[1979]&lt;0924&gt;Gasto mensal por produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1980]&lt;0925&gt;Advertising cost (CPM)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103106Z" creationid="Olivier" creationdate="20200730T103106Z">
+        <seg>[1980]&lt;0925&gt;Custo de Advertising (CPM)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1981]&lt;0926&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103715Z" creationid="Olivier" creationdate="20200730T103715Z">
+        <seg>[1981]&lt;0926&gt;Pts. audiência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
