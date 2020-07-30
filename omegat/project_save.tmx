@@ -7575,6 +7575,94 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1984]&lt;0929&gt;Grow A Crop|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103856Z" creationid="Olivier" creationdate="20200730T103856Z">
+        <seg>[1984]&lt;0929&gt;Cultivar uma cultura|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1987]&lt;0932&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103913Z" creationid="Olivier" creationdate="20200730T103913Z">
+        <seg>[1987]&lt;0932&gt;Qualid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1988]&lt;0933&gt;Growth Days|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104013Z" creationid="Olivier" creationdate="20200730T104013Z">
+        <seg>[1988]&lt;0933&gt;Dias cresc.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1991]&lt;0936&gt;Raise Livestock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104020Z" creationid="Olivier" creationdate="20200730T104020Z">
+        <seg>[1991]&lt;0936&gt;Criar animais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1994]&lt;0939&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104021Z" creationid="Olivier" creationdate="20200730T104021Z">
+        <seg>[1994]&lt;0939&gt;Qualid.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1995]&lt;0940&gt;Baby Quantity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104033Z" creationid="Olivier" creationdate="20200730T104033Z">
+        <seg>[1995]&lt;0940&gt;Quantidade de bebês|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1996]&lt;0941&gt;Adult Quantity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104040Z" creationid="Olivier" creationdate="20200730T104040Z">
+        <seg>[1996]&lt;0941&gt;Quantidade de adultos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1998]&lt;0943&gt;Select Product|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104058Z" creationid="Olivier" creationdate="20200730T104058Z">
+        <seg>[1998]&lt;0943&gt;Selecionar produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2005]&lt;0950&gt;Clear Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104106Z" creationid="Olivier" creationdate="20200730T104106Z">
+        <seg>[2005]&lt;0950&gt;Limpar est.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2015]&lt;0960&gt;Brand Awareness|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104111Z" creationid="Olivier" creationdate="20200730T104111Z">
+        <seg>[2015]&lt;0960&gt;Conhecimento da marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2016]&lt;0961&gt;Brand Loyalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105159Z" creationid="Olivier" creationdate="20200730T105159Z">
+        <seg>[2016]&lt;0961&gt;Lealdade da marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
