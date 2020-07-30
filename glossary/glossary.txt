@@ -106,3 +106,7 @@ on	na
 Newspaper	jornal
 Abort	Abortar
 Select	Selectionar
+Tech	tec.
+Upgrade	Melhorar
+from	do
+level	nível
