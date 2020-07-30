@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085344Z" creationid="Olivier" creationdate="20200728T085344Z">
-        <seg> mensal com Ad|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193225Z" creationid="Olivier" creationdate="20200728T085344Z">
+        <seg>mensal com Ad.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2105,8 +2105,8 @@
       <tuv lang="en-US">
         <seg>[0716]&lt;FET2&gt;Select|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184028Z" creationid="Olivier" creationdate="20200730T184028Z">
-        <seg>[0716]&lt;FET2&gt;Seletionar|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193109Z" creationid="Olivier" creationdate="20200730T193109Z">
+        <seg>[0716]&lt;FET2&gt;Selecionar|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,16 +2529,16 @@
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184112Z" creationid="Olivier" creationdate="20200728T084610Z">
-        <seg>[0778]&lt;FH16&gt;No</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193157Z" creationid="Olivier" creationdate="20200728T084610Z">
+        <seg>[0778]&lt;FH16&gt;No.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0779]&lt;FH17&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175317Z" creationid="Olivier" creationdate="20200728T084717Z">
-        <seg>[0779]&lt;FH17&gt;No. </seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193128Z" creationid="Olivier" creationdate="20200728T084717Z">
+        <seg>[0779]&lt;FH17&gt;No.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3425,8 +3425,8 @@
       <tuv lang="en-US">
         <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085404Z" creationid="Olivier" creationdate="20200728T085348Z">
-        <seg>[0930]&lt;0138&gt;Frequencia diária de|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193233Z" creationid="Olivier" creationdate="20200728T085348Z">
+        <seg>[0930]&lt;0138&gt;Frequencia diária de</seg>
       </tuv>
     </tu>
     <tu>
@@ -5323,6 +5323,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095415Z" creationid="Olivier" creationdate="20200728T095415Z">
         <seg>[1350]&lt;0415&gt;Personalidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1351]&lt;0416&gt;Expertise|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193320Z" creationid="Olivier" creationdate="20200730T193320Z">
+        <seg>[1351]&lt;0416&gt;Pontuação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,8 +12962,8 @@
       <tuv lang="en-US">
         <seg>of Employees|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175909Z" creationid="Olivier" creationdate="20200728T091459Z">
-        <seg>de empregados|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193253Z" creationid="Olivier" creationdate="20200728T091459Z">
+        <seg>empregados|</seg>
       </tuv>
     </tu>
     <tu>
