@@ -7455,6 +7455,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1969]&lt;AQ01&gt;Sowing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102649Z" creationid="Olivier" creationdate="20200730T102649Z">
+        <seg>[1969]&lt;AQ01&gt;Semeando|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1970]&lt;AQ02&gt;Growing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102714Z" creationid="Olivier" creationdate="20200730T102714Z">
+        <seg>[1970]&lt;AQ02&gt;Crescendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1971]&lt;AQ03&gt;Harvesting|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102736Z" creationid="Olivier" creationdate="20200730T102736Z">
+        <seg>[1971]&lt;AQ03&gt;Coletando|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1972]&lt;0917&gt;Stop Linkage|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102743Z" creationid="Olivier" creationdate="20200730T102743Z">
+        <seg>[1972]&lt;0917&gt;Para ligação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1973]&lt;0918&gt;Link Media|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102802Z" creationid="Olivier" creationdate="20200730T102802Z">
+        <seg>[1973]&lt;0918&gt;Ligar mídia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1974]&lt;0919&gt;Advertising Unit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102813Z" creationid="Olivier" creationdate="20200730T102813Z">
+        <seg>[1974]&lt;0919&gt;Unidade de Advertising|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1975]&lt;0920&gt;Unit Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102824Z" creationid="Olivier" creationdate="20200730T102824Z">
+        <seg>[1975]&lt;0920&gt;Nível da unidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1976]&lt;0921&gt;Advertising on TV|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103015Z" creationid="Olivier" creationdate="20200730T103015Z">
+        <seg>[1976]&lt;0921&gt;Advertising na TV|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
