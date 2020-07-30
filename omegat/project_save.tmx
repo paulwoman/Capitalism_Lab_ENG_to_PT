@@ -8746,16 +8746,112 @@
       <tuv lang="en-US">
         <seg>[2204]&lt;1125&gt; Shares of |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131056Z" creationid="Olivier" creationdate="20200730T131056Z">
-        <seg>[2204]&lt;1125&gt; Shares de |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131145Z" creationid="Olivier" creationdate="20200730T131056Z">
+        <seg>[2204]&lt;1125&gt; ações de |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2205]&lt;1126&gt;its Own Stock|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131100Z" creationid="Olivier" creationdate="20200730T131100Z">
-        <seg>[2205]&lt;1126&gt;its Own Ação|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131130Z" creationid="Olivier" creationdate="20200730T131100Z">
+        <seg>[2205]&lt;1126&gt;Sua própria ação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2206]&lt;1127&gt; at |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131151Z" creationid="Olivier" creationdate="20200730T131151Z">
+        <seg>[2206]&lt;1127&gt; a |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2207]&lt;1128&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131217Z" creationid="Olivier" creationdate="20200730T131217Z">
+        <seg>[2207]&lt;1128&gt; Por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2208]&lt;1129&gt; Takes Control of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131220Z" creationid="Olivier" creationdate="20200730T131220Z">
+        <seg>[2208]&lt;1129&gt; Toma controle da |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2209]&lt;1130&gt; Loses Control of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131228Z" creationid="Olivier" creationdate="20200730T131228Z">
+        <seg>[2209]&lt;1130&gt; Perde controle da |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2210]&lt;1131&gt;FRIENDLY MERGER!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131238Z" creationid="Olivier" creationdate="20200730T131238Z">
+        <seg>[2210]&lt;1131&gt;FUSÃO AMIGAVEL |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2211]&lt;1132&gt;MERGER!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131241Z" creationid="Olivier" creationdate="20200730T131241Z">
+        <seg>[2211]&lt;1132&gt;FUSÃO!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2212]&lt;1133&gt; Merges with |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131254Z" creationid="Olivier" creationdate="20200730T131254Z">
+        <seg>[2212]&lt;1133&gt; Funde com |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2213]&lt;1134&gt; Pays an Annual Stock Dividend of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131323Z" creationid="Olivier" creationdate="20200730T131323Z">
+        <seg>[2213]&lt;1134&gt; Paga dividendo anual de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2214]&lt;1135&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131331Z" creationid="Olivier" creationdate="20200730T131331Z">
+        <seg>[2214]&lt;1135&gt;por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2215]&lt;1136&gt; of the Stock Price).|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131340Z" creationid="Olivier" creationdate="20200730T131340Z">
+        <seg>[2215]&lt;1136&gt; no preço da ação).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2216]&lt;1137&gt; Retires after |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131345Z" creationid="Olivier" creationdate="20200730T131345Z">
+        <seg>[2216]&lt;1137&gt; Aposenta-se após |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2217]&lt;1138&gt; Years of Service as the CEO of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131406Z" creationid="Olivier" creationdate="20200730T131406Z">
+        <seg>[2217]&lt;1138&gt; anos de serviço como CEO da |</seg>
       </tuv>
     </tu>
     <tu>
