@@ -7327,6 +7327,134 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1916]&lt;0865&gt;Go|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102341Z" creationid="Olivier" creationdate="20200730T102341Z">
+        <seg>[1916]&lt;0865&gt;Ir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1917]&lt;0866&gt;Product Class|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102349Z" creationid="Olivier" creationdate="20200730T102340Z">
+        <seg>[1917]&lt;0866&gt;Classe produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1929]&lt;0878&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102354Z" creationid="Olivier" creationdate="20200730T102354Z">
+        <seg>[1929]&lt;0878&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1930]&lt;0879&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102402Z" creationid="Olivier" creationdate="20200730T102402Z">
+        <seg>[1930]&lt;0879&gt;Qualid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1931]&lt;0880&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102403Z" creationid="Olivier" creationdate="20200730T102403Z">
+        <seg>[1931]&lt;0880&gt;Marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1932]&lt;0881&gt;Overall|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102412Z" creationid="Olivier" creationdate="20200730T102412Z">
+        <seg>[1932]&lt;0881&gt;Geral|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1957]&lt;0906&gt;Cash:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102416Z" creationid="Olivier" creationdate="20200730T102416Z">
+        <seg>[1957]&lt;0906&gt;Caixa:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1958]&lt;0907&gt;Profit:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102431Z" creationid="Olivier" creationdate="20200730T102431Z">
+        <seg>[1958]&lt;0907&gt;Lucro:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1961]&lt;0910&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102436Z" creationid="Olivier" creationdate="20200730T102436Z">
+        <seg>[1961]&lt;0910&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1962]&lt;0911&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102436Z" creationid="Olivier" creationdate="20200730T102436Z">
+        <seg>[1962]&lt;0911&gt;Qualid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1963]&lt;0912&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102439Z" creationid="Olivier" creationdate="20200730T102439Z">
+        <seg>[1963]&lt;0912&gt;Marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1964]&lt;0913&gt;Overall|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102503Z" creationid="Olivier" creationdate="20200730T102503Z">
+        <seg>[1964]&lt;0913&gt;Geral|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1965]&lt;0914&gt;Ours|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102520Z" creationid="Olivier" creationdate="20200730T102520Z">
+        <seg>[1965]&lt;0914&gt;Nosso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1966]&lt;0915&gt;Average|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102531Z" creationid="Olivier" creationdate="20200730T102531Z">
+        <seg>[1966]&lt;0915&gt;Média|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1967]&lt;0916&gt;Concern|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102547Z" creationid="Olivier" creationdate="20200730T102547Z">
+        <seg>[1967]&lt;0916&gt;Peso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1968]&lt;AQ00&gt;Waiting for Sowing Season|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102639Z" creationid="Olivier" creationdate="20200730T102639Z">
+        <seg>1968]&lt;AQ00&gt;Aguardando estação de semear|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
