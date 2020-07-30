@@ -7663,6 +7663,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2017]&lt;0962&gt;Brand Rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105205Z" creationid="Olivier" creationdate="20200730T105205Z">
+        <seg>[2017]&lt;0962&gt;Avaliação da marca|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2020]&lt;0965&gt;Upgrade Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105257Z" creationid="Olivier" creationdate="20200730T105239Z">
+        <seg>[2020]&lt;0965&gt;Melhorar tec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2024]&lt;0969&gt;Current Technology Level: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105258Z" creationid="Olivier" creationdate="20200730T105252Z">
+        <seg>[2024]&lt;0969&gt;Nível atual de tec.: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2025]&lt;0970&gt;\n\nTarget Technology Level: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105328Z" creationid="Olivier" creationdate="20200730T105328Z">
+        <seg>[2025]&lt;0970&gt;\n\nMeta de tec.: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2026]&lt;0971&gt;\n\nThe current functional unit will be downgraded |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105334Z" creationid="Olivier" creationdate="20200730T105334Z">
+        <seg>[2026]&lt;0971&gt;\n\nA unidade funcional em questão sofrerá retrocesso |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2027]&lt;0972&gt;from level |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105400Z" creationid="Olivier" creationdate="20200730T105400Z">
+        <seg>[2027]&lt;0972&gt;do level |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
