@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tells you how many people are watching the media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195512Z" creationid="Olivier" creationdate="20200730T195512Z">
+        <seg>It tells you how many people are watching the mídia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -142,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rating points of the media in which the product is being advertised.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195720Z" creationid="Olivier" creationdate="20200730T195720Z">
+        <seg>The pts. audiência de the mídia em which the produto é being advertised.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
         <seg>The type de technology currently being developed.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This bar represents what the unit spends advertising the product monthly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195741Z" creationid="Olivier" creationdate="20200730T195741Z">
+        <seg>Esta barra representa quanto a unidade gasta mensalmente com advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the higher the rating points, the greater the effect of the advertising.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195723Z" creationid="Olivier" creationdate="20200730T195723Z">
+        <seg>Thus, the higher the pts. audiência, the greater the effect de the advertising.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -12784,10 +12816,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Crop Growing Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195752Z" creationid="Olivier" creationdate="20200730T195752Z">
+        <seg>[Crop Growing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T054706Z" creationid="Olivier" creationdate="20200728T054706Z">
         <seg>[LNGD]%2j{Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Livestock Raising Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195801Z" creationid="Olivier" creationdate="20200730T195801Z">
+        <seg>[Livestock Raising Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13100,6 +13148,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195437Z" creationid="Olivier" creationdate="20200730T195437Z">
         <seg>~R&amp;D Progress~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Rating Points~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195505Z" creationid="Olivier" creationdate="20200730T195505Z">
+        <seg>~Pts. audiência~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
