@@ -7079,6 +7079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1836]&lt;0840&gt;Total No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181126Z" creationid="Olivier" creationdate="20200730T181126Z">
+        <seg>[1836]&lt;0840&gt;No. total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101332Z" creationid="Olivier" creationdate="20200730T101332Z">
