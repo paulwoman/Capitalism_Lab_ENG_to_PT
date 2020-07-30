@@ -377,16 +377,16 @@
       <tuv lang="en-US">
         <seg>[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060311Z" creationid="Olivier" creationdate="20200728T060311Z">
-        <seg>[0163]&lt;ADLS&gt;Esse arquivo salvo será deletado.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T110233Z" creationid="Olivier" creationdate="20200728T060311Z">
+        <seg>[0163]&lt;ADLS&gt;Esse arquivo salvo será deletado.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0164]&lt;DESV&gt;Description of the save game:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060324Z" creationid="Olivier" creationdate="20200728T060324Z">
-        <seg>[0164]&lt;DESV&gt;Descrição do jogo salvo :|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T110405Z" creationid="Olivier" creationdate="20200728T060324Z">
+        <seg>[0164]&lt;DESV&gt;Descrição do jogo salvo:|</seg>
       </tuv>
     </tu>
     <tu>
