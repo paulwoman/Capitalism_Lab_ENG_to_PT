@@ -133,3 +133,5 @@ in	em
 near	perto
 after	depois
 Operation	Operação
+BANKRUPTCY	Falência
+Share	ação
