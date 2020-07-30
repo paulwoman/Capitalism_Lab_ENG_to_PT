@@ -119,3 +119,4 @@ Terminate	finalizar
 Progress	Progresso
 Internal Sale	Vendas internas
 Turkeys	Perus
+Competitor Borrows Bank Loan	competidor pega empréstimo
