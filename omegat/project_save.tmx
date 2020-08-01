@@ -6346,8 +6346,8 @@
       <tuv lang="en-US">
         <seg>[1494]&lt;0559&gt;Corporation Takeover and Merger|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181708Z" creationid="Olivier" creationdate="20200728T181708Z">
-        <seg>[1494]&lt;0559&gt;Takeover e fusão de corporação|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182649Z" creationid="Olivier" creationdate="20200728T181708Z">
+        <seg>[1494]&lt;0559&gt;Aquisição e fusão de empresas|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,8 +6362,8 @@
       <tuv lang="en-US">
         <seg>[1496]&lt;0561&gt;Endure Loss for Avoiding Layoff|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T205844Z" creationid="Olivier" creationdate="20200728T205844Z">
-        <seg>[1496]&lt;0561&gt;Aguentar perda por evitar layoff|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182733Z" creationid="Olivier" creationdate="20200728T205844Z">
+        <seg>[1496]&lt;0561&gt;Suportar a perda para evitar demissões|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6386,8 +6386,8 @@
       <tuv lang="en-US">
         <seg>[1499]&lt;0564&gt;Market Cap of Companies Controlled|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T184716Z" creationid="Olivier" creationdate="20200729T184716Z">
-        <seg>[1499]&lt;0564&gt;Market cap das companhias controladas|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182758Z" creationid="Olivier" creationdate="20200729T184716Z">
+        <seg>[1499]&lt;0564&gt;Capitalização de mercado das companhias controladas|</seg>
       </tuv>
     </tu>
     <tu>
