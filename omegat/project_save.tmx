@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(the same firm type and the same company/subsidiary)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
+        <seg>(o mesmo tipo de empresa e a mesma empresa/subsidiária)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062051Z" creationid="Olivier" creationdate="20200728T062051Z">
