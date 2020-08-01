@@ -10100,8 +10100,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2302]&lt;1222&gt;You don't have enough cash to purchase my stock.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T164611Z" creationid="Olivier" creationdate="20200730T164551Z">
-        <seg>[2302]&lt;1222&gt;Você não tem caixa suficiente para comprar minha ação.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T230717Z" creationid="Olivier" creationdate="20200730T164551Z">
+        <seg>[2302]&lt;1222&gt;Você não tem dinheiro suficiente para comprar minha ação.|</seg>
       </tuv>
     </tu>
     <tu>
