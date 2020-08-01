@@ -10332,16 +10332,16 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2331]&lt;1251&gt;I accept your offer and withdraw my resignation.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165053Z" creationid="Olivier" creationdate="20200730T165053Z">
-        <seg>[2331]&lt;1251&gt;Eu aceito sua oferta e retiro minha resignação.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232505Z" creationid="Olivier" creationdate="20200730T165053Z">
+        <seg>[2331]&lt;1251&gt;Eu aceito sua oferta e retiro minha demisão.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2332]&lt;1252&gt;I reject your offer and affirm my resignation.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165122Z" creationid="Olivier" creationdate="20200730T165122Z">
-        <seg>[2332]&lt;1252&gt;Eu rejeito sua oferta e mantenho minha resignação.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232542Z" creationid="Olivier" creationdate="20200730T165122Z">
+        <seg>[2332]&lt;1252&gt;Eu rejeito sua oferta e mantenho minha demissão.|</seg>
       </tuv>
     </tu>
     <tu>
