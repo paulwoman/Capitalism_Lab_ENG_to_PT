@@ -5688,6 +5688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1352]&lt;0417&gt;Score|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182307Z" creationid="User" creationdate="20200801T182307Z">
+        <seg>[1352]&lt;0417&gt;pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193339Z" creationid="Olivier" creationdate="20200728T095523Z">
@@ -5714,8 +5722,8 @@
       <tuv lang="en-US">
         <seg>[1358]&lt;0423&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095714Z" creationid="Olivier" creationdate="20200728T095714Z">
-        <seg>[1358]&lt;0423&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182312Z" creationid="Olivier" creationdate="20200728T095714Z">
+        <seg>[1358]&lt;0423&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,6 +5888,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1384]&lt;0449&gt;INPUT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182346Z" creationid="User" creationdate="20200801T182346Z">
+        <seg>[1384]&lt;0449&gt;ENTRADA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1385]&lt;0450&gt;OUTPUT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182356Z" creationid="User" creationdate="20200801T182356Z">
+        <seg>[1385]&lt;0450&gt;SAIDA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1386]&lt;0451&gt;MORE|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180735Z" creationid="Olivier" creationdate="20200728T180735Z">
@@ -5892,6 +5916,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180744Z" creationid="Olivier" creationdate="20200728T180744Z">
         <seg>[1387]&lt;0452&gt; milhão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1389]&lt;0454&gt;Rating (0-100)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182416Z" creationid="User" creationdate="20200801T182416Z">
+        <seg>[1389]&lt;0454&gt;Avaliação (0-100)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,24 +6042,24 @@
       <tuv lang="en-US">
         <seg>[1405]&lt;0470&gt;Hire Chief Operating Officer|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181014Z" creationid="Olivier" creationdate="20200728T181014Z">
-        <seg>[1405]&lt;0470&gt;Contratar Chief Operating Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182513Z" creationid="Olivier" creationdate="20200728T181014Z">
+        <seg>[1405]&lt;0470&gt;Contratar Diretor de Operações|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1406]&lt;0471&gt;Hire Chief Marketing Officer|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181022Z" creationid="Olivier" creationdate="20200728T181022Z">
-        <seg>[1406]&lt;0471&gt;Contratar Chief Marketing Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182535Z" creationid="Olivier" creationdate="20200728T181022Z">
+        <seg>[1406]&lt;0471&gt;Contratar Diretor de Marketing|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1407]&lt;0472&gt;Hire Chief Technical Officer|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181029Z" creationid="Olivier" creationdate="20200728T181029Z">
-        <seg>[1407]&lt;0472&gt;Contratar Chief Technical Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182551Z" creationid="Olivier" creationdate="20200728T181029Z">
+        <seg>[1407]&lt;0472&gt;Contratar Diretor Técnico|</seg>
       </tuv>
     </tu>
     <tu>
