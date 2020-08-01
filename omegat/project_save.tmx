@@ -8026,8 +8026,8 @@
       <tuv lang="en-US">
         <seg>[1974]&lt;0919&gt;Advertising Unit|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102813Z" creationid="Olivier" creationdate="20200730T102813Z">
-        <seg>[1974]&lt;0919&gt;Unidade de Advertising|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T195019Z" creationid="Olivier" creationdate="20200730T102813Z">
+        <seg>[1974]&lt;0919&gt;Unidade de Publicidade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8042,24 +8042,24 @@
       <tuv lang="en-US">
         <seg>[1976]&lt;0921&gt;Advertising on TV|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T103015Z" creationid="Olivier" creationdate="20200730T103015Z">
-        <seg>[1976]&lt;0921&gt;Advertising na TV|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T195036Z" creationid="Olivier" creationdate="20200730T103015Z">
+        <seg>[1976]&lt;0921&gt;Publicidade na TV|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1977]&lt;0922&gt;Advertising on Newspaper|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181404Z" creationid="Olivier" creationdate="20200730T103029Z">
-        <seg>[1977]&lt;0922&gt;Advertising no jornal|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T195053Z" creationid="Olivier" creationdate="20200730T103029Z">
+        <seg>[1977]&lt;0922&gt;Publicidade no jornal|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1978]&lt;0923&gt;Advertising on Radio|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181418Z" creationid="Olivier" creationdate="20200730T103042Z">
-        <seg>[1978]&lt;0923&gt;Advertising no rádio|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T195205Z" creationid="Olivier" creationdate="20200730T103042Z">
+        <seg>[1978]&lt;0923&gt;publicidade no rádio|</seg>
       </tuv>
     </tu>
     <tu>
