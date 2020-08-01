@@ -11980,8 +11980,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2595]&lt;1476&gt;The Player Name cannot be empty.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171946Z" creationid="Olivier" creationdate="20200730T171946Z">
-        <seg>[2595]&lt;1476&gt;o nome do jogador não pode ser vazio.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233742Z" creationid="Olivier" creationdate="20200730T171946Z">
+        <seg>[2595]&lt;1476&gt;o nome do jogador não pode estar vazio.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12012,8 +12012,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2601]&lt;1481&gt;OK, I agree to sell my stock.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172008Z" creationid="Olivier" creationdate="20200730T172008Z">
-        <seg>[2601]&lt;1481&gt;OK, Eu concordo vender my ação.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233756Z" creationid="Olivier" creationdate="20200730T172008Z">
+        <seg>[2601]&lt;1481&gt;OK, Eu concordo vender minha ação.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12076,8 +12076,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2611]&lt;1491&gt;Market Share for past 36 months|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172052Z" creationid="Olivier" creationdate="20200730T172052Z">
-        <seg>[2611]&lt;1491&gt;Marketshare Últ. 36 meses|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233825Z" creationid="Olivier" creationdate="20200730T172052Z">
+        <seg>[2611]&lt;1491&gt;Participação de mercado nos últimos 36 meses|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,24 +12188,24 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2629]&lt;1509&gt;You do not have enough cash.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172225Z" creationid="Olivier" creationdate="20200730T172225Z">
-        <seg>[2629]&lt;1509&gt;Você não tem caixa suficiente.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233911Z" creationid="Olivier" creationdate="20200730T172225Z">
+        <seg>[2629]&lt;1509&gt;Você não tem dinheiro suficiente.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2630]&lt;1510&gt;You must resign your Chief Operating Officer before you can remove the office.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172230Z" creationid="Olivier" creationdate="20200730T172230Z">
-        <seg>[2630]&lt;1510&gt;Você deve exonerar Seu Chief Operating Officer antes antes de fechar o escritório.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233940Z" creationid="Olivier" creationdate="20200730T172230Z">
+        <seg>[2630]&lt;1510&gt;Você deve renunciar ao seu Diretor de Operações antes de poder remover o escritório.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2631]&lt;1511&gt;You must resign your Chief Marketing Officer before you can remove the office.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172234Z" creationid="Olivier" creationdate="20200730T172234Z">
-        <seg>[2631]&lt;1511&gt;Você deve exonerar Seu Chief Marketing Officer antes antes de fechar o escritório.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234002Z" creationid="Olivier" creationdate="20200730T172234Z">
+        <seg>[2631]&lt;1511&gt;Você deve renunciar ao seu Diretor de Marketing antes de poder remover o escritório.|</seg>
       </tuv>
     </tu>
     <tu>
