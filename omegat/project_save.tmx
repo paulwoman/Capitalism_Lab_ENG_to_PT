@@ -4530,8 +4530,8 @@
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091721Z" creationid="Olivier" creationdate="20200728T091721Z">
-        <seg>[1110]&lt;0265&gt;Equity por ação|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181701Z" creationid="Olivier" creationdate="20200728T091721Z">
+        <seg>[1110]&lt;0265&gt;Patrimônio Líquido por Ação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,8 +4634,8 @@
       <tuv lang="en-US">
         <seg>[1126]&lt;0281&gt;Public Shareholders|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091738Z" creationid="Olivier" creationdate="20200728T091738Z">
-        <seg>[1126]&lt;0281&gt;Sharehld. públicos|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181722Z" creationid="Olivier" creationdate="20200728T091738Z">
+        <seg>[1126]&lt;0281&gt;Acionistas. públicos|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,16 +5058,16 @@
       <tuv lang="en-US">
         <seg>[1235]&lt;0349&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092037Z" creationid="Olivier" creationdate="20200728T092037Z">
-        <seg>[1235]&lt;0349&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181802Z" creationid="Olivier" creationdate="20200728T092037Z">
+        <seg>[1235]&lt;0349&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1236]&lt;0350&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092044Z" creationid="Olivier" creationdate="20200728T092044Z">
-        <seg>[1236]&lt;0350&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181805Z" creationid="Olivier" creationdate="20200728T092044Z">
+        <seg>[1236]&lt;0350&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5152,10 +5152,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1249]&lt;0363&gt;Output|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181844Z" creationid="User" creationdate="20200801T181844Z">
+        <seg>[1249]&lt;0363&gt;saída|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1250]&lt;0364&gt;Input|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181904Z" creationid="User" creationdate="20200801T181904Z">
+        <seg>[1250]&lt;0364&gt;Entrada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1251]&lt;0365&gt;Available|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092344Z" creationid="Olivier" creationdate="20200728T092344Z">
         <seg>[1251]&lt;0365&gt;Disponível|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1253]&lt;0367&gt;Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181922Z" creationid="User" creationdate="20200801T181922Z">
+        <seg>[1253]&lt;0367&gt;Diretor de operações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,8 +5250,8 @@
       <tuv lang="en-US">
         <seg>[1270]&lt;0384&gt;Function: Advertising your products|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094446Z" creationid="Olivier" creationdate="20200728T094446Z">
-        <seg>[1270]&lt;0384&gt;Função: Advertising de produtos|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181946Z" creationid="Olivier" creationdate="20200728T094446Z">
+        <seg>[1270]&lt;0384&gt;Função: Anunciando seus produtos|</seg>
       </tuv>
     </tu>
     <tu>
