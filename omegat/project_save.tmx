@@ -8706,8 +8706,8 @@
       <tuv lang="en-US">
         <seg>[2121]&lt;1042&gt; Resource Reserve Exhausted|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T125025Z" creationid="Olivier" creationdate="20200730T125018Z">
-        <seg>[2121]&lt;1042&gt; Reserva de recurso exaurida|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T201748Z" creationid="Olivier" creationdate="20200730T125018Z">
+        <seg>[2121]&lt;1042&gt; Reserva de Recursos Esgotada|</seg>
       </tuv>
     </tu>
     <tu>
