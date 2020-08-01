@@ -2146,8 +2146,8 @@
       <tuv lang="en-US">
         <seg>[0676]&lt;FR23&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083406Z" creationid="Olivier" creationdate="20200728T083406Z">
-        <seg>[0676]&lt;FR23&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174120Z" creationid="Olivier" creationdate="20200728T083406Z">
+        <seg>[0676]&lt;FR23&gt;despesas de publicidade e relaçoes publicas|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2194,8 @@
       <tuv lang="en-US">
         <seg>[0682]&lt;FR33&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083417Z" creationid="Olivier" creationdate="20200728T083417Z">
-        <seg>[0682]&lt;FR33&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174200Z" creationid="Olivier" creationdate="20200728T083417Z">
+        <seg>[0682]&lt;FR33&gt;despesas de publicidade e relaçoes publicas|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,8 +2250,8 @@
       <tuv lang="en-US">
         <seg>[0689]&lt;FR44&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083606Z" creationid="Olivier" creationdate="20200728T083606Z">
-        <seg>[0689]&lt;FR44&gt;Advertising e relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174212Z" creationid="Olivier" creationdate="20200728T083606Z">
+        <seg>[0689]&lt;FR44&gt;despesas de publicidade e relaçoes publicas|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,6 +2336,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0717]&lt;FET3&gt;Setup:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174237Z" creationid="User" creationdate="20200801T174237Z">
+        <seg>[0717]&lt;FET3&gt;Configuração:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0718]&lt;FET4&gt;Monthly:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083951Z" creationid="Olivier" creationdate="20200728T083951Z">
@@ -2412,6 +2420,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T184031Z" creationid="Olivier" creationdate="20200728T084311Z">
         <seg>[0728]&lt;FE14&gt;Custo de terra|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0729]&lt;FE15&gt;Cannot set up here:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174309Z" creationid="User" creationdate="20200801T174309Z">
+        <seg>[0729]&lt;FE15&gt;Não é possível configurar aqui:|</seg>
       </tuv>
     </tu>
     <tu>
