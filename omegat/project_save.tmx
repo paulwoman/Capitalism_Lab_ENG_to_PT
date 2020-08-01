@@ -231,6 +231,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Goal report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225501Z" creationid="RAFAEL" creationdate="20200801T225501Z">
+        <seg>Abrir o relatório de objetivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Information Center screen</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222415Z" creationid="RAFAEL" creationdate="20200801T222415Z">
