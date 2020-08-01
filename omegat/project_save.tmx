@@ -22,11 +22,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the Mini Map</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221916Z" creationid="RAFAEL" creationdate="20200801T221916Z">
+        <seg>Exibir o Mini Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the Toolbox menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204358Z" creationid="RAFAEL" creationdate="20200801T204358Z">
         <seg>
 Exibir o menu Caixa de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the World Map</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222247Z" creationid="RAFAEL" creationdate="20200801T222247Z">
+        <seg>Exibir o mapa do mundo</seg>
       </tuv>
     </tu>
     <tu>
@@ -396,6 +412,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
         <seg>Você aceita esta oferta?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>World Map (hotkey: Ctrl-W)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222108Z" creationid="RAFAEL" creationdate="20200801T222108Z">
+        <seg>Mapa mundial (Tecla de atalho: Ctrl-W)</seg>
       </tuv>
     </tu>
     <tu>
