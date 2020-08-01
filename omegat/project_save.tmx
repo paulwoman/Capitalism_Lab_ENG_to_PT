@@ -7386,8 +7386,8 @@
       <tuv lang="en-US">
         <seg>[1821]&lt;0825&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100856Z" creationid="Olivier" creationdate="20200730T100856Z">
-        <seg>[1821]&lt;0825&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T193619Z" creationid="Olivier" creationdate="20200730T100856Z">
+        <seg>[1821]&lt;0825&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7436,6 +7436,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T100959Z" creationid="Olivier" creationdate="20200730T100959Z">
         <seg>[1827]&lt;0831&gt;Lucro operacional anual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1828]&lt;0832&gt;Market Cap|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T193838Z" creationid="User" creationdate="20200801T193838Z">
+        <seg>[1828]&lt;0832&gt;Valor de mercado|</seg>
       </tuv>
     </tu>
     <tu>
