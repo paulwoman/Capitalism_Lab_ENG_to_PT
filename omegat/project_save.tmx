@@ -22,6 +22,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204358Z" creationid="RAFAEL" creationdate="20200801T204358Z">
+        <seg>
+Exibir o menu Caixa de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each shareholder now holds|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173744Z" creationid="Olivier" creationdate="20200730T173744Z">
@@ -90,6 +99,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182016Z" creationid="Olivier" creationdate="20200730T132112Z">
         <seg>Panico por parte dos acionistas!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
+        <seg>Pressione Ctrl-T para alternar entre o menu padrão e o menu estendido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -355,6 +372,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204324Z" creationid="RAFAEL" creationdate="20200801T204324Z">
+        <seg>Caixa de ferramentas</seg>
       </tuv>
     </tu>
     <tu>
