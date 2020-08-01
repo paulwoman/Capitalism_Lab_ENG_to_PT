@@ -13260,16 +13260,16 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2782]&lt;CBA4&gt;Inflation Dove (modest)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174050Z" creationid="Olivier" creationdate="20200730T174050Z">
-        <seg>[2782]&lt;CBA4&gt;inflation Dove (modesto)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235528Z" creationid="Olivier" creationdate="20200730T174050Z">
+        <seg>[2782]&lt;CBA4&gt;inflação Dove (modesto)|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2783]&lt;CBA5&gt;Inflation Dove (strong)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174055Z" creationid="Olivier" creationdate="20200730T174055Z">
-        <seg>[2783]&lt;CBA5&gt;inflation Dove (forte)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235540Z" creationid="Olivier" creationdate="20200730T174055Z">
+        <seg>[2783]&lt;CBA5&gt;inflação Dove (forte)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13340,24 +13340,24 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174202Z" creationid="Olivier" creationdate="20200730T174136Z">
-        <seg>[2793]&lt;AAS1&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode construir nada até o ano|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235632Z" creationid="Olivier" creationdate="20200730T174136Z">
+        <seg>[2793]&lt;AAS1&gt;Desculpe, a IA está tendo uma vantagem inicial e Você não pode construir nada até o ano|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174206Z" creationid="Olivier" creationdate="20200730T174138Z">
-        <seg>[2794]&lt;AAS2&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode comprar terra até o ano|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235639Z" creationid="Olivier" creationdate="20200730T174138Z">
+        <seg>[2794]&lt;AAS2&gt;Desculpe, a IA está tendo uma vantagem inicial e Você não pode comprar terra até o ano|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174217Z" creationid="Olivier" creationdate="20200730T174159Z">
-        <seg>[2795]&lt;AAS3&gt;Desculpe, a ai está tendo uma vantagem inicial e Você não pode comprar ação até o ano|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235649Z" creationid="Olivier" creationdate="20200730T174159Z">
+        <seg>[2795]&lt;AAS3&gt;Desculpe, a IA está tendo uma vantagem inicial e Você não pode comprar ação até o ano|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13516,8 +13516,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174418Z" creationid="Olivier" creationdate="20200730T174418Z">
-        <seg>[2816]&lt;ITP1&gt;Organize um Intensive Treinamento Program|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235848Z" creationid="Olivier" creationdate="20200730T174418Z">
+        <seg>[2816]&lt;ITP1&gt;Organize um programa de treinamento intensivo|</seg>
       </tuv>
     </tu>
     <tu>
