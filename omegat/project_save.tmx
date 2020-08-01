@@ -11740,8 +11740,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2562]&lt;1443&gt; reserve is now exhausted.\nThe production at your |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171611Z" creationid="Olivier" creationdate="20200730T171611Z">
-        <seg>[2562]&lt;1443&gt; reserva está exaurida.\nA produção em seu |</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233621Z" creationid="Olivier" creationdate="20200730T171611Z">
+        <seg>[2562]&lt;1443&gt; reserva está esgotada.\nA produção em seu |</seg>
       </tuv>
     </tu>
     <tu>
