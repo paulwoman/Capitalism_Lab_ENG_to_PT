@@ -10300,8 +10300,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2327]&lt;1247&gt;Will you accept my resignation ?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165024Z" creationid="Olivier" creationdate="20200730T165024Z">
-        <seg>[2327]&lt;1247&gt;Você aceita minha resignação ?|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232437Z" creationid="Olivier" creationdate="20200730T165024Z">
+        <seg>[2327]&lt;1247&gt;Você vai aceitar a minha demissão?|</seg>
       </tuv>
     </tu>
     <tu>
