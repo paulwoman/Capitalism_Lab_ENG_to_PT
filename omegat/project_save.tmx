@@ -13044,8 +13044,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173808Z" creationid="Olivier" creationdate="20200730T173808Z">
-        <seg>[2755]&lt;NSS5&gt;Fundir ações, que agrupa cada|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235300Z" creationid="Olivier" creationdate="20200730T173808Z">
+        <seg>[2755]&lt;NSS5&gt;mesclagem de ações, que agrupa todos os|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13236,16 +13236,16 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174037Z" creationid="Olivier" creationdate="20200730T174037Z">
-        <seg>[2779]&lt;CBA1&gt;inflation Hawk (modesto)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235451Z" creationid="Olivier" creationdate="20200730T174037Z">
+        <seg>[2779]&lt;CBA1&gt;inflação Hawk (modesto)|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2780]&lt;CBA2&gt;Inflation Hawk (strong)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174041Z" creationid="Olivier" creationdate="20200730T174041Z">
-        <seg>[2780]&lt;CBA2&gt;inflation Hawk (forte)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235504Z" creationid="Olivier" creationdate="20200730T174041Z">
+        <seg>[2780]&lt;CBA2&gt;inflação Hawk (forte)|</seg>
       </tuv>
     </tu>
     <tu>
