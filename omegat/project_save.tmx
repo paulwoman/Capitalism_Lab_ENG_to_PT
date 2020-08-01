@@ -1232,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0531]&lt;SYF1&gt;Fail Loading Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T172654Z" creationid="User" creationdate="20200801T172654Z">
+        <seg>[0531]&lt;SYF1&gt;Falha ao carregar o Jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0536]&lt;CHE1&gt;Wrong Firm|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062510Z" creationid="Olivier" creationdate="20200728T062510Z">
