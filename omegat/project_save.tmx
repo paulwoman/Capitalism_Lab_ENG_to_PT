@@ -121,8 +121,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>Each shareholder now holds|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173744Z" creationid="Olivier" creationdate="20200730T173744Z">
-        <seg>Cada shareholder agora possui|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235203Z" creationid="Olivier" creationdate="20200730T173744Z">
+        <seg>Cada acionista agora detém|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12740,16 +12740,16 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2717]&lt;NCJ2&gt;and serves as its|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173248Z" creationid="Olivier" creationdate="20200730T173248Z">
-        <seg>[2717]&lt;NCJ2&gt;e serves como|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234956Z" creationid="Olivier" creationdate="20200730T173248Z">
+        <seg>[2717]&lt;NCJ2&gt;e serve como|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2718]&lt;NCJ3&gt;joins|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173301Z" creationid="Olivier" creationdate="20200730T173301Z">
-        <seg>[2718]&lt;NCJ3&gt;se une|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T235023Z" creationid="Olivier" creationdate="20200730T173301Z">
+        <seg>[2718]&lt;NCJ3&gt;junta-se|</seg>
       </tuv>
     </tu>
     <tu>
