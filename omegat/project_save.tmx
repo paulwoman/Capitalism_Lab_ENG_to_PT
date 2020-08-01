@@ -151,6 +151,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Report (hotkey: G)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225327Z" creationid="RAFAEL" creationdate="20200801T225327Z">
+        <seg>Relatório de objetivos (Tecla de atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How much can you pay?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182036Z" creationid="Olivier" creationdate="20200730T132606Z">
@@ -548,6 +556,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204324Z" creationid="RAFAEL" creationdate="20200801T204324Z">
         <seg>Caixa de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225158Z" creationid="RAFAEL" creationdate="20200801T225158Z">
+        <seg>Use esta ferramenta para restringir diferentes áreas de sua cidade a usos específicos.</seg>
       </tuv>
     </tu>
     <tu>
