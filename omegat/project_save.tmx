@@ -1250,8 +1250,8 @@
       <tuv lang="en-US">
         <seg>[0537]&lt;CHE2&gt;Firm can not be taken by player!!|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062514Z" creationid="Olivier" creationdate="20200728T062514Z">
-        <seg>[0537]&lt;CHE2&gt;firma can not be taken by jogador!!|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173505Z" creationid="Olivier" creationdate="20200728T062514Z">
+        <seg>[0537]&lt;CHE2&gt;Empresa não pode ser tomada pelo jogador!!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,8 +1282,8 @@
       <tuv lang="en-US">
         <seg>[0543]&lt;FAP6&gt;Sorry, you don't have enough cash.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062525Z" creationid="Olivier" creationdate="20200728T062525Z">
-        <seg>[0543]&lt;FAP6&gt;desculpe, Você não tem caixa suficiente.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173621Z" creationid="Olivier" creationdate="20200728T062525Z">
+        <seg>[0543]&lt;FAP6&gt;desculpe, Você não tem dinheiro suficiente.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,16 +1426,16 @@
       <tuv lang="en-US">
         <seg>[0567]&lt;GAM1&gt;GOAL|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081447Z" creationid="Olivier" creationdate="20200728T081447Z">
-        <seg>[0567]&lt;GAM1&gt;OBJECTIVO|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173702Z" creationid="Olivier" creationdate="20200728T081447Z">
+        <seg>[0567]&lt;GAM1&gt;OBJETIVO|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0568]&lt;GME1&gt;Lost Ownership|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081454Z" creationid="Olivier" creationdate="20200728T081454Z">
-        <seg>[0568]&lt;GME1&gt;Perdeu posse|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173739Z" creationid="Olivier" creationdate="20200728T081454Z">
+        <seg>[0568]&lt;GME1&gt;Propiedade Perdida|</seg>
       </tuv>
     </tu>
     <tu>
