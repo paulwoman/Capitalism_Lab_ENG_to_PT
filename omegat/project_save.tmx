@@ -12212,8 +12212,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2632]&lt;1512&gt;You must resign your Chief Technical Officer before you can remove the office.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172241Z" creationid="Olivier" creationdate="20200730T172241Z">
-        <seg>[2632]&lt;1512&gt;Você deve exonerar Seu Chief Technical Officer antes antes de fechar o escritório.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234022Z" creationid="Olivier" creationdate="20200730T172241Z">
+        <seg>[2632]&lt;1512&gt;Você deve renunciar ao seu Diretor Técnico antes de poder remover o escritório.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12236,8 +12236,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2637]&lt;1517&gt;Auto Apply R&amp;D Results To Factories|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172254Z" creationid="Olivier" creationdate="20200730T172254Z">
-        <seg>[2637]&lt;1517&gt;AUTO Aplicar RESULTADOS DE P&amp;D às fabricas|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234049Z" creationid="Olivier" creationdate="20200730T172254Z">
+        <seg>[2637]&lt;1517&gt;Aplicar automaticamente resultados de pesquisa e desenvolvimento a fábricas|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12268,24 +12268,24 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2643]&lt;1523&gt;Advertisers Shares|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172333Z" creationid="Olivier" creationdate="20200730T172333Z">
-        <seg>[2643]&lt;1523&gt;Ações dos Advertisers|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234114Z" creationid="Olivier" creationdate="20200730T172333Z">
+        <seg>[2643]&lt;1523&gt;Compartilhamentos de anunciantes|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2644]&lt;1524&gt;Local Advertisers |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172337Z" creationid="Olivier" creationdate="20200730T172337Z">
-        <seg>[2644]&lt;1524&gt;Advertisers locais |</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234132Z" creationid="Olivier" creationdate="20200730T172337Z">
+        <seg>[2644]&lt;1524&gt;Anunciantes locais|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2645]&lt;1525&gt;I accept your offer and agree to sell my technology to you.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172343Z" creationid="Olivier" creationdate="20200730T172343Z">
-        <seg>[2645]&lt;1525&gt;Eu aceito sua oferta e concordo em vender my tec. para Você.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234149Z" creationid="Olivier" creationdate="20200730T172343Z">
+        <seg>[2645]&lt;1525&gt;Eu aceito sua oferta e concordo em vender minha tec. para Você.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12436,8 +12436,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2667]&lt;1547&gt;Only show plans with all inputs available|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172536Z" creationid="Olivier" creationdate="20200730T172536Z">
-        <seg>[2667]&lt;1547&gt;Só mostrar planos com inputs dispon.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234238Z" creationid="Olivier" creationdate="20200730T172536Z">
+        <seg>[2667]&lt;1547&gt;Mostrar apenas planos com todas as entradas disponíveis.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12500,8 +12500,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2676]&lt;1556&gt;Current advertising pricing (CPM)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172618Z" creationid="Olivier" creationdate="20200730T172618Z">
-        <seg>[2676]&lt;1556&gt;Preço atual advertising (CPM)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234303Z" creationid="Olivier" creationdate="20200730T172618Z">
+        <seg>[2676]&lt;1556&gt;Preços atuais de publicidade (CPM)|</seg>
       </tuv>
     </tu>
     <tu>
