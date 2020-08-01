@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193225Z" creationid="Olivier" creationdate="20200728T085344Z">
-        <seg>mensal com Ad.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180837Z" creationid="Olivier" creationdate="20200728T085344Z">
+        <seg>mensal com gastos.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,8 +3666,8 @@
       <tuv lang="en-US">
         <seg>[0922]&lt;0130&gt;No.of Employees|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085307Z" creationid="Olivier" creationdate="20200728T085307Z">
-        <seg>[0922]&lt;0130&gt;No. empregados|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180802Z" creationid="Olivier" creationdate="20200728T085307Z">
+        <seg>[0922]&lt;0130&gt;Num. de empregados|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,16 +3802,24 @@
       <tuv lang="en-US">
         <seg>[0941]&lt;0149&gt;Leader Market Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085427Z" creationid="Olivier" creationdate="20200728T085427Z">
-        <seg>[0941]&lt;0149&gt;Marketshare do líder|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180930Z" creationid="Olivier" creationdate="20200728T085427Z">
+        <seg>[0941]&lt;0149&gt;lider na participação de mercado|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0942]&lt;0150&gt;Market Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085428Z" creationid="Olivier" creationdate="20200728T085428Z">
-        <seg>[0942]&lt;0150&gt;Marketshare|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180944Z" creationid="Olivier" creationdate="20200728T085428Z">
+        <seg>[0942]&lt;0150&gt;quota de mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0943]&lt;0151&gt;Rank|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180951Z" creationid="User" creationdate="20200801T180951Z">
+        <seg>[0943]&lt;0151&gt;posição|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,8 +3842,8 @@
       <tuv lang="en-US">
         <seg>[0949]&lt;0157&gt;With Market Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085439Z" creationid="Olivier" creationdate="20200728T085439Z">
-        <seg>[0949]&lt;0157&gt;Com Marketshare|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181012Z" creationid="Olivier" creationdate="20200728T085439Z">
+        <seg>[0949]&lt;0157&gt;Com participação de mercado|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,6 +3900,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085456Z" creationid="Olivier" creationdate="20200728T085456Z">
         <seg>[1015]&lt;0172&gt;Lucro líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1016]&lt;0173&gt;Shareholders|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181040Z" creationid="User" creationdate="20200801T181040Z">
+        <seg>[1016]&lt;0173&gt;Acionistas|</seg>
       </tuv>
     </tu>
     <tu>
