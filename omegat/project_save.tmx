@@ -7506,8 +7506,8 @@
       <tuv lang="en-US">
         <seg>[1836]&lt;0840&gt;Total No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181126Z" creationid="Olivier" creationdate="20200730T181126Z">
-        <seg>[1836]&lt;0840&gt;No. total</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T194054Z" creationid="Olivier" creationdate="20200730T181126Z">
+        <seg>[1836]&lt;0840&gt;Nao. total</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,8 +7522,8 @@
       <tuv lang="en-US">
         <seg>[1838]&lt;0842&gt;Return on Equity|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101340Z" creationid="Olivier" creationdate="20200730T101340Z">
-        <seg>[1838]&lt;0842&gt;Retorno em equity|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T194220Z" creationid="Olivier" creationdate="20200730T101340Z">
+        <seg>[1838]&lt;0842&gt;Retorno sobre o Patrimônio Líquidoy|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7540,6 +7540,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101353Z" creationid="Olivier" creationdate="20200730T101353Z">
         <seg>[1840]&lt;0844&gt;Posse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1841]&lt;0845&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T194229Z" creationid="User" creationdate="20200801T194229Z">
+        <seg>[1841]&lt;0845&gt;Nao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1842]&lt;0846&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T194236Z" creationid="User" creationdate="20200801T194236Z">
+        <seg>[1842]&lt;0846&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
