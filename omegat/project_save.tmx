@@ -2554,8 +2554,8 @@
       <tuv lang="en-US">
         <seg>[0748]&lt;FAT9&gt;Market Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084348Z" creationid="Olivier" creationdate="20200728T084348Z">
-        <seg>[0748]&lt;FAT9&gt;Marketshare|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174342Z" creationid="Olivier" creationdate="20200728T084348Z">
+        <seg>[0748]&lt;FAT9&gt;Quota de mercado|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,32 +2682,32 @@
       <tuv lang="en-US">
         <seg>[0767]&lt;FHQ5&gt;Chief Executive Officer's Office|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084510Z" creationid="Olivier" creationdate="20200728T084510Z">
-        <seg>[0767]&lt;FHQ5&gt;Chief Executive Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174439Z" creationid="Olivier" creationdate="20200728T084510Z">
+        <seg>[0767]&lt;FHQ5&gt;Diretor Executivo|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0768]&lt;FHQ6&gt;Chief Operating Officer's Office|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084513Z" creationid="Olivier" creationdate="20200728T084513Z">
-        <seg>[0768]&lt;FHQ6&gt;Chief Operating Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174445Z" creationid="Olivier" creationdate="20200728T084513Z">
+        <seg>[0768]&lt;FHQ6&gt;Diretor de operações|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0769]&lt;FHQ7&gt;Chief Marketing Officer's Office|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084515Z" creationid="Olivier" creationdate="20200728T084515Z">
-        <seg>[0769]&lt;FHQ7&gt;Chief Marketing Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174459Z" creationid="Olivier" creationdate="20200728T084515Z">
+        <seg>[0769]&lt;FHQ7&gt;Diretor de marketing|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0770]&lt;FHQ8&gt;Chief Technical Officer's Office|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084517Z" creationid="Olivier" creationdate="20200728T084517Z">
-        <seg>[0770]&lt;FHQ8&gt;Chief Technical Officer|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174512Z" creationid="Olivier" creationdate="20200728T084517Z">
+        <seg>[0770]&lt;FHQ8&gt;Diretor de marketing|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,16 +2770,16 @@
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193157Z" creationid="Olivier" creationdate="20200728T084610Z">
-        <seg>[0778]&lt;FH16&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174558Z" creationid="Olivier" creationdate="20200728T084610Z">
+        <seg>[0778]&lt;FH16&gt;total não.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0779]&lt;FH17&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193128Z" creationid="Olivier" creationdate="20200728T084717Z">
-        <seg>[0779]&lt;FH17&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T174650Z" creationid="Olivier" creationdate="20200728T084717Z">
+        <seg>[0779]&lt;FH17&gt;total não.</seg>
       </tuv>
     </tu>
     <tu>
