@@ -12532,8 +12532,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172639Z" creationid="Olivier" creationdate="20200730T172639Z">
-        <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234415Z" creationid="Olivier" creationdate="20200730T172639Z">
+        <seg>[2680]&lt;C002&gt;Design de jogo &amp;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12550,6 +12550,38 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172649Z" creationid="Olivier" creationdate="20200730T172649Z">
         <seg>[2682]&lt;C004&gt;Gerência projeto:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2683]&lt;C005&gt;Programming:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234449Z" creationid="User" creationdate="20200801T234449Z">
+        <seg>[2683]&lt;C005&gt;Programação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2685]&lt;C007&gt;Graphics:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234521Z" creationid="User" creationdate="20200801T234521Z">
+        <seg>[2685]&lt;C007&gt;Graficos:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2690]&lt;C012&gt;User Community:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234549Z" creationid="User" creationdate="20200801T234549Z">
+        <seg>[2690]&lt;C012&gt;Comunidade de usuários:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2691]&lt;C013&gt;Testing:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T234607Z" creationid="User" creationdate="20200801T234607Z">
+        <seg>[2691]&lt;C013&gt;Teste:|</seg>
       </tuv>
     </tu>
     <tu>
