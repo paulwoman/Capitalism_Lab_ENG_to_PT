@@ -10852,8 +10852,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2400]&lt;1313&gt;YOU HAVE RUN OUT OF CASH!!|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170040Z" creationid="Olivier" creationdate="20200730T170040Z">
-        <seg>[2400]&lt;1313&gt;Você ficou sem caixa!!|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232830Z" creationid="Olivier" creationdate="20200730T170040Z">
+        <seg>[2400]&lt;1313&gt;Você ficou sem dinheiro!!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10980,8 +10980,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2416]&lt;1329&gt;Cash|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170259Z" creationid="Olivier" creationdate="20200730T170259Z">
-        <seg>[2416]&lt;1329&gt;Caixa|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232907Z" creationid="Olivier" creationdate="20200730T170259Z">
+        <seg>[2416]&lt;1329&gt;Dinheiro|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11106,6 +11106,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2449]&lt;AW00&gt;Chief Executive Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T232943Z" creationid="User" creationdate="20200801T232943Z">
+        <seg>[2449]&lt;AW00&gt;Diretor Executivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2450]&lt;AW01&gt;Chairman|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183027Z" creationid="Olivier" creationdate="20200730T183027Z">
@@ -11116,8 +11124,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[2451]&lt;AW02&gt;Chief Executive Officer &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183045Z" creationid="Olivier" creationdate="20200730T183045Z">
-        <seg>[2451]&lt;AW02&gt;Chief Executive Officer &amp; Presidente|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233036Z" creationid="Olivier" creationdate="20200730T183045Z">
+        <seg>[2451]&lt;AW02&gt;Diretor Presidente e Presidente|</seg>
       </tuv>
     </tu>
     <tu>
