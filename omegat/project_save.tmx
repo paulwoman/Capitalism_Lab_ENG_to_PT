@@ -5266,16 +5266,16 @@
       <tuv lang="en-US">
         <seg>[1272]&lt;0386&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094505Z" creationid="Olivier" creationdate="20200728T094505Z">
-        <seg>[1272]&lt;0386&gt;Pontos Rating|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182003Z" creationid="Olivier" creationdate="20200728T094505Z">
+        <seg>[1272]&lt;0386&gt;Pontos de classificação|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094520Z" creationid="Olivier" creationdate="20200728T094520Z">
-        <seg>[1273]&lt;0387&gt;Pontos Rating para os Últ. 36 meses|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182024Z" creationid="Olivier" creationdate="20200728T094520Z">
+        <seg>[1273]&lt;0387&gt;Pontos de classificação para os Últ. 36 meses|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,8 +5298,8 @@
       <tuv lang="en-US">
         <seg>[1278]&lt;0392&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094547Z" creationid="Olivier" creationdate="20200728T094547Z">
-        <seg>[1278]&lt;0392&gt;Pontos Rating|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182036Z" creationid="Olivier" creationdate="20200728T094547Z">
+        <seg>[1278]&lt;0392&gt;Pontos de classificação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5322,8 +5322,8 @@
       <tuv lang="en-US">
         <seg>[1289]&lt;0403&gt;Current Advertising Pricing|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T094612Z" creationid="Olivier" creationdate="20200728T094612Z">
-        <seg>[1289]&lt;0403&gt;preço atual do advertising|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182050Z" creationid="Olivier" creationdate="20200728T094612Z">
+        <seg>[1289]&lt;0403&gt;preço atual de publicidade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,8 +5426,8 @@
       <tuv lang="en-US">
         <seg>[1309]&lt;AC05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180024Z" creationid="Olivier" creationdate="20200728T095109Z">
-        <seg>[1309]&lt;AC05&gt;Gastos advertising e P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182111Z" creationid="Olivier" creationdate="20200728T095109Z">
+        <seg>[1309]&lt;AC05&gt;Gastos de publicidade e pesquisa|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,8 +5522,8 @@
       <tuv lang="en-US">
         <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180225Z" creationid="Olivier" creationdate="20200728T095207Z">
-        <seg>[1321]&lt;AE05&gt;Gastos advertising e P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182134Z" creationid="Olivier" creationdate="20200728T095207Z">
+        <seg>[1321]&lt;AE05&gt;Gastos de publicidade e pesquisa|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5570,8 +5570,8 @@
       <tuv lang="en-US">
         <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180336Z" creationid="Olivier" creationdate="20200728T095211Z">
-        <seg>[1327]&lt;AF03&gt;Gastos advertising e P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182142Z" creationid="Olivier" creationdate="20200728T095211Z">
+        <seg>[1327]&lt;AF03&gt;Gastos de publicidade e pesquisa|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5602,8 +5602,8 @@
       <tuv lang="en-US">
         <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T095242Z" creationid="Olivier" creationdate="20200728T095242Z">
-        <seg>[1331]&lt;AG01&gt;Consumption de Reserva|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182202Z" creationid="Olivier" creationdate="20200728T095242Z">
+        <seg>[1331]&lt;AG01&gt;Consumo de Reserva|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,8 +5626,8 @@
       <tuv lang="en-US">
         <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T180455Z" creationid="Olivier" creationdate="20200728T095247Z">
-        <seg>[1334]&lt;AG04&gt;Gastos advertising e P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T182253Z" creationid="Olivier" creationdate="20200728T095247Z">
+        <seg>[1334]&lt;AG04&gt;Despesas de publicidade e relações públicas|</seg>
       </tuv>
     </tu>
     <tu>
