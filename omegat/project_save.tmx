@@ -3096,6 +3096,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0826]&lt;0046&gt;Chief Marketing Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175643Z" creationid="User" creationdate="20200801T175643Z">
+        <seg>[0826]&lt;0046&gt;Diretor de marketing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0828]&lt;0048&gt;Acquire Technology From Other Companies|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084955Z" creationid="Olivier" creationdate="20200728T084955Z">
@@ -3106,8 +3114,8 @@
       <tuv lang="en-US">
         <seg>[0829]&lt;0049&gt;CHIEF TECHNICAL OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084959Z" creationid="Olivier" creationdate="20200728T084959Z">
-        <seg>[0829]&lt;0049&gt;ESCRITÓRIO DO CHIEF TECHNICAL OFFICER|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175708Z" creationid="Olivier" creationdate="20200728T084959Z">
+        <seg>[0829]&lt;0049&gt;ESCRITÓRIO DO DIRETOR TÉCNICO|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,8 +3290,8 @@
       <tuv lang="en-US">
         <seg>[0870]&lt;0085&gt;Market Share |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085057Z" creationid="Olivier" creationdate="20200728T085057Z">
-        <seg>[0870]&lt;0085&gt;Marketshare |</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175801Z" creationid="Olivier" creationdate="20200728T085057Z">
+        <seg>[0870]&lt;0085&gt;Quota de mercado |</seg>
       </tuv>
     </tu>
     <tu>
