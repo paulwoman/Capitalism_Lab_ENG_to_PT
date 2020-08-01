@@ -3410,8 +3410,8 @@
       <tuv lang="en-US">
         <seg>[0886]&lt;0098&gt;Advertising Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085157Z" creationid="Olivier" creationdate="20200728T085157Z">
-        <seg>[0886]&lt;0098&gt;Gasto Advertising|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180505Z" creationid="Olivier" creationdate="20200728T085157Z">
+        <seg>[0886]&lt;0098&gt;Gasto com publicidade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,8 +3426,8 @@
       <tuv lang="en-US">
         <seg>[0891]&lt;0103&gt;New Price|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085159Z" creationid="Olivier" creationdate="20200728T085159Z">
-        <seg>[0891]&lt;0103&gt;Novo p.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180517Z" creationid="Olivier" creationdate="20200728T085159Z">
+        <seg>[0891]&lt;0103&gt;Novo preço|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,24 +3450,24 @@
       <tuv lang="en-US">
         <seg>[0894]&lt;0106&gt;(Tech unknown to you)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085205Z" creationid="Olivier" creationdate="20200728T085205Z">
-        <seg>[0894]&lt;0106&gt;(tec. desconhecida para Você)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180542Z" creationid="Olivier" creationdate="20200728T085205Z">
+        <seg>[0894]&lt;0106&gt;(tecn. desconhecida para Você)|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0896]&lt;0108&gt;Import|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085206Z" creationid="Olivier" creationdate="20200728T085206Z">
-        <seg>[0896]&lt;0108&gt;Produtor estrangeiro|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180559Z" creationid="Olivier" creationdate="20200728T085206Z">
+        <seg>[0896]&lt;0108&gt;Produtos importados|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0897]&lt;0109&gt;No Longer in Business|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085208Z" creationid="Olivier" creationdate="20200728T085208Z">
-        <seg>[0897]&lt;0109&gt;Não mais um negócio|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180618Z" creationid="Olivier" creationdate="20200728T085208Z">
+        <seg>[0897]&lt;0109&gt;Já não está nos negócios|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,8 +3578,16 @@
       <tuv lang="en-US">
         <seg>[0911]&lt;0119&gt;Technology|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085227Z" creationid="Olivier" creationdate="20200728T085227Z">
-        <seg>[0911]&lt;0119&gt;Technologia|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180637Z" creationid="Olivier" creationdate="20200728T085227Z">
+        <seg>[0911]&lt;0119&gt;Tecnologias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0912]&lt;0120&gt;Advertising|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180646Z" creationid="User" creationdate="20200801T180646Z">
+        <seg>[0912]&lt;0120&gt;publicidade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,6 +3604,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085244Z" creationid="Olivier" creationdate="20200728T085244Z">
         <seg>[0914]&lt;0122&gt;Dominância|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0915]&lt;0123&gt;Rankings|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180657Z" creationid="User" creationdate="20200801T180657Z">
+        <seg>[0915]&lt;0123&gt;posição|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,16 +3634,16 @@
       <tuv lang="en-US">
         <seg>[0918]&lt;0126&gt;City|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085259Z" creationid="Olivier" creationdate="20200728T085259Z">
-        <seg>[0918]&lt;0126&gt;Cid.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180709Z" creationid="Olivier" creationdate="20200728T085259Z">
+        <seg>[0918]&lt;0126&gt;Cidade|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0919]&lt;0127&gt;Operating Years|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085301Z" creationid="Olivier" creationdate="20200728T085301Z">
-        <seg>[0919]&lt;0127&gt;Anos operação|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T180726Z" creationid="Olivier" creationdate="20200728T085301Z">
+        <seg>[0919]&lt;0127&gt;Anos de operação|</seg>
       </tuv>
     </tu>
     <tu>
