@@ -2992,6 +2992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0812]&lt;0032&gt;Chief Executive Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175444Z" creationid="User" creationdate="20200801T175444Z">
+        <seg>[0812]&lt;0032&gt;Diretor Executivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0813]&lt;0033&gt;Years of service|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084819Z" creationid="Olivier" creationdate="20200728T084819Z">
@@ -3044,6 +3052,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084922Z" creationid="Olivier" creationdate="20200728T084922Z">
         <seg>[0820]&lt;0040&gt;ESCRITÓRIO DO CHIEF OPERATING OFFICER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0821]&lt;0041&gt;Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175518Z" creationid="User" creationdate="20200801T175518Z">
+        <seg>[0821]&lt;0041&gt;Diretor de operações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0822]&lt;0042&gt;Expertise|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T175556Z" creationid="User" creationdate="20200801T175556Z">
+        <seg>[0822]&lt;0042&gt;Experiencia|</seg>
       </tuv>
     </tu>
     <tu>
