@@ -1586,8 +1586,8 @@
       <tuv lang="en-US">
         <seg>[0587]&lt;AIG3&gt;Real Estate Focused|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T082048Z" creationid="Olivier" creationdate="20200728T082048Z">
-        <seg>[0587]&lt;AIG3&gt;Focado em real estate|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173835Z" creationid="Olivier" creationdate="20200728T082048Z">
+        <seg>[0587]&lt;AIG3&gt;Focado em imoveis|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,8 +1618,8 @@
       <tuv lang="en-US">
         <seg>[0591]&lt;AIS3&gt;Real Estate|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183914Z" creationid="Olivier" creationdate="20200730T183914Z">
-        <seg>[0591]&lt;AIS3&gt;Real State|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173900Z" creationid="Olivier" creationdate="20200730T183914Z">
+        <seg>[0591]&lt;AIS3&gt;imobiliaria|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,8 +1834,8 @@
       <tuv lang="en-US">
         <seg>[0632]&lt;DI27&gt;Advertising Cost (CPM)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083218Z" creationid="Olivier" creationdate="20200728T083218Z">
-        <seg>[0632]&lt;DI27&gt;Custo Advertising (CPM)|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T173945Z" creationid="Olivier" creationdate="20200728T083218Z">
+        <seg>[0632]&lt;DI27&gt;Custo de publicidade (CPM)|</seg>
       </tuv>
     </tu>
     <tu>
