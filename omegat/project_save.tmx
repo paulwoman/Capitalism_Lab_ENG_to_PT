@@ -4226,8 +4226,8 @@
       <tuv lang="en-US">
         <seg>[1067]&lt;0224&gt;YTD Trade|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091353Z" creationid="Olivier" creationdate="20200728T091353Z">
-        <seg>[1067]&lt;0224&gt;YTD|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181353Z" creationid="Olivier" creationdate="20200728T091353Z">
+        <seg>[1067]&lt;0224&gt;YTD trade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4282,24 +4282,24 @@
       <tuv lang="en-US">
         <seg>[1074]&lt;0231&gt;Stock Asset|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091403Z" creationid="Olivier" creationdate="20200728T091403Z">
-        <seg>[1074]&lt;0231&gt;Ativos acionários|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181419Z" creationid="Olivier" creationdate="20200728T091403Z">
+        <seg>[1074]&lt;0231&gt;Ativo de ações|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1075]&lt;0231&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091428Z" creationid="Olivier" creationdate="20200728T091428Z">
-        <seg>[1075]&lt;0231&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181429Z" creationid="Olivier" creationdate="20200728T091428Z">
+        <seg>[1075]&lt;0231&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1076]&lt;0232&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091433Z" creationid="Olivier" creationdate="20200728T091433Z">
-        <seg>[1076]&lt;0232&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181442Z" creationid="Olivier" creationdate="20200728T091433Z">
+        <seg>[1076]&lt;0232&gt;Nao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,10 +4368,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1085]&lt;0241&gt;Inventory Turnover|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181516Z" creationid="User" creationdate="20200801T181516Z">
+        <seg>[1085]&lt;0241&gt;Rotatividade de estoque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1086]&lt;0242&gt;Assets Turnover|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175721Z" creationid="Olivier" creationdate="20200730T175721Z">
-        <seg>[1086]&lt;0242&gt;Turnover dos ativos|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181538Z" creationid="Olivier" creationdate="20200730T175721Z">
+        <seg>[1086]&lt;0242&gt;Rotatividade de Ativos|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,8 +4434,8 @@
       <tuv lang="en-US">
         <seg>[1093]&lt;0249&gt;Public Shareholders|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091640Z" creationid="Olivier" creationdate="20200728T091640Z">
-        <seg>[1093]&lt;0249&gt;sharehders. públicos|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181620Z" creationid="Olivier" creationdate="20200728T091640Z">
+        <seg>[1093]&lt;0249&gt;Acionistas públicos|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13515,8 +13523,8 @@
       <tuv lang="en-US">
         <seg>of Years of Operation|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091423Z" creationid="Olivier" creationdate="20200728T091423Z">
-        <seg>anos operação|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181436Z" creationid="Olivier" creationdate="20200728T091423Z">
+        <seg>anos de operação|</seg>
       </tuv>
     </tu>
     <tu>
