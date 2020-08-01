@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy plots of land (hotkey: CTRL-L)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224803Z" creationid="RAFAEL" creationdate="20200801T224803Z">
+        <seg>Comprar terrenos (Tecla de atalho: CTRL-L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Build Menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223930Z" creationid="RAFAEL" creationdate="20200801T223930Z">
