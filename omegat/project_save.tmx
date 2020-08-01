@@ -7480,6 +7480,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1833]&lt;0837&gt;Market Cap|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T193914Z" creationid="User" creationdate="20200801T193914Z">
+        <seg>[1833]&lt;0837&gt;Valor de mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1834]&lt;0838&gt;No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T193953Z" creationid="User" creationdate="20200801T193953Z">
+        <seg>[1834]&lt;0838&gt;Nao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1835]&lt;0839&gt;Goals of the Player's Own Corporation|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101223Z" creationid="Olivier" creationdate="20200730T101223Z">
