@@ -11130,26 +11130,50 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2452]&lt;AW03&gt;Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233108Z" creationid="User" creationdate="20200801T233108Z">
+        <seg>[2452]&lt;AW03&gt;Diretor de operações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2453]&lt;AW04&gt;Chief Operating Officer &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183048Z" creationid="Olivier" creationdate="20200730T183048Z">
-        <seg>[2453]&lt;AW04&gt;Chief Operating Officer &amp; Presidente|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233129Z" creationid="Olivier" creationdate="20200730T183048Z">
+        <seg>[2453]&lt;AW04&gt;Diretor de Operações e Presidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2454]&lt;AW05&gt;Chief Marketing Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233149Z" creationid="User" creationdate="20200801T233149Z">
+        <seg>[2454]&lt;AW05&gt;Diretor de Marketing|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2455]&lt;AW06&gt;Chief Marketing Officer &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183053Z" creationid="Olivier" creationdate="20200730T183053Z">
-        <seg>[2455]&lt;AW06&gt;Chief Marketing Officer &amp; Presidente|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233210Z" creationid="Olivier" creationdate="20200730T183053Z">
+        <seg>[2455]&lt;AW06&gt;Diretor de Marketing e Presidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2456]&lt;AW07&gt;Chief Technical Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233228Z" creationid="User" creationdate="20200801T233228Z">
+        <seg>[2456]&lt;AW07&gt;Diretor Técnico|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2457]&lt;AW08&gt;Chief Technical Officer &amp; Chairman|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T183113Z" creationid="Olivier" creationdate="20200730T183113Z">
-        <seg>[2457]&lt;AW08&gt;Chief Technical Officer &amp; Presidente|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T233249Z" creationid="Olivier" creationdate="20200730T183113Z">
+        <seg>[2457]&lt;AW08&gt;Diretor Técnico e Presidente|</seg>
       </tuv>
     </tu>
     <tu>
