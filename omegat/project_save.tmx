@@ -3930,8 +3930,8 @@
       <tuv lang="en-US">
         <seg>[1022]&lt;0179&gt;Strategy:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085529Z" creationid="Olivier" creationdate="20200728T085529Z">
-        <seg>[1022]&lt;0179&gt;Sttaxagia:|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181101Z" creationid="Olivier" creationdate="20200728T085529Z">
+        <seg>[1022]&lt;0179&gt;Estrategia:|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3948,6 +3948,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085532Z" creationid="Olivier" creationdate="20200728T085532Z">
         <seg>[1025]&lt;0182&gt;Presidente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1027]&lt;0184&gt;Chief Technical Officer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181129Z" creationid="User" creationdate="20200801T181129Z">
+        <seg>[1027]&lt;0184&gt;Diretor Técnico|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,8 +4114,8 @@
       <tuv lang="en-US">
         <seg>[1050]&lt;0207&gt;Stock Assets|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085608Z" creationid="Olivier" creationdate="20200728T085608Z">
-        <seg>[1050]&lt;0207&gt;Ativos acionários|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181202Z" creationid="Olivier" creationdate="20200728T085608Z">
+        <seg>[1050]&lt;0207&gt;Ativos de ações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1055]&lt;0212&gt;Advertising|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181215Z" creationid="User" creationdate="20200801T181215Z">
+        <seg>[1055]&lt;0212&gt;publicidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1056]&lt;0213&gt;Training|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091328Z" creationid="Olivier" creationdate="20200728T091328Z">
@@ -4162,8 +4178,8 @@
       <tuv lang="en-US">
         <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty   Owned%  Stock Value   Position|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091344Z" creationid="Olivier" creationdate="20200728T091344Z">
-        <seg>[1058]&lt;0215&gt;Shareholder             Qde possuida    Qde%   Valor da ação   Posição|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181239Z" creationid="Olivier" creationdate="20200728T091344Z">
+        <seg>[1058]&lt;0215&gt;Qtd. De propriedade do acionista% de posição do valor das ações ||</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,32 +4194,32 @@
       <tuv lang="en-US">
         <seg>[1062]&lt;0219&gt;Current Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091348Z" creationid="Olivier" creationdate="20200728T091348Z">
-        <seg>[1062]&lt;0219&gt;Teq. Atual|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181253Z" creationid="Olivier" creationdate="20200728T091348Z">
+        <seg>[1062]&lt;0219&gt;Tecno. Atual|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1063]&lt;0220&gt;Top Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091350Z" creationid="Olivier" creationdate="20200728T091350Z">
-        <seg>[1063]&lt;0220&gt;Melhor Teq.|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181300Z" creationid="Olivier" creationdate="20200728T091350Z">
+        <seg>[1063]&lt;0220&gt;Melhor Tecn.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1064]&lt;0221&gt;Target Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091351Z" creationid="Olivier" creationdate="20200728T091351Z">
-        <seg>[1064]&lt;0221&gt;Teq. alvo|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181308Z" creationid="Olivier" creationdate="20200728T091351Z">
+        <seg>[1064]&lt;0221&gt;Tecn. alvo|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1065]&lt;0222&gt;R&amp;D Progress|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091352Z" creationid="Olivier" creationdate="20200728T091352Z">
-        <seg>[1065]&lt;0222&gt;Progresso P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200801T181334Z" creationid="Olivier" creationdate="20200728T091352Z">
+        <seg>[1065]&lt;0222&gt;Progresso Pesquisa|</seg>
       </tuv>
     </tu>
     <tu>
