@@ -13546,6 +13546,46 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2820]&lt;RDC1&gt;firm|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000248Z" creationid="User" creationdate="20200802T000248Z">
+        <seg>[2820]&lt;RDC1&gt;empresa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2821]&lt;RDC2&gt;firms|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000259Z" creationid="User" creationdate="20200802T000259Z">
+        <seg>[2821]&lt;RDC2&gt;empresas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2822]&lt;RDC3&gt; of yours have been redirected to purchase |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000419Z" creationid="User" creationdate="20200802T000419Z">
+        <seg>[2822]&lt;RDC3&gt;seus foram redirecionados para compra |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2823]&lt;RDC4&gt; from the current firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000448Z" creationid="User" creationdate="20200802T000448Z">
+        <seg>[2823]&lt;RDC4&gt; da empresa atual.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000511Z" creationid="User" creationdate="20200802T000511Z">
+        <seg>[2824]&lt;RDC5&gt;Para visualizar a nova lista de clientes, clique no botão [Clientes] na interface da sua unidade de vendas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
