@@ -286,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Save Interval Days=10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013127Z" creationid="Olivier" creationdate="20200802T013127Z">
+        <seg>Auto Save Interval Days=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013131Z" creationid="Olivier" creationdate="20200802T013131Z">
+        <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BACK_INT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005920Z" creationid="Olivier" creationdate="20200802T005920Z">
@@ -1678,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of Local Competitors=High</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013034Z" creationid="Olivier" creationdate="20200802T013034Z">
+        <seg>Competence of Local Competitors=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Low</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011856Z" creationid="Olivier" creationdate="20200802T011856Z">
@@ -1794,6 +1818,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010816Z" creationid="Olivier" creationdate="20200802T010816Z">
         <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controlled Companies Annual Profit=1500</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013109Z" creationid="Olivier" creationdate="20200802T013109Z">
+        <seg>Controlled Companies Annual Profit=1500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controlled Companies Annual Revenue=10000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013108Z" creationid="Olivier" creationdate="20200802T013108Z">
+        <seg>Controlled Companies Annual Revenue=10000</seg>
       </tuv>
     </tu>
     <tu>
@@ -4863,6 +4903,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013032Z" creationid="Olivier" creationdate="20200802T013032Z">
+        <seg>Industrial Goods Seaports=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Industrial Goods Seaports=2</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010941Z" creationid="Olivier" creationdate="20200802T010941Z">
@@ -4879,10 +4927,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Strength=Reduced</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013255Z" creationid="Olivier" creationdate="20200802T013255Z">
+        <seg>Inflation Strength=Reduced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation=Inverse</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010931Z" creationid="Olivier" creationdate="20200802T010931Z">
         <seg>Inflation=Inverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation=On</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013252Z" creationid="Olivier" creationdate="20200802T013252Z">
+        <seg>Inflation=On</seg>
       </tuv>
     </tu>
     <tu>
@@ -6143,10 +6207,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Persons=64</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013250Z" creationid="Olivier" creationdate="20200802T013250Z">
+        <seg>Number of AI Persons=64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities You Manage=4</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012534Z" creationid="Olivier" creationdate="20200802T012534Z">
         <seg>Number of Cities You Manage=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013139Z" creationid="Olivier" creationdate="20200802T013139Z">
+        <seg>Number of Cities=10</seg>
       </tuv>
     </tu>
     <tu>
@@ -6223,10 +6303,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=28</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013009Z" creationid="Olivier" creationdate="20200802T013009Z">
+        <seg>Number of Competitors=28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012109Z" creationid="Olivier" creationdate="20200802T012109Z">
         <seg>Number of Competitors=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=35</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013030Z" creationid="Olivier" creationdate="20200802T013030Z">
+        <seg>Number of Competitors=35</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,6 +7659,30 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012111Z" creationid="Olivier" creationdate="20200802T012111Z">
         <seg>Player Wealth=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Wealth=500</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013022Z" creationid="Olivier" creationdate="20200802T013022Z">
+        <seg>Player Wealth=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=manufacturing, 60</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013024Z" creationid="Olivier" creationdate="20200802T013024Z">
+        <seg>Player expertise change=manufacturing, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=research and development, 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013113Z" creationid="Olivier" creationdate="20200802T013113Z">
+        <seg>Player expertise change=research and development, 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -8919,10 +9039,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=200,3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013017Z" creationid="Olivier" creationdate="20200802T013017Z">
+        <seg>Subsidiary Annual Profit=200,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiary Annual Profit=250,3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012806Z" creationid="Olivier" creationdate="20200802T012806Z">
         <seg>Subsidiary Annual Profit=250,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=300,3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013059Z" creationid="Olivier" creationdate="20200802T013059Z">
+        <seg>Subsidiary Annual Profit=300,3</seg>
       </tuv>
     </tu>
     <tu>
@@ -8935,10 +9071,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1200,3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013016Z" creationid="Olivier" creationdate="20200802T013016Z">
+        <seg>Subsidiary Annual Revenue=1200,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiary Annual Revenue=1400,3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012805Z" creationid="Olivier" creationdate="20200802T012805Z">
         <seg>Subsidiary Annual Revenue=1400,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1600,3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013059Z" creationid="Olivier" creationdate="20200802T013059Z">
+        <seg>Subsidiary Annual Revenue=1600,3</seg>
       </tuv>
     </tu>
     <tu>
@@ -8963,6 +9115,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012936Z" creationid="Olivier" creationdate="20200802T012936Z">
         <seg>Subsidiary IPO=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Market Cap=2000,2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013015Z" creationid="Olivier" creationdate="20200802T013015Z">
+        <seg>Subsidiary Market Cap=2000,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Market Cap=3000,1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013036Z" creationid="Olivier" creationdate="20200802T013036Z">
+        <seg>Subsidiary Market Cap=3000,1</seg>
       </tuv>
     </tu>
     <tu>
