@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to enable Auto Save</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201713Z" creationid="RAFAEL" creationdate="20200802T201713Z">
+        <seg>Clique para ativar o Auto Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable brief in-game help information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201308Z" creationid="RAFAEL" creationdate="20200802T200908Z">
@@ -3254,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable the enhanced hotkey system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201758Z" creationid="RAFAEL" creationdate="20200802T201758Z">
+        <seg>Desativar o sistema de tecla de atalho aprimorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the Mini Map</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221916Z" creationid="RAFAEL" creationdate="20200801T221916Z">
@@ -3643,6 +3659,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192710Z" creationid="RAFAEL" creationdate="20200802T192710Z">
         <seg>Ativar venda interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable the enhanced hotkey system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201950Z" creationid="RAFAEL" creationdate="20200802T201950Z">
+        <seg>Habilitar o sistema tecla de atalho aprimorado.</seg>
       </tuv>
     </tu>
     <tu>
