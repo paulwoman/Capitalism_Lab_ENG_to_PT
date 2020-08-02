@@ -13994,6 +13994,46 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2880]&lt;EVRY&gt;Every|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003006Z" creationid="User" creationdate="20200802T003006Z">
+        <seg>[2880]&lt;EVRY&gt;Cada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2881]&lt;ATS1&gt;This cannot be done because [|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003043Z" creationid="User" creationdate="20200802T003043Z">
+        <seg>[2881]&lt;ATS1&gt;Isso não pode ser feito porque [|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003108Z" creationid="User" creationdate="20200802T003108Z">
+        <seg>[2882]&lt;ATS2&gt;] fora do escopo de produção da empresa subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2883]&lt;LAN7&gt;Increase this city's competitiveness in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003231Z" creationid="User" creationdate="20200802T003231Z">
+        <seg>[2883]&lt;LAN7&gt;Aumentar a competitividade desta cidade em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2884]&lt;LAN8&gt;Increase the levels of all|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003254Z" creationid="User" creationdate="20200802T003254Z">
+        <seg>[2884]&lt;LAN8&gt;Aumentar os níveis de todos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
