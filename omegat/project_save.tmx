@@ -4599,6 +4599,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headquarters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T135753Z" creationid="RAFAEL" creationdate="20200802T135753Z">
+        <seg>Sede da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health rating=90, Berlin</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012612Z" creationid="Olivier" creationdate="20200802T012612Z">
