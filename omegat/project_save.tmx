@@ -12199,6 +12199,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
+        <seg>O banco não possui dinheiro suficiente para permitir que todos os depositantes retirem seu dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bar indicates the growth progress of the crop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213720Z" creationid="Olivier" creationdate="20200730T213720Z">
@@ -27469,6 +27477,46 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192234Z" creationid="User" creationdate="20200802T192234Z">
         <seg>[3009]&lt;KNO9&gt;Invenção Pré-requisitos:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192302Z" creationid="User" creationdate="20200802T192302Z">
+        <seg>[3010]&lt;KN10&gt;Pré-requisito da invenção:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192434Z" creationid="User" creationdate="20200802T192434Z">
+        <seg>[3011]&lt;BIP2&gt;Reservas de Reivindicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192445Z" creationid="User" creationdate="20200802T192445Z">
+        <seg>[3012]&lt;BIP3&gt;Reservas de Reivindicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192502Z" creationid="User" creationdate="20200802T192502Z">
+        <seg>[3013]&lt;CBK1&gt;Você deve primeiro fechar todas as agências bancárias antes de fechar a sede do banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192517Z" creationid="User" creationdate="20200802T192517Z">
+        <seg>[3014]&lt;CBK2&gt;Desculpe, você não pode fechar o banco.</seg>
       </tuv>
     </tu>
     <tu>
