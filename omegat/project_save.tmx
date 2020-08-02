@@ -27401,6 +27401,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3001]&lt;KNO1&gt;You must first possess the knowhow for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T191845Z" creationid="User" creationdate="20200802T191845Z">
+        <seg>[3001]&lt;KNO1&gt;Você deve primeiro possuir o conhecimento para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3002]&lt;KNO2&gt;(click to view it now)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192007Z" creationid="User" creationdate="20200802T192007Z">
+        <seg>[3002]&lt;KNO2&gt;(clique para vê-lo agora)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
