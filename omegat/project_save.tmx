@@ -4031,6 +4031,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202732Z" creationid="RAFAEL" creationdate="20200802T202732Z">
+        <seg>Filtrar Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm Summary Report (hotkey: 'F')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134153Z" creationid="RAFAEL" creationdate="20200802T134153Z">
@@ -12972,6 +12980,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194832Z" creationid="User" creationdate="20200802T194832Z">
         <seg>Para retomar a emissão do empréstimo, acesse o banco, selecione [Financeiro] e [Transferência de fundo].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Firm Filter to select only specific firms for the map display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202921Z" creationid="RAFAEL" creationdate="20200802T202921Z">
+        <seg>Alternar o Filtrar Empresa para selecionar somente empresas específicas para a exibição do mapa.</seg>
       </tuv>
     </tu>
     <tu>
