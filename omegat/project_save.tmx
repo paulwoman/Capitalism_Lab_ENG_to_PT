@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ADVSPEND</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010549Z" creationid="Olivier" creationdate="20200802T010549Z">
+        <seg>ADVSPEND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADV_DEL</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010122Z" creationid="Olivier" creationdate="20200802T010122Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>APREMIUM</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010555Z" creationid="Olivier" creationdate="20200802T010555Z">
+        <seg>APREMIUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AR_COMM</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005254Z" creationid="Olivier" creationdate="20200802T005254Z">
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005255Z" creationid="Olivier" creationdate="20200802T005255Z">
         <seg>AR_SHOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ASERVICE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010600Z" creationid="Olivier" creationdate="20200802T010600Z">
+        <seg>ASERVICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +438,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BRANDAWA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010547Z" creationid="Olivier" creationdate="20200802T010547Z">
+        <seg>BRANDAWA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDCOR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010551Z" creationid="Olivier" creationdate="20200802T010551Z">
+        <seg>BRANDCOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDLOY</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010548Z" creationid="Olivier" creationdate="20200802T010548Z">
+        <seg>BRANDLOY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDRAN</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010552Z" creationid="Olivier" creationdate="20200802T010552Z">
+        <seg>BRANDRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDRAT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010545Z" creationid="Olivier" creationdate="20200802T010545Z">
+        <seg>BRANDRAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDSTR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010544Z" creationid="Olivier" creationdate="20200802T010544Z">
+        <seg>BRANDSTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDUNI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010554Z" creationid="Olivier" creationdate="20200802T010554Z">
+        <seg>BRANDUNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BRAND_ST</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010154Z" creationid="Olivier" creationdate="20200802T010154Z">
@@ -522,6 +602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T003615Z" creationid="Olivier" creationdate="20200802T003615Z">
         <seg>B_MINMAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_NATION</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010525Z" creationid="Olivier" creationdate="20200802T010525Z">
+        <seg>B_NATION</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CITYQUAB</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010537Z" creationid="Olivier" creationdate="20200802T010537Z">
+        <seg>CITYQUAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CITYTOT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010157Z" creationid="Olivier" creationdate="20200802T010157Z">
@@ -834,6 +930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005919Z" creationid="Olivier" creationdate="20200802T005919Z">
         <seg>COMM_OPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONATPOP</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010613Z" creationid="Olivier" creationdate="20200802T010613Z">
+        <seg>CONATPOP</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1178,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223930Z" creationid="RAFAEL" creationdate="20200801T223930Z">
         <seg>Clique para abrir o Menu de Construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010801Z" creationid="Olivier" creationdate="20200802T010801Z">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010757Z" creationid="Olivier" creationdate="20200802T010757Z">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010816Z" creationid="Olivier" creationdate="20200802T010816Z">
+        <seg>Contest Started On=2020-07-08</seg>
       </tuv>
     </tu>
     <tu>
@@ -1983,10 +2111,34 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADBRAN</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010543Z" creationid="Olivier" creationdate="20200802T010543Z">
+        <seg>HEADBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HEADHUNT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010132Z" creationid="Olivier" creationdate="20200802T010132Z">
         <seg>[correspondance][2716]&lt;NCJ1&gt;fundado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HEADPRIC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010550Z" creationid="Olivier" creationdate="20200802T010550Z">
+        <seg>HEADPRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HEADQUAL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010531Z" creationid="Olivier" creationdate="20200802T010531Z">
+        <seg>HEADQUAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2211,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095743Z" creationid="Olivier" creationdate="20200730T095743Z">
         <seg>Seja rapido!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICAPRAT1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010555Z" creationid="Olivier" creationdate="20200802T010555Z">
+        <seg>ICAPRAT1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2923,6 +3083,54 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004723Z" creationid="Olivier" creationdate="20200802T004723Z">
         <seg>IF_W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMPORT0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010604Z" creationid="Olivier" creationdate="20200802T010604Z">
+        <seg>IMPORT0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMPORT1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010603Z" creationid="Olivier" creationdate="20200802T010603Z">
+        <seg>IMPORT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMPORTA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010608Z" creationid="Olivier" creationdate="20200802T010608Z">
+        <seg>IMPORTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMP_CAPA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010607Z" creationid="Olivier" creationdate="20200802T010607Z">
+        <seg>IMP_CAPA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMP_CLI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010605Z" creationid="Olivier" creationdate="20200802T010605Z">
+        <seg>IMP_CLI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IMP_DEL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010605Z" creationid="Olivier" creationdate="20200802T010605Z">
+        <seg>IMP_DEL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,6 +4175,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOANDEMA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010609Z" creationid="Olivier" creationdate="20200802T010609Z">
+        <seg>LOANDEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANDEPP</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010405Z" creationid="Olivier" creationdate="20200802T010405Z">
@@ -4279,6 +4495,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MLAYOUT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010527Z" creationid="Olivier" creationdate="20200802T010527Z">
+        <seg>MLAYOUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPAC</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004559Z" creationid="Olivier" creationdate="20200802T004559Z">
@@ -4507,6 +4731,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005628Z" creationid="Olivier" creationdate="20200802T005628Z">
         <seg>MYGROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MYNATPOP</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010612Z" creationid="Olivier" creationdate="20200802T010612Z">
+        <seg>MYNATPOP</seg>
       </tuv>
     </tu>
     <tu>
@@ -4927,6 +5159,30 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OVERALL2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010602Z" creationid="Olivier" creationdate="20200802T010602Z">
+        <seg>OVERALL2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OVERALLR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010531Z" creationid="Olivier" creationdate="20200802T010531Z">
+        <seg>OVERALLR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OWNTECH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010541Z" creationid="Olivier" creationdate="20200802T010541Z">
+        <seg>OWNTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Event Tracker Window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222947Z" creationid="RAFAEL" creationdate="20200801T222947Z">
@@ -5063,6 +5319,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLANSRC4</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010528Z" creationid="Olivier" creationdate="20200802T010528Z">
+        <seg>PLANSRC4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLAN_1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005232Z" creationid="Olivier" creationdate="20200802T005232Z">
@@ -5175,6 +5439,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PO_BAPAR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010637Z" creationid="Olivier" creationdate="20200802T010637Z">
+        <seg>PO_BAPAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_BCIVI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010616Z" creationid="Olivier" creationdate="20200802T010616Z">
+        <seg>PO_BCIVI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PO_IMMIG</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005743Z" creationid="Olivier" creationdate="20200802T005743Z">
@@ -5211,6 +5491,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005747Z" creationid="Olivier" creationdate="20200802T005747Z">
         <seg>PO_UNEMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREBUILD</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010526Z" creationid="Olivier" creationdate="20200802T010526Z">
+        <seg>PREBUILD</seg>
       </tuv>
     </tu>
     <tu>
@@ -5255,10 +5543,58 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRICSYN0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010520Z" creationid="Olivier" creationdate="20200802T010520Z">
+        <seg>PRICSYN0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICSYN1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010521Z" creationid="Olivier" creationdate="20200802T010521Z">
+        <seg>PRICSYN1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICSYN2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010522Z" creationid="Olivier" creationdate="20200802T010522Z">
+        <seg>PRICSYN2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRIVONLY</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010104Z" creationid="Olivier" creationdate="20200802T010104Z">
         <seg>PRIVONLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODQUA1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010532Z" creationid="Olivier" creationdate="20200802T010532Z">
+        <seg>PRODQUA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODQUA2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010534Z" creationid="Olivier" creationdate="20200802T010534Z">
+        <seg>PRODQUA2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODQUAC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010559Z" creationid="Olivier" creationdate="20200802T010559Z">
+        <seg>PRODQUAC</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,6 +5643,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005942Z" creationid="Olivier" creationdate="20200802T005942Z">
         <seg>PUBFINAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUBINVMO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010615Z" creationid="Olivier" creationdate="20200802T010615Z">
+        <seg>PUBINVMO</seg>
       </tuv>
     </tu>
     <tu>
@@ -5471,6 +5815,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010755Z" creationid="Olivier" creationdate="20200802T010755Z">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
@@ -5591,6 +5943,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QUALITY</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010530Z" creationid="Olivier" creationdate="20200802T010530Z">
+        <seg>[correspondance][0754]&lt;FA15&gt;Qualid.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RAISEALL</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010144Z" creationid="Olivier" creationdate="20200802T010144Z">
@@ -5603,6 +5963,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010142Z" creationid="Olivier" creationdate="20200802T010142Z">
         <seg>RAISESAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RAWQUAL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010533Z" creationid="Olivier" creationdate="20200802T010533Z">
+        <seg>RAWQUAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -5919,6 +6287,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SINCELVR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010523Z" creationid="Olivier" creationdate="20200802T010523Z">
+        <seg>SINCELVR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SLOTIIMG</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010126Z" creationid="Olivier" creationdate="20200802T010126Z">
@@ -6047,6 +6423,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STOPCDEP</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010610Z" creationid="Olivier" creationdate="20200802T010610Z">
+        <seg>STOPCDEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STOPDEPO</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010359Z" creationid="Olivier" creationdate="20200802T010359Z">
@@ -6167,6 +6551,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TALICLAS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010557Z" creationid="Olivier" creationdate="20200802T010557Z">
+        <seg>TALICLAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TALTECH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010557Z" creationid="Olivier" creationdate="20200802T010557Z">
+        <seg>TALTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TARBRAND</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005945Z" creationid="Olivier" creationdate="20200802T005945Z">
@@ -6179,6 +6579,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010419Z" creationid="Olivier" creationdate="20200802T010419Z">
         <seg>TAXOFFSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TOPTECH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010542Z" creationid="Olivier" creationdate="20200802T010542Z">
+        <seg>TOPTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TOTALCF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010529Z" creationid="Olivier" creationdate="20200802T010529Z">
+        <seg>TOTALCF</seg>
       </tuv>
     </tu>
     <tu>
@@ -6712,6 +7128,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VIEWTAL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010558Z" creationid="Olivier" creationdate="20200802T010558Z">
+        <seg>VIEWTAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VM_001</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005213Z" creationid="Olivier" creationdate="20200802T005213Z">
@@ -6912,6 +7336,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ZEROUTIL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010519Z" creationid="Olivier" creationdate="20200802T010519Z">
+        <seg>ZEROUTIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ZONE_ANY</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005653Z" creationid="Olivier" creationdate="20200802T005653Z">
@@ -6972,6 +7404,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005703Z" creationid="Olivier" creationdate="20200802T005703Z">
         <seg>Z_SETALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010652Z" creationid="Olivier" creationdate="20200802T010652Z">
+        <seg>[correspondance][0001]&lt;VERS&gt;Versão %1s|</seg>
       </tuv>
     </tu>
     <tu>
@@ -20914,10 +21354,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010647Z" creationid="Olivier" creationdate="20200802T010647Z">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX2]Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055120Z" creationid="Olivier" creationdate="20200728T055120Z">
         <seg>[BOX2]Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CHALLENGE GAME]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010750Z" creationid="Olivier" creationdate="20200802T010750Z">
+        <seg>[CHALLENGE GAME]</seg>
       </tuv>
     </tu>
     <tu>
