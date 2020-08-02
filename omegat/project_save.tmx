@@ -27753,6 +27753,63 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3030]&lt;IOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193255Z" creationid="User" creationdate="20200802T193255Z">
+        <seg>[3030]&lt;IOC5&gt;Arrecadar fundos da sua corporação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3031]&lt;IOC6&gt;Transfer funds from your subsidiary company to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193315Z" creationid="User" creationdate="20200802T193315Z">
+        <seg>[3031]&lt;IOC6&gt;Transferir fundos da sua empresa subsidiária para a companhia de seguros.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3032]&lt;IOC7&gt;Raise funds from your subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193331Z" creationid="User" creationdate="20200802T193331Z">
+        <seg>[3032]&lt;IOC7&gt;Arrecadar fundos da sua empresa subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3033]&lt;BD01&gt;Bond Value Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193457Z" creationid="User" creationdate="20200802T193457Z">
+        <seg>[3033]&lt;BD01&gt;Retorno do valor do título|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3034]&lt;BD02&gt;Received Bond Interests|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193513Z" creationid="User" creationdate="20200802T193513Z">
+        <seg>[3034]&lt;BD02&gt;Juros recebidos de títulos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3035]&lt;AP01&gt;Rental Income|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193530Z" creationid="User" creationdate="20200802T193530Z">
+        <seg>[3035]&lt;AP01&gt;Renda|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3036]&lt;AP02&gt;Property Maintenance Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193545Z" creationid="User" creationdate="20200802T193545Z">
+        <seg>[3036]&lt;AP02&gt;
+Custo de Manutenção de Propriedade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
