@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the latest production technology to the current manufacturing unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231518Z" creationid="RAFAEL" creationdate="20200802T231518Z">
+        <seg>Aplique a mais recente tecnologia de produção à unidade de fabricação atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply this price change to all your retail stores in the same city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212559Z" creationid="RAFAEL" creationdate="20200802T212559Z">
@@ -2714,6 +2722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231205Z" creationid="RAFAEL" creationdate="20200802T231205Z">
         <seg>Limpar todo o estoque existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear existing stock of this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231603Z" creationid="RAFAEL" creationdate="20200802T231603Z">
+        <seg>Limpe o estoque existente deste produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12352,6 +12368,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Radical R&amp;D Project not possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231449Z" creationid="RAFAEL" creationdate="20200802T231449Z">
+        <seg>Projeto radical de P&amp;D não é possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raise livestock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230916Z" creationid="RAFAEL" creationdate="20200802T230916Z">
@@ -14296,6 +14320,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Terminate supplies to existing clients.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231531Z" creationid="RAFAEL" creationdate="20200802T231531Z">
+        <seg>Encerrar suprimentos para clientes existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225750Z" creationid="RAFAEL" creationdate="20200802T225750Z">
@@ -14308,6 +14340,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225732Z" creationid="RAFAEL" creationdate="20200802T225732Z">
         <seg>A classificação geral do produto é a soma total dessas 3 classificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The R&amp;D skill of the manager of this R&amp;D firm must be at least 20 in order to start a radical R&amp;D project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231502Z" creationid="RAFAEL" creationdate="20200802T231502Z">
+        <seg>A habilidade de P&amp;D do gerente desta empresa de P&amp;D deve ser de pelo menos 20 para iniciar um projeto radical de P&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14785,6 +14825,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Internal Sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231640Z" creationid="RAFAEL" creationdate="20200802T231640Z">
+        <seg>Ativar vendas internas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Player's Firm Filter to display only player's firms in the Mini Map display</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210234Z" creationid="RAFAEL" creationdate="20200802T210234Z">
@@ -15237,6 +15285,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010414Z" creationid="Olivier" creationdate="20200802T010414Z">
         <seg>WTOTTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When #Internal Sale# is enabled, competitors cannot purchase this product from you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231709Z" creationid="RAFAEL" creationdate="20200802T231709Z">
+        <seg>Quando #Venda interna# estiver ativada, os concorrentes não poderão comprar este produto.</seg>
       </tuv>
     </tu>
     <tu>
