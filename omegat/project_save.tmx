@@ -3199,6 +3199,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not consider Tender Offers from other players.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193855Z" creationid="RAFAEL" creationdate="20200802T193855Z">
+        <seg>Não considerar Ofertas Públicas de Aquisição de outros jogadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECO2_MAX</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005802Z" creationid="Olivier" creationdate="20200802T005802Z">
@@ -13092,6 +13100,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165707Z" creationid="Olivier" creationdate="20200730T165707Z">
         <seg>Seu nível atual de tec. é %3s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your purchasing units will attempt to find suppliers automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193541Z" creationid="RAFAEL" creationdate="20200802T193541Z">
+        <seg>Suas unidades de compras tentarão encontrar fornecedores automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
