@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(Success chance:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195020Z" creationid="User" creationdate="20200802T195020Z">
+        <seg>(Chance de sucesso:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
@@ -12544,6 +12552,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then inject capital into the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
+        <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This area shows the stock of the product in the unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214435Z" creationid="Olivier" creationdate="20200730T214435Z">
@@ -12636,6 +12652,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192737Z" creationid="User" creationdate="20200802T192737Z">
         <seg>Para remediar isso, você pode transferir fundos da empresa-mãe para a companhia de seguros.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194832Z" creationid="User" creationdate="20200802T194832Z">
+        <seg>Para retomar a emissão do empréstimo, acesse o banco, selecione [Financeiro] e [Transferência de fundo].</seg>
       </tuv>
     </tu>
     <tu>
@@ -28006,6 +28030,54 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194733Z" creationid="User" creationdate="20200802T194733Z">
         <seg>[3055]&lt;INTT&gt;Esta empresa de Internet não possui a tecnologia necessária para iniciar a operação.t.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3056]&lt;BCRW&gt;Your bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194814Z" creationid="User" creationdate="20200802T194814Z">
+        <seg>[3056]&lt;BCRW&gt;O índice de capital do seu banco é muito baixo e parou de emitir novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3057]&lt;RRD1&gt;Your radical R&amp;D of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194916Z" creationid="User" creationdate="20200802T194916Z">
+        <seg>[3057]&lt;RRD1&gt;Sua pesquisa e desenvolvimento radical de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3058]&lt;RRD2&gt;is a success!\nYour technology is now|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194942Z" creationid="User" creationdate="20200802T194942Z">
+        <seg>[3058]&lt;RRD2&gt;é um sucesso! \ nSua tecnologia está agora|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3060]&lt;RRF2&gt;failed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195006Z" creationid="User" creationdate="20200802T195006Z">
+        <seg>[3060]&lt;RRF2&gt;falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3061]&lt;EMP1&gt;Your employee|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195040Z" creationid="User" creationdate="20200802T195040Z">
+        <seg>[3061]&lt;EMP1&gt;Seu empregado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3062]&lt;EMP2&gt;working on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195125Z" creationid="User" creationdate="20200802T195125Z">
+        <seg>[3062]&lt;EMP2&gt;trabalhando em|</seg>
       </tuv>
     </tu>
     <tu>
