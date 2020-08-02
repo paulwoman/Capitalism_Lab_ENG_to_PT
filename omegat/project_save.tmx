@@ -14650,6 +14650,70 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004226Z" creationid="User" creationdate="20200802T004226Z">
+        <seg>[2905]&lt;BCOU&gt;Cupom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2906]&lt;BYIE&gt;Yield|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004247Z" creationid="User" creationdate="20200802T004247Z">
+        <seg>[2906]&lt;BYIE&gt;Produção|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2907]&lt;BMAT&gt;Maturity|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004316Z" creationid="User" creationdate="20200802T004316Z">
+        <seg>[2907]&lt;BMAT&gt;Maturidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2908]&lt;BPRI&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004325Z" creationid="User" creationdate="20200802T004325Z">
+        <seg>[2908]&lt;BPRI&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2909]&lt;BOWQ&gt;Owned Qty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004349Z" creationid="User" creationdate="20200802T004349Z">
+        <seg>[2909]&lt;BOWQ&gt;Quantidade possuída|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2910]&lt;BOWV&gt;Owned Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004408Z" creationid="User" creationdate="20200802T004408Z">
+        <seg>[2910]&lt;BOWV&gt;Valor Próprio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2911]&lt;BCRE&gt;Credit Rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004426Z" creationid="User" creationdate="20200802T004426Z">
+        <seg>[2911]&lt;BCRE&gt;Classificação de crédito|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2912]&lt;BHOL&gt;Public Bondholders|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004516Z" creationid="User" creationdate="20200802T004516Z">
+        <seg>[2912]&lt;BHOL&gt;Obrigacionistas Públicos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
