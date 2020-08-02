@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMO manages all your advertising units.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224519Z" creationid="RAFAEL" creationdate="20200802T224519Z">
+        <seg>A CMO gerencia todas as suas unidades de publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CMO salary modifier=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011626Z" creationid="Olivier" creationdate="20200802T011626Z">
@@ -1978,6 +1986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011529Z" creationid="Olivier" creationdate="20200802T011529Z">
         <seg>CTO expertise change=research and development, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO manages all your R&amp;D centers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224550Z" creationid="RAFAEL" creationdate="20200802T224550Z">
+        <seg>O CTO gerencia todos os seus centros de P&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5624,10 +5640,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire a new Chief Marketing Officer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224534Z" creationid="RAFAEL" creationdate="20200802T224534Z">
+        <seg>Contrate um novo diretor de marketing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire a new Chief Operating Officer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224334Z" creationid="RAFAEL" creationdate="20200802T224334Z">
         <seg>Contratar um novo Chefe de Operações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a new Chief Technical Officer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224621Z" creationid="RAFAEL" creationdate="20200802T224621Z">
+        <seg>Contrate um novo Diretor de Tecnologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,8 +14683,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>When you click this button, it will go to the Person screen and let you select a person to offer to hire.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224502Z" creationid="RAFAEL" creationdate="20200802T224502Z">
-        <seg>Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada..</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224630Z" creationid="RAFAEL" creationdate="20200802T224502Z">
+        <seg>Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.</seg>
       </tuv>
     </tu>
     <tu>
