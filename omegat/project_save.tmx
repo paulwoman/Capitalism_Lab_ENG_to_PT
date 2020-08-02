@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140601Z" creationid="RAFAEL" creationdate="20200802T140601Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Competitiveness Effect on Factory Modifier=150</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015158Z" creationid="Olivier" creationdate="20200802T015158Z">
