@@ -13586,6 +13586,62 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000540Z" creationid="User" creationdate="20200802T000540Z">
+        <seg>[2825]&lt;RDC6&gt;Atualmente, nenhuma das unidades de compras de nenhuma empresa fornece o fornecimento desse tipo de produto. \ N \ nAssim, nenhuma ação foi tomada.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000557Z" creationid="User" creationdate="20200802T000557Z">
+        <seg>[2826]&lt;KOC1&gt;Rei do capitalismo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000626Z" creationid="User" creationdate="20200802T000626Z">
+        <seg>[2827]&lt;KOC2&gt;Para se tornar o rei indiscutível do capitalismo, você deve ter conhecimentos financeiros suficientes para aumentar o valor de mercado da sua empresa para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000651Z" creationid="User" creationdate="20200802T000651Z">
+        <seg>[2828]&lt;KOC3&gt;bilhões, mantendo pelo menos 80% de suas ações e atingindo todas as sub-metas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000719Z" creationid="User" creationdate="20200802T000719Z">
+        <seg>[2829]&lt;AGS1&gt;Para ganhar este jogo, você deve atingir os objetivos indicados.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000804Z" creationid="User" creationdate="20200802T000804Z">
+        <seg>[2830]&lt;AGS2&gt;(Pressione a tecla de atalho 'G' a qualquer momento para visualizar a tela Meta)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000826Z" creationid="User" creationdate="20200802T000826Z">
+        <seg>[2831]&lt;AGS3&gt;Você possui experiência no|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
