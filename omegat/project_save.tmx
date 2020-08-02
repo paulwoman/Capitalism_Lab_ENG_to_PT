@@ -27930,6 +27930,30 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3049]&lt;DLC2&gt;The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor while simultaneously growing your business empire!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194357Z" creationid="User" creationdate="20200802T194357Z">
+        <seg>[3049]&lt;DLC2&gt;O DLC da City Economic Simulation permite que você construa novas cidades do zero, forme seu próprio partido político e assuma o papel de prefeito, ao mesmo tempo em que aumenta seu império de negócios!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3050]&lt;DLC3&gt;The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194419Z" creationid="User" creationdate="20200802T194419Z">
+        <seg>[3050]&lt;DLC3&gt;O DLC da Era Digital oferece a você uma excelente oportunidade para construir uma startup de tecnologia no início da era digital e supervisionar seu crescimento para se tornar uma potência tecnológica que se une às fileiras de titãs de tecnologia, como Microsoft e Google!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3051]&lt;DLC4&gt;The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194520Z" creationid="User" creationdate="20200802T194520Z">
+        <seg>[3051]&lt;DLC4&gt;O DLC de Bancos e Finanças simula o mundo financeiro com um nível de realismo sem precedentes nos videogames.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
