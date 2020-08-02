@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221450Z" creationid="RAFAEL" creationdate="20200802T221450Z">
+        <seg>Fechar janela de registro de notícias (Tecla de atalho: 'V')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close World Map</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211841Z" creationid="RAFAEL" creationdate="20200802T211841Z">
@@ -7208,6 +7216,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this option is on stock purchases and sales will be headlined in the city view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221403Z" creationid="RAFAEL" creationdate="20200802T221403Z">
+        <seg>Se esta opção for para compra e venda de ações, ela será destacada na visão da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012900Z" creationid="Olivier" creationdate="20200802T012900Z">
@@ -8960,6 +8976,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Action Button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221620Z" creationid="RAFAEL" creationdate="20200802T221620Z">
+        <seg>Botão de ação de notícias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>News Display Option (hotkey: 'N')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140500Z" creationid="RAFAEL" creationdate="20200802T140500Z">
@@ -9660,6 +9684,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010541Z" creationid="Olivier" creationdate="20200802T010541Z">
         <seg>OWNTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221429Z" creationid="RAFAEL" creationdate="20200802T221429Z">
+        <seg>Abrir janela de registro de notícias (Tecla de atalho: 'V')</seg>
       </tuv>
     </tu>
     <tu>
