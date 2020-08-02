@@ -13290,9 +13290,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[0123]&lt;RFU5&gt;You cannot join the game because the session is full|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055824Z" creationid="Olivier" creationdate="20200728T055824Z">
-        <seg>[0123]&lt;RFU5&gt;Erro. Sessão cheia|
-</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T145634Z" creationid="Olivier" creationdate="20200728T055824Z">
+        <seg>[0123]&lt;RFU5&gt;Erro. Sessão cheia|</seg>
       </tuv>
     </tu>
     <tu>
