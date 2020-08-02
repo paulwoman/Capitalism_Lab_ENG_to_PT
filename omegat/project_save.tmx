@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitors are not allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192958Z" creationid="RAFAEL" creationdate="20200802T192958Z">
+        <seg>Os concorrentes não estão autorizados a comprar seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant Game Speed=3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013754Z" creationid="Olivier" creationdate="20200802T013754Z">
@@ -3110,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193119Z" creationid="RAFAEL" creationdate="20200802T193119Z">
+        <seg>Desativar o AutoLink para fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable Internal Sale</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192341Z" creationid="RAFAEL" creationdate="20200802T192341Z">
@@ -3459,6 +3475,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012432Z" creationid="Olivier" creationdate="20200802T012432Z">
         <seg>Education rating=90, Manchester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193437Z" creationid="RAFAEL" creationdate="20200802T193437Z">
+        <seg>Habilitar o AutoLink para fornecedor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12271,6 +12295,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193335Z" creationid="RAFAEL" creationdate="20200802T193335Z">
+        <seg>A configuração padrão de #AutoLink para fornecedor# é #Desativado#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193517Z" creationid="RAFAEL" creationdate="20200802T193517Z">
+        <seg>A configuração padrão de #AutoLink para fornecedor# é #Ativada#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default setting of #Internal Sale# is #Disabled#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192616Z" creationid="RAFAEL" creationdate="20200802T192616Z">
@@ -12988,6 +13028,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084238Z" creationid="Olivier" creationdate="20200728T084227Z">
         <seg>Você pode adquirir por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must select suppliers manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193354Z" creationid="RAFAEL" creationdate="20200802T193354Z">
+        <seg>Você deve selecionar fornecedores manualmente.</seg>
       </tuv>
     </tu>
     <tu>
