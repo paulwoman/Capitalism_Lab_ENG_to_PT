@@ -15914,6 +15914,38 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2919]&lt;ELE2&gt;and|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004940Z" creationid="User" creationdate="20200802T004940Z">
+        <seg>[2919]&lt;ELE2&gt;e|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2920]&lt;ELE3&gt;will take place in one year.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005012Z" creationid="User" creationdate="20200802T005012Z">
+        <seg>[2920]&lt;ELE3&gt;acontecerá em um anos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2921]&lt;ELE4&gt;Those who wish to run for mayor should act now.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005030Z" creationid="User" creationdate="20200802T005030Z">
+        <seg>[2921]&lt;ELE4&gt;Aqueles que desejam concorrer a prefeito devem agir agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2922]&lt;ELE5&gt;(Press the '!' shortcut key to open the Political Party screen.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005108Z" creationid="User" creationdate="20200802T005108Z">
+        <seg>[2922]&lt;ELE5&gt;(Aperte o '!' tecla de atalho para abrir a tela do Partido Político.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
