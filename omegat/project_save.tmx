@@ -21698,6 +21698,54 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2965]&lt;LDE2&gt;Default amount:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011129Z" creationid="User" creationdate="20200802T011129Z">
+        <seg>[2965]&lt;LDE2&gt;Valor padrão:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011152Z" creationid="User" creationdate="20200802T011152Z">
+        <seg>[2966]&lt;BDR1&gt;DINHEIRO INSUFICIENTE PARA REDENÇÃO DE LIGAÇÕES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011216Z" creationid="User" creationdate="20200802T011216Z">
+        <seg>[2967]&lt;BDR2&gt;Um título corporativo emitido por sua empresa venceu, você deve resgatá-lo agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011246Z" creationid="User" creationdate="20200802T011246Z">
+        <seg>[2968]&lt;BDR3&gt;Um título corporativo emitido por sua subsidiária |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011303Z" creationid="User" creationdate="20200802T011303Z">
+        <seg>[2969]&lt;BDR4&gt; amadureceu, você deve resgatá-lo agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011357Z" creationid="User" creationdate="20200802T011357Z">
+        <seg>[2970]&lt;BDR5&gt;Data de Emissão da Obrigação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
