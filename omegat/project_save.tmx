@@ -86,10 +86,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//---ENVIRONMENT-----------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014039Z" creationid="Olivier" creationdate="20200802T014039Z">
+        <seg>//---ENVIRONMENT-----------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---MAIN GOAL-------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014059Z" creationid="Olivier" creationdate="20200802T014059Z">
+        <seg>//---MAIN GOAL-------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---PLAYER EXPERTISE------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014052Z" creationid="Olivier" creationdate="20200802T014052Z">
+        <seg>//---PLAYER EXPERTISE------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---PRODUCT EXPERTISE-----------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014056Z" creationid="Olivier" creationdate="20200802T014056Z">
+        <seg>//---PRODUCT EXPERTISE-----------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014048Z" creationid="Olivier" creationdate="20200802T014048Z">
+        <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---SUBGOAL---------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014134Z" creationid="Olivier" creationdate="20200802T014134Z">
+        <seg>//---SUBGOAL---------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Tech Cost Modifier =150</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013918Z" creationid="Olivier" creationdate="20200802T013918Z">
         <seg>//Tech Cost Modifier =150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Training Effect Modifier=200</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013921Z" creationid="Olivier" creationdate="20200802T013921Z">
+        <seg>//Training Effect Modifier=200</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +990,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Salary Modifier=20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013946Z" creationid="Olivier" creationdate="20200802T013946Z">
+        <seg>CEO Salary Modifier=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEO Salary Modifier=200</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014050Z" creationid="Olivier" creationdate="20200802T014050Z">
+        <seg>CEO Salary Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013954Z" creationid="Olivier" creationdate="20200802T013954Z">
+        <seg>CEO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEOISSUE</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005930Z" creationid="Olivier" creationdate="20200802T005930Z">
@@ -1070,6 +1150,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014051Z" creationid="Olivier" creationdate="20200802T014051Z">
+        <seg>CMO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO Salary Modifier=20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013947Z" creationid="Olivier" creationdate="20200802T013947Z">
+        <seg>CMO Salary Modifier=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013958Z" creationid="Olivier" creationdate="20200802T013958Z">
+        <seg>CMO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CMO expertise change=marketing, 18</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013652Z" creationid="Olivier" creationdate="20200802T013652Z">
@@ -1138,6 +1242,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005811Z" creationid="Olivier" creationdate="20200802T005811Z">
         <seg>CONFIRMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014050Z" creationid="Olivier" creationdate="20200802T014050Z">
+        <seg>COO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO Salary Modifier=20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013946Z" creationid="Olivier" creationdate="20200802T013946Z">
+        <seg>COO Salary Modifier=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013955Z" creationid="Olivier" creationdate="20200802T013955Z">
+        <seg>COO Salary Modifier=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1394,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005504Z" creationid="Olivier" creationdate="20200802T005504Z">
         <seg>CS_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014050Z" creationid="Olivier" creationdate="20200802T014050Z">
+        <seg>CTO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013947Z" creationid="Olivier" creationdate="20200802T013947Z">
+        <seg>CTO Salary Modifier=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013955Z" creationid="Olivier" creationdate="20200802T013955Z">
+        <seg>CTO Salary Modifier=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deadline=1990-01-02</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014141Z" creationid="Olivier" creationdate="20200802T014141Z">
+        <seg>Deadline=1990-01-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1995-09-30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013547Z" creationid="Olivier" creationdate="20200802T013547Z">
@@ -2903,6 +3063,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Farming=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
+        <seg>Farming=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Farming=30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013730Z" creationid="Olivier" creationdate="20200802T013730Z">
@@ -3011,6 +3179,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011209Z" creationid="Olivier" creationdate="20200802T011209Z">
         <seg>Firm, TV Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fixed Brand Strategy=&lt;Corporate Brand/Range Brand/Unique Brand&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013941Z" creationid="Olivier" creationdate="20200802T013941Z">
+        <seg>Fixed Brand Strategy=&lt;Corporate Brand/Range Brand/Unique Brand&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,10 +5391,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instant invention=Notebook Computer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014149Z" creationid="Olivier" creationdate="20200802T014149Z">
+        <seg>Instant invention=Notebook Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instant invention=Smart Phone</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013724Z" creationid="Olivier" creationdate="20200802T013724Z">
         <seg>Instant invention=Smart Phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant invention=Tablet Computer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014150Z" creationid="Olivier" creationdate="20200802T014150Z">
+        <seg>Instant invention=Tablet Computer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6199,6 +6391,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
+        <seg>Manufacturing=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing=40</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013731Z" creationid="Olivier" creationdate="20200802T013731Z">
@@ -6211,6 +6411,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013353Z" creationid="Olivier" creationdate="20200802T013353Z">
         <seg>Map Seed=30198, 62336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014054Z" creationid="Olivier" creationdate="20200802T014054Z">
+        <seg>Marketing=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -6463,6 +6671,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Persons=63</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014045Z" creationid="Olivier" creationdate="20200802T014045Z">
+        <seg>Number of AI Persons=63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Persons=64</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013250Z" creationid="Olivier" creationdate="20200802T013250Z">
@@ -6591,6 +6807,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Controlled Companies=31</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014133Z" creationid="Olivier" creationdate="20200802T014133Z">
+        <seg>Number of Controlled Companies=31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Controlled Companies=5</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012113Z" creationid="Olivier" creationdate="20200802T012113Z">
@@ -6603,6 +6827,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011449Z" creationid="Olivier" creationdate="20200802T011449Z">
         <seg>Number of Game Years=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014131Z" creationid="Olivier" creationdate="20200802T014131Z">
+        <seg>Number of Game Years=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7275,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011051Z" creationid="Olivier" creationdate="20200802T011051Z">
         <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ownership=1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014146Z" creationid="Olivier" creationdate="20200802T014146Z">
+        <seg>Ownership=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -8231,10 +8471,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Communication Devices, 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014057Z" creationid="Olivier" creationdate="20200802T014057Z">
+        <seg>Product Expertise=Communication Devices, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Expertise=Computer, 100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012242Z" creationid="Olivier" creationdate="20200802T012242Z">
         <seg>Product Expertise=Computer, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Electronic Products, 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014058Z" creationid="Olivier" creationdate="20200802T014058Z">
+        <seg>Product Expertise=Electronic Products, 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,6 +8855,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Events=Never</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014042Z" creationid="Olivier" creationdate="20200802T014042Z">
+        <seg>Random Events=Never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events=Occasional</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010903Z" creationid="Olivier" creationdate="20200802T010903Z">
@@ -8619,6 +8883,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012835Z" creationid="Olivier" creationdate="20200802T012835Z">
         <seg>Raw Material Production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw Material Production=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014054Z" creationid="Olivier" creationdate="20200802T014054Z">
+        <seg>Raw Material Production=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -8695,6 +8967,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Research and Development=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
+        <seg>Research and Development=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development=50</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013731Z" creationid="Olivier" creationdate="20200802T013731Z">
@@ -8731,6 +9011,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010917Z" creationid="Olivier" creationdate="20200802T010917Z">
         <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retailing=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
+        <seg>Retailing=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -9871,10 +10159,66 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tech change=Electronic Components, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014211Z" creationid="Olivier" creationdate="20200802T014211Z">
+        <seg>Tech change=Electronic Components, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Glass, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014211Z" creationid="Olivier" creationdate="20200802T014211Z">
+        <seg>Tech change=Glass, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Notebook Computer, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014210Z" creationid="Olivier" creationdate="20200802T014210Z">
+        <seg>Tech change=Notebook Computer, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech change=Notebook Computer, 30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013652Z" creationid="Olivier" creationdate="20200802T013652Z">
         <seg>Tech change=Notebook Computer, 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Plastic, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014211Z" creationid="Olivier" creationdate="20200802T014211Z">
+        <seg>Tech change=Plastic, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Smart Phone, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014210Z" creationid="Olivier" creationdate="20200802T014210Z">
+        <seg>Tech change=Smart Phone, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Steel, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014211Z" creationid="Olivier" creationdate="20200802T014211Z">
+        <seg>Tech change=Steel, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Tablet Computer, 1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014210Z" creationid="Olivier" creationdate="20200802T014210Z">
+        <seg>Tech change=Tablet Computer, 1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,6 +10564,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010944Z" creationid="Olivier" creationdate="20200802T010944Z">
         <seg>Training Effect Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014056Z" creationid="Olivier" creationdate="20200802T014056Z">
+        <seg>Training=100</seg>
       </tuv>
     </tu>
     <tu>
