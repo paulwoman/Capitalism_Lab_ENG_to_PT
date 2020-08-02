@@ -17051,8 +17051,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0811]&lt;0031&gt;Chief Executive Officer's Office|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T175419Z" creationid="Olivier" creationdate="20200728T084802Z">
-        <seg>Total no[0811]&lt;0031&gt;Escritório do diretor executivo|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T221037Z" creationid="Olivier" creationdate="20200728T084802Z">
+        <seg>[0811]&lt;0031&gt;Escritório do diretor executivo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -23283,9 +23283,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2194]&lt;1115&gt;'s New |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T130939Z" creationid="Olivier" creationdate="20200730T130939Z">
-        <seg>[2194]&lt;1115&gt; novo |
-</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T220648Z" creationid="Olivier" creationdate="20200730T130939Z">
+        <seg>[2194]&lt;1115&gt; novo |</seg>
       </tuv>
     </tu>
     <tu>
@@ -24764,8 +24763,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2413]&lt;1326&gt;Sale of Land|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170226Z" creationid="Olivier" creationdate="20200730T170226Z">
-        <seg>2413]&lt;1326&gt;Venda de terra|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T220654Z" creationid="Olivier" creationdate="20200730T170226Z">
+        <seg>[2413]&lt;1326&gt;Venda de terra|</seg>
       </tuv>
     </tu>
     <tu>
@@ -29028,9 +29027,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[3036]&lt;AP02&gt;Property Maintenance Cost|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T193545Z" creationid="User" creationdate="20200802T193545Z">
-        <seg>[3036]&lt;AP02&gt;
-Custo de Manutenção de Propriedade|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T220803Z" creationid="User" creationdate="20200802T193545Z">
+        <seg>[3036]&lt;AP02&gt;Custo de Manutenção de Propriedade|</seg>
       </tuv>
     </tu>
     <tu>
