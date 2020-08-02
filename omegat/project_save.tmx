@@ -2686,6 +2686,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the Profit graph for this product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222819Z" creationid="RAFAEL" creationdate="20200802T222819Z">
+        <seg>Clique para exibir o gráfico de Lucro para este produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Quantity Sold graph for this product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222917Z" creationid="RAFAEL" creationdate="20200802T222917Z">
+        <seg>Clique para exibir o gráfico de Quantidade Vendida para este produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Revenue graph for this product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222851Z" creationid="RAFAEL" creationdate="20200802T222851Z">
+        <seg>Clique para exibir o gráfico de receita para este produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the daily stock graph for the past 30 days.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220814Z" creationid="RAFAEL" creationdate="20200802T220814Z">
@@ -3089,6 +3113,14 @@
         <seg>Confirm change to Selling Price</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222750Z" creationid="RAFAEL" creationdate="20200802T222750Z">
+        <seg>Confirmar mudança no preço de venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to selling price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222941Z" creationid="RAFAEL" creationdate="20200802T222941Z">
         <seg>Confirmar mudança no preço de venda</seg>
       </tuv>
     </tu>
@@ -8218,8 +8250,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Link This Item</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004835Z" creationid="Olivier" creationdate="20200802T004810Z">
-        <seg>Ligar esse item</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223104Z" creationid="Olivier" creationdate="20200802T004810Z">
+        <seg>Vincular este item</seg>
       </tuv>
     </tu>
     <tu>
@@ -11456,6 +11488,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Profit Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222806Z" creationid="RAFAEL" creationdate="20200802T222806Z">
+        <seg>Gráfico de lucro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profit Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203703Z" creationid="RAFAEL" creationdate="20200802T203703Z">
@@ -11556,6 +11596,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215311Z" creationid="Olivier" creationdate="20200802T010530Z">
         <seg>QUALITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantity Sold Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222905Z" creationid="RAFAEL" creationdate="20200802T222905Z">
+        <seg>Gráfico da quantidade vendida</seg>
       </tuv>
     </tu>
     <tu>
@@ -12004,6 +12052,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015212Z" creationid="Olivier" creationdate="20200802T015212Z">
         <seg>Return on Equity=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revenue Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222833Z" creationid="RAFAEL" creationdate="20200802T222833Z">
+        <seg>Gráfico de Receitas</seg>
       </tuv>
     </tu>
     <tu>
