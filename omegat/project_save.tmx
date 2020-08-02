@@ -2630,6 +2630,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the daily stock graph for the past 30 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220814Z" creationid="RAFAEL" creationdate="20200802T220814Z">
+        <seg>Clique para ver o gráfico de preços diários das ações dos últimos 30 dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the monthly stock graph for the past 36 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220914Z" creationid="RAFAEL" creationdate="20200802T220914Z">
+        <seg>Clique para ver o gráfico de preços mensais das ações dos últimos 36 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable Auto Save</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201713Z" creationid="RAFAEL" creationdate="20200802T201713Z">
@@ -3450,6 +3466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010145Z" creationid="Olivier" creationdate="20200802T010145Z">
         <seg>D_PCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Daily Stock Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220722Z" creationid="RAFAEL" creationdate="20200802T220722Z">
+        <seg>Gráfico de preço diário das ações</seg>
       </tuv>
     </tu>
     <tu>
@@ -8732,6 +8756,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221839Z" creationid="RAFAEL" creationdate="20200801T221839Z">
         <seg>Mini Map (Tecla de atalho: 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monthly Stock Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220846Z" creationid="RAFAEL" creationdate="20200802T220846Z">
+        <seg>Gráfico de preço mensal das ações</seg>
       </tuv>
     </tu>
     <tu>
