@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click again to cancel it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233003Z" creationid="RAFAEL" creationdate="20200802T233003Z">
+        <seg>Clique novamente para cancelá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225425Z" creationid="RAFAEL" creationdate="20200802T225425Z">
@@ -2770,6 +2778,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
         <seg>Clique aqui para abrir o Relatório Detalhado da Corporação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to put this apartment up for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232944Z" creationid="RAFAEL" creationdate="20200802T232944Z">
+        <seg>Clique aqui para colocar este apartamento à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to put this commercial building up for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233020Z" creationid="RAFAEL" creationdate="20200802T233020Z">
+        <seg>Clique aqui para colocar este edifício comercial à venda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4018,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222619Z" creationid="RAFAEL" creationdate="20200802T222619Z">
         <seg>Demolir esta mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this apartment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233049Z" creationid="RAFAEL" creationdate="20200802T233049Z">
+        <seg>Demolir este apartamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this commercial building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233059Z" creationid="RAFAEL" creationdate="20200802T233059Z">
+        <seg>Demolir este edifício comercial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15005,6 +15045,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214211Z" creationid="Olivier" creationdate="20200730T214211Z">
         <seg>A barra marrom mostra a utilização de cada unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This commercial building is for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232932Z" creationid="RAFAEL" creationdate="20200802T232932Z">
+        <seg>Este edifício comercial está à venda.</seg>
       </tuv>
     </tu>
     <tu>
