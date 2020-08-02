@@ -13922,10 +13922,74 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2871]&lt;NSH3&gt;the new subsidiary company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002705Z" creationid="User" creationdate="20200802T002705Z">
+        <seg>[2871]&lt;NSH3&gt;a nova empresa subsidiária|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2872]&lt;SUB1&gt;Your corporation owns|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002739Z" creationid="User" creationdate="20200802T002739Z">
+        <seg>[2872]&lt;SUB1&gt;Sua corporação possui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2873]&lt;SUB2&gt;shares of this company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002750Z" creationid="User" creationdate="20200802T002750Z">
+        <seg>[2873]&lt;SUB2&gt;ações desta empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2874]&lt;LAN1&gt;Decrease All Civic Building Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002808Z" creationid="User" creationdate="20200802T002808Z">
+        <seg>[2874]&lt;LAN1&gt;Diminuir todos os custos de instalação do edifício cívico em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2875]&lt;LAN2&gt;Decrease All Civic Building Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002829Z" creationid="User" creationdate="20200802T002829Z">
+        <seg>[2875]&lt;LAN2&gt;Diminua todos os custos operacionais de edifícios cívicos em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
-        <seg>[2876]&lt;LAN3&gt;Decrease Tudo Commercial Firm Setup Costs by|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002849Z" creationid="Olivier" creationdate="20200728T092907Z">
+        <seg>[2876]&lt;LAN3&gt;Diminua tudo os custos de configuração da empresa comercial em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2877]&lt;LAN4&gt;Decrease All Commercial Firm Fixed Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002914Z" creationid="User" creationdate="20200802T002914Z">
+        <seg>[2877]&lt;LAN4&gt;Diminua todos os custos operacionais fixos da empresa comercial em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2878]&lt;LAN5&gt;Increase Industry Competitiveness by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002933Z" creationid="User" creationdate="20200802T002933Z">
+        <seg>[2878]&lt;LAN5&gt;Aumente a competitividade da indústria em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2879]&lt;LAN6&gt;Increase a Selected Firm Unit Type's Level by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002950Z" creationid="User" creationdate="20200802T002950Z">
+        <seg>[2879]&lt;LAN6&gt;Aumente o nível de um tipo de unidade firme selecionado em|</seg>
       </tuv>
     </tu>
     <tu>
