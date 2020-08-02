@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher Content Quality rating leads to higher Rating Points.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224952Z" creationid="RAFAEL" creationdate="20200802T224952Z">
+        <seg>Uma classificação de qualidade de conteúdo mais alta leva a pontos de classificação mais altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223647Z" creationid="RAFAEL" creationdate="20200801T223647Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224902Z" creationid="RAFAEL" creationdate="20200801T224902Z">
         <seg>Ative o modo de compra de terrenos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust monthly spending on investor relations efforts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224739Z" creationid="RAFAEL" creationdate="20200802T224739Z">
+        <seg>Ajustar os gastos mensais nos esforços de relações com investidores</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220627Z" creationid="RAFAEL" creationdate="20200802T220627Z">
         <seg>Clique para vender a ação exibida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to set the monthly budget for new content development.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224912Z" creationid="RAFAEL" creationdate="20200802T224912Z">
+        <seg>Clique para definir o orçamento mensal para o desenvolvimento de novos conteúdos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8400,6 +8424,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link This Media</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224857Z" creationid="RAFAEL" creationdate="20200802T224857Z">
+        <seg>Link esta Media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locked=yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012132Z" creationid="Olivier" creationdate="20200802T012132Z">
@@ -8936,6 +8968,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make Your Offer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224756Z" creationid="RAFAEL" creationdate="20200802T224756Z">
+        <seg>Faça sua oferta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a Counter Offer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222644Z" creationid="RAFAEL" creationdate="20200802T222644Z">
@@ -9112,6 +9152,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monthly Spending Adjustment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224709Z" creationid="RAFAEL" creationdate="20200802T224709Z">
+        <seg>Ajuste mensal de gastos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monthly Stock Graph</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220846Z" creationid="RAFAEL" creationdate="20200802T220846Z">
@@ -9276,6 +9324,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012434Z" creationid="Olivier" creationdate="20200802T012434Z">
         <seg>National wage rate=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New content development is essential for increasing the Content Quality rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224936Z" creationid="RAFAEL" creationdate="20200802T224936Z">
+        <seg>O desenvolvimento de novos conteúdos é essencial para aumentar a classificação de qualidade do conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
