@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City Average</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225801Z" creationid="RAFAEL" creationdate="20200802T225801Z">
+        <seg>Média da cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Competitiveness Effect on Factory Modifier=150</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015158Z" creationid="Olivier" creationdate="20200802T015158Z">
@@ -5575,6 +5583,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Green bar = Quality rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225702Z" creationid="RAFAEL" creationdate="20200802T225702Z">
+        <seg>Barra verde = Classificação da qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HEADBRAN</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010543Z" creationid="Olivier" creationdate="20200802T010543Z">
@@ -7992,6 +8008,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the average ratings of this product in the current city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
+        <seg>Ele mostra as classificações médias deste produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -10232,6 +10256,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Orange bar = Brand rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225649Z" creationid="RAFAEL" creationdate="20200802T225649Z">
+        <seg>Barra laranja = Classificação da marca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Organize An Intensive Training Program</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224230Z" creationid="RAFAEL" creationdate="20200802T224230Z">
@@ -11740,6 +11772,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225539Z" creationid="RAFAEL" creationdate="20200802T225539Z">
         <seg>Indicador de participação no mercado de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Rating Indicators</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225634Z" creationid="RAFAEL" creationdate="20200802T225634Z">
+        <seg>Indicadores de classificação do produto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13976,6 +14016,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225750Z" creationid="RAFAEL" creationdate="20200802T225750Z">
+        <seg>A classificação geral do produto é a soma total dessas 2 classificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Product Overall rating is the sum total of these 3 ratings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225732Z" creationid="RAFAEL" creationdate="20200802T225732Z">
+        <seg>A classificação geral do produto é a soma total dessas 3 classificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average ratings are derived from your competitors' products and your products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225836Z" creationid="RAFAEL" creationdate="20200802T225836Z">
+        <seg>As classificações médias são derivadas dos produtos de seus concorrentes e de seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
@@ -14277,6 +14341,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
         <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore if your product's ratings are higher than the city averages, your products will sell better.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225855Z" creationid="RAFAEL" creationdate="20200802T225855Z">
+        <seg>Portanto, se as classificações de seu produto forem superiores às médias da cidade, seus produtos venderão melhor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14909,6 +14981,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011936Z" creationid="Olivier" creationdate="20200802T011936Z">
         <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow bar = Price rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225720Z" creationid="RAFAEL" creationdate="20200802T225720Z">
+        <seg>Barra amarela = Classificação do preço.</seg>
       </tuv>
     </tu>
     <tu>
