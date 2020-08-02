@@ -3471,6 +3471,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the previous building - city view is centered on building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211338Z" creationid="RAFAEL" creationdate="20200802T211338Z">
+        <seg>Exibir o edifício anterior - a vista da cidade está centrada no edifício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diversified Companies=1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015632Z" creationid="Olivier" creationdate="20200802T015632Z">
@@ -8567,6 +8575,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Building (hotkey: PgDn)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211413Z" creationid="RAFAEL" creationdate="20200802T211413Z">
+        <seg>Próximo edifício (Tecla de atalho: PgDn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next City (hotkey: ']')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202305Z" creationid="RAFAEL" creationdate="20200802T202305Z">
@@ -10647,6 +10663,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Building (hotkey: PgUp)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211240Z" creationid="RAFAEL" creationdate="20200802T211240Z">
+        <seg>Edifício anterior (Tecla de atalho: PgUp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous City (hotkey: '[')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202212Z" creationid="RAFAEL" creationdate="20200802T202212Z">
@@ -10755,6 +10779,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012305Z" creationid="Olivier" creationdate="20200802T012305Z">
         <seg>Product Expertise=Toy, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211126Z" creationid="RAFAEL" creationdate="20200802T211126Z">
+        <seg>Filtro de produto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13252,6 +13284,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210234Z" creationid="RAFAEL" creationdate="20200802T210234Z">
         <seg>Alternar o filtro Empresa do Jogador para exibir somente as empresas do jogador na tela do Mini Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Product Filter to display locations of a specific product in the Mini Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211156Z" creationid="RAFAEL" creationdate="20200802T211156Z">
+        <seg>Alternar o filtro do produto para exibir os locais de um produto específico no Mini Mapa.</seg>
       </tuv>
     </tu>
     <tu>
