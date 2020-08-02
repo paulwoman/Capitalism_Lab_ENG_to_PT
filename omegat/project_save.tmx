@@ -2678,6 +2678,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close World Map</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211841Z" creationid="RAFAEL" creationdate="20200802T211841Z">
+        <seg>Fechar o Mapa Mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close the world map window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211855Z" creationid="RAFAEL" creationdate="20200802T211855Z">
+        <seg>Fechar a janela do mapa mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013034Z" creationid="Olivier" creationdate="20200802T013034Z">
@@ -3489,8 +3505,16 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>Displays the selected building's number from the total number of buildings based on the filter settings</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211724Z" creationid="RAFAEL" creationdate="20200802T211724Z">
-        <seg>Exibe o número de edifício selecionado a partir do número total de edifícios com base nas configurações do filtro</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211822Z" creationid="RAFAEL" creationdate="20200802T211724Z">
+        <seg>Exibe o número do edifício selecionado a partir do número total de edifícios com base nas configurações do filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the total number of buildings based on the filter settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211753Z" creationid="RAFAEL" creationdate="20200802T211753Z">
+        <seg>Exibe o número total de edifícios com base nas configurações do filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -7767,6 +7791,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to decrease.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211924Z" creationid="RAFAEL" creationdate="20200802T211924Z">
+        <seg>Clique no botão esquerdo para diminuir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011001Z" creationid="Olivier" creationdate="20200802T011001Z">
@@ -8651,6 +8683,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013250Z" creationid="Olivier" creationdate="20200802T013250Z">
         <seg>Number of AI Persons=64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Buildings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211738Z" creationid="RAFAEL" creationdate="20200802T211738Z">
+        <seg>Número de Edifícios</seg>
       </tuv>
     </tu>
     <tu>
@@ -11403,6 +11443,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015212Z" creationid="Olivier" creationdate="20200802T015212Z">
         <seg>Return on Equity=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212040Z" creationid="RAFAEL" creationdate="20200802T212040Z">
+        <seg>Clique com o botão direito do mouse para diminuir a uma taxa maior.</seg>
       </tuv>
     </tu>
     <tu>
