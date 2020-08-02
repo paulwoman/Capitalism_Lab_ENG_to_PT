@@ -14298,6 +14298,118 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003615Z" creationid="User" creationdate="20200802T003615Z">
+        <seg>[2891]&lt;NCG6&gt;Pressione a tecla de atalho 'G' a qualquer momento para visualizar a tela Meta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2892]&lt;NCG7&gt;Are you sure that you want to remove all the goals in this game?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003643Z" creationid="User" creationdate="20200802T003643Z">
+        <seg>[2892]&lt;NCG7&gt;Tem certeza de que deseja remover todos os objetivos deste jogo?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2893]&lt;PLG1&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003659Z" creationid="User" creationdate="20200802T003659Z">
+        <seg>[2893]&lt;PLG1&gt;Configure uma fábrica para produzir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2894]&lt;PLG2&gt;and launch it onto the market.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003719Z" creationid="User" creationdate="20200802T003719Z">
+        <seg>[2894]&lt;PLG2&gt;e lançá-lo no mercado.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003734Z" creationid="User" creationdate="20200802T003734Z">
+        <seg>[2895]&lt;OWNT&gt;Propriedade própria|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2896]&lt;TOPT&gt;Top Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003755Z" creationid="User" creationdate="20200802T003755Z">
+        <seg>[2896]&lt;TOPT&gt;Top Tecn|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2897]&lt;QUAR&gt;Quality Rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003811Z" creationid="User" creationdate="20200802T003811Z">
+        <seg>[2897]&lt;QUAR&gt;Classificação de qualidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2898]&lt;FLVL&gt;Factory Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003836Z" creationid="User" creationdate="20200802T003836Z">
+        <seg>[2898]&lt;FLVL&gt;Nível de fábrica|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004014Z" creationid="User" creationdate="20200802T004014Z">
+        <seg>[2899]&lt;ECOM&gt;Venda de comércio oline %:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2900]&lt;GDIF&gt;Current Game's Difficulty Level|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004041Z" creationid="User" creationdate="20200802T004041Z">
+        <seg>[2900]&lt;GDIF&gt;Nível de dificuldade do jogo atual|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2901]&lt;BSOF&gt;sets up a Software Company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004059Z" creationid="User" creationdate="20200802T004059Z">
+        <seg>[2901]&lt;BSOF&gt;cria uma empresa de software|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2902]&lt;BINT&gt;sets up an Internet Company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004122Z" creationid="User" creationdate="20200802T004122Z">
+        <seg>[2902]&lt;BINT&gt;cria uma empresa de Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2903]&lt;BTEL&gt;sets up a Telecom|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004142Z" creationid="User" creationdate="20200802T004142Z">
+        <seg>[2903]&lt;BTEL&gt;configura um Telecom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2904]&lt;BOND&gt;Bond|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004211Z" creationid="User" creationdate="20200802T004211Z">
+        <seg>[2904]&lt;BOND&gt;Vinculo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
