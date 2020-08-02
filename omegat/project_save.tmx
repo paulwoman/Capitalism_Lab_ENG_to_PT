@@ -28746,6 +28746,30 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3101]&lt;CTEC&gt;Consider Tech Offers|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202721Z" creationid="User" creationdate="20200802T202721Z">
+        <seg>[3101]&lt;CTEC&gt;Considere as ofertas de tecnologia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3102]&lt;RDCN&gt;R&amp;D Completion Notification|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202741Z" creationid="User" creationdate="20200802T202741Z">
+        <seg>[3102]&lt;RDCN&gt;Notificação de conclusão de pesquisa e desenvolvimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3103]&lt;WSAD&gt;WSAD Keys|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202833Z" creationid="User" creationdate="20200802T202833Z">
+        <seg>[3103]&lt;WSAD&gt;Chaves WASD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
