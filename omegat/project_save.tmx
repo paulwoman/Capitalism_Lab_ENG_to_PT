@@ -278,10 +278,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that the unit is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
+        <seg>Uma alta taxa de utilização significa que a unidade está operando eficientemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher Content Quality rating leads to higher Rating Points.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224952Z" creationid="RAFAEL" creationdate="20200802T224952Z">
         <seg>Uma classificação de qualidade de conteúdo mais alta leva a pontos de classificação mais altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that the unit has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230259Z" creationid="RAFAEL" creationdate="20200802T230259Z">
+        <seg>Uma taxa baixa significa que a unidade tem tempo ocioso e sua capacidade é subutilizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230200Z" creationid="RAFAEL" creationdate="20200802T230200Z">
         <seg>Uma unidade com maior nível de experiência tem # maior capacidade# e #mais alta produtividade#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A unit's level can be increased through #training#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230214Z" creationid="RAFAEL" creationdate="20200802T230214Z">
+        <seg>O nível de uma unidade pode ser aumentado através de #treinamento#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225515Z" creationid="RAFAEL" creationdate="20200802T225515Z">
         <seg>Cancelar a venda da Mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230227Z" creationid="RAFAEL" creationdate="20200802T230227Z">
+        <seg>Taxa de utilização da capacidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,6 +4147,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195134Z" creationid="RAFAEL" creationdate="20200802T195134Z">
         <seg>Não considerar ofertas de outras empresas para comprar sua tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to change it</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230458Z" creationid="RAFAEL" creationdate="20200802T230458Z">
+        <seg>Clicar duas vezes para mudá-lo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9536,6 +9576,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Novice workers wear red uniforms, whereas experienced workers wear blue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230352Z" creationid="RAFAEL" creationdate="20200802T230352Z">
+        <seg>Trabalhadores novatos usam uniformes vermelhos, enquanto trabalhadores experientes usam uniformes azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Persons=50</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015742Z" creationid="Olivier" creationdate="20200802T015742Z">
@@ -13240,6 +13288,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single-click here to select this functional unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230430Z" creationid="RAFAEL" creationdate="20200802T230430Z">
+        <seg>Clique aqui para selecionar esta unidade funcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200208Z" creationid="RAFAEL" creationdate="20200802T200208Z">
@@ -13524,6 +13580,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013632Z" creationid="Olivier" creationdate="20200802T013632Z">
         <seg>Stock Price=88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock at the Unit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230310Z" creationid="RAFAEL" creationdate="20200802T230310Z">
+        <seg>Estoque na Unidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -14272,6 +14336,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stock kept at the current unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230322Z" creationid="RAFAEL" creationdate="20200802T230322Z">
+        <seg>O estoque mantido na unidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of crop that being grown.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213635Z" creationid="Olivier" creationdate="20200730T213635Z">
@@ -14977,6 +15049,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
+        <seg>Quando todos os trabalhadores de uma unidade se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
@@ -15013,6 +15093,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222151Z" creationid="RAFAEL" creationdate="20200802T222151Z">
         <seg>Assistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workers at the Unit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230336Z" creationid="RAFAEL" creationdate="20200802T230336Z">
+        <seg>Trabalhadores na Unidade</seg>
       </tuv>
     </tu>
     <tu>
