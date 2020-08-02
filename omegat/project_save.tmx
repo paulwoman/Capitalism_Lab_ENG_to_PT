@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brief Help Information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200903Z" creationid="RAFAEL" creationdate="20200802T200903Z">
+        <seg>Breve informação de ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Menu (hotkey: B)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223901Z" creationid="RAFAEL" creationdate="20200801T223901Z">
@@ -2430,10 +2438,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable in-game help information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200827Z" creationid="RAFAEL" creationdate="20200802T200827Z">
+        <seg>Clique para desativar as informações de ajuda dentro do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable sound effects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200630Z" creationid="RAFAEL" creationdate="20200802T200630Z">
         <seg>Clique para desativar os efeitos sonoros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable brief in-game help information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200908Z" creationid="RAFAEL" creationdate="20200802T200908Z">
+        <seg>Clique para habilitar informações breves de ajuda dentro do jogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8267,6 +8291,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140500Z" creationid="RAFAEL" creationdate="20200802T140500Z">
         <seg>Opção de exibição de notícias (Tecla de atalho: 'N')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Help Information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
+        <seg>Nenhuma informação de ajuda</seg>
       </tuv>
     </tu>
     <tu>
