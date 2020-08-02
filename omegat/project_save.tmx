@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011212Z" creationid="Olivier" creationdate="20200802T011212Z">
+        <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010945Z" creationid="Olivier" creationdate="20200802T010945Z">
@@ -1198,6 +1206,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Beijing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011158Z" creationid="Olivier" creationdate="20200802T011158Z">
+        <seg>City=Beijing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Chengdu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011200Z" creationid="Olivier" creationdate="20200802T011200Z">
+        <seg>City=Chengdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011159Z" creationid="Olivier" creationdate="20200802T011159Z">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=New York City</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011202Z" creationid="Olivier" creationdate="20200802T011202Z">
+        <seg>City=New York City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Shanghai</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011158Z" creationid="Olivier" creationdate="20200802T011158Z">
+        <seg>City=Shanghai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Build Menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223930Z" creationid="RAFAEL" creationdate="20200801T223930Z">
@@ -1458,6 +1506,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010145Z" creationid="Olivier" creationdate="20200802T010145Z">
         <seg>D_PCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011424Z" creationid="Olivier" creationdate="20200802T011424Z">
+        <seg>Difficulty Rating=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011148Z" creationid="Olivier" creationdate="20200802T011148Z">
+        <seg>Difficulty Rating=110</seg>
       </tuv>
     </tu>
     <tu>
@@ -2011,6 +2075,86 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
         <seg>Campos estão destruidos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011210Z" creationid="Olivier" creationdate="20200802T011210Z">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011210Z" creationid="Olivier" creationdate="20200802T011210Z">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011210Z" creationid="Olivier" creationdate="20200802T011210Z">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011207Z" creationid="Olivier" creationdate="20200802T011207Z">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Mine</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011208Z" creationid="Olivier" creationdate="20200802T011208Z">
+        <seg>Firm, Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011209Z" creationid="Olivier" creationdate="20200802T011209Z">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011208Z" creationid="Olivier" creationdate="20200802T011208Z">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011209Z" creationid="Olivier" creationdate="20200802T011209Z">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011211Z" creationid="Olivier" creationdate="20200802T011211Z">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011209Z" creationid="Olivier" creationdate="20200802T011209Z">
+        <seg>Firm, TV Station</seg>
       </tuv>
     </tu>
     <tu>
@@ -5047,6 +5191,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011135Z" creationid="Olivier" creationdate="20200802T011135Z">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011230Z" creationid="Olivier" creationdate="20200802T011230Z">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Game Years=70</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010953Z" creationid="Olivier" creationdate="20200802T010953Z">
@@ -6007,10 +6167,42 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=200</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011330Z" creationid="Olivier" creationdate="20200802T011330Z">
+        <seg>Player Company Annual Revenue=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011253Z" creationid="Olivier" creationdate="20200802T011253Z">
+        <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Revenue=800</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010954Z" creationid="Olivier" creationdate="20200802T010954Z">
         <seg>Player Company Annual Revenue=800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011326Z" creationid="Olivier" creationdate="20200802T011326Z">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011249Z" creationid="Olivier" creationdate="20200802T011249Z">
+        <seg>Player Company Net Worth=250</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,6 +6539,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010903Z" creationid="Olivier" creationdate="20200802T010903Z">
         <seg>Random Events=Occasional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011139Z" creationid="Olivier" creationdate="20200802T011139Z">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011323Z" creationid="Olivier" creationdate="20200802T011323Z">
+        <seg>Varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7296,6 +7504,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Number of Employees=1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011132Z" creationid="Olivier" creationdate="20200802T011132Z">
+        <seg>Total Number of Employees=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training Effect Modifier=200</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010944Z" creationid="Olivier" creationdate="20200802T010944Z">
@@ -7380,6 +7596,30 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005135Z" creationid="Olivier" creationdate="20200802T005135Z">
         <seg>U_WORKER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011334Z" creationid="Olivier" creationdate="20200802T011334Z">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011336Z" creationid="Olivier" creationdate="20200802T011336Z">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011401Z" creationid="Olivier" creationdate="20200802T011340Z">
+        <seg>Unlock Firm=Oil Well</seg>
       </tuv>
     </tu>
     <tu>
@@ -21778,6 +22018,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[CITIES]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011156Z" creationid="Olivier" creationdate="20200802T011156Z">
+        <seg>[CITIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[COMPETITORS]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010933Z" creationid="Olivier" creationdate="20200802T010933Z">
@@ -21834,6 +22082,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[LOCKS]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011207Z" creationid="Olivier" creationdate="20200802T011207Z">
+        <seg>[LOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Livestock Processing Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213810Z" creationid="Olivier" creationdate="20200730T213810Z">
@@ -21854,6 +22110,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213911Z" creationid="Olivier" creationdate="20200730T213911Z">
         <seg>[Logging Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL INDUSTRIES]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011255Z" creationid="Olivier" creationdate="20200802T011255Z">
+        <seg>[MAIN GOAL INDUSTRIES]</seg>
       </tuv>
     </tu>
     <tu>
