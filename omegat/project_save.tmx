@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Rio De Janeiro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015734Z" creationid="Olivier" creationdate="20200802T015734Z">
+        <seg>City=Rio De Janeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=San Diego</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015512Z" creationid="Olivier" creationdate="20200802T015512Z">
@@ -2298,6 +2306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010934Z" creationid="Olivier" creationdate="20200802T010934Z">
         <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Very Low</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015744Z" creationid="Olivier" creationdate="20200802T015744Z">
+        <seg>Competitor Start-up Capital=Very Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,6 +3691,118 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010458Z" creationid="Olivier" creationdate="20200802T010458Z">
         <seg>GLOSTOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_ADV</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020019Z" creationid="Olivier" creationdate="20200802T020019Z">
+        <seg>GM_ADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_ASI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020020Z" creationid="Olivier" creationdate="20200802T020020Z">
+        <seg>GM_ASI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CUST</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020021Z" creationid="Olivier" creationdate="20200802T020021Z">
+        <seg>GM_CUST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CUSTR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020022Z" creationid="Olivier" creationdate="20200802T020022Z">
+        <seg>GM_CUSTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_DIFF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020013Z" creationid="Olivier" creationdate="20200802T020013Z">
+        <seg>GM_DIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_FM</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020027Z" creationid="Olivier" creationdate="20200802T020027Z">
+        <seg>GM_FM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_INF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020035Z" creationid="Olivier" creationdate="20200802T020035Z">
+        <seg>GM_INF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_MER</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020030Z" creationid="Olivier" creationdate="20200802T020030Z">
+        <seg>GM_MER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020014Z" creationid="Olivier" creationdate="20200802T020014Z">
+        <seg>GM_NOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_PRI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020022Z" creationid="Olivier" creationdate="20200802T020022Z">
+        <seg>GM_PRI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020024Z" creationid="Olivier" creationdate="20200802T020024Z">
+        <seg>GM_RE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SUC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020017Z" creationid="Olivier" creationdate="20200802T020017Z">
+        <seg>GM_SUC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SUE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020024Z" creationid="Olivier" creationdate="20200802T020024Z">
+        <seg>GM_SUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_TEC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020026Z" creationid="Olivier" creationdate="20200802T020026Z">
+        <seg>GM_TEC</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5871,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality=Low</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015746Z" creationid="Olivier" creationdate="20200802T015746Z">
+        <seg>Import Quality=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=Moderate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010942Z" creationid="Olivier" creationdate="20200802T010942Z">
@@ -7291,6 +7427,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081336Z" creationid="Olivier" creationdate="20200728T081336Z">
         <seg>Todas as suas são mais avançadas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of AI Persons=50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015742Z" creationid="Olivier" creationdate="20200802T015742Z">
+        <seg>Number of AI Persons=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -11215,6 +11359,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Technology Disruption=No</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015737Z" creationid="Olivier" creationdate="20200802T015737Z">
+        <seg>Technology Disruption=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Technology Disruption=Off</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015319Z" creationid="Olivier" creationdate="20200802T015319Z">
@@ -11692,6 +11844,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005135Z" creationid="Olivier" creationdate="20200802T005135Z">
         <seg>U_WORKER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlimited Natural Resources=Yes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015753Z" creationid="Olivier" creationdate="20200802T015753Z">
+        <seg>Unlimited Natural Resources=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -26682,6 +26842,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015843Z" creationid="Olivier" creationdate="20200802T015843Z">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[PLAYER EXPERTISE]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011658Z" creationid="Olivier" creationdate="20200802T011658Z">
@@ -26732,8 +26900,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[Purchasing Unit]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200012Z" creationid="Olivier" creationdate="20200730T200012Z">
-        <seg>[Purchasing Unidade]</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015935Z" creationid="Olivier" creationdate="20200802T015935Z">
+        <seg>[Purchasing Unit]</seg>
       </tuv>
     </tu>
     <tu>
