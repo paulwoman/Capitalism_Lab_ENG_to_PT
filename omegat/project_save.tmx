@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222405Z" creationid="RAFAEL" creationdate="20200802T222405Z">
+        <seg>#Clique duas vezes# para aplicar a mudança desta configuração a #todas as suas empresas#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Success chance:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195020Z" creationid="User" creationdate="20200802T195020Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212542Z" creationid="RAFAEL" creationdate="20200802T212542Z">
         <seg>Aplicar esta alteração de preço ao produto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Link Supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222327Z" creationid="RAFAEL" creationdate="20200802T222327Z">
+        <seg>Ligação automática com o fornecedor</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to allow purchasing units to find their own suppliers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222344Z" creationid="RAFAEL" creationdate="20200802T222344Z">
+        <seg>Clique para permitir que as unidades de compra encontrem seus próprios fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to buy the displayed stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215854Z" creationid="RAFAEL" creationdate="20200802T215854Z">
@@ -2766,10 +2790,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Firm Financial Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222254Z" creationid="RAFAEL" creationdate="20200802T222254Z">
+        <seg>Clique para abrir o Relatório Financeiro da Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Firm Summary Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134238Z" creationid="RAFAEL" creationdate="20200802T134238Z">
         <seg>Clique para abrir o Relatório Resumido da Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Layout Plan Library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222226Z" creationid="RAFAEL" creationdate="20200802T222226Z">
+        <seg>Clique para abrir a Biblioteca do Plano de Layout</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,6 +4491,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
         <seg>Campos estão destruidos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Financial Report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222243Z" creationid="RAFAEL" creationdate="20200802T222243Z">
+        <seg>Relatório Financeiro (Tecla de atalho: F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8152,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout Plan Library (hotkey: F7)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222217Z" creationid="RAFAEL" creationdate="20200802T222217Z">
+        <seg>Biblioteca do plano de layout (Tecla de atalho: F7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Left-click to activate this custom filter.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205750Z" creationid="RAFAEL" creationdate="20200802T205750Z">
@@ -8860,6 +8916,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214830Z" creationid="RAFAEL" creationdate="20200802T214830Z">
         <seg>Mais produtos que utilizam este material de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move the slider to alter the Training Level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222429Z" creationid="RAFAEL" creationdate="20200802T222429Z">
+        <seg>Mova o controle deslizante para alterar o Nível de Treinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13925,6 +13989,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013631Z" creationid="Olivier" creationdate="20200802T013631Z">
         <seg>Total number of Employees=95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222413Z" creationid="RAFAEL" creationdate="20200802T222413Z">
+        <seg>Treinamento</seg>
       </tuv>
     </tu>
     <tu>
