@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a new city (disabled)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215059Z" creationid="Olivier" creationdate="20200802T215059Z">
+        <seg>Build a new city (disabled)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194754Z" creationid="User" creationdate="20200802T194754Z">
@@ -4897,8 +4905,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>G_BCMAXS</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010110Z" creationid="Olivier" creationdate="20200802T010110Z">
-        <seg>[correspondance]G_BCMAX</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215102Z" creationid="Olivier" creationdate="20200802T010110Z">
+        <seg>G_BCMAXS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5081,8 +5089,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>HEADHUNT</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010132Z" creationid="Olivier" creationdate="20200802T010132Z">
-        <seg>[correspondance][2716]&lt;NCJ1&gt;fundado|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215113Z" creationid="Olivier" creationdate="20200802T010132Z">
+        <seg>HEADHUNT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6017,8 +6025,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>IF_ADDS</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010100Z" creationid="Olivier" creationdate="20200802T010100Z">
-        <seg>[correspondance]IF_ADD</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215051Z" creationid="Olivier" creationdate="20200802T010100Z">
+        <seg>IF_ADDS</seg>
       </tuv>
     </tu>
     <tu>
@@ -6683,6 +6691,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004646Z" creationid="Olivier" creationdate="20200802T004646Z">
         <seg>IN_SM_OI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_S</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T214927Z" creationid="Olivier" creationdate="20200802T214927Z">
+        <seg>IN_SM_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_SD</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215045Z" creationid="Olivier" creationdate="20200802T215045Z">
+        <seg>IN_SM_SD</seg>
       </tuv>
     </tu>
     <tu>
