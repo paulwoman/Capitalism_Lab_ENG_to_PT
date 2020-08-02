@@ -1783,6 +1783,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep up the good work and try to achieve even higher goals.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005402Z" creationid="User" creationdate="20200802T005402Z">
+        <seg>Continue com o bom trabalho e tente alcançar objetivos ainda mais altos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LO_IN_E1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005136Z" creationid="Olivier" creationdate="20200802T005136Z">
@@ -3004,6 +3012,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222108Z" creationid="RAFAEL" creationdate="20200801T222108Z">
         <seg>Mapa mundial (Tecla de atalho: Ctrl-W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have done an excellent job as the mayor of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005322Z" creationid="User" creationdate="20200802T005322Z">
+        <seg>Você fez um excelente trabalho como prefeito de|</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16742,54 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005129Z" creationid="User" creationdate="20200802T005129Z">
         <seg>[2923]&lt;TGD1&gt;Cresça a cidade de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2924]&lt;TGD2&gt;and improve the quality of life of its citizens.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005242Z" creationid="User" creationdate="20200802T005242Z">
+        <seg>[2924]&lt;TGD2&gt;e melhorar a qualidade de vida de seus cidadãos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2925]&lt;TGW1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005300Z" creationid="User" creationdate="20200802T005300Z">
+        <seg>[2925]&lt;TGW1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;and achieved the goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005345Z" creationid="User" creationdate="20200802T005345Z">
+        <seg>[2926]&lt;TGW2&gt;e alcançou os objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2927]&lt;TGT1&gt;City Goal:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005419Z" creationid="User" creationdate="20200802T005419Z">
+        <seg>[2927]&lt;TGT1&gt;Objetivo da cidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2928]&lt;TGT2&gt;Town Goal:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005437Z" creationid="User" creationdate="20200802T005437Z">
+        <seg>[2928]&lt;TGT2&gt;Objetivo da cidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2929]&lt;TGT3&gt;Village Goal:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005457Z" creationid="User" creationdate="20200802T005457Z">
+        <seg>[2929]&lt;TGT3&gt;Objetivo da aldeia:|</seg>
       </tuv>
     </tu>
     <tu>
