@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear Stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231012Z" creationid="RAFAEL" creationdate="20200802T231012Z">
+        <seg>Estoques vazios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225425Z" creationid="RAFAEL" creationdate="20200802T225425Z">
@@ -9376,6 +9384,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More than one product type can be produced using the existing inputs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231102Z" creationid="RAFAEL" creationdate="20200802T231102Z">
+        <seg>Mais de um tipo de produto pode ser produzido usando as entradas existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move the slider to alter the Training Level.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222429Z" creationid="RAFAEL" creationdate="20200802T222429Z">
@@ -12304,6 +12320,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raise livestock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230916Z" creationid="RAFAEL" creationdate="20200802T230916Z">
+        <seg>Criar gado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events=Never</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014042Z" creationid="Olivier" creationdate="20200802T014042Z">
@@ -13248,6 +13272,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230926Z" creationid="RAFAEL" creationdate="20200802T230926Z">
+        <seg>Selecione o produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selected Building Number</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211534Z" creationid="RAFAEL" creationdate="20200802T211534Z">
@@ -13292,6 +13324,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223714Z" creationid="RAFAEL" creationdate="20200802T223714Z">
         <seg>Definir dividendo a ser pago aos acionistas no final do exercício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set production</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231051Z" creationid="RAFAEL" creationdate="20200802T231051Z">
+        <seg>Definir produção</seg>
       </tuv>
     </tu>
     <tu>
@@ -14965,6 +15005,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012016Z" creationid="Olivier" creationdate="20200802T012016Z">
         <seg>Unlock product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade production technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231025Z" creationid="RAFAEL" creationdate="20200802T231025Z">
+        <seg>Atualizar a tecnologia de produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade this manufacturing unit to use the latest production technology that your company possesses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231037Z" creationid="RAFAEL" creationdate="20200802T231037Z">
+        <seg>Atualize esta unidade de fabricação para usar a mais recente tecnologia de produção que sua empresa possui.</seg>
       </tuv>
     </tu>
     <tu>
