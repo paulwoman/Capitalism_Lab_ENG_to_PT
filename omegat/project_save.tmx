@@ -2646,6 +2646,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph for the past 30 years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221020Z" creationid="RAFAEL" creationdate="20200802T221020Z">
+        <seg>Clique para ver o gráfico anual de preços das ações dos últimos 30 anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph over its lifetime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221125Z" creationid="RAFAEL" creationdate="20200802T221125Z">
+        <seg>Clique para ver o gráfico anual do preço das ações ao longo de sua vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable Auto Save</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201713Z" creationid="RAFAEL" creationdate="20200802T201713Z">
@@ -2810,6 +2826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205611Z" creationid="RAFAEL" creationdate="20200802T205611Z">
         <seg>Clique para alternar a exibição de apartamentos e edifícios comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle the stock news option on or off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221230Z" creationid="RAFAEL" creationdate="20200802T221230Z">
+        <seg>Clique para ativar ou desativar a opção de notícias sobre ações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,6 +4083,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202144Z" creationid="RAFAEL" creationdate="20200802T201950Z">
         <seg>Habilitar o sistema tecla de atalho melhorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable/Disable Stock News</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221211Z" creationid="RAFAEL" creationdate="20200802T221211Z">
+        <seg>Habilitar/Desabilitar notícias de Ação</seg>
       </tuv>
     </tu>
     <tu>
@@ -14189,6 +14221,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222108Z" creationid="RAFAEL" creationdate="20200801T222108Z">
         <seg>Mapa mundial (Tecla de atalho: Ctrl-W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yearly Stock Graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220945Z" creationid="RAFAEL" creationdate="20200802T220945Z">
+        <seg>Gráfico de preço anual das ações</seg>
       </tuv>
     </tu>
     <tu>
