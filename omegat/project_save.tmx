@@ -15090,6 +15090,46 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2913]&lt;ACP1&gt;Acquisition!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004540Z" creationid="User" creationdate="20200802T004540Z">
+        <seg>[2913]&lt;ACP1&gt;Aquisição!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2914]&lt;ACP2&gt;acquires the private company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004608Z" creationid="User" creationdate="20200802T004608Z">
+        <seg>[2914]&lt;ACP2&gt;adquire a empresa privada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2916]&lt;IPO2&gt;goes public raising|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004627Z" creationid="User" creationdate="20200802T004627Z">
+        <seg>[2916]&lt;IPO2&gt;vai a público|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2917]&lt;IPO3&gt;in IPO.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004646Z" creationid="User" creationdate="20200802T004646Z">
+        <seg>[2917]&lt;IPO3&gt;em IPO.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2918]&lt;ELE1&gt;The mayoral election in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T004921Z" creationid="User" creationdate="20200802T004921Z">
+        <seg>[2918]&lt;ELE1&gt;A eleição para prefeito em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
