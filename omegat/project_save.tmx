@@ -5288,6 +5288,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold #CTRL# key while clicking for #100X# speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220220Z" creationid="RAFAEL" creationdate="20200802T220220Z">
+        <seg>Segure a tecla #CTRL# enquanto clica na velocidade #100X#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold #SHIFT# key while clicking for #10X# speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220134Z" creationid="RAFAEL" creationdate="20200802T220134Z">
+        <seg>Segure a tecla #SHIFT# enquanto clica na velocidade #10X#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing and Community Facilities rating=90, Berlin</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012612Z" creationid="Olivier" creationdate="20200802T012612Z">
