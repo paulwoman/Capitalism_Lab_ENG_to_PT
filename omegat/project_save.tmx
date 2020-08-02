@@ -13690,6 +13690,54 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2839]&lt;AIG7&gt;Software Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001203Z" creationid="User" creationdate="20200802T001203Z">
+        <seg>[2839]&lt;AIG7&gt;Software focado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2841]&lt;AIG8&gt;Internet Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001246Z" creationid="User" creationdate="20200802T001246Z">
+        <seg>[2841]&lt;AIG8&gt;Focado em Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2843]&lt;FEQU&gt;Features Quality|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001320Z" creationid="User" creationdate="20200802T001320Z">
+        <seg>[2843]&lt;FEQU&gt;Características Qualidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2844]&lt;FEBU&gt;Monthly budget for new features development|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001348Z" creationid="User" creationdate="20200802T001348Z">
+        <seg>[2844]&lt;FEBU&gt;Orçamento mensal para desenvolvimento de novos recursos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2845]&lt;TECH&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001359Z" creationid="User" creationdate="20200802T001359Z">
+        <seg>[2845]&lt;TECH&gt;Tecnologias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2846]&lt;ADSC&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001423Z" creationid="User" creationdate="20200802T001423Z">
+        <seg>[2846]&lt;ADSC&gt;Custo do servidor de dados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
