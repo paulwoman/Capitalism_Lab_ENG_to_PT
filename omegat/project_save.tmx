@@ -21986,6 +21986,78 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011411Z" creationid="User" creationdate="20200802T011411Z">
+        <seg>[2971]&lt;COUP&gt;Taxa de Cupom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2972]&lt;TERM&gt;Term Length|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011427Z" creationid="User" creationdate="20200802T011427Z">
+        <seg>[2972]&lt;TERM&gt;Duração do mandato|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011456Z" creationid="User" creationdate="20200802T011456Z">
+        <seg>[2973]&lt;BDD1&gt; inadimplência na obrigação [data de vencimento: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2974]&lt;BDD2&gt; coupon: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011512Z" creationid="User" creationdate="20200802T011512Z">
+        <seg>[2974]&lt;BDD2&gt; cupom: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2975]&lt;BDD3&gt;Default amount: |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011529Z" creationid="User" creationdate="20200802T011529Z">
+        <seg>[2975]&lt;BDD3&gt;Valor padrão: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011551Z" creationid="User" creationdate="20200802T011551Z">
+        <seg>[2976]&lt;LNR1&gt;DINHEIRO INSUFICIENTE PARA REEMBOLSO DE EMPRÉSTIMO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011610Z" creationid="User" creationdate="20200802T011610Z">
+        <seg>[2977]&lt;LNR2&gt;Um empréstimo bancário concedido por sua empresa venceu, você deve reembolsá-lo agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011625Z" creationid="User" creationdate="20200802T011625Z">
+        <seg>[2978]&lt;LNR3&gt;Um empréstimo bancário levou sua subsidiária |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011640Z" creationid="User" creationdate="20200802T011640Z">
+        <seg>[2979]&lt;LNR4&gt; amadureceu, você deve reembolsá-lo agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
