@@ -7799,6 +7799,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to increase.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212102Z" creationid="RAFAEL" creationdate="20200802T212102Z">
+        <seg>Clique no botão esquerdo do mouse para aumentar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011001Z" creationid="Olivier" creationdate="20200802T011001Z">
@@ -11459,6 +11467,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205645Z" creationid="RAFAEL" creationdate="20200802T205645Z">
         <seg>Clique com o botão direito do mouse para definir este filtro personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212126Z" creationid="RAFAEL" creationdate="20200802T212126Z">
+        <seg>Clique com o botão direito do mouse para aumentar a uma taxa maior.</seg>
       </tuv>
     </tu>
     <tu>
