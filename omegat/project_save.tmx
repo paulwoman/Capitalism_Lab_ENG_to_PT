@@ -646,6 +646,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply this price change to all your retail stores in the same city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212559Z" creationid="RAFAEL" creationdate="20200802T212559Z">
+        <seg>Aplique esta mudança de preço a todas as suas lojas de varejo na mesma cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply this price change to the selected product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212542Z" creationid="RAFAEL" creationdate="20200802T212542Z">
+        <seg>Aplicar esta alteração de preço ao produto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Locate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212453Z" creationid="RAFAEL" creationdate="20200802T212453Z">
+        <seg>Localização automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Save Interval Days=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013127Z" creationid="Olivier" creationdate="20200802T013127Z">
@@ -3450,6 +3474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202132Z" creationid="RAFAEL" creationdate="20200802T201758Z">
         <seg>Desativar o sistema de tecla de atalho melhorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display previous product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212631Z" creationid="RAFAEL" creationdate="20200802T212631Z">
+        <seg>Mostrar produto anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -10739,6 +10771,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202212Z" creationid="RAFAEL" creationdate="20200802T202212Z">
         <seg>Cidade Anterior (Tecla de atalho: '[')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212619Z" creationid="RAFAEL" creationdate="20200802T212619Z">
+        <seg>Produto anterior</seg>
       </tuv>
     </tu>
     <tu>
