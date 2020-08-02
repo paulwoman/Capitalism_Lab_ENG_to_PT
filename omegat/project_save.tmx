@@ -327,6 +327,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002026Z" creationid="User" creationdate="20200802T002026Z">
+        <seg>O custo de adicionar um novo andar é|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creator's version is %1s while your version is %2s.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
@@ -13774,6 +13782,62 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T001725Z" creationid="User" creationdate="20200802T001725Z">
         <seg>[2852]&lt;AIG9&gt;focado em Telecom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2854]&lt;AK10&gt;Received Dividends|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001747Z" creationid="User" creationdate="20200802T001747Z">
+        <seg>[2854]&lt;AK10&gt;Dividendos recebidos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2855]&lt;AK11&gt;Increase in Asset Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001804Z" creationid="User" creationdate="20200802T001804Z">
+        <seg>[2855]&lt;AK11&gt;Aumento do Valor Patrimonial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2856]&lt;AK12&gt;Loan Interest|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001826Z" creationid="User" creationdate="20200802T001826Z">
+        <seg>[2856]&lt;AK12&gt;Juros de Empréstimos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2857]&lt;AK20&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001859Z" creationid="User" creationdate="20200802T001859Z">
+        <seg>[2857]&lt;AK20&gt;Custo do servidor de dados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001920Z" creationid="User" creationdate="20200802T001920Z">
+        <seg>[2858]&lt;DIFF&gt;CLASSIFICAÇÃO DE DIFICULDADES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2859]&lt;CORP&gt;CORPORATIONS (Total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001938Z" creationid="User" creationdate="20200802T001938Z">
+        <seg>[2859]&lt;CORP&gt;CORPORAÇÃO (Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002002Z" creationid="User" creationdate="20200802T002002Z">
+        <seg>[2860]&lt;FLR0&gt;Desculpe, você não tem dinheiro suficiente.</seg>
       </tuv>
     </tu>
     <tu>
