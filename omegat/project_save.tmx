@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194754Z" creationid="User" creationdate="20200802T194754Z">
+        <seg>Construa um centro de P&amp;D e configure unidades de P&amp;D em tecnologia para pesquisar a tecnologia necessária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Land</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015031Z" creationid="Olivier" creationdate="20200802T015031Z">
@@ -6915,6 +6923,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012712Z" creationid="Olivier" creationdate="20200802T012712Z">
         <seg>Internet Market Share=Video-sharing Site, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It offers a powerful suite of features that allow you to set up banks and insurance companies, issue and trade bonds, and invest in global stocks.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194532Z" creationid="User" creationdate="20200802T194532Z">
+        <seg>Oferece um poderoso conjunto de recursos que permitem configurar bancos e companhias de seguros, emitir e negociar títulos e investir em ações globais.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27950,6 +27966,38 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194520Z" creationid="User" creationdate="20200802T194520Z">
         <seg>[3051]&lt;DLC4&gt;O DLC de Bancos e Finanças simula o mundo financeiro com um nível de realismo sem precedentes nos videogames.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3052]&lt;LTAX&gt;Accumulated losses for future tax deduction|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194647Z" creationid="User" creationdate="20200802T194647Z">
+        <seg>[3052]&lt;LTAX&gt;Perdas acumuladas para dedução fiscal futura|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194701Z" creationid="User" creationdate="20200802T194701Z">
+        <seg>[3053]&lt;UNVI&gt;visitantes únicos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3054]&lt;UNVM&gt;Monthly Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194712Z" creationid="User" creationdate="20200802T194712Z">
+        <seg>[3054]&lt;UNVM&gt;Visitantes únicos mensais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3055]&lt;INTT&gt;This Internet company does not have the required technology to start operation yet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194733Z" creationid="User" creationdate="20200802T194733Z">
+        <seg>[3055]&lt;INTT&gt;Esta empresa de Internet não possui a tecnologia necessária para iniciar a operação.t.</seg>
       </tuv>
     </tu>
     <tu>
