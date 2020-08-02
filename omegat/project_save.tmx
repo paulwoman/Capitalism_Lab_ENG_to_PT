@@ -2550,6 +2550,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
+        <seg>Clique aqui para abrir o Relatório Detalhado da Corporação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view the person's details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221831Z" creationid="RAFAEL" creationdate="20200802T221831Z">
+        <seg>Clique aqui para ver os detalhes da pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
@@ -8680,6 +8696,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manager's Guide (hotkey: F3)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222004Z" creationid="RAFAEL" creationdate="20200802T222004Z">
+        <seg>Guia do gerente (Tecla de atalho: F3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -12584,6 +12608,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shortcut To Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221932Z" creationid="RAFAEL" creationdate="20200802T221932Z">
+        <seg>Atalho para o relatório detalhado da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012741Z" creationid="Olivier" creationdate="20200802T012741Z">
@@ -14277,6 +14309,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
         <seg>Você aceita esta oferta?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222151Z" creationid="RAFAEL" creationdate="20200802T222151Z">
+        <seg>Assistente</seg>
       </tuv>
     </tu>
     <tu>
