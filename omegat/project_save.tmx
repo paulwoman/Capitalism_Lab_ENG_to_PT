@@ -5663,6 +5663,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the responsible R&amp;D center</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232146Z" creationid="RAFAEL" creationdate="20200802T232146Z">
+        <seg>Ir para o centro de P&amp;D responsável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to your R&amp;D center responsible for researching the selected technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232156Z" creationid="RAFAEL" creationdate="20200802T232156Z">
+        <seg>Ir ao seu centro de P&amp;D responsável pela pesquisa da tecnologia selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Available Year=1990</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015716Z" creationid="Olivier" creationdate="20200802T015716Z">
@@ -10384,6 +10400,38 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show all products that your company is currently producing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232124Z" creationid="RAFAEL" creationdate="20200802T232124Z">
+        <seg>Mostrar apenas todos os produtos que sua empresa está produzindo atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show industries and product classes in which your company has market shares</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232232Z" creationid="RAFAEL" creationdate="20200802T232232Z">
+        <seg>Mostrar apenas indústrias e classes de produtos em que sua empresa tem participação no mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show industries and product classes which your company dominates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232244Z" creationid="RAFAEL" creationdate="20200802T232244Z">
+        <seg>Mostrar apenas as indústrias e classes de produtos que sua empresa domina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show technologies that your company is currently researching.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232134Z" creationid="RAFAEL" creationdate="20200802T232134Z">
+        <seg>Mostrar apenas tecnologias que sua empresa está pesquisando atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open News Log window (hotkey: 'V')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221429Z" creationid="RAFAEL" creationdate="20200802T221429Z">
@@ -13472,10 +13520,50 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show all industries and product classes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232219Z" creationid="RAFAEL" creationdate="20200802T232219Z">
+        <seg>Mostrar todas as indústrias e classes de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show all technologies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232049Z" creationid="RAFAEL" creationdate="20200802T232049Z">
+        <seg>Mostrar todas as tecnologias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show here if your company's technology level &gt;= 30.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232112Z" creationid="RAFAEL" creationdate="20200802T232112Z">
+        <seg>Mostre aqui se o nível tecnológico de sua empresa &gt;= 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show products that your company produces</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232025Z" creationid="RAFAEL" creationdate="20200802T232025Z">
+        <seg>Mostrar produtos que sua empresa produz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces or sells in retail sector</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232008Z" creationid="RAFAEL" creationdate="20200802T232008Z">
         <seg>Mostrar produtos que sua empresa produz ou vende no setor de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show products that your company sells in retail sector</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232037Z" creationid="RAFAEL" creationdate="20200802T232037Z">
+        <seg>Mostrar produtos que sua empresa vende no setor de varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14825,6 +14913,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To locate an specific input, type the first letter of its name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232300Z" creationid="RAFAEL" creationdate="20200802T232300Z">
+        <seg>Para localizar uma entrada específica, digite a primeira letra de seu nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To locate an specific output, type the first letter of its name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232312Z" creationid="RAFAEL" creationdate="20200802T232312Z">
+        <seg>Para localizar uma saída específica, digite a primeira letra de seu nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To remedy this, you may transfer funds from the parent corporation to the bank.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192615Z" creationid="User" creationdate="20200802T192615Z">
@@ -15501,6 +15605,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084238Z" creationid="Olivier" creationdate="20200728T084227Z">
         <seg>Você pode adquirir por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also double-click on a R&amp;D record to do the same.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232206Z" creationid="RAFAEL" creationdate="20200802T232206Z">
+        <seg>Você também pode clicar duas vezes em um registro de P&amp;D para fazer o mesmo.</seg>
       </tuv>
     </tu>
     <tu>
