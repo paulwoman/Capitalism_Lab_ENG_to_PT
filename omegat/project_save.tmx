@@ -20850,6 +20850,62 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010458Z" creationid="User" creationdate="20200802T010458Z">
+        <seg>[2948]&lt;SLD2&gt;Este terreno é de propriedade de sua empresa subsidiária. \ Você deseja vendê-lo por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010552Z" creationid="User" creationdate="20200802T010552Z">
+        <seg>[2949]&lt;SLD3&gt;O proprietário venderá este terreno por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010612Z" creationid="User" creationdate="20200802T010612Z">
+        <seg>[2950]&lt;SLD4&gt;Preço premium:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010628Z" creationid="User" creationdate="20200802T010628Z">
+        <seg>[2951]&lt;SLD5&gt;Você quer comprar isso?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010643Z" creationid="User" creationdate="20200802T010643Z">
+        <seg>[2952]&lt;SLD6&gt;Mas você não tem dinheiro suficiente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010706Z" creationid="User" creationdate="20200802T010706Z">
+        <seg>[2953]&lt;AK13&gt;Receita de Juros de Depósito|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010722Z" creationid="User" creationdate="20200802T010722Z">
+        <seg>[2954]&lt;BI01&gt;Renda Premium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
