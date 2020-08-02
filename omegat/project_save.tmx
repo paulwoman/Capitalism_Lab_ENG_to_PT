@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2) Utilization rates are displayed for factories, farms and mines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205357Z" creationid="RAFAEL" creationdate="20200802T205357Z">
+        <seg>2) As taxas de utilização são exibidas para fábricas, fazendas e minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3x3 Layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015353Z" creationid="Olivier" creationdate="20200802T015353Z">
@@ -2594,6 +2602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204341Z" creationid="RAFAEL" creationdate="20200802T204341Z">
         <seg>Clique para alternar o modo de relacionamento comercial - se uma empresa for selecionada, este modo exibirá as linhas de relacionamento comercial diretamente relacionadas com a empresa selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Firm Information Display Mode: 1) Firm types are displayed in the main city view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205306Z" creationid="RAFAEL" creationdate="20200802T205306Z">
+        <seg>Clique para alternar o Modo de exibição de informações da empresa: 1) Os tipos de empresa são exibidos na visão principal da cidade.</seg>
       </tuv>
     </tu>
     <tu>
