@@ -13898,6 +13898,30 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2868]&lt;NSC2&gt;To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002552Z" creationid="User" creationdate="20200802T002552Z">
+        <seg>[2868]&lt;NSC2&gt;Para fazer isso, na próxima tela, selecione um candidato a CEO e clique no botão [Contratar Chefe Executivo].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2869]&lt;NSH1&gt;the job as the|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002618Z" creationid="User" creationdate="20200802T002618Z">
+        <seg>[2869]&lt;NSH1&gt;o trabalho como o|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2870]&lt;NSH2&gt;of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002647Z" creationid="User" creationdate="20200802T002647Z">
+        <seg>[2870]&lt;NSH2&gt;do|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
