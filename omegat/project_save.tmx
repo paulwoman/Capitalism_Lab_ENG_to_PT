@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Borrow Money</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223327Z" creationid="RAFAEL" creationdate="20200802T223327Z">
+        <seg>Emprestar dinheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brief Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200903Z" creationid="RAFAEL" creationdate="20200802T200903Z">
@@ -2722,6 +2730,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220914Z" creationid="RAFAEL" creationdate="20200802T220914Z">
         <seg>Clique para ver o gráfico de preços mensais das ações dos últimos 36 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next Research Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223251Z" creationid="RAFAEL" creationdate="20200802T223251Z">
+        <seg>Clique para exibir o próximo Projeto de Pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223150Z" creationid="RAFAEL" creationdate="20200802T223150Z">
+        <seg>Clique para exibir o próximo produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous Research Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223230Z" creationid="RAFAEL" creationdate="20200802T223230Z">
+        <seg>Clique para exibir o Projeto de Pesquisa anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223137Z" creationid="RAFAEL" creationdate="20200802T223137Z">
+        <seg>Clique para exibir o produto anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,6 +9224,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Research Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223241Z" creationid="RAFAEL" creationdate="20200802T223241Z">
+        <seg>Próximo projeto de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
@@ -11324,6 +11372,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212619Z" creationid="RAFAEL" creationdate="20200802T212619Z">
         <seg>Produto anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Research Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223217Z" creationid="RAFAEL" creationdate="20200802T223217Z">
+        <seg>Projeto de Pesquisa Anterior</seg>
       </tuv>
     </tu>
     <tu>
