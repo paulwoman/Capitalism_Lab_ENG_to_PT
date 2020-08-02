@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy This Firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221743Z" creationid="RAFAEL" creationdate="20200802T221743Z">
+        <seg>Comprar esta empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy less stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220432Z" creationid="RAFAEL" creationdate="20200802T220432Z">
@@ -3538,6 +3546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013519Z" creationid="Olivier" creationdate="20200802T013519Z">
         <seg>Deadline=2010-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221805Z" creationid="RAFAEL" creationdate="20200802T221805Z">
+        <seg>Demolir esta empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9688,6 +9704,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Offer to sell this firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221720Z" creationid="RAFAEL" creationdate="20200802T221720Z">
+        <seg>Oferta para venda deste estabelecimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open News Log window (hotkey: 'V')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221429Z" creationid="RAFAEL" creationdate="20200802T221429Z">
@@ -10428,6 +10452,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182016Z" creationid="Olivier" creationdate="20200730T132112Z">
         <seg>Panico por parte dos acionistas!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Person Details</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221820Z" creationid="RAFAEL" creationdate="20200802T221820Z">
+        <seg>Detalhes da pessoa</seg>
       </tuv>
     </tu>
     <tu>
