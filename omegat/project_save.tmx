@@ -2574,6 +2574,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle Business Ownership Mode - Buildings are displayed in their corporate colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203537Z" creationid="RAFAEL" creationdate="20200802T203537Z">
+        <seg>Clique para alternar o Modo de Propriedade de Negócios - Os edifícios são exibidos em suas cores corporativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203833Z" creationid="RAFAEL" creationdate="20200802T203833Z">
+        <seg>Clique para alternar a propriedade da terra e o modo de recursos - a propriedade da terra e os recursos naturais são exibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Land Value Mode - darker colors indicate high land values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203637Z" creationid="RAFAEL" creationdate="20200802T203637Z">
+        <seg>Clique para alternar o modo de valor do terreno - cores mais escuras indicam valores de terreno altos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Profit Mode - brighter colors indicate profitable firms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203715Z" creationid="RAFAEL" creationdate="20200802T203715Z">
+        <seg>Clique para alternar o Modo Lucro - cores mais brilhantes indicam empresas lucrativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close Mini Map</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202351Z" creationid="RAFAEL" creationdate="20200802T202351Z">
@@ -7575,6 +7607,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land Ownership and Resources Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203752Z" creationid="RAFAEL" creationdate="20200802T203752Z">
+        <seg>Propriedade da terra e modo de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Land Value Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203615Z" creationid="RAFAEL" creationdate="20200802T203615Z">
+        <seg>Modo Valor do Terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land-use planning</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225120Z" creationid="RAFAEL" creationdate="20200801T225120Z">
@@ -10619,6 +10667,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012007Z" creationid="Olivier" creationdate="20200802T012007Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Profit Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203703Z" creationid="RAFAEL" creationdate="20200802T203703Z">
+        <seg>Modo de lucro</seg>
       </tuv>
     </tu>
     <tu>
