@@ -13522,6 +13522,30 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2817]&lt;ITP2&gt;Training effect will be instant but|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000050Z" creationid="User" creationdate="20200802T000050Z">
+        <seg>[2817]&lt;ITP2&gt;O efeito do treinamento será instantâneo, mas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000149Z" creationid="User" creationdate="20200802T000149Z">
+        <seg>[2818]&lt;ITP3&gt;seu custo-efetividade é 30% menor que o treinamento normal.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000229Z" creationid="User" creationdate="20200802T000229Z">
+        <seg>[2819]&lt;ITP4&gt;Quanto você alocará para treinamento por funcionário?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
