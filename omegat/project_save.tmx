@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the speed dial to alter the game speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
+        <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to change city view to largest zoom level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133846Z" creationid="RAFAEL" creationdate="20200802T133846Z">
@@ -8055,6 +8063,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Display Option (hotkey: 'N')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140500Z" creationid="RAFAEL" creationdate="20200802T140500Z">
+        <seg>Opção de exibição de notícias (Tecla de atalho: 'N')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the other companies have a technology more advanced than yours.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081336Z" creationid="Olivier" creationdate="20200728T081336Z">
@@ -8731,6 +8747,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222415Z" creationid="RAFAEL" creationdate="20200801T222415Z">
         <seg>Abrir a tela do Centro de Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the News Display options screen</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140524Z" creationid="RAFAEL" creationdate="20200802T140524Z">
+        <seg>Abra a tela de opções de exibição de notícias</seg>
       </tuv>
     </tu>
     <tu>
