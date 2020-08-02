@@ -10415,6 +10415,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population density is shown in dark brown colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204628Z" creationid="RAFAEL" creationdate="20200802T204628Z">
+        <seg>A densidade populacional é mostrada nas cores marrom escuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population=0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012557Z" creationid="Olivier" creationdate="20200802T012557Z">
@@ -11859,6 +11867,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202457Z" creationid="RAFAEL" creationdate="20200802T202457Z">
         <seg>Selecione a cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a civic building or sports facilities to see how conveniently citizens have access to the public services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204730Z" creationid="RAFAEL" creationdate="20200802T204730Z">
+        <seg>Selecione um edifício municipal ou instalações esportivas para ver como os cidadãos têm acesso fácil aos serviços públicos.</seg>
       </tuv>
     </tu>
     <tu>
