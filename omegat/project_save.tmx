@@ -28082,6 +28082,46 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3063]&lt;EMP3&gt;working in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195349Z" creationid="User" creationdate="20200802T195349Z">
+        <seg>[3063]&lt;EMP3&gt;trabalhando em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195408Z" creationid="User" creationdate="20200802T195408Z">
+        <seg>[3064]&lt;EMP4&gt;foi perseguido.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3065]&lt;EMP5&gt;was headhunted by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195424Z" creationid="User" creationdate="20200802T195424Z">
+        <seg>[3065]&lt;EMP5&gt;foi perseguido por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3066]&lt;EMP6&gt;has resigned.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195441Z" creationid="User" creationdate="20200802T195441Z">
+        <seg>[3066]&lt;EMP6&gt;renunciou.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3067]&lt;PARC&gt;to Parent Company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195519Z" creationid="User" creationdate="20200802T195519Z">
+        <seg>[3067]&lt;PARC&gt;Controladora|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
