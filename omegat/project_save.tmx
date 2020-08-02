@@ -19562,6 +19562,30 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010126Z" creationid="User" creationdate="20200802T010126Z">
+        <seg>[2945]&lt;BF01&gt;Receita líquida de juros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010340Z" creationid="User" creationdate="20200802T010340Z">
+        <seg>[2946]&lt;BF02&gt;Padrões de Empréstimo (Perdas)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010420Z" creationid="User" creationdate="20200802T010420Z">
+        <seg>[2947]&lt;SLD1&gt;Deseja vender este terreno por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
