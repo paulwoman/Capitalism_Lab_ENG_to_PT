@@ -14034,6 +14034,54 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2885]&lt;LAN9&gt;in this city by|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003315Z" creationid="User" creationdate="20200802T003315Z">
+        <seg>[2885]&lt;LAN9&gt;nesta cidade por|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003354Z" creationid="User" creationdate="20200802T003354Z">
+        <seg>[2886]&lt;NCG1&gt;Você ativou o Modo de sobrevivência no DLC da City Economic Simulation. \ n \ n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003440Z" creationid="User" creationdate="20200802T003440Z">
+        <seg>[2887]&lt;NCG2&gt;Todos os produtos estão bloqueados, exigindo reinvenção, exceto os produtos da mega classe Alimentos e Bebidas e os produtos nos quais você possui experiência. \ N \ n \ n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003506Z" creationid="User" creationdate="20200802T003506Z">
+        <seg>[2888]&lt;NCG3&gt;Você foi designado com novas metas. \ N \ n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003527Z" creationid="User" creationdate="20200802T003527Z">
+        <seg>[2889]&lt;NCG4&gt;Pressione a tecla de atalho 'G' a qualquer momento para visualizar a tela Meta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T003556Z" creationid="User" creationdate="20200802T003556Z">
+        <seg>[2890]&lt;NCG5&gt;Você foi designado com uma nova meta. \ N \ n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
