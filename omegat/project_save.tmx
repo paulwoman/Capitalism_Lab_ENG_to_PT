@@ -22858,6 +22858,86 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2990]&lt;BIPR&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011956Z" creationid="User" creationdate="20200802T011956Z">
+        <seg>[2990]&lt;BIPR&gt;Reservas de Reivindicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2991]&lt;ISBP&gt;Bank Net Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012015Z" creationid="User" creationdate="20200802T012015Z">
+        <seg>[2991]&lt;ISBP&gt;Lucro Líquido do Banco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2992]&lt;ISLP&gt;Insurance Net Profit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012032Z" creationid="User" creationdate="20200802T012032Z">
+        <seg>[2992]&lt;ISLP&gt;Lucro Líquido de Seguros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2993]&lt;BLBA&gt;Bank Net Asset|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012048Z" creationid="User" creationdate="20200802T012048Z">
+        <seg>[2993]&lt;BLBA&gt;Ativo líquido do banco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2994]&lt;BLIA&gt;Insurance Net Asset|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012104Z" creationid="User" creationdate="20200802T012104Z">
+        <seg>[2994]&lt;BLIA&gt;Ativo Líquido de Seguros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2995]&lt;EXPE&gt;Expenses|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012121Z" creationid="User" creationdate="20200802T012121Z">
+        <seg>[2995]&lt;EXPE&gt;Despesas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012138Z" creationid="User" creationdate="20200802T012138Z">
+        <seg>[2996]&lt;SEHQ&gt;Despesa Salarial (HQ)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2997]&lt;SEBR&gt;Salaries Expense (Branches)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012153Z" creationid="User" creationdate="20200802T012153Z">
+        <seg>[2997]&lt;SEBR&gt;Despesa Salarial (Branches)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2998]&lt;OOHQ&gt;Operating Overhead (HQ)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012207Z" creationid="User" creationdate="20200802T012207Z">
+        <seg>[2998]&lt;OOHQ&gt;Sobrecarga operacional (HQ)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2999]&lt;OOBR&gt;Operating Overhead (Branches)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012255Z" creationid="User" creationdate="20200802T012255Z">
+        <seg>[2999]&lt;OOBR&gt;Sobrecarga operacional (Filiais)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
