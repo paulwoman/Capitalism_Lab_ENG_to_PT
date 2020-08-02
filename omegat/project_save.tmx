@@ -27417,6 +27417,62 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3003]&lt;KNO3&gt;and|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192028Z" creationid="User" creationdate="20200802T192028Z">
+        <seg>[3003]&lt;KNO3&gt;e|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3004]&lt;KNO4&gt;And talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192048Z" creationid="User" creationdate="20200802T192048Z">
+        <seg>[3004]&lt;KNO4&gt;E os talentos necessários para o projeto de invenção devem estar disponíveis no ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3005]&lt;KNO5&gt;Talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192110Z" creationid="User" creationdate="20200802T192110Z">
+        <seg>[3005]&lt;KNO5&gt;Espera-se que os talentos necessários para o projeto da invenção estejam disponíveis no ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3006]&lt;KNO6&gt;You must first own an IP or have access to open-source tech.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192135Z" creationid="User" creationdate="20200802T192135Z">
+        <seg>[3006]&lt;KNO6&gt;Você deve primeiro possuir um IP ou ter acesso à tecnologia de código aberto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3007]&lt;KNO7&gt;Missing knowhow for input(s):|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192158Z" creationid="User" creationdate="20200802T192158Z">
+        <seg>[3007]&lt;KNO7&gt;Falta o conhecimento de entrada (s):|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192218Z" creationid="User" creationdate="20200802T192218Z">
+        <seg>[3008]&lt;KNO8&gt;Nada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3009]&lt;KNO9&gt;Invention Pre-requisites:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192234Z" creationid="User" creationdate="20200802T192234Z">
+        <seg>[3009]&lt;KNO9&gt;Invenção Pré-requisitos:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
