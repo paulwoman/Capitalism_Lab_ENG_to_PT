@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cancel sale of Mansion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225515Z" creationid="RAFAEL" creationdate="20200802T225515Z">
+        <seg>Cancelar a venda da Mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Competitiveness Effect on Factory Modifier=150</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015158Z" creationid="Olivier" creationdate="20200802T015158Z">
@@ -2646,10 +2654,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to add a new product (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225425Z" creationid="RAFAEL" creationdate="20200802T225425Z">
+        <seg>Clique aqui para adicionar um novo produto (Tecla de atalho: A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
         <seg>Clique aqui para abrir o Relatório Detalhado da Corporação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to see how this can be used to make other products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225359Z" creationid="RAFAEL" creationdate="20200802T225359Z">
+        <seg>Clique aqui para ver como isto pode ser usado para fazer outros produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221230Z" creationid="RAFAEL" creationdate="20200802T221230Z">
         <seg>Clique para ativar ou desativar a opção de notícias sobre ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225525Z" creationid="RAFAEL" creationdate="20200802T225525Z">
+        <seg>Fechar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11704,6 +11736,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Market Share Indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225539Z" creationid="RAFAEL" creationdate="20200802T225539Z">
+        <seg>Indicador de participação no mercado de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Summary Report (hotkey: 'P')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133921Z" creationid="RAFAEL" creationdate="20200802T133921Z">
@@ -13072,10 +13112,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up a new production for this firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225500Z" creationid="RAFAEL" creationdate="20200802T225500Z">
+        <seg>Montar uma nova produção para esta empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut To Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221932Z" creationid="RAFAEL" creationdate="20200802T221932Z">
         <seg>Atalho para o relatório detalhado da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcut for selecting a layout plan for this firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225446Z" creationid="RAFAEL" creationdate="20200802T225446Z">
+        <seg>Atalho para a seleção de um plano de layout para esta empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14096,6 +14152,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The red bar tells the your market share for this product in the current city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225551Z" creationid="RAFAEL" creationdate="20200802T225551Z">
+        <seg>A barra vermelha informa a sua participação de mercado para este produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of crop that being grown.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213635Z" creationid="Olivier" creationdate="20200730T213635Z">
@@ -14253,6 +14317,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223449Z" creationid="RAFAEL" creationdate="20200801T223449Z">
         <seg>Este valor é o lucro operacional da sua empresa nos últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a farm product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225310Z" creationid="RAFAEL" creationdate="20200802T225310Z">
+        <seg>Este é um produto agrícola.</seg>
       </tuv>
     </tu>
     <tu>
