@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Cities Or Current City filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205926Z" creationid="RAFAEL" creationdate="20200802T205926Z">
+        <seg>Todas as cidades ou filtro da cidade atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010930Z" creationid="Olivier" creationdate="20200802T010930Z">
@@ -7719,6 +7727,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to activate this custom filter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205750Z" creationid="RAFAEL" creationdate="20200802T205750Z">
+        <seg>Clique no botão esquerdo do mouse para ativar este filtro personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011001Z" creationid="Olivier" creationdate="20200802T011001Z">
@@ -13196,6 +13212,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202921Z" creationid="RAFAEL" creationdate="20200802T202921Z">
         <seg>Alternar o Filtrar Empresa para selecionar somente empresas específicas para a exibição do mapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle the filter mode between All Cities and Current City.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210028Z" creationid="RAFAEL" creationdate="20200802T210028Z">
+        <seg>Alternar o modo de filtro entre todas as cidades e a cidade atual.</seg>
       </tuv>
     </tu>
     <tu>
