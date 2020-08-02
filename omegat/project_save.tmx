@@ -4519,6 +4519,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable or disable product sale graph</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231957Z" creationid="RAFAEL" creationdate="20200802T231957Z">
+        <seg>Ativar ou desativar o gráfico de venda do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable the enhanced hotkey system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202144Z" creationid="RAFAEL" creationdate="20200802T201950Z">
@@ -4547,6 +4555,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
         <seg>Nível de experiência da unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exterior view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231931Z" creationid="RAFAEL" creationdate="20200802T231931Z">
+        <seg>Vista exterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,6 +7752,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
+        <seg>Se você quiser ativar #Venda interna# por padrão, você pode abrir o menu #Opção# (Tecla de atalho: 'O') e definir #Venda interna padrão# para #Ativado#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012900Z" creationid="Olivier" creationdate="20200802T012900Z">
@@ -8000,6 +8024,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231904Z" creationid="RAFAEL" creationdate="20200802T231904Z">
+        <seg>Visão da informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input Material</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214730Z" creationid="RAFAEL" creationdate="20200802T214730Z">
@@ -8028,6 +8060,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014150Z" creationid="Olivier" creationdate="20200802T014150Z">
         <seg>Instant invention=Tablet Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interior view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231943Z" creationid="RAFAEL" creationdate="20200802T231943Z">
+        <seg>Vista interior</seg>
       </tuv>
     </tu>
     <tu>
@@ -13432,6 +13472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show products that your company produces or sells in retail sector</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232008Z" creationid="RAFAEL" creationdate="20200802T232008Z">
+        <seg>Mostrar produtos que sua empresa produz ou vende no setor de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show the current supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231136Z" creationid="RAFAEL" creationdate="20200802T231136Z">
@@ -15213,6 +15261,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200153Z" creationid="RAFAEL" creationdate="20200802T200153Z">
         <seg>Muito lento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Clients</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231824Z" creationid="RAFAEL" creationdate="20200802T231824Z">
+        <seg>Ver Clientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the list of clients that are purchasing this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231832Z" creationid="RAFAEL" creationdate="20200802T231832Z">
+        <seg>Veja a lista de clientes que estão comprando este produto.</seg>
       </tuv>
     </tu>
     <tu>
