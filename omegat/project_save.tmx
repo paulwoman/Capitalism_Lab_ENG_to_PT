@@ -3471,10 +3471,26 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the next building - city view is centered on building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211439Z" creationid="RAFAEL" creationdate="20200802T211439Z">
+        <seg>Exibir o próximo edifício - a vista da cidade está centrada no edifício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the previous building - city view is centered on building</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211338Z" creationid="RAFAEL" creationdate="20200802T211338Z">
         <seg>Exibir o edifício anterior - a vista da cidade está centrada no edifício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the selected building's number from the total number of buildings based on the filter settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211724Z" creationid="RAFAEL" creationdate="20200802T211724Z">
+        <seg>Exibe o número de edifício selecionado a partir do número total de edifícios com base nas configurações do filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -12027,6 +12043,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202617Z" creationid="RAFAEL" creationdate="20200802T202617Z">
         <seg>Selecione a cidade e atualize a vista principal da cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected Building Number</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211534Z" creationid="RAFAEL" creationdate="20200802T211534Z">
+        <seg>Número do edifício selecionado</seg>
       </tuv>
     </tu>
     <tu>
