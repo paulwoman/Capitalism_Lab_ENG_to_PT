@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to buy it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232920Z" creationid="RAFAEL" creationdate="20200802T232920Z">
+        <seg>Clique aqui para comprá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
@@ -3258,6 +3266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211855Z" creationid="RAFAEL" creationdate="20200802T211855Z">
         <seg>Fechar a janela do mapa mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close this chat window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232633Z" creationid="RAFAEL" creationdate="20200802T232633Z">
+        <seg>Feche esta janela de bate-papo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5087,6 +5103,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fix this apartment's rent to the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232658Z" creationid="RAFAEL" creationdate="20200802T232658Z">
+        <seg>Fixar o aluguel deste apartamento à taxa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fix this commercial building's rent to the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232819Z" creationid="RAFAEL" creationdate="20200802T232819Z">
+        <seg>Fixar o aluguel deste edifício comercial à taxa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fixed Brand Strategy=&lt;Corporate Brand/Range Brand/Unique Brand&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013941Z" creationid="Olivier" creationdate="20200802T013941Z">
@@ -5139,6 +5171,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012535Z" creationid="Olivier" creationdate="20200802T012535Z">
         <seg>Food Supply rating=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232802Z" creationid="RAFAEL" creationdate="20200802T232802Z">
+        <seg>Por exemplo, você pode definir que o aluguel de seu apartamento seja sempre 10% mais alto do que a taxa do mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you may set your commercial building's rent to be always 10% higher than the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232900Z" creationid="RAFAEL" creationdate="20200802T232900Z">
+        <seg>Por exemplo, você pode definir que o aluguel de seu edifício comercial seja sempre 10% mais alto do que a taxa do mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7804,6 +7852,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005530Z" creationid="Olivier" creationdate="20200802T005530Z">
         <seg>I_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, the computer will automatically adjust the apartment's rent based on the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232717Z" creationid="RAFAEL" creationdate="20200802T232717Z">
+        <seg>Se isto for ativado, o computador ajustará automaticamente o aluguel do apartamento com base na tarifa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, the computer will automatically adjust the commercial building's rent based on the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232830Z" creationid="RAFAEL" creationdate="20200802T232830Z">
+        <seg>Se isso for ativado, o computador ajustará automaticamente o aluguel do edifício comercial com base na tarifa de mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10524,6 +10588,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T135903Z" creationid="RAFAEL" creationdate="20200802T135903Z">
         <seg>Abra a tela do mercado de ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the chat log</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232645Z" creationid="RAFAEL" creationdate="20200802T232645Z">
+        <seg>Abrir o registro do bate-papo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14905,6 +14977,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This apartment is for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232912Z" creationid="RAFAEL" creationdate="20200802T232912Z">
+        <seg>Este apartamento está à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This area shows the stock of the product in the unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214435Z" creationid="Olivier" creationdate="20200730T214435Z">
@@ -15701,6 +15781,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232206Z" creationid="RAFAEL" creationdate="20200802T232206Z">
         <seg>Você também pode clicar duas vezes em um registro de P&amp;D para fazer o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also set a modifier on top of the market rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232747Z" creationid="RAFAEL" creationdate="20200802T232747Z">
+        <seg>Você também pode colocar um modificador no topo da taxa de mercado.</seg>
       </tuv>
     </tu>
     <tu>
