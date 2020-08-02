@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Ownership Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203431Z" creationid="RAFAEL" creationdate="20200802T203431Z">
+        <seg>Modo de propriedade de negócios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Land</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015031Z" creationid="Olivier" creationdate="20200802T015031Z">
@@ -11155,6 +11163,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015212Z" creationid="Olivier" creationdate="20200802T015212Z">
         <seg>Return on Equity=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to set the filter based on the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202950Z" creationid="RAFAEL" creationdate="20200802T202950Z">
+        <seg>Clique com o botão direito do mouse para definir o filtro com base na empresa atual.</seg>
       </tuv>
     </tu>
     <tu>
