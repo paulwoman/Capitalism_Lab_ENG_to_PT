@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tender offer is an offer to buy shares of a corporation, usually at a price in excess of the value of the shares on the stock market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194341Z" creationid="RAFAEL" creationdate="20200802T194341Z">
+        <seg>Uma oferta pública de aquisição OPA é uma oferta para comprar ações de uma corporação, geralmente a um preço superior ao valor das ações na bolsa de valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADVERT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010311Z" creationid="Olivier" creationdate="20200802T010311Z">
