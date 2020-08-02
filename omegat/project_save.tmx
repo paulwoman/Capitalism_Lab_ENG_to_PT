@@ -21346,6 +21346,86 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010738Z" creationid="User" creationdate="20200802T010738Z">
+        <seg>[2955]&lt;BI02&gt;Retorno do investimento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2956]&lt;BI03&gt;Claims|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010751Z" creationid="User" creationdate="20200802T010751Z">
+        <seg>[2956]&lt;BI03&gt;Reivindicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010804Z" creationid="User" creationdate="20200802T010804Z">
+        <seg>[2957]&lt;BDOF&gt; Obrigações de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2958]&lt;FREI&gt;Freight|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010819Z" creationid="User" creationdate="20200802T010819Z">
+        <seg>[2958]&lt;FREI&gt;Frete|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010834Z" creationid="User" creationdate="20200802T010834Z">
+        <seg>[2959]&lt;BAO1&gt;Banco de propriedade de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2960]&lt;BAO2&gt;went out of business!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010858Z" creationid="User" creationdate="20200802T010858Z">
+        <seg>[2960]&lt;BAO2&gt;saiu do negócio!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2961]&lt;BAO3&gt;Depositors received 100% of their money back.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010918Z" creationid="User" creationdate="20200802T010918Z">
+        <seg>[2961]&lt;BAO3&gt;Os depositantes receberam 100% do seu dinheiro de volta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2962]&lt;BAO4&gt;Depositors only received|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010945Z" creationid="User" creationdate="20200802T010945Z">
+        <seg>[2962]&lt;BAO4&gt;Os depositantes receberam apenas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2963]&lt;BAO5&gt;of their money back.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011004Z" creationid="User" creationdate="20200802T011004Z">
+        <seg>[2963]&lt;BAO5&gt;do seu dinheiro de volta.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2964]&lt;LDE1&gt;defaults on a loan from Bank|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011111Z" creationid="User" creationdate="20200802T011111Z">
+        <seg>[2964]&lt;LDE1&gt;inadimplência de um empréstimo do Banco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
