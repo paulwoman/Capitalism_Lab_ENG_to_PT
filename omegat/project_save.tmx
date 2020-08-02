@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A unit with a higher experience level has #larger capacity# and #higher productivity#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230200Z" creationid="RAFAEL" creationdate="20200802T230200Z">
+        <seg>Uma unidade com maior nível de experiência tem # maior capacidade# e #mais alta produtividade#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADVERT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010311Z" creationid="Olivier" creationdate="20200802T010311Z">
@@ -4447,6 +4455,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Experience Level of the Unit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
+        <seg>Nível de experiência da unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FACEBOOK</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010501Z" creationid="Olivier" creationdate="20200802T010501Z">
@@ -8016,6 +8032,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the percentage of the product demand at this purchasing unit is met by the supply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230111Z" creationid="RAFAEL" creationdate="20200802T230111Z">
+        <seg>Ele mostra que a porcentagem da demanda do produto nesta unidade de compra é atendida pela oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -10264,6 +10288,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Orange bar = the Demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225926Z" creationid="RAFAEL" creationdate="20200802T225926Z">
+        <seg>Barra laranja = a Demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Organize An Intensive Training Program</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224230Z" creationid="RAFAEL" creationdate="20200802T224230Z">
@@ -11788,6 +11820,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133921Z" creationid="RAFAEL" creationdate="20200802T133921Z">
         <seg>Relatório de resumo do produto (Tecla de atalho: 'P')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Supply Indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230049Z" creationid="RAFAEL" creationdate="20200802T230049Z">
+        <seg>Indicador de fornecimento de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Supply and Demand Indicators</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225908Z" creationid="RAFAEL" creationdate="20200802T225908Z">
+        <seg>Indicadores de oferta e demanda de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14929,6 +14977,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
+        <seg>Quando a barra de demanda (laranja) é mais longa que a barra de oferta (amarela), significa que você não tem oferta suficiente para atender à demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you click this button, it will go to the Person screen and let you select a person to offer to hire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224630Z" creationid="RAFAEL" creationdate="20200802T224502Z">
@@ -14989,6 +15045,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225720Z" creationid="RAFAEL" creationdate="20200802T225720Z">
         <seg>Barra amarela = Classificação do preço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow bar = the Supply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225918Z" creationid="RAFAEL" creationdate="20200802T225918Z">
+        <seg>Barra amarela = o fornecimento.</seg>
       </tuv>
     </tu>
     <tu>
