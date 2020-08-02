@@ -2456,8 +2456,8 @@
       <tuv lang="en-US">
         <seg>Click to enable brief in-game help information</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200908Z" creationid="RAFAEL" creationdate="20200802T200908Z">
-        <seg>Clique para habilitar informações breves de ajuda dentro do jogo</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201308Z" creationid="RAFAEL" creationdate="20200802T200908Z">
+        <seg>Clique para habilitar breve informações  de ajuda dentro do jogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013519Z" creationid="Olivier" creationdate="20200802T013519Z">
         <seg>Deadline=2010-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detailed Help Information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201411Z" creationid="RAFAEL" creationdate="20200802T201411Z">
+        <seg>Informações detalhadas de ajuda</seg>
       </tuv>
     </tu>
     <tu>
