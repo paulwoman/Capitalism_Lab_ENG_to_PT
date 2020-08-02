@@ -2614,6 +2614,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to hire Chief Marketing Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215229Z" creationid="RAFAEL" creationdate="20200802T215229Z">
+        <seg>Clique para contratar o Diretor de Marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hire Chief Operating Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215202Z" creationid="RAFAEL" creationdate="20200802T215202Z">
+        <seg>Clique para contratar o Chefe de Operações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hire Chief Technical Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215605Z" creationid="RAFAEL" creationdate="20200802T215605Z">
+        <seg>Clique para contratar o Diretor de Tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to merge corporations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215642Z" creationid="RAFAEL" creationdate="20200802T215642Z">
+        <seg>Clique para fundir corporações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Build Menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223930Z" creationid="RAFAEL" creationdate="20200801T223930Z">
@@ -5203,6 +5235,31 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015357Z" creationid="Olivier" creationdate="20200802T015357Z">
         <seg>Hide, Minimap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire Chief Marketing Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215220Z" creationid="RAFAEL" creationdate="20200802T215220Z">
+        <seg>Contratar o Diretor de Marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire Chief Operating Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215150Z" creationid="RAFAEL" creationdate="20200802T215150Z">
+        <seg>Contratar o Diretor de Operações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire Chief Technical Officer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215542Z" creationid="RAFAEL" creationdate="20200802T215542Z">
+        <seg>
+Contratar Diretor de Tecnologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8447,6 +8504,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a Tender Offer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215708Z" creationid="RAFAEL" creationdate="20200802T215708Z">
+        <seg>Fazer uma oferta pública de aquisição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -8571,6 +8636,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011858Z" creationid="Olivier" creationdate="20200802T011858Z">
         <seg>Media Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge Corporations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215621Z" creationid="RAFAEL" creationdate="20200802T215621Z">
+        <seg>Fusão de empresas</seg>
       </tuv>
     </tu>
     <tu>
