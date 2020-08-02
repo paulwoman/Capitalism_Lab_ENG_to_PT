@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203054Z" creationid="User" creationdate="20200802T203054Z">
+        <seg>Uma fábrica só pode criar versões empacotadas de software que são # desenvolvidas pela mesma empresa#|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223647Z" creationid="RAFAEL" creationdate="20200801T223647Z">
@@ -28782,6 +28790,78 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T202833Z" creationid="User" creationdate="20200802T202833Z">
         <seg>[3103]&lt;WSAD&gt;Chaves WASD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3104]&lt;SFIC&gt;Sell factory "Internal Sale" products at cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202857Z" creationid="User" creationdate="20200802T202857Z">
+        <seg>[3104]&lt;SFIC&gt;Vender produtos de "Venda interna" da fábrica ao custo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3105]&lt;SUBS&gt;The new game options for the Subsidiary DLC are available on the [Environment], [Competitors] and [Products] pages.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202916Z" creationid="User" creationdate="20200802T202916Z">
+        <seg>[3105]&lt;SUBS&gt;As novas opções de jogos para o DLC subsidiário estão disponíveis nas páginas [Ambiente], [Concorrentes] e [Produtos].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3106]&lt;PSYN&gt;Default Price Synchronization|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202932Z" creationid="User" creationdate="20200802T202932Z">
+        <seg>[3106]&lt;PSYN&gt;Sincronização de preço padrão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T202951Z" creationid="User" creationdate="20200802T202951Z">
+        <seg>[3107]&lt;ENBL&gt;Ativado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3108]&lt;DISA&gt;Disabled|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203005Z" creationid="User" creationdate="20200802T203005Z">
+        <seg>[3108]&lt;DISA&gt;Desativado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3109]&lt;RETA&gt;Retail Only|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203020Z" creationid="User" creationdate="20200802T203020Z">
+        <seg>[3109]&lt;RETA&gt;Somente varejo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203037Z" creationid="User" creationdate="20200802T203037Z">
+        <seg>[3110]&lt;TFNO&gt;Desculpe, você não pode transferir esta fábrica, pois está produzindo #packaged software products#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3111]&lt;STB1&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203121Z" creationid="User" creationdate="20200802T203121Z">
+        <seg>[3111]&lt;STB1&gt;Desculpe, você não pode executar esta transação de recompra de ações, pois o número total de ações em circulação de uma empresa pública não deve ser inferior a 1.000.000 ações.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3112]&lt;STB2&gt;You cannot use a corporation that you control to buy back its own shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203139Z" creationid="User" creationdate="20200802T203139Z">
+        <seg>[3112]&lt;STB2&gt;Você não pode usar uma empresa que você controla para recomprar suas próprias ações.|</seg>
       </tuv>
     </tu>
     <tu>
