@@ -13208,6 +13208,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully acquired and merged|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200433Z" creationid="User" creationdate="20200802T200433Z">
+        <seg>Você adquiriu e mesclou com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully acquired|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200540Z" creationid="User" creationdate="20200802T200540Z">
+        <seg>Você adquiriu com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may acquire them for |</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084238Z" creationid="Olivier" creationdate="20200728T084227Z">
@@ -28438,6 +28454,54 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200359Z" creationid="User" creationdate="20200802T200359Z">
         <seg>[3091]&lt;FTSU&gt;Todas as empresas selecionadas foram transferidas com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3092]&lt;ACP1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200418Z" creationid="User" creationdate="20200802T200418Z">
+        <seg>[3092]&lt;ACP1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3093]&lt;ACP2&gt;into your company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200513Z" creationid="User" creationdate="20200802T200513Z">
+        <seg>[3093]&lt;ACP2&gt;na sua empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3094]&lt;ACP3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200527Z" creationid="User" creationdate="20200802T200527Z">
+        <seg>[3094]&lt;ACP3&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3095]&lt;ACP4&gt;It is now a wholly owned subsidiary of your company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200552Z" creationid="User" creationdate="20200802T200552Z">
+        <seg>[3095]&lt;ACP4&gt;Agora é uma subsidiária integral da sua empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3096]&lt;SENO&gt;Sorry, you have not selected any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200621Z" creationid="User" creationdate="20200802T200621Z">
+        <seg>[3096]&lt;SENO&gt;Desculpe, você não selecionou nenhuma empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3097]&lt;VCLF&gt;VIEW / CLOSE DOWN FIRMS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200715Z" creationid="User" creationdate="20200802T200715Z">
+        <seg>[3097]&lt;VCLF&gt;EXIBIR / FECHAR EMPRESAS|</seg>
       </tuv>
     </tu>
     <tu>
