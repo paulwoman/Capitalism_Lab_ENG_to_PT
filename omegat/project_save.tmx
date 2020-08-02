@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust licensing budget</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225127Z" creationid="RAFAEL" creationdate="20200802T225127Z">
+        <seg>Ajustar orçamento de licenciamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust monthly spending on investor relations efforts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224739Z" creationid="RAFAEL" creationdate="20200802T224739Z">
@@ -2646,6 +2654,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to see how this input material is produced.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225255Z" creationid="RAFAEL" creationdate="20200802T225255Z">
+        <seg>Clique aqui para ver como este material de entrada é produzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to see products which are made of this semi-product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225238Z" creationid="RAFAEL" creationdate="20200802T225238Z">
+        <seg>Clique aqui para ver os produtos que são fabricados com este semi-produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view profile details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224319Z" creationid="RAFAEL" creationdate="20200802T224319Z">
@@ -2970,6 +2994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220627Z" creationid="RAFAEL" creationdate="20200802T220627Z">
         <seg>Clique para vender a ação exibida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to set next month's advertising pricing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225141Z" creationid="RAFAEL" creationdate="20200802T225141Z">
+        <seg>Clique para definir os preços de publicidade do próximo mês.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7908,6 +7940,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012712Z" creationid="Olivier" creationdate="20200802T012712Z">
         <seg>Internet Market Share=Video-sharing Site, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Issue New Shares</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225218Z" creationid="RAFAEL" creationdate="20200802T225218Z">
+        <seg>Emissão de novas ações</seg>
       </tuv>
     </tu>
     <tu>
@@ -14012,6 +14052,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
         <seg>A companhia de seguros não possui caixa suficiente para pagar todas as suas obrigações de contrato de seguro em reservas de sinistros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new advertising pricing (the cost per thousand impressions) will become effective next month.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225155Z" creationid="RAFAEL" creationdate="20200802T225155Z">
+        <seg>Os novos preços de publicidade (o custo por mil impressões) entrarão em vigor no próximo mês.</seg>
       </tuv>
     </tu>
     <tu>
