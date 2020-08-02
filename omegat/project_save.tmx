@@ -4103,6 +4103,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Information Display Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205120Z" creationid="RAFAEL" creationdate="20200802T205120Z">
+        <seg>Modo de exibição de informações da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm Summary Report (hotkey: 'F')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134153Z" creationid="RAFAEL" creationdate="20200802T134153Z">
@@ -10383,6 +10391,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pollution is shown in orange and red colors: Red indicates pollution in populated areas; Orange indicates pollution in unpopulated or very sparsely populated areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204939Z" creationid="RAFAEL" creationdate="20200802T204939Z">
+        <seg>A poluição é mostrada nas cores laranja e vermelha: Vermelho indica poluição em áreas povoadas; Laranja indica poluição em áreas despovoadas ou muito escassamente povoadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population Growth Rate=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015626Z" creationid="Olivier" creationdate="20200802T015626Z">
@@ -10403,6 +10419,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013344Z" creationid="Olivier" creationdate="20200802T013344Z">
         <seg>Population Growth Rate=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population and Pollution Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204754Z" creationid="RAFAEL" creationdate="20200802T204754Z">
+        <seg>População e Modo de Poluição</seg>
       </tuv>
     </tu>
     <tu>
@@ -11987,6 +12011,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012654Z" creationid="Olivier" creationdate="20200802T012654Z">
         <seg>Software Dominance=Video Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Soil Map Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204959Z" creationid="RAFAEL" creationdate="20200802T204959Z">
+        <seg>Modo Mapa do Solo</seg>
       </tuv>
     </tu>
     <tu>
