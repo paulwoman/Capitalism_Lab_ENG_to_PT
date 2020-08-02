@@ -8127,6 +8127,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPMMI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T214739Z" creationid="Olivier" creationdate="20200802T214739Z">
+        <seg>MMAPMMI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPMMO</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004529Z" creationid="Olivier" creationdate="20200802T004529Z">
@@ -8143,6 +8151,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPMMR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T214732Z" creationid="Olivier" creationdate="20200802T214732Z">
+        <seg>MMAPMMR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPMMV</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004534Z" creationid="Olivier" creationdate="20200802T004534Z">
@@ -8155,6 +8171,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010038Z" creationid="Olivier" creationdate="20200802T010038Z">
         <seg>MMAPMMV2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMM_S</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T214748Z" creationid="Olivier" creationdate="20200802T214748Z">
+        <seg>MMAPMM_S</seg>
       </tuv>
     </tu>
     <tu>
@@ -29822,6 +29846,14 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195955Z" creationid="Olivier" creationdate="20200730T195955Z">
         <seg>[Sales Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T214715Z" creationid="Olivier" creationdate="20200802T214715Z">
+        <seg>[TEXT]</seg>
       </tuv>
     </tu>
     <tu>
