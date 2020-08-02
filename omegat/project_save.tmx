@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to view profile details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224319Z" creationid="RAFAEL" creationdate="20200802T224319Z">
+        <seg>Clique aqui para ver detalhes do perfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view the person's details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221831Z" creationid="RAFAEL" creationdate="20200802T221831Z">
@@ -3842,6 +3850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202132Z" creationid="RAFAEL" creationdate="20200802T201758Z">
         <seg>Desativar o sistema de tecla de atalho melhorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display Chief Executive Officer Details</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224249Z" creationid="RAFAEL" creationdate="20200802T224249Z">
+        <seg>Exibir detalhes do Diretor Geral</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,6 +5620,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215542Z" creationid="RAFAEL" creationdate="20200802T215542Z">
         <seg>
 Contratar Diretor de Tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a new Chief Operating Officer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224334Z" creationid="RAFAEL" creationdate="20200802T224334Z">
+        <seg>Contratar um novo Chefe de Operações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10044,6 +10068,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140119Z" creationid="RAFAEL" creationdate="20200802T140119Z">
         <seg>Menu Opções (Tecla de atalho: 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organize An Intensive Training Program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224230Z" creationid="RAFAEL" creationdate="20200802T224230Z">
+        <seg>Organizar um Programa de Treinamento Intensivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14617,6 +14649,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you click this button, it will go to the Person screen and let you select a person to offer to hire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224502Z" creationid="RAFAEL" creationdate="20200802T224502Z">
+        <seg>Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will you accept this offer?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
@@ -14661,6 +14701,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011936Z" creationid="Olivier" creationdate="20200802T011936Z">
         <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can assign COO to manage your individual firms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224310Z" creationid="RAFAEL" creationdate="20200802T224310Z">
+        <seg>Você pode designar o COO para administrar suas empresas individuais.</seg>
       </tuv>
     </tu>
     <tu>
