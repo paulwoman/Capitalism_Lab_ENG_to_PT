@@ -28882,6 +28882,70 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3113]&lt;MER1&gt;How would you like|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203200Z" creationid="User" creationdate="20200802T203200Z">
+        <seg>[3113]&lt;MER1&gt;Como você gostaria|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3114]&lt;MER2&gt;to acquire the remaining shares of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203307Z" creationid="User" creationdate="20200802T203307Z">
+        <seg>[3114]&lt;MER2&gt;adquirir as ações remanescentes of|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3115]&lt;MERI&gt;(You cannot issue new shares for the merger because that will exceed the maximum number of shares that a company is allowed to issue.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203322Z" creationid="User" creationdate="20200802T203322Z">
+        <seg>[3115]&lt;MERI&gt;(Você não pode emitir novas ações para a fusão porque isso excederá o número máximo de ações que uma empresa está autorizada a emitir.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3116]&lt;TEC1&gt;Not interested, unless you offer|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203341Z" creationid="User" creationdate="20200802T203341Z">
+        <seg>[3116]&lt;TEC1&gt;Não estou interessado, a menos que você ofereça|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3117]&lt;TEC2&gt;for the technology.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203402Z" creationid="User" creationdate="20200802T203402Z">
+        <seg>[3117]&lt;TEC2&gt;para a tecnologia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3118]&lt;TEC3&gt;We are not interested in selling this technology to our competitors.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203419Z" creationid="User" creationdate="20200802T203419Z">
+        <seg>[3118]&lt;TEC3&gt;Não estamos interessados ​​em vender essa tecnologia para nossos concorrentes.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3119]&lt;TEC4&gt;We are not in need of cash and thus not interested in selling our technology.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203442Z" creationid="User" creationdate="20200802T203442Z">
+        <seg>[3119]&lt;TEC4&gt;Não precisamos de dinheiro e, portanto, não estamos interessados ​​em vender nossa tecnologia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3120]&lt;SRA1&gt;Your|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T203517Z" creationid="User" creationdate="20200802T203517Z">
+        <seg>[3120]&lt;SRA1&gt;Seu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
