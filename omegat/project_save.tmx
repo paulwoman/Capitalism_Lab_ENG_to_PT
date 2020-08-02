@@ -13738,6 +13738,46 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2847]&lt;REAC&gt;Reach|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001442Z" creationid="User" creationdate="20200802T001442Z">
+        <seg>[2847]&lt;REAC&gt;Alcance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2848]&lt;LTEX&gt;Lifetime Expense|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001503Z" creationid="User" creationdate="20200802T001503Z">
+        <seg>[2848]&lt;LTEX&gt;Despesa vitalícia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2849]&lt;CIT1&gt;For all|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001601Z" creationid="User" creationdate="20200802T001601Z">
+        <seg>[2849]&lt;CIT1&gt;Para todos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2851]&lt;CIT3&gt;in this city (Total:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001646Z" creationid="User" creationdate="20200802T001646Z">
+        <seg>[2851]&lt;CIT3&gt;nesta cidade (Total:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2852]&lt;AIG9&gt;Telecom Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001725Z" creationid="User" creationdate="20200802T001725Z">
+        <seg>[2852]&lt;AIG9&gt;focado em Telecom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
