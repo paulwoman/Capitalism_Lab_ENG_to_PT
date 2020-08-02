@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Relationship Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204038Z" creationid="RAFAEL" creationdate="20200802T204038Z">
+        <seg>Modo de Relacionamento Comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Land</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015031Z" creationid="Olivier" creationdate="20200802T015031Z">
@@ -2578,6 +2586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203537Z" creationid="RAFAEL" creationdate="20200802T203537Z">
         <seg>Clique para alternar o Modo de Propriedade de Negócios - Os edifícios são exibidos em suas cores corporativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204341Z" creationid="RAFAEL" creationdate="20200802T204341Z">
+        <seg>Clique para alternar o modo de relacionamento comercial - se uma empresa for selecionada, este modo exibirá as linhas de relacionamento comercial diretamente relacionadas com a empresa selecionada.</seg>
       </tuv>
     </tu>
     <tu>
