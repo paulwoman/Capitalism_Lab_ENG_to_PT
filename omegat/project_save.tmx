@@ -3054,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210626Z" creationid="RAFAEL" creationdate="20200802T210626Z">
+        <seg>Filtro Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Summary Report (hotkey: 'C')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134100Z" creationid="RAFAEL" creationdate="20200802T134100Z">
@@ -13212,6 +13220,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194832Z" creationid="User" creationdate="20200802T194832Z">
         <seg>Para retomar a emissão do empréstimo, acesse o banco, selecione [Financeiro] e [Transferência de fundo].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Corporate Filter to display a specific corporation in the Mini Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210643Z" creationid="RAFAEL" creationdate="20200802T210643Z">
+        <seg>Alterne Filtro Corporativo para exibir uma empresa específica no Mini Mapa.</seg>
       </tuv>
     </tu>
     <tu>
