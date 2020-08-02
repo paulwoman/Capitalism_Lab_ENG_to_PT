@@ -3478,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display next product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214706Z" creationid="RAFAEL" creationdate="20200802T214706Z">
+        <seg>Exibir próximo produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display previous product</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212631Z" creationid="RAFAEL" creationdate="20200802T212631Z">
@@ -7239,6 +7247,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input Material</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214730Z" creationid="RAFAEL" creationdate="20200802T214730Z">
+        <seg>Material de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instant invention=Notebook Computer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014149Z" creationid="Olivier" creationdate="20200802T014149Z">
@@ -8679,6 +8695,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214649Z" creationid="RAFAEL" creationdate="20200802T214649Z">
+        <seg>Próximo produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
@@ -9419,6 +9443,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140119Z" creationid="RAFAEL" creationdate="20200802T140119Z">
         <seg>Menu Opções (Tecla de atalho: 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output Product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214759Z" creationid="RAFAEL" creationdate="20200802T214759Z">
+        <seg>Produto de saída</seg>
       </tuv>
     </tu>
     <tu>
@@ -12139,6 +12171,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204730Z" creationid="RAFAEL" creationdate="20200802T204730Z">
         <seg>Selecione um edifício municipal ou instalações esportivas para ver como os cidadãos têm acesso fácil aos serviços públicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a new input material</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214742Z" creationid="RAFAEL" creationdate="20200802T214742Z">
+        <seg>Selecione um novo material de entrada</seg>
       </tuv>
     </tu>
     <tu>
