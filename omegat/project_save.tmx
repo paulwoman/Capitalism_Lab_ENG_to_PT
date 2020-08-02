@@ -28234,6 +28234,78 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3073]&lt;BRB5&gt;of the original bond values.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195851Z" creationid="User" creationdate="20200802T195851Z">
+        <seg>[3073]&lt;BRB5&gt;dos valores de ligação originais.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3074]&lt;BCA1&gt;Must Take Action|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195907Z" creationid="User" creationdate="20200802T195907Z">
+        <seg>[3074]&lt;BCA1&gt;Deve agir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3075]&lt;BCA2&gt;Notification Only|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195923Z" creationid="User" creationdate="20200802T195923Z">
+        <seg>[3075]&lt;BCA2&gt;Somente notificação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3076]&lt;BCA3&gt;No Notification|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195936Z" creationid="User" creationdate="20200802T195936Z">
+        <seg>[3076]&lt;BCA3&gt;Nenhuma notificação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3077]&lt;PTAS&gt;% of Total Assets|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195954Z" creationid="User" creationdate="20200802T195954Z">
+        <seg>[3077]&lt;PTAS&gt;% do total de ativos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3078]&lt;3YRA&gt;30-Year Average|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200010Z" creationid="User" creationdate="20200802T200010Z">
+        <seg>[3078]&lt;3YRA&gt;30-Média do ano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3079]&lt;SABD&gt;Sale of Bonds|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200028Z" creationid="User" creationdate="20200802T200028Z">
+        <seg>[3079]&lt;SABD&gt;Venda de Obrigações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3080]&lt;BDRD&gt;Bond Redemption|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200042Z" creationid="User" creationdate="20200802T200042Z">
+        <seg>[3080]&lt;BDRD&gt;Resgate de Obrigações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3081]&lt;NCAS&gt;Net Cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200054Z" creationid="User" creationdate="20200802T200054Z">
+        <seg>[3081]&lt;NCAS&gt;Caixa Líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
