@@ -1648,8 +1648,8 @@
       <tuv lang="en-US">
         <seg>CONCERNS</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010151Z" creationid="Olivier" creationdate="20200802T010151Z">
-        <seg>[correspondance][1967]&lt;0916&gt;Peso|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215302Z" creationid="Olivier" creationdate="20200802T010151Z">
+        <seg>CONCERNS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,8 +7641,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>January 2004&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010829Z" creationid="Olivier" creationdate="20200802T010829Z">
-        <seg>[correspondance][MON1]Janeiro</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215257Z" creationid="Olivier" creationdate="20200802T010829Z">
+        <seg>Janeiro 2004</seg>
       </tuv>
     </tu>
     <tu>
@@ -11145,8 +11145,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>QUALITY</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010530Z" creationid="Olivier" creationdate="20200802T010530Z">
-        <seg>[correspondance][0754]&lt;FA15&gt;Qualid.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215311Z" creationid="Olivier" creationdate="20200802T010530Z">
+        <seg>QUALITY</seg>
       </tuv>
     </tu>
     <tu>
@@ -14226,8 +14226,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010652Z" creationid="Olivier" creationdate="20200802T010652Z">
-        <seg>[correspondance][0001]&lt;VERS&gt;Versão %1s|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215323Z" creationid="Olivier" creationdate="20200802T010652Z">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
       </tuv>
     </tu>
     <tu>
