@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the current firm's layout to the plan library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232337Z" creationid="RAFAEL" creationdate="20200802T232337Z">
+        <seg>Adicionar o layout atual da empresa à biblioteca de planos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust licensing budget</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225127Z" creationid="RAFAEL" creationdate="20200802T225127Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013131Z" creationid="Olivier" creationdate="20200802T013131Z">
         <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Available Supplies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232538Z" creationid="RAFAEL" creationdate="20200802T232538Z">
+        <seg>Suprimentos disponíveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click this icon or press ENTER to type a chat message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232553Z" creationid="RAFAEL" creationdate="20200802T232553Z">
+        <seg>Clique neste ícone ou pressione ENTER para digitar uma mensagem de chat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to allow purchasing units to find their own suppliers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222344Z" creationid="RAFAEL" creationdate="20200802T222344Z">
@@ -3934,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete this layout plan</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232400Z" creationid="RAFAEL" creationdate="20200802T232400Z">
+        <seg>Apagar este plano de layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demolish This Firm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221805Z" creationid="RAFAEL" creationdate="20200802T221805Z">
@@ -4547,6 +4579,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222911Z" creationid="RAFAEL" creationdate="20200801T222911Z">
         <seg>Rastreador de Eventos (Tecla de atalho: F5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit the layout plan library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232524Z" creationid="RAFAEL" creationdate="20200802T232524Z">
+        <seg>Sair da biblioteca do plano de layout</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,6 +5699,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224216Z" creationid="RAFAEL" creationdate="20200802T224216Z">
         <seg>Vá para o relatório Empresas e selecione as suas empresas que deseja aplicar a alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the next layout plan found.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232324Z" creationid="RAFAEL" creationdate="20200802T232324Z">
+        <seg>Ir para o próximo plano de layout encontrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12608,6 +12656,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replace this layout plan with the current firm's layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232413Z" creationid="RAFAEL" creationdate="20200802T232413Z">
+        <seg>Substituir este plano de layout com o layout atual da empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -13392,6 +13448,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a color and the message will only be sent to the player with that color</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232622Z" creationid="RAFAEL" creationdate="20200802T232622Z">
+        <seg>Selecione uma cor e a mensagem só será enviada para o jogador com essa cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a new input material</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214742Z" creationid="RAFAEL" creationdate="20200802T214742Z">
@@ -13420,6 +13484,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230926Z" creationid="RAFAEL" creationdate="20200802T230926Z">
         <seg>Selecione o produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this and the message will be sent to all players</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232607Z" creationid="RAFAEL" creationdate="20200802T232607Z">
+        <seg>Selecione isto e a mensagem será enviada a todos os jogadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -13676,6 +13748,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204959Z" creationid="RAFAEL" creationdate="20200802T204959Z">
         <seg>Modo Mapa do Solo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort the layout plans in this library by their descriptions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232442Z" creationid="RAFAEL" creationdate="20200802T232442Z">
+        <seg>Ordene os planos de layout desta biblioteca por suas descrições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15293,6 +15373,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231037Z" creationid="RAFAEL" creationdate="20200802T231037Z">
         <seg>Atualize esta unidade de fabricação para usar a mais recente tecnologia de produção que sua empresa possui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this layout plan on this current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232456Z" creationid="RAFAEL" creationdate="20200802T232456Z">
+        <seg>Use este plano de layout nesta empresa atual.</seg>
       </tuv>
     </tu>
     <tu>
