@@ -4424,6 +4424,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will skip the tutorials|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005955Z" creationid="User" creationdate="20200802T005955Z">
+        <seg>Isso pulará os tutoriais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will skip the tutorial|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005924Z" creationid="User" creationdate="20200802T005924Z">
+        <seg>Isso pulará o tutorial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, the higher the rating points, the greater the effect of the advertising.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213409Z" creationid="Olivier" creationdate="20200730T213409Z">
@@ -18502,6 +18518,70 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005805Z" creationid="User" creationdate="20200802T005805Z">
         <seg>[2936]&lt;TUT2&gt;O último tutorial que você concluiu é o tutorial #|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005824Z" creationid="User" creationdate="20200802T005824Z">
+        <seg>[2937]&lt;TUT3&gt;.\n\nÉ recomendável seguir os tutoriais em uma ordem seqüencial.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005841Z" creationid="User" creationdate="20200802T005841Z">
+        <seg>[2938]&lt;TUT4&gt;Tem certeza de que deseja iniciar o tutorial #|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2939]&lt;TUT5&gt; now?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005901Z" creationid="User" creationdate="20200802T005901Z">
+        <seg>[2939]&lt;TUT5&gt;agora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2940]&lt;TUT6&gt; now?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T005932Z" creationid="User" creationdate="20200802T005932Z">
+        <seg>[2940]&lt;TUT6&gt; agora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010017Z" creationid="User" creationdate="20200802T010017Z">
+        <seg>[2941]&lt;TUT7&gt; antes dele e você estará perdendo informações importantes.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010035Z" creationid="User" creationdate="20200802T010035Z">
+        <seg>[2942]&lt;TUT8&gt; no meio e você estará perdendo informações importantes.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2943]&lt;AK30&gt;Stock and Bond Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010054Z" creationid="User" creationdate="20200802T010054Z">
+        <seg>[2943]&lt;AK30&gt;Devolução de ações e títulos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T010107Z" creationid="User" creationdate="20200802T010107Z">
+        <seg>[2944]&lt;AK31&gt;Juros sobre empréstimos e títulos|</seg>
       </tuv>
     </tu>
     <tu>
