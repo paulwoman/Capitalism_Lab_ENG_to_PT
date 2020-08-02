@@ -12471,6 +12471,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200157Z" creationid="User" creationdate="20200802T200157Z">
+        <seg>A dependência é interrompida quando a empresa é transferida para um novo proprietário. \ N \ nTem certeza de que deseja continu?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The duration of the R&amp;D project.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214534Z" creationid="Olivier" creationdate="20200730T214534Z">
@@ -28350,6 +28358,86 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200054Z" creationid="User" creationdate="20200802T200054Z">
         <seg>[3081]&lt;NCAS&gt;Caixa Líquido|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3082]&lt;BKRU&gt;Is BANKRUPT|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200122Z" creationid="User" creationdate="20200802T200122Z">
+        <seg>[3082]&lt;BKRU&gt;É BANKRUPT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3083]&lt;FTRA&gt;When you transfer a R&amp;D center, its existing R&amp;D projects will be cancelled as they depend on the company's technological foundation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200143Z" creationid="User" creationdate="20200802T200143Z">
+        <seg>[3083]&lt;FTRA&gt;Quando você transfere um centro de P&amp;D, os projetos existentes de P&amp;D são cancelados, pois dependem da base tecnológica da empresa..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200213Z" creationid="User" creationdate="20200802T200213Z">
+        <seg>[3084]&lt;FTC1&gt;Desculpe, a empresa selecionada não tem dinheiro suficiente para comprar a empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3085]&lt;FTC2&gt;Sorry, the selected company does not have sufficient cash to buy the firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200227Z" creationid="User" creationdate="20200802T200227Z">
+        <seg>[3085]&lt;FTC2&gt;Desculpe, a empresa selecionada não tem dinheiro suficiente para comprar as empresas.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3086]&lt;FTM1&gt;Sell this firm to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200244Z" creationid="User" creationdate="20200802T200244Z">
+        <seg>[3086]&lt;FTM1&gt;Venda esta empresa para outra empresa sob seu controle.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200300Z" creationid="User" creationdate="20200802T200300Z">
+        <seg>[3087]&lt;FTM2&gt;Venda essas empresas para outra empresa sob seu controle.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3088]&lt;FFMP&gt;Fair Market Value|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200314Z" creationid="User" creationdate="20200802T200314Z">
+        <seg>[3088]&lt;FFMP&gt;Valor justo de mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3089]&lt;GACQ&gt;Which company under your control will acquire the target company?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200329Z" creationid="User" creationdate="20200802T200329Z">
+        <seg>[3089]&lt;GACQ&gt;Qual empresa sob seu controle adquirirá a empresa de destino?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3090]&lt;ACQP&gt;Acquisition Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200344Z" creationid="User" creationdate="20200802T200344Z">
+        <seg>[3090]&lt;ACQP&gt;Custo de aquisição|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3091]&lt;FTSU&gt;All the selected firms have been transferred successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200359Z" creationid="User" creationdate="20200802T200359Z">
+        <seg>[3091]&lt;FTSU&gt;Todas as empresas selecionadas foram transferidas com sucesso.|</seg>
       </tuv>
     </tu>
     <tu>
