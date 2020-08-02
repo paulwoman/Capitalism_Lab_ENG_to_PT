@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display previous product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223546Z" creationid="RAFAEL" creationdate="20200802T223546Z">
+        <seg>Clique para exibir o produto anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the Profit graph for this product</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222819Z" creationid="RAFAEL" creationdate="20200802T222819Z">
@@ -3162,6 +3170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222941Z" creationid="RAFAEL" creationdate="20200802T222941Z">
         <seg>Confirmar mudança no preço de venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the new dividend</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223640Z" creationid="RAFAEL" creationdate="20200802T223640Z">
+        <seg>Confirme o novo dividendo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12000,6 +12016,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repay Loan</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223532Z" creationid="RAFAEL" creationdate="20200802T223532Z">
+        <seg>Reembolsar o empréstimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -12120,6 +12144,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223626Z" creationid="RAFAEL" creationdate="20200802T223626Z">
+        <seg>Clique com o botão direito do mouse para diminuir a uma taxa mais alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to decrease at a higher rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212040Z" creationid="RAFAEL" creationdate="20200802T212040Z">
@@ -12132,6 +12164,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205645Z" creationid="RAFAEL" creationdate="20200802T205645Z">
         <seg>Clique com o botão direito do mouse para definir este filtro personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223610Z" creationid="RAFAEL" creationdate="20200802T223610Z">
+        <seg>Clique com o botão direito para aumentar a uma taxa mais alta</seg>
       </tuv>
     </tu>
     <tu>
