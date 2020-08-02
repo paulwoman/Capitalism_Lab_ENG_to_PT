@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable Auto Save</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201638Z" creationid="RAFAEL" creationdate="20200802T201638Z">
+        <seg>Clique para desativar o Auto Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable in-game help information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200827Z" creationid="RAFAEL" creationdate="20200802T200827Z">
@@ -2458,6 +2466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201308Z" creationid="RAFAEL" creationdate="20200802T200908Z">
         <seg>Clique para habilitar breve informações  de ajuda dentro do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable detailed in-game help information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201431Z" creationid="RAFAEL" creationdate="20200802T201431Z">
+        <seg>Clique para ativar informações detalhadas de ajuda dentro do jogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable Auto Save</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201621Z" creationid="RAFAEL" creationdate="20200802T201621Z">
+        <seg>Desativar o Auto Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable AutoLink to Supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193119Z" creationid="RAFAEL" creationdate="20200802T193119Z">
@@ -3595,6 +3619,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195828Z" creationid="RAFAEL" creationdate="20200802T195828Z">
         <seg>Habilite a aplicação automática dos resultados de P&amp;D em suas unidades de fabricação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Auto Save</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201659Z" creationid="RAFAEL" creationdate="20200802T201659Z">
+        <seg>Ativar o Auto Save</seg>
       </tuv>
     </tu>
     <tu>
