@@ -2398,6 +2398,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Corporate Summary Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134117Z" creationid="RAFAEL" creationdate="20200802T134117Z">
+        <seg>Clique para abrir o Relatório Resumido Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Firm Summary Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134238Z" creationid="RAFAEL" creationdate="20200802T134238Z">
+        <seg>Clique para abrir o Relatório Resumido da Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Product Summary Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133939Z" creationid="RAFAEL" creationdate="20200802T133939Z">
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013644Z" creationid="Olivier" creationdate="20200802T013644Z">
         <seg>Corporate Cash change=5000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: 'C')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134100Z" creationid="RAFAEL" creationdate="20200802T134100Z">
+        <seg>Relatório resumido corporativo (Tecla de atalho: 'C')</seg>
       </tuv>
     </tu>
     <tu>
@@ -3707,6 +3731,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
         <seg>Campos estão destruidos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: 'F')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134153Z" creationid="RAFAEL" creationdate="20200802T134153Z">
+        <seg>Relatório resumido da empresa (Tecla de atalho: 'F')</seg>
       </tuv>
     </tu>
     <tu>
