@@ -2430,6 +2430,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable sound effects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200630Z" creationid="RAFAEL" creationdate="20200802T200630Z">
+        <seg>Clique para desativar os efeitos sonoros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hear sound effects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200746Z" creationid="RAFAEL" creationdate="20200802T200746Z">
+        <seg>Clique para ativar os efeitos sonoros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Build Menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223930Z" creationid="RAFAEL" creationdate="20200801T223930Z">
@@ -11667,6 +11683,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012654Z" creationid="Olivier" creationdate="20200802T012654Z">
         <seg>Software Dominance=Video Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Effects Off</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200621Z" creationid="RAFAEL" creationdate="20200802T200621Z">
+        <seg>Efeitos da Música Desligada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Effects On</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200652Z" creationid="RAFAEL" creationdate="20200802T200652Z">
+        <seg>Efeitos sonoros On</seg>
       </tuv>
     </tu>
     <tu>
