@@ -13842,6 +13842,62 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2861]&lt;FLR1&gt;The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002122Z" creationid="User" creationdate="20200802T002122Z">
+        <seg>[2861]&lt;FLR1&gt;O custo de adicionar um novo andar é|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2862]&lt;FLR2&gt;Do you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002141Z" creationid="User" creationdate="20200802T002141Z">
+        <seg>[2862]&lt;FLR2&gt;Você quer prosseguir?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2863]&lt;NSUB&gt;Set Up a New Subsidiary Company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002159Z" creationid="User" creationdate="20200802T002159Z">
+        <seg>[2863]&lt;NSUB&gt;Criar uma nova empresa subsidiária|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2864]&lt;NSN1&gt;Sorry, the requirement is not met.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002223Z" creationid="User" creationdate="20200802T002223Z">
+        <seg>[2864]&lt;NSN1&gt;Desculpe, o requisito não foi atendido.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2865]&lt;NSN2&gt;The initial capital of your new subsidiary company must be at least|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002254Z" creationid="User" creationdate="20200802T002254Z">
+        <seg>[2865]&lt;NSN2&gt;O capital inicial da sua nova empresa subsidiária deve ser de pelo menos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2866]&lt;NSN3&gt;million|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002325Z" creationid="User" creationdate="20200802T002325Z">
+        <seg>[2866]&lt;NSN3&gt;milhão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T002335Z" creationid="User" creationdate="20200802T002335Z">
+        <seg>[2867]&lt;NSC1&gt;Agora você deve contratar um CEO para sua nova empresa subsidiáriay.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
