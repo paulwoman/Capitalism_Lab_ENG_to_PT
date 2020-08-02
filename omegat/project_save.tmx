@@ -2710,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear all existing stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231205Z" creationid="RAFAEL" creationdate="20200802T231205Z">
+        <seg>Limpar todo o estoque existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225425Z" creationid="RAFAEL" creationdate="20200802T225425Z">
@@ -2746,6 +2754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225238Z" creationid="RAFAEL" creationdate="20200802T225238Z">
         <seg>Clique aqui para ver os produtos que são fabricados com este semi-produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to select the production type you prefer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231113Z" creationid="RAFAEL" creationdate="20200802T231113Z">
+        <seg>Clique aqui para selecionar o tipo de produção de sua preferência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,6 +8656,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link to a new supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231126Z" creationid="RAFAEL" creationdate="20200802T231126Z">
+        <seg>Link para um novo fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locked=yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012132Z" creationid="Olivier" creationdate="20200802T012132Z">
@@ -12112,6 +12136,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R&amp;D New Software</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231259Z" creationid="RAFAEL" creationdate="20200802T231259Z">
+        <seg>Pesquisa e desenvolvimento de novo software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RAISEALL</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010144Z" creationid="Olivier" creationdate="20200802T010144Z">
@@ -13376,6 +13408,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the current supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231136Z" creationid="RAFAEL" creationdate="20200802T231136Z">
+        <seg>Mostrar o fornecedor atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single-click here to select this functional unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230430Z" creationid="RAFAEL" creationdate="20200802T230430Z">
@@ -13576,6 +13616,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a R&amp;D project for a new product invention.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231316Z" creationid="RAFAEL" creationdate="20200802T231316Z">
+        <seg>Iniciar um projeto de P&amp;D para uma nova invenção de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a R&amp;D project for improving production technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231329Z" creationid="RAFAEL" creationdate="20200802T231329Z">
+        <seg>Inicie um projeto de P&amp;D para melhorar a tecnologia de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a radical R&amp;D project for improving production technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231432Z" creationid="RAFAEL" creationdate="20200802T231432Z">
+        <seg>Lance um projeto de radical de pesquisa e desenvolvimento para melhorar a tecnologia de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Focused Companies=2</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011857Z" creationid="Olivier" creationdate="20200802T011857Z">
@@ -13676,6 +13740,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230310Z" creationid="RAFAEL" creationdate="20200802T230310Z">
         <seg>Estoque na Unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop purchasing from the current supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231147Z" creationid="RAFAEL" creationdate="20200802T231147Z">
+        <seg>Interromper a compra do fornecedor atual</seg>
       </tuv>
     </tu>
     <tu>
