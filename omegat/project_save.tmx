@@ -12311,6 +12311,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
+        <seg>A companhia de seguros não possui caixa suficiente para pagar todas as suas obrigações de contrato de seguro em reservas de sinistros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214830Z" creationid="Olivier" creationdate="20200730T214830Z">
@@ -12532,6 +12540,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the bank.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192615Z" creationid="User" creationdate="20200802T192615Z">
+        <seg>Para remediar isso, você pode transferir fundos da corporação controladora para o banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192737Z" creationid="User" creationdate="20200802T192737Z">
+        <seg>Para remediar isso, você pode transferir fundos da empresa-mãe para a companhia de seguros.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27557,6 +27581,118 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192517Z" creationid="User" creationdate="20200802T192517Z">
         <seg>[3014]&lt;CBK2&gt;Desculpe, você não pode fechar o banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3015]&lt;CIN1&gt;You must first close down all the Insurance Front Offices before you can close down the Insurance Headquarters.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192646Z" creationid="User" creationdate="20200802T192646Z">
+        <seg>[3015]&lt;CIN1&gt;Você deve primeiro fechar todos os escritórios de seguros antes de poder fechar a sede do setor de seguros.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3016]&lt;CIN2&gt;Sorry, you cannot close down the insurance company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192703Z" creationid="User" creationdate="20200802T192703Z">
+        <seg>[3016]&lt;CIN2&gt;Desculpe, você não pode encerrar a companhia de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3017]&lt;SOC1&gt;Your subsidiary |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192835Z" creationid="User" creationdate="20200802T192835Z">
+        <seg>[3017]&lt;SOC1&gt;Sua subsidiária |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3018]&lt;SOC2&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192902Z" creationid="User" creationdate="20200802T192902Z">
+        <seg>[3018]&lt;SOC2&gt;ficou sem dinheiro!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3019]&lt;BOC1&gt;Your Bank Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192918Z" creationid="User" creationdate="20200802T192918Z">
+        <seg>[3019]&lt;BOC1&gt;Seu banco ficou sem dinheiro!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3020]&lt;BOC2&gt;Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192933Z" creationid="User" creationdate="20200802T192933Z">
+        <seg>[3020]&lt;BOC2&gt;O seu banco subsidiário |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3021]&lt;BOC3&gt; Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T192949Z" creationid="User" creationdate="20200802T192949Z">
+        <seg>[3021]&lt;BOC3&gt; Ficou Sem Dinheiro!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3022]&lt;BOC4&gt;Transfer funds from your corporation to your bank.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193004Z" creationid="User" creationdate="20200802T193004Z">
+        <seg>[3022]&lt;BOC4&gt;Transferir fundos da sua empresa para o seu banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3023]&lt;BOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193018Z" creationid="User" creationdate="20200802T193018Z">
+        <seg>[3023]&lt;BOC5&gt;Arrecadar fundos da sua corporação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3024]&lt;BOC6&gt;Transfer funds from your subsidiary company to the bank.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193033Z" creationid="User" creationdate="20200802T193033Z">
+        <seg>[3024]&lt;BOC6&gt;Transferir fundos da sua empresa subsidiária para o banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3025]&lt;BOC7&gt;Raise funds from your subsidiary company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193054Z" creationid="User" creationdate="20200802T193054Z">
+        <seg>[3025]&lt;BOC7&gt;Arrecadar fundos da sua empresa subsidiária|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3026]&lt;IOC1&gt;Your Insurance Company Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193113Z" creationid="User" creationdate="20200802T193113Z">
+        <seg>[3026]&lt;IOC1&gt;Sua companhia de seguros ficou sem dinheiro!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3027]&lt;IOC2&gt;The insurance company of your subsidiary |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193126Z" creationid="User" creationdate="20200802T193126Z">
+        <seg>[3027]&lt;IOC2&gt;A companhia de seguros da sua subsidiária |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3028]&lt;IOC3&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193143Z" creationid="User" creationdate="20200802T193143Z">
+        <seg>[3028]&lt;IOC3&gt; ficou sem dinheiro!|</seg>
       </tuv>
     </tu>
     <tu>
