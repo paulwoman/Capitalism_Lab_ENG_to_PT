@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy This Mansion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222629Z" creationid="RAFAEL" creationdate="20200802T222629Z">
+        <seg>Compre esta mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy less stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220432Z" creationid="RAFAEL" creationdate="20200802T220432Z">
@@ -3078,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm change to Selling Price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222750Z" creationid="RAFAEL" creationdate="20200802T222750Z">
+        <seg>Confirmar mudança no preço de venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194738Z" creationid="RAFAEL" creationdate="20200802T194738Z">
@@ -3610,6 +3626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221805Z" creationid="RAFAEL" creationdate="20200802T221805Z">
         <seg>Demolir esta empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Mansion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222619Z" creationid="RAFAEL" creationdate="20200802T222619Z">
+        <seg>Demolir esta mansão</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8760,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a Counter Offer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222644Z" creationid="RAFAEL" creationdate="20200802T222644Z">
+        <seg>Faça uma contra-oferta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a Tender Offer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215708Z" creationid="RAFAEL" creationdate="20200802T215708Z">
@@ -9796,6 +9828,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221720Z" creationid="RAFAEL" creationdate="20200802T221720Z">
         <seg>Oferta para venda deste estabelecimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offer to sell this mansion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222559Z" creationid="RAFAEL" creationdate="20200802T222559Z">
+        <seg>Oferta para vender esta mansão</seg>
       </tuv>
     </tu>
     <tu>
@@ -14381,6 +14421,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193936Z" creationid="Olivier" creationdate="20200730T164825Z">
         <seg>Você aceita esta oferta?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222457Z" creationid="RAFAEL" creationdate="20200802T222457Z">
+        <seg>Com o treinamento, as unidades operacionais em sua empresa avançarão gradualmente para níveis mais altos, melhorando assim sua eficiência.</seg>
       </tuv>
     </tu>
     <tu>
