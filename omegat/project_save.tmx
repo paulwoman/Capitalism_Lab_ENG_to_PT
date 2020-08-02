@@ -7031,6 +7031,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its current equity value is negative.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200747Z" creationid="User" creationdate="20200802T200747Z">
+        <seg>Seu valor atual do patrimônio líquido é negativo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JMFTCUST</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005910Z" creationid="Olivier" creationdate="20200802T005910Z">
@@ -28534,6 +28542,30 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200715Z" creationid="User" creationdate="20200802T200715Z">
         <seg>[3097]&lt;VCLF&gt;EXIBIR / FECHAR EMPRESAS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3098]&lt;IPN1&gt;Sorry, the company fails to meet the conditions for going public.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200732Z" creationid="User" creationdate="20200802T200732Z">
+        <seg>[3098]&lt;IPN1&gt;Desculpe, a empresa não atende às condições de abertura de capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3099]&lt;IPN2&gt;Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200831Z" creationid="User" creationdate="20200802T200831Z">
+        <seg>[3099]&lt;IPN2&gt;Desculpe, nas atuais condições de mercado, nenhum investidor está interessado em subscrever novas ações da empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3100]&lt;SCRO&gt;Map Scrolling Speed|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T200852Z" creationid="User" creationdate="20200802T200852Z">
+        <seg>[3100]&lt;SCRO&gt;Velocidade de rolagem do mapa|</seg>
       </tuv>
     </tu>
     <tu>
