@@ -27826,6 +27826,102 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3037]&lt;DEBT&gt;Total Debt|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193616Z" creationid="User" creationdate="20200802T193616Z">
+        <seg>[3037]&lt;DEBT&gt;Dívida total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3038]&lt;DEAS&gt;Debt-to-Assets Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193627Z" creationid="User" creationdate="20200802T193627Z">
+        <seg>[3038]&lt;DEAS&gt;Índice de Dívida / Ativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3039]&lt;STOC&gt;Stocks|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193640Z" creationid="User" creationdate="20200802T193640Z">
+        <seg>[3039]&lt;STOC&gt;Ações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3040]&lt;BOND&gt;Bonds|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193722Z" creationid="User" creationdate="20200802T193722Z">
+        <seg>[3040]&lt;BOND&gt;Títulos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3041]&lt;DEPO&gt;Bank Deposits|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193737Z" creationid="User" creationdate="20200802T193737Z">
+        <seg>[3041]&lt;DEPO&gt;Depósitos bancários|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193750Z" creationid="User" creationdate="20200802T193750Z">
+        <seg>[3042]&lt;MANS&gt;Valores do mercado de mansões|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3043]&lt;BCR1&gt;Your Bank's Capital Ratio is Too Low!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193911Z" creationid="User" creationdate="20200802T193911Z">
+        <seg>[3043]&lt;BCR1&gt;A relação de capital de seu banco é muito baixa!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3044]&lt;BCR2&gt;The Capital Ratio of Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193934Z" creationid="User" creationdate="20200802T193934Z">
+        <seg>[3044]&lt;BCR2&gt;A relação de capital de seu banco subsidiário |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3045]&lt;BCR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194005Z" creationid="User" creationdate="20200802T194005Z">
+        <seg>[3045]&lt;BCR3&gt; é muito baixa!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194025Z" creationid="User" creationdate="20200802T194025Z">
+        <seg>[3046]&lt;BCR4&gt;Relação de capital bancário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194102Z" creationid="User" creationdate="20200802T194102Z">
+        <seg>[3047]&lt;BCR5&gt;Relação do capital necessário do banco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3048]&lt;DLC1&gt;The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T194201Z" creationid="User" creationdate="20200802T194201Z">
+        <seg>[3048]&lt;DLC1&gt;O DLC subsidiário oferece um novo conjunto de ferramentas poderosas para conquistar o mundo dos negócios em uma escala maior!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
