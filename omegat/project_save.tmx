@@ -2462,6 +2462,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display next city</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202320Z" creationid="RAFAEL" creationdate="20200802T202320Z">
+        <seg>Clique para exibir a próxima cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display previous city</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202239Z" creationid="RAFAEL" creationdate="20200802T202239Z">
+        <seg>Clique para exibir a cidade anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable Auto Save</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201713Z" creationid="RAFAEL" creationdate="20200802T201713Z">
@@ -3264,8 +3280,8 @@
       <tuv lang="en-US">
         <seg>Disable the enhanced hotkey system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201758Z" creationid="RAFAEL" creationdate="20200802T201758Z">
-        <seg>Desativar o sistema de tecla de atalho aprimorado.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202132Z" creationid="RAFAEL" creationdate="20200802T201758Z">
+        <seg>Desativar o sistema de tecla de atalho melhorado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,8 +3681,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>Enable the enhanced hotkey system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201950Z" creationid="RAFAEL" creationdate="20200802T201950Z">
-        <seg>Habilitar o sistema tecla de atalho aprimorado.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202144Z" creationid="RAFAEL" creationdate="20200802T201950Z">
+        <seg>Habilitar o sistema tecla de atalho melhorado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8359,6 +8375,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next City (hotkey: ']')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202305Z" creationid="RAFAEL" creationdate="20200802T202305Z">
+        <seg>Próxima cidade (Tecla de atalho: ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
@@ -10387,6 +10411,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224221Z" creationid="RAFAEL" creationdate="20200801T224221Z">
         <seg>Pressione Ctrl-Z para abrir o mesmo submenu na interface de Contrução da última vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous City (hotkey: '[')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202212Z" creationid="RAFAEL" creationdate="20200802T202212Z">
+        <seg>Cidade Anterior (Tecla de atalho: '[')</seg>
       </tuv>
     </tu>
     <tu>
