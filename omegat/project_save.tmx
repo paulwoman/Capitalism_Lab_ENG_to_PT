@@ -13642,6 +13642,54 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2832]&lt;AGS4&gt;industry (level:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000910Z" creationid="User" creationdate="20200802T000910Z">
+        <seg>[2832]&lt;AGS4&gt;indústria (nível:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2833]&lt;FEGN&gt;The city government does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000928Z" creationid="User" creationdate="20200802T000928Z">
+        <seg>[2833]&lt;FEGN&gt;O governo da cidade não tem dinheiro suficiente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T000952Z" creationid="User" creationdate="20200802T000952Z">
+        <seg>[2834]&lt;NCT1&gt;Adquirir os direitos exclusivos de desenvolver e administrar a nova cidade para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2835]&lt;NCT2&gt;years, you must donate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001023Z" creationid="User" creationdate="20200802T001023Z">
+        <seg>[2835]&lt;NCT2&gt;anos, você deve doar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2836]&lt;NCT3&gt;to the city's treasury.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001051Z" creationid="User" creationdate="20200802T001051Z">
+        <seg>[2836]&lt;NCT3&gt;para o tesouro da cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2837]&lt;AIG6&gt;OS Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T001111Z" creationid="User" creationdate="20200802T001111Z">
+        <seg>[2837]&lt;AIG6&gt;OS focado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T092907Z" creationid="Olivier" creationdate="20200728T092907Z">
