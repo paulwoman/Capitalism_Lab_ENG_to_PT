@@ -22938,6 +22938,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3000]&lt;AM09&gt;Real Estate Department|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T012322Z" creationid="User" creationdate="20200802T012322Z">
+        <seg>[3000]&lt;AM09&gt;Departamento Imobiliário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
