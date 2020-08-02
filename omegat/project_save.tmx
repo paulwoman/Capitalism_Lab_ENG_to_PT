@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: '-' )</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220327Z" creationid="RAFAEL" creationdate="20200802T220327Z">
+        <seg>(Tecla de atalho: '-' )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
@@ -1274,6 +1282,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215809Z" creationid="RAFAEL" creationdate="20200802T215809Z">
         <seg>Comprar ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy less stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220432Z" creationid="RAFAEL" creationdate="20200802T220432Z">
+        <seg>Comprar menos ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy more stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220405Z" creationid="RAFAEL" creationdate="20200802T220405Z">
+        <seg>Comprar mais ações</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133939Z" creationid="RAFAEL" creationdate="20200802T133939Z">
         <seg>Clique para abrir o relatório de resumo do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to sell the displayed stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220627Z" creationid="RAFAEL" creationdate="20200802T220627Z">
+        <seg>Clique para vender a ação exibida</seg>
       </tuv>
     </tu>
     <tu>
@@ -12396,6 +12428,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211534Z" creationid="RAFAEL" creationdate="20200802T211534Z">
         <seg>Número do edifício selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell Stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220543Z" creationid="RAFAEL" creationdate="20200802T220543Z">
+        <seg>Vender as ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell less stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220512Z" creationid="RAFAEL" creationdate="20200802T220512Z">
+        <seg>Vender menos ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell more stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220457Z" creationid="RAFAEL" creationdate="20200802T220457Z">
+        <seg>Vender mais ações</seg>
       </tuv>
     </tu>
     <tu>
