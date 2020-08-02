@@ -27697,6 +27697,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3029]&lt;IOC4&gt;Transfer funds from your corporation to your insurance company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T193222Z" creationid="User" creationdate="20200802T193222Z">
+        <seg>[3029]&lt;IOC4&gt;Transferir fundos de sua empresa para sua companhia de seguros.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
