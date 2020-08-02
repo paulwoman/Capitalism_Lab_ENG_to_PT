@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: '+' or '=')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215958Z" creationid="RAFAEL" creationdate="20200802T215958Z">
+        <seg>(tecla de atalho: '+' ou '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
@@ -1262,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy Stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215809Z" creationid="RAFAEL" creationdate="20200802T215809Z">
+        <seg>Comprar ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy plots of land (hotkey: CTRL-L)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224803Z" creationid="RAFAEL" creationdate="20200801T224803Z">
@@ -2506,6 +2522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
         <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to buy the displayed stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215854Z" creationid="RAFAEL" creationdate="20200802T215854Z">
+        <seg>Clique para comprar a ação exibida</seg>
       </tuv>
     </tu>
     <tu>
@@ -8512,6 +8536,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a tender offer to the selected shareholder of the current stock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215740Z" creationid="RAFAEL" creationdate="20200802T215740Z">
+        <seg>Fazer uma oferta pública ao acionista selecionado das ações atuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -14061,6 +14093,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011936Z" creationid="Olivier" creationdate="20200802T011936Z">
         <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can only trade stock once a day in a Challenge Game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215917Z" creationid="RAFAEL" creationdate="20200802T215917Z">
+        <seg>Você só pode negociar ações uma vez por dia em um Challenge Game.</seg>
       </tuv>
     </tu>
     <tu>
