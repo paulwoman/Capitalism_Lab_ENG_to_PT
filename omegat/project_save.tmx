@@ -28314,6 +28314,14 @@ Custo de Manutenção de Propriedade|</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3059]&lt;RRF1&gt;Unfortunately, your radical R&amp;D project of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T201916Z" creationid="User" creationdate="20200802T201916Z">
+        <seg>[3059]&lt;RRF1&gt;Infelizmente, seu projeto radical de P&amp;D de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3060]&lt;RRF2&gt;failed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195006Z" creationid="User" creationdate="20200802T195006Z">
