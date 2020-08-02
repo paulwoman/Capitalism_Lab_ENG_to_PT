@@ -22402,6 +22402,86 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2980]&lt;CASN&gt;CASH NEEDED|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011655Z" creationid="User" creationdate="20200802T011655Z">
+        <seg>[2980]&lt;CASN&gt;DINHEIRO NECESSÁRIO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011711Z" creationid="User" creationdate="20200802T011711Z">
+        <seg>[2981]&lt;MCOS&gt;Custo mensal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2982]&lt;SCO3&gt;billion x 10 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011726Z" creationid="User" creationdate="20200802T011726Z">
+        <seg>[2982]&lt;SCO3&gt;bilhão x 10 x inflação adjustment|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2983]&lt;SDIV&gt;Pays a Special Dividend of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011745Z" creationid="User" creationdate="20200802T011745Z">
+        <seg>[2983]&lt;SDIV&gt;Paga um dividendo especial de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2984]&lt;AIB1&gt;Bank Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011809Z" creationid="User" creationdate="20200802T011809Z">
+        <seg>[2984]&lt;AIB1&gt;Banco focado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2985]&lt;AIC1&gt;Bank|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011818Z" creationid="User" creationdate="20200802T011818Z">
+        <seg>[2985]&lt;AIC1&gt;Banco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2986]&lt;AIB2&gt;Insurance Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011844Z" creationid="User" creationdate="20200802T011844Z">
+        <seg>[2986]&lt;AIB2&gt;Seguros focados|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2987]&lt;AIC2&gt;Insurance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011914Z" creationid="User" creationdate="20200802T011914Z">
+        <seg>[2987]&lt;AIC2&gt;Seguro|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2988]&lt;AIB3&gt;Global Stock Focused|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011930Z" creationid="User" creationdate="20200802T011930Z">
+        <seg>[2988]&lt;AIB3&gt;Estoque global focado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2989]&lt;AIC3&gt;Global Stock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T011942Z" creationid="User" creationdate="20200802T011942Z">
+        <seg>[2989]&lt;AIC3&gt;Estoque global|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
