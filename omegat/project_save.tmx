@@ -12864,6 +12864,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set New Dividend</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223656Z" creationid="RAFAEL" creationdate="20200802T223656Z">
+        <seg>Definir novo dividendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set dividend to be paid to shareholders at year end</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223714Z" creationid="RAFAEL" creationdate="20200802T223714Z">
+        <seg>Definir dividendo a ser pago aos acionistas no final do exercício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut To Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221932Z" creationid="RAFAEL" creationdate="20200802T221932Z">
