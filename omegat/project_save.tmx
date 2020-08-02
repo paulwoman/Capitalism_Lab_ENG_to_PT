@@ -6959,6 +6959,22 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its bondholders lost all their investments in the bonds.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195642Z" creationid="User" creationdate="20200802T195642Z">
+        <seg>Seus detentores de títulos perderam todos os seus investimentos nos títulos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its bondholders receive|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195825Z" creationid="User" creationdate="20200802T195825Z">
+        <seg>Seus portadores recebem|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JMFTCUST</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005910Z" creationid="Olivier" creationdate="20200802T005910Z">
@@ -28118,6 +28134,46 @@ Custo de Manutenção de Propriedade|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195519Z" creationid="User" creationdate="20200802T195519Z">
         <seg>[3067]&lt;PARC&gt;Controladora|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3068]&lt;INSU&gt;Insurance Company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195534Z" creationid="User" creationdate="20200802T195534Z">
+        <seg>[3068]&lt;INSU&gt;Companhia de seguros|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3069]&lt;BRB1&gt;Bankruptcy!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195549Z" creationid="User" creationdate="20200802T195549Z">
+        <seg>[3069]&lt;BRB1&gt;Falência!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3070]&lt;BRB2&gt;liquidates its assets and redeems all its outstanding bonds at the full issue price.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195611Z" creationid="User" creationdate="20200802T195611Z">
+        <seg>[3070]&lt;BRB2&gt;liquidar seus ativos e resgatar todos os seus títulos em circulação ao preço total de emissão.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3071]&lt;BRB3&gt;went under with a negative balance in its shareholders' equity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195627Z" creationid="User" creationdate="20200802T195627Z">
+        <seg>[3071]&lt;BRB3&gt;faliu com um saldo negativo no patrimônio líquido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3072]&lt;BRB4&gt;liquidates its assets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200802T195702Z" creationid="User" creationdate="20200802T195702Z">
+        <seg>[3072]&lt;BRB4&gt;liquida seus ativos.</seg>
       </tuv>
     </tu>
     <tu>
