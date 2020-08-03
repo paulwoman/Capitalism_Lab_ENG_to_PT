@@ -18843,8 +18843,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0830]&lt;0050&gt;Stock Price|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085002Z" creationid="Olivier" creationdate="20200728T085002Z">
-        <seg>[0830]&lt;0050&gt;Preços ações|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T231155Z" creationid="Olivier" creationdate="20200728T085002Z">
+        <seg>[0830]&lt;0050&gt;Preços ações</seg>
       </tuv>
     </tu>
     <tu>
