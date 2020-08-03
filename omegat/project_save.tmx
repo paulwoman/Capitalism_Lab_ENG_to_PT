@@ -31641,6 +31641,86 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3163]&lt;NGOA&gt;You have been given a new goal!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215756Z" creationid="User" creationdate="20200803T215756Z">
+        <seg>[3163]&lt;NGOA&gt;Você recebeu um novo objetivo!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3164]&lt;INS1&gt;Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215813Z" creationid="User" creationdate="20200803T215813Z">
+        <seg>[3164]&lt;INS1&gt;Desculpe, você não tem permissão para usar dinheiro da sua companhia de seguros para comprar ações da sua empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3165]&lt;INS2&gt;Sorry, you are not allowed to use cash from this insurance company to buy shares of its parent corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215826Z" creationid="User" creationdate="20200803T215826Z">
+        <seg>[3165]&lt;INS2&gt;Desculpe, você não tem permissão para usar dinheiro desta companhia de seguros para comprar ações de sua empresa-mãe.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3166]&lt;ICR1&gt;Your Insurance Company's Capital Ratio is Negative!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215839Z" creationid="User" creationdate="20200803T215839Z">
+        <seg>[3166]&lt;ICR1&gt;O rácio de capital da sua companhia de seguros é negativo!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3167]&lt;ICR2&gt;The Capital Ratio of Your Subsidiary Insurance Company |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215854Z" creationid="User" creationdate="20200803T215854Z">
+        <seg>[3167]&lt;ICR2&gt;A proporção de capital da sua companhia de seguros subsidiária |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3168]&lt;ICR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215906Z" creationid="User" creationdate="20200803T215906Z">
+        <seg>[3168]&lt;ICR3&gt; é muito baixo!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3169]&lt;ICR4&gt;Insurance Company Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215918Z" creationid="User" creationdate="20200803T215918Z">
+        <seg>[3169]&lt;ICR4&gt;Índice de Capital da Seguradora|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3170]&lt;CE01&gt;The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215931Z" creationid="User" creationdate="20200803T215931Z">
+        <seg>[3170]&lt;CE01&gt;O CEO anteriormente considerou a criação de uma nova empresa, mas decidiu não fazê-lo porque o nível de endividamento da empresa era muito alto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215950Z" creationid="User" creationdate="20200803T215950Z">
+        <seg>[3171]&lt;CE02&gt; O CEO considerou anteriormente a instalação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3172]&lt;CE03&gt;but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220023Z" creationid="User" creationdate="20200803T220023Z">
+        <seg>[3172]&lt;CE03&gt;mas decidiu não fazer isso porque a situação de dinheiro e lucro da empresa não era boa o suficiente para apoiar a expansão dos negócios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
