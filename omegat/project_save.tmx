@@ -31545,6 +31545,102 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3151]&lt;NGDP&gt;National GDP|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215454Z" creationid="User" creationdate="20200803T215454Z">
+        <seg>[3151]&lt;NGDP&gt;PIB nacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3152]&lt;NGDC&gt;National GDP per capita|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215507Z" creationid="User" creationdate="20200803T215507Z">
+        <seg>[3152]&lt;NGDC&gt;PIB per capita nacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3153]&lt;NWAG&gt;National Wage Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215520Z" creationid="User" creationdate="20200803T215520Z">
+        <seg>[3153]&lt;NWAG&gt;Taxa Salarial Nacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3154]&lt;NSCO&gt;National Score|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215534Z" creationid="User" creationdate="20200803T215534Z">
+        <seg>[3154]&lt;NSCO&gt;Pontuação Nacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215546Z" creationid="User" creationdate="20200803T215546Z">
+        <seg>[3155]&lt;POIS&gt;Pontuação de influência política|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215602Z" creationid="User" creationdate="20200803T215602Z">
+        <seg>[3156]&lt;DMOS&gt;Domínio de mercado do SO móvel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215615Z" creationid="User" creationdate="20200803T215615Z">
+        <seg>[3157]&lt;DCOS&gt;Domínio de mercado do SO do computador|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3158]&lt;MINT&gt;Revenue Market Share of Internet Sites|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215628Z" creationid="User" creationdate="20200803T215628Z">
+        <seg>[3158]&lt;MINT&gt;Receita de mercado de sites da Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3159]&lt;GTEC&gt;Leadership in Technology for|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215640Z" creationid="User" creationdate="20200803T215640Z">
+        <seg>[3159]&lt;GTEC&gt;Liderança em Tecnologia para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3160]&lt;GMDO&gt;Market Dominance of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215654Z" creationid="User" creationdate="20200803T215654Z">
+        <seg>[3160]&lt;GMDO&gt;Domínio de mercado de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3161]&lt;OCI1&gt;of Your City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215707Z" creationid="User" creationdate="20200803T215707Z">
+        <seg>[3161]&lt;OCI1&gt;da sua cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3162]&lt;OCI2&gt;of Your Cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215727Z" creationid="User" creationdate="20200803T215727Z">
+        <seg>[3162]&lt;OCI2&gt;das suas cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
