@@ -31497,6 +31497,54 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3145]&lt;GOW2&gt;equity in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215244Z" creationid="User" creationdate="20200803T215244Z">
+        <seg>[3145]&lt;GOW2&gt;patrimônio em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3146]&lt;GBNC&gt;Build a New City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215258Z" creationid="User" creationdate="20200803T215258Z">
+        <seg>[3146]&lt;GBNC&gt;Construa uma nova cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3147]&lt;NCIT&gt;Number of Cities You Manage|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215312Z" creationid="User" creationdate="20200803T215312Z">
+        <seg>[3147]&lt;NCIT&gt;Número de cidades que você gerencia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3148]&lt;GNPO&gt;National Population|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215329Z" creationid="User" creationdate="20200803T215329Z">
+        <seg>[3148]&lt;GNPO&gt;População Nacional|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3149]&lt;NQOL&gt;National Quality of Life index|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215343Z" creationid="User" creationdate="20200803T215343Z">
+        <seg>[3149]&lt;NQOL&gt;Índice Nacional de Qualidade de Vida|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3150]&lt;NUNE&gt;National Unemployment Rate|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215356Z" creationid="User" creationdate="20200803T215356Z">
+        <seg>[3150]&lt;NUNE&gt;Taxa Nacional de Desemprego|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
