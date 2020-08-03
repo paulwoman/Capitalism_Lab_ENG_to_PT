@@ -31425,6 +31425,78 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3136]&lt;GSU2&gt;Subsidiaries with Market Value of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214942Z" creationid="User" creationdate="20200803T214942Z">
+        <seg>[3136]&lt;GSU2&gt;Subsidiárias com Valor de Mercado de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3137]&lt;GSU3&gt;Subsidiaries with Annual Revenue of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215013Z" creationid="User" creationdate="20200803T215013Z">
+        <seg>[3137]&lt;GSU3&gt;Subsidiárias com receita anual de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3138]&lt;GSU4&gt;Subsidiaries with Operating Profit of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215044Z" creationid="User" creationdate="20200803T215044Z">
+        <seg>[3138]&lt;GSU4&gt;Subsidiárias com lucro operacional de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215100Z" creationid="User" creationdate="20200803T215100Z">
+        <seg>[3139]&lt;GSU5&gt;Subsidiárias com Dominância em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3140]&lt;IND1&gt;Industry|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215118Z" creationid="User" creationdate="20200803T215118Z">
+        <seg>[3140]&lt;IND1&gt;Indústria|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3141]&lt;IND2&gt;Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215140Z" creationid="User" creationdate="20200803T215140Z">
+        <seg>[3141]&lt;IND2&gt;Indústrias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3142]&lt;GSU6&gt;Subsidiaries IPOs with $1 billion market cap|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215201Z" creationid="User" creationdate="20200803T215201Z">
+        <seg>[3142]&lt;GSU6&gt;IPOs de subsidiárias com valor de mercado de US $ 1 bilhão|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3143]&lt;GLSR&gt;Lifetime Shareholder Return|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215216Z" creationid="User" creationdate="20200803T215216Z">
+        <seg>[3143]&lt;GLSR&gt;Retorno ao Acionista Vitalício|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3144]&lt;GOW1&gt;Own at least|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T215231Z" creationid="User" creationdate="20200803T215231Z">
+        <seg>[3144]&lt;GOW1&gt;Possuir pelo menos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
