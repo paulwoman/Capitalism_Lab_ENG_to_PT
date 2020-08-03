@@ -16675,8 +16675,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0329]&lt;ALLS&gt;Stock Market|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062221Z" creationid="Olivier" creationdate="20200728T062221Z">
-        <seg>[0329]&lt;ALLS&gt;ação Market|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T230119Z" creationid="Olivier" creationdate="20200728T062221Z">
+        <seg>[0329]&lt;ALLS&gt;mercado de ações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -16939,8 +16939,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0521]&lt;PLB3&gt;Replace the current plan with the highlighted firm's plan, confirm ?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T062427Z" creationid="Olivier" creationdate="20200728T062427Z">
-        <seg>[0521]&lt;PLB3&gt;Substituir a atual plan with a highlighted firma's plan, confirma ?|</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T230225Z" creationid="Olivier" creationdate="20200728T062427Z">
+        <seg>[0521]&lt;PLB3&gt;Substitua o plano atual pelo plano da empresa destacada, confirme ?|</seg>
       </tuv>
     </tu>
     <tu>
