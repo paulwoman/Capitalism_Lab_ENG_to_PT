@@ -31305,6 +31305,54 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3121]&lt;SRA2&gt;asked for a salary raise from|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214127Z" creationid="User" creationdate="20200803T214127Z">
+        <seg>[3121]&lt;SRA2&gt;pediu um aumento salarial de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3122]&lt;GNPL&gt;New Product Launch|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214150Z" creationid="User" creationdate="20200803T214150Z">
+        <seg>[3122]&lt;GNPL&gt;Lançamento de novo produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3123]&lt;BNC1&gt;Build a New City|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214211Z" creationid="User" creationdate="20200803T214211Z">
+        <seg>[3123]&lt;BNC1&gt;Construa uma nova cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3124]&lt;BNC2&gt;Use your corporation to acquire the rights and build a new city, and assign a member from your political party as the city's mayor.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214241Z" creationid="User" creationdate="20200803T214241Z">
+        <seg>[3124]&lt;BNC2&gt;Use sua corporação para adquirir os direitos e construir uma nova cidade, e designe um membro do seu partido político como prefeito da cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3125]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214300Z" creationid="User" creationdate="20200803T214300Z">
+        <seg>[3125]&lt;KOC1&gt;Rei do capitalismo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3126]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214326Z" creationid="User" creationdate="20200803T214326Z">
+        <seg>[3126]&lt;KOC2&gt;Para se tornar o rei indiscutível do capitalismo, você deve construir um império de negócios em expansão com uma lista impressionante de empresas subsidiárias, alcançando todas as subobjetivos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
