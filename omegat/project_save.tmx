@@ -4631,6 +4631,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enjoyable for Most Players.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220448Z" creationid="User" creationdate="20200803T220448Z">
+        <seg>Agradável para a maioria dos jogadores.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Event Tracker (hotkey: F5)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222911Z" creationid="RAFAEL" creationdate="20200801T222911Z">
@@ -9880,6 +9888,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not recommended for normal players.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220613Z" creationid="User" creationdate="20200803T220613Z">
+        <seg>Não recomendado para jogadores normais.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Novice workers wear red uniforms, whereas experienced workers wear blue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230352Z" creationid="RAFAEL" creationdate="20200802T230352Z">
@@ -10548,6 +10564,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222559Z" creationid="RAFAEL" creationdate="20200802T222559Z">
         <seg>Oferta para vender esta mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only choose this if you have won in easier games.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220538Z" creationid="User" creationdate="20200803T220538Z">
+        <seg>Escolha apenas se você ganhou em jogos mais fáceis.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -31805,6 +31829,70 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220324Z" creationid="User" creationdate="20200803T220324Z">
         <seg>[3182]&lt;SCT2&gt;Índice de Efeito de Tráfego do Cliente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3183]&lt;BDE1&gt;Sorry, you cannot make a deposit at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220339Z" creationid="User" creationdate="20200803T220339Z">
+        <seg>[3183]&lt;BDE1&gt;Desculpe, você não pode fazer um depósito no momento, pois ainda não foram criados bancos comerciais.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3184]&lt;BDE2&gt;Sorry, you cannot make a deposit at the moment as this bank is not accepting new deposits from corporate clients.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220355Z" creationid="User" creationdate="20200803T220355Z">
+        <seg>[3184]&lt;BDE2&gt;Desculpe, você não pode fazer um depósito no momento, pois este banco não está aceitando novos depósitos de clientes corporativos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3185]&lt;DIF1&gt;A Fun Gaming Experience for New Players.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220411Z" creationid="User" creationdate="20200803T220411Z">
+        <seg>[3185]&lt;DIF1&gt;Uma experiência de jogo divertida para novos jogadores.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3186]&lt;DIF2&gt;Normal Difficulty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220424Z" creationid="User" creationdate="20200803T220424Z">
+        <seg>[3186]&lt;DIF2&gt;Dificuldade Normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3187]&lt;DIF3&gt;For Experienced Players looking for More Challenge.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220505Z" creationid="User" creationdate="20200803T220505Z">
+        <seg>[3187]&lt;DIF3&gt;Para jogadores experientes que procuram mais desafios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3188]&lt;DIF4&gt;Hard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220520Z" creationid="User" creationdate="20200803T220520Z">
+        <seg>[3188]&lt;DIF4&gt;Difícil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3189]&lt;DIF5&gt;For Expert Players Only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220558Z" creationid="User" creationdate="20200803T220558Z">
+        <seg>[3189]&lt;DIF5&gt;Apenas para jogadores experientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3190]&lt;DIF6&gt;Extremely Difficult!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220632Z" creationid="User" creationdate="20200803T220632Z">
+        <seg>[3190]&lt;DIF6&gt;Extremamente difícil!</seg>
       </tuv>
     </tu>
     <tu>
