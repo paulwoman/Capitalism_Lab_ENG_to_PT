@@ -31393,6 +31393,38 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3132]&lt;LAU2&gt;Set up a farm to produce|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214838Z" creationid="User" creationdate="20200803T214838Z">
+        <seg>[3132]&lt;LAU2&gt;Configure uma fazenda para produzir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3133]&lt;LAU3&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214851Z" creationid="User" creationdate="20200803T214851Z">
+        <seg>[3133]&lt;LAU3&gt;Configure uma fábrica para produzir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3134]&lt;LAU4&gt;and launch it onto the market|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214908Z" creationid="User" creationdate="20200803T214908Z">
+        <seg>[3134]&lt;LAU4&gt;e lançá-lo no mercado|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3135]&lt;GSU1&gt;Subsidiaries with Net Worth of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214923Z" creationid="User" creationdate="20200803T214923Z">
+        <seg>[3135]&lt;GSU1&gt;Subsidiárias com patrimônio líquido de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
