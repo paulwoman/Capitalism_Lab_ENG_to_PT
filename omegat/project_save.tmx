@@ -4263,6 +4263,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not choose this if you want a winnable game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220744Z" creationid="User" creationdate="20200803T220744Z">
+        <seg>Não escolha isso se você quiser um jogo ganhador.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do not consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194617Z" creationid="RAFAEL" creationdate="20200802T193855Z">
@@ -9884,6 +9892,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133418Z" creationid="RAFAEL" creationdate="20200802T133418Z">
         <seg>Nível de zoom normal (Tecla de atalho: '.')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not enjoyable unless you have achieved mastery in this game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220717Z" creationid="User" creationdate="20200803T220717Z">
+        <seg>Não é agradável, a menos que você tenha alcançado o domínio neste jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not recommended for most players.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220645Z" creationid="User" creationdate="20200803T220645Z">
+        <seg>Não recomendado para a maioria dos jogadores.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -31893,6 +31917,70 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220632Z" creationid="User" creationdate="20200803T220632Z">
         <seg>[3190]&lt;DIF6&gt;Extremamente difícil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3191]&lt;DIF7&gt;Insanely Difficult!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220702Z" creationid="User" creationdate="20200803T220702Z">
+        <seg>[3191]&lt;DIF7&gt;Insanamente Difícil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220728Z" creationid="User" creationdate="20200803T220728Z">
+        <seg>[3192]&lt;DIF8&gt;Um desafio humanamente impossível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3193]&lt;ISBN&gt;%1s issues new bonds, raising %2s.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220806Z" creationid="User" creationdate="20200803T220806Z">
+        <seg>[3193]&lt;ISBN&gt;%1s emite novos títulos, aumentando %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3195]&lt;MOR1&gt;50% more|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220837Z" creationid="User" creationdate="20200803T220837Z">
+        <seg>[3195]&lt;MOR1&gt;50% mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3196]&lt;MOR2&gt;100% more|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220842Z" creationid="User" creationdate="20200803T220842Z">
+        <seg>[3196]&lt;MOR2&gt;100% mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3197]&lt;MSOS&gt;Market Share of Operating System|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220856Z" creationid="User" creationdate="20200803T220856Z">
+        <seg>[3197]&lt;MSOS&gt;Participação de Mercado Operacional System|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3198]&lt;MSHA&gt;Market Share of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220922Z" creationid="User" creationdate="20200803T220922Z">
+        <seg>[3198]&lt;MSHA&gt;Participação no mercado de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220942Z" creationid="User" creationdate="20200803T220942Z">
+        <seg>[3199]&lt;BNOT&gt;Desculpe, a empresa não atende aos requisitos de emissão de títulos. \ NTente aumentar o patrimônio da empresa.|</seg>
       </tuv>
     </tu>
     <tu>
