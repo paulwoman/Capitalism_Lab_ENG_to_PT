@@ -31353,6 +31353,46 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3127]&lt;DAD1&gt;Digital Age Dominance|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214354Z" creationid="User" creationdate="20200803T214354Z">
+        <seg>[3127]&lt;DAD1&gt;Domínio da era digital|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3128]&lt;DAD2&gt;Achieve market dominance in Mobile Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214422Z" creationid="User" creationdate="20200803T214422Z">
+        <seg>[3128]&lt;DAD2&gt;Alcance o domínio do mercado no sistema operacional móvel e obtenha uma participação de mercado significativa no setor da Internet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3129]&lt;DAD3&gt;Achieve market dominance in Computer Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214519Z" creationid="User" creationdate="20200803T214519Z">
+        <seg>[3129]&lt;DAD3&gt;Alcance o domínio do mercado no sistema operacional de computadores e obtenha uma participação de mercado significativa no setor da Internet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3130]&lt;MDOM&gt;Achieve market dominance in|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214536Z" creationid="User" creationdate="20200803T214536Z">
+        <seg>[3130]&lt;MDOM&gt;Atingir o domínio do mercado em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3131]&lt;LAU1&gt;Launch|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T214820Z" creationid="User" creationdate="20200803T214820Z">
+        <seg>[3131]&lt;LAU1&gt;Lançamento|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195502Z" creationid="Olivier" creationdate="20200730T195502Z">
