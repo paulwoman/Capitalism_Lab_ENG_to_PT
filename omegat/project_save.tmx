@@ -14656,6 +14656,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CEO is not comfortable with setting up new businesses.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220117Z" creationid="User" creationdate="20200803T220117Z">
+        <seg>O CEO não se sente confortável com a criação de novos negócios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225750Z" creationid="RAFAEL" creationdate="20200802T225750Z">
@@ -31717,6 +31725,86 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220023Z" creationid="User" creationdate="20200803T220023Z">
         <seg>[3172]&lt;CE03&gt;mas decidiu não fazer isso porque a situação de dinheiro e lucro da empresa não era boa o suficiente para apoiar a expansão dos negócios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3173]&lt;CE04&gt;but decided not to do so because the company's cash level was too low to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220044Z" creationid="User" creationdate="20200803T220044Z">
+        <seg>[3173]&lt;CE04&gt;mas decidiu não fazer isso porque o nível de caixa da empresa era muito baixo para apoiar a expansão dos negócios.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220101Z" creationid="User" creationdate="20200803T220101Z">
+        <seg>[3174]&lt;CE05&gt;Esse nível de caixa dessa empresa subsidiária é muito baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3175]&lt;CE06&gt;Adequate cash level for expansion:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220137Z" creationid="User" creationdate="20200803T220137Z">
+        <seg>[3175]&lt;CE06&gt;Nível de caixa adequado para expansão:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3176]&lt;CE07&gt;Adequate annual profit for expansion:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220154Z" creationid="User" creationdate="20200803T220154Z">
+        <seg>[3176]&lt;CE07&gt;Lucro anual adequado para expansão:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3177]&lt;RDB1&gt;Increase Retail Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220210Z" creationid="User" creationdate="20200803T220210Z">
+        <seg>[3177]&lt;RDB1&gt;Aumente o bônus da demanda de varejo das seguintes maneiras:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3178]&lt;RDB2&gt;-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220225Z" creationid="User" creationdate="20200803T220225Z">
+        <seg>[3178]&lt;RDB2&gt;-Uma loja especializada focada em uma gama específica de produtos é mais atraente para os clientes interessados ​​em tais produtos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3179]&lt;RDB3&gt;-Build more stores of the same store type in the same city.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220242Z" creationid="User" creationdate="20200803T220242Z">
+        <seg>[3179]&lt;RDB3&gt;-Construa mais lojas do mesmo tipo na mesma cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3180]&lt;RDB4&gt;-Stores in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220254Z" creationid="User" creationdate="20200803T220254Z">
+        <seg>[3180]&lt;RDB4&gt;-Lojas em áreas com alto tráfego de clientes aumentarão ainda mais a popularidade da cadeia.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3181]&lt;SCT1&gt;This service firm is capable of increasing the customer traffic in this area.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220309Z" creationid="User" creationdate="20200803T220309Z">
+        <seg>[3181]&lt;SCT1&gt;Esta empresa de serviços é capaz de aumentar o tráfego de clientes nessa área.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3182]&lt;SCT2&gt;Customer Traffic Effect Index|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="User" changedate="20200803T220324Z" creationid="User" creationdate="20200803T220324Z">
+        <seg>[3182]&lt;SCT2&gt;Índice de Efeito de Tráfego do Cliente|</seg>
       </tuv>
     </tu>
     <tu>
