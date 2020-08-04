@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Community Facilities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014801Z" creationid="RAFAEL" creationdate="20200804T014801Z">
+        <seg>Instalações Comunitárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013034Z" creationid="Olivier" creationdate="20200802T013034Z">
@@ -7964,6 +7972,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010942Z" creationid="Olivier" creationdate="20200802T010942Z">
         <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase this rating by building more community facilities close to this apartment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014147Z" creationid="RAFAEL" creationdate="20200804T014147Z">
+        <seg>Aumente esta classificação construindo mais instalações comunitárias próximas a este apartamento.</seg>
       </tuv>
     </tu>
     <tu>
