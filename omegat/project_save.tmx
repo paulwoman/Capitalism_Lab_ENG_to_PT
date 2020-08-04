@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T020126Z" creationid="RAFAEL" creationdate="20200804T020126Z">
+        <seg>Uma alta taxa de conforto significa que há edifícios residenciais nas proximidades e a distância de viagem é curta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
