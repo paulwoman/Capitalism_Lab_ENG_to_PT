@@ -5887,6 +5887,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Green and Sports Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015152Z" creationid="RAFAEL" creationdate="20200804T015152Z">
+        <seg>Ranking Ambiental e Esportivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green bar = Quality rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225702Z" creationid="RAFAEL" creationdate="20200802T225702Z">
@@ -7984,6 +7992,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase this rating by building more retail shops near close to apartment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015037Z" creationid="RAFAEL" creationdate="20200804T015037Z">
+        <seg>Aumente esta classificação construindo mais lojas de varejo perto de apartamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Industrial Goods Seaports=0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015634Z" creationid="Olivier" creationdate="20200802T015634Z">
@@ -8636,6 +8652,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012353Z" creationid="Olivier" creationdate="20200802T012353Z">
         <seg>Jobs and Income rating=90, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep a distance between this apartment and other buildings, specially factories and mines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015222Z" creationid="RAFAEL" creationdate="20200804T015222Z">
+        <seg>Manter uma distância entre este apartamento e outros prédios, especialmente fábricas e minas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13964,6 +13988,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T180837Z" creationid="Olivier" creationdate="20200728T085344Z">
         <seg>mensal com gastos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sport facilities and parks will help too.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015344Z" creationid="RAFAEL" creationdate="20200804T015344Z">
+        <seg>As instalações esportivas e os parques também ajudarão.</seg>
       </tuv>
     </tu>
     <tu>
