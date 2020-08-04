@@ -3590,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commercial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031928Z" creationid="RAFAEL" creationdate="20200804T031928Z">
+        <seg>Ferramenta de Zoneamento Comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Community Facilities</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014801Z" creationid="RAFAEL" creationdate="20200804T014801Z">
@@ -8592,6 +8600,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Industrial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032114Z" creationid="RAFAEL" creationdate="20200804T032114Z">
+        <seg>Ferramenta de Zoneamento Industrial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024850Z" creationid="RAFAEL" creationdate="20200804T024850Z">
@@ -10292,6 +10308,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221839Z" creationid="RAFAEL" creationdate="20200801T221839Z">
         <seg>Mini Map (Tecla de atalho: 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mixed Residential-Commercial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031950Z" creationid="RAFAEL" creationdate="20200804T031950Z">
+        <seg>Ferramenta de Zoneamento Residencial-Comercial Misto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13672,6 +13696,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Residential Zoning Tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031900Z" creationid="RAFAEL" creationdate="20200804T031900Z">
+        <seg>Ferramenta de zoneamento residencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011323Z" creationid="Olivier" creationdate="20200802T011323Z">
@@ -16729,10 +16761,42 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this tool to remove land-use restrictions on the selected land plots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031849Z" creationid="RAFAEL" creationdate="20200804T031849Z">
+        <seg>Use esta ferramenta para remover restrições de uso da terra nos lotes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225158Z" creationid="RAFAEL" creationdate="20200801T225158Z">
         <seg>Use esta ferramenta para restringir diferentes áreas de sua cidade a usos específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to commercial zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031938Z" creationid="RAFAEL" creationdate="20200804T031938Z">
+        <seg>Use esta ferramenta para definir terrenos selecionados para zonas comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to mixed residential-commercial zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032104Z" creationid="RAFAEL" creationdate="20200804T032104Z">
+        <seg>Use esta ferramenta para definir lotes de terreno selecionados para zonas mistas de residenciais e comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to residential zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031915Z" creationid="RAFAEL" creationdate="20200804T031915Z">
+        <seg>Use esta ferramenta para definir terrenos selecionados para zonas residenciais.</seg>
       </tuv>
     </tu>
     <tu>
