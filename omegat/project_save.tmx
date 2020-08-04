@@ -2910,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to access the stock market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031548Z" creationid="RAFAEL" creationdate="20200804T031548Z">
+        <seg>Clique aqui para acessar o mercado de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225425Z" creationid="RAFAEL" creationdate="20200802T225425Z">
@@ -13592,6 +13600,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate this firm and compensate the owner for the difference in land prices if there is any.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031743Z" creationid="RAFAEL" creationdate="20200804T031743Z">
+        <seg>Realocar esta empresa e compensar o proprietário pela diferença no preço do terreno, se houver alguma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relocate this firm as part of your city planning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031731Z" creationid="RAFAEL" creationdate="20200804T031731Z">
+        <seg>Realocar esta empresa como parte do planejamento de sua cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015357Z" creationid="RAFAEL" creationdate="20200804T015357Z">
@@ -13636,6 +13660,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025822Z" creationid="RAFAEL" creationdate="20200804T025822Z">
         <seg>Redefina todos os objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset the MOD setting and use the default game resources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031709Z" creationid="RAFAEL" creationdate="20200804T031709Z">
+        <seg>Redefinir a configuração MOD e usar os recursos padrão do jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,6 +16153,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031559Z" creationid="RAFAEL" creationdate="20200804T031559Z">
+        <seg>Esta empresa é a subsidiária de sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This figure is the amount of cash your corporation currently has.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223338Z" creationid="RAFAEL" creationdate="20200801T223338Z">
@@ -16165,6 +16205,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031517Z" creationid="RAFAEL" creationdate="20200804T031517Z">
         <seg>Esta é uma empresa privada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a public company</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031535Z" creationid="RAFAEL" creationdate="20200804T031535Z">
+        <seg>Esta é uma empresa pública</seg>
       </tuv>
     </tu>
     <tu>
@@ -16665,6 +16713,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this MOD.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031653Z" creationid="RAFAEL" creationdate="20200804T031653Z">
+        <seg>Use este MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this layout plan on this current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232456Z" creationid="RAFAEL" creationdate="20200802T232456Z">
@@ -17097,6 +17153,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You own shares in this company directly or via holding companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031638Z" creationid="RAFAEL" creationdate="20200804T031638Z">
+        <seg>Você possui ações nesta empresa diretamente ou através de empresas Holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Corporation's Cash</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223310Z" creationid="RAFAEL" creationdate="20200801T223310Z">
@@ -17277,6 +17341,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005703Z" creationid="Olivier" creationdate="20200802T005703Z">
         <seg>Z_SETALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoning Tool - Any Purposes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031832Z" creationid="RAFAEL" creationdate="20200804T031832Z">
+        <seg>Ferramenta de Zoneamento - Qualquer Finalidade</seg>
       </tuv>
     </tu>
     <tu>
