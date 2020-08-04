@@ -17603,8 +17603,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055358Z" creationid="Olivier" creationdate="20200728T055358Z">
-        <seg>[0028]&lt;PRED&gt;perfil já criado|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T091030Z" creationid="Olivier" creationdate="20200728T055358Z">
+        <seg>[0028]&lt;PRED&gt;Perfil já criado|</seg>
       </tuv>
     </tu>
     <tu>
@@ -18075,8 +18075,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0329]&lt;ALLS&gt;Stock Market|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200803T230119Z" creationid="Olivier" creationdate="20200728T062221Z">
-        <seg>[0329]&lt;ALLS&gt;mercado de ações|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T091150Z" creationid="Olivier" creationdate="20200728T062221Z">
+        <seg>[0329]&lt;ALLS&gt;Mercado de ações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,8 +18739,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[0591]&lt;AIS3&gt;Real Estate|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T173900Z" creationid="Olivier" creationdate="20200730T183914Z">
-        <seg>[0591]&lt;AIS3&gt;imobiliaria|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T091304Z" creationid="Olivier" creationdate="20200730T183914Z">
+        <seg>[0591]&lt;AIS3&gt;Imobiliaria|</seg>
       </tuv>
     </tu>
     <tu>
