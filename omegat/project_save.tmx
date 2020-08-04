@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T092221Z" creationid="Olivier" creationdate="20200804T092221Z">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Borrow Money</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223327Z" creationid="RAFAEL" creationdate="20200802T223327Z">
@@ -29099,16 +29107,16 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2623]&lt;1503&gt;All Cities|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172204Z" creationid="Olivier" creationdate="20200730T172204Z">
-        <seg>[2623]&lt;1503&gt;cidades|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T092019Z" creationid="Olivier" creationdate="20200730T172204Z">
+        <seg>[2623]&lt;1503&gt;Cidades|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2624]&lt;1504&gt;This City|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172209Z" creationid="Olivier" creationdate="20200730T172209Z">
-        <seg>[2624]&lt;1504&gt; cidade|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T092027Z" creationid="Olivier" creationdate="20200730T172209Z">
+        <seg>[2624]&lt;1504&gt;Cidade|</seg>
       </tuv>
     </tu>
     <tu>
