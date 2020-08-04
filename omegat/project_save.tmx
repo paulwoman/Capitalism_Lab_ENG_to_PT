@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commuting Convenience</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T020005Z" creationid="RAFAEL" creationdate="20200804T020005Z">
+        <seg>Conveniência de viagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013034Z" creationid="Olivier" creationdate="20200802T013034Z">
@@ -4241,8 +4249,8 @@ Exibir o menu Caixa de ferramentas.</seg>
       <tuv lang="en-US">
         <seg>Distance to Central Business District(CBD)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015544Z" creationid="RAFAEL" creationdate="20200804T015544Z">
-        <seg>Distância para o Distrito Comercial Central (DCC)</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015806Z" creationid="RAFAEL" creationdate="20200804T015544Z">
+        <seg>Distância para o Distrito Central de Negócios(DCN)</seg>
       </tuv>
     </tu>
     <tu>
