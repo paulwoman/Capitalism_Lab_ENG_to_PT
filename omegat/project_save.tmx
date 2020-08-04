@@ -6248,6 +6248,46 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: 'E'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022608Z" creationid="RAFAEL" creationdate="20200804T022608Z">
+        <seg>Atalho: 'E'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'F'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022555Z" creationid="RAFAEL" creationdate="20200804T022555Z">
+        <seg>Atalho: 'F'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'I'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022601Z" creationid="RAFAEL" creationdate="20200804T022601Z">
+        <seg>Atalho: 'I'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'P'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022539Z" creationid="RAFAEL" creationdate="20200804T022539Z">
+        <seg>Atalho: 'P'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'R'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022547Z" creationid="RAFAEL" creationdate="20200804T022547Z">
+        <seg>Atalho: 'R'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230554Z" creationid="RAFAEL" creationdate="20200802T230554Z">
