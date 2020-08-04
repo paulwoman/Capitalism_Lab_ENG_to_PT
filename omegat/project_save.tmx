@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to type in an exact number (hotkey: '=')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030932Z" creationid="RAFAEL" creationdate="20200804T030932Z">
+        <seg>Clique aqui para digitar um número exato (Atalho: '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view profile details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224319Z" creationid="RAFAEL" creationdate="20200802T224319Z">
@@ -11272,6 +11280,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show index stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031148Z" creationid="RAFAEL" creationdate="20200804T031148Z">
+        <seg>Exibir apenas o índice de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show industries and product classes in which your company has market shares</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232232Z" creationid="RAFAEL" creationdate="20200802T232232Z">
@@ -11292,6 +11308,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232134Z" creationid="RAFAEL" creationdate="20200802T232134Z">
         <seg>Mostrar apenas tecnologias que sua empresa está pesquisando atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show technology stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031256Z" creationid="RAFAEL" creationdate="20200804T031256Z">
+        <seg>Mostrar apenas as ações de tecnologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13624,6 +13648,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retail market shares of this product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030910Z" creationid="RAFAEL" creationdate="20200804T030910Z">
+        <seg>Quotas do mercado varejista deste produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retailing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -14556,6 +14588,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232049Z" creationid="RAFAEL" creationdate="20200802T232049Z">
         <seg>Mostrar todas as tecnologias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show any types of stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031050Z" creationid="RAFAEL" creationdate="20200804T031050Z">
+        <seg>Exibir todos os tipos de ação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16245,6 +16285,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210028Z" creationid="RAFAEL" creationdate="20200802T210028Z">
         <seg>Alternar o modo de filtro entre todas as cidades e a cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle whether showing only companies in which you own shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031007Z" creationid="RAFAEL" creationdate="20200804T031007Z">
+        <seg>Permite exibir apenas as empresas nas quais você possui ações.</seg>
       </tuv>
     </tu>
     <tu>
