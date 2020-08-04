@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023502Z" creationid="RAFAEL" creationdate="20200804T023502Z">
+        <seg>O crescimento populacional de uma cidade é sustentado por 1) #uma baixa taxa de desemprego#, 2) #alta qualidade de vida#, e 3) #abastecimento habitacional suficiente#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T203054Z" creationid="User" creationdate="20200802T203054Z">
@@ -2322,6 +2330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012350Z" creationid="Olivier" creationdate="20200802T012350Z">
         <seg>City GDP=6000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Population Growth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023412Z" creationid="RAFAEL" creationdate="20200804T023412Z">
+        <seg>Crescimento populacional da cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,6 +4779,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231957Z" creationid="RAFAEL" creationdate="20200802T231957Z">
         <seg>Ativar ou desativar o gráfico de venda do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable or disable the option of popping up news windows for important news.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023346Z" creationid="RAFAEL" creationdate="20200804T023346Z">
+        <seg>Ativar ou desativar a possibilidade de exibir janelas de informação para notícias importantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15332,6 +15356,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015429Z" creationid="RAFAEL" creationdate="20200804T015429Z">
         <seg>A classificação geral é uma combinação das classificações acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023540Z" creationid="RAFAEL" creationdate="20200804T023540Z">
+        <seg>A taxa de crescimento populacional é o resultado da comparação da população da cidade no início deste ano com o mesmo período do ano passado.</seg>
       </tuv>
     </tu>
     <tu>
