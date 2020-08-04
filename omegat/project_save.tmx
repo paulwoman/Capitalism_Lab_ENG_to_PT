@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024723Z" creationid="RAFAEL" creationdate="20200804T024723Z">
+        <seg>Uma taxa salarial real crescente significa que as pessoas estão ganhando mais dinheiro, mesmo depois de serem ajustadas pela inflação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T020126Z" creationid="RAFAEL" creationdate="20200804T020126Z">
@@ -13240,6 +13248,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real Wage Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024649Z" creationid="RAFAEL" creationdate="20200804T024649Z">
+        <seg>Taxa Salarial Real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Wage Rate=30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012341Z" creationid="Olivier" creationdate="20200802T012341Z">
@@ -13292,6 +13308,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015630Z" creationid="Olivier" creationdate="20200802T015630Z">
         <seg>Real Wage Rate=95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real wages refers to wages that have been adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024702Z" creationid="RAFAEL" creationdate="20200804T024702Z">
+        <seg>O salário real refere-se aos salários que foram ajustados pela inflação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15649,6 +15673,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024620Z" creationid="RAFAEL" creationdate="20200804T024620Z">
+        <seg>A taxa de desemprego tende a cair quando o crescimento do PIB é saudável e as empresas privadas se expandem e criam novos empregos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
@@ -16105,6 +16137,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unemployment Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024445Z" creationid="RAFAEL" creationdate="20200804T024445Z">
+        <seg>Taxa de Desemprego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlimited Natural Resources=Yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015753Z" creationid="Olivier" creationdate="20200802T015753Z">
@@ -16373,6 +16413,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010414Z" creationid="Olivier" creationdate="20200802T010414Z">
         <seg>WTOTTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wage Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024751Z" creationid="RAFAEL" creationdate="20200804T024751Z">
+        <seg>Taxa salarial </seg>
       </tuv>
     </tu>
     <tu>
