@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CPI tells the accumulated effects of inflation over years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025145Z" creationid="RAFAEL" creationdate="20200804T025145Z">
+        <seg>O IPC informa os efeitos acumulados da inflação ao longo dos anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CR_COMMU</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005341Z" creationid="Olivier" creationdate="20200802T005341Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140601Z" creationid="RAFAEL" creationdate="20200802T140601Z">
         <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel Waiting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025314Z" creationid="RAFAEL" creationdate="20200804T025314Z">
+        <seg>Cancelar a espera</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232920Z" creationid="RAFAEL" creationdate="20200802T232920Z">
         <seg>Clique aqui para comprá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to cancel it and handle it manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025422Z" creationid="RAFAEL" creationdate="20200804T025422Z">
+        <seg>Clique aqui para cancelá-lo e manuseá-lo manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +3762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014958Z" creationid="Olivier" creationdate="20200802T014958Z">
         <seg>Consumer Goods Seaports=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Price Index (CPI)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025133Z" creationid="RAFAEL" creationdate="20200804T025133Z">
+        <seg>Índice de Preços ao Consumidor (IPCI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8828,6 +8860,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230111Z" creationid="RAFAEL" creationdate="20200802T230111Z">
         <seg>Ele mostra que a porcentagem da demanda do produto nesta unidade de compra é atendida pela oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It starts with a base value of 100 and increases during inflation times and decreases during deflation times.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025159Z" creationid="RAFAEL" creationdate="20200804T025159Z">
+        <seg>Ele começa com um valor base de 100 e aumenta durante os tempos de inflação e diminui durante os tempos de deflação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16613,6 +16653,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200540Z" creationid="User" creationdate="20200802T200540Z">
         <seg>Você adquiriu com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have used a layout plan for this firm and the computer is looking for a supplier based on the plan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025332Z" creationid="RAFAEL" creationdate="20200804T025332Z">
+        <seg>Você usou um plano de layout para esta empresa e o computador está procurando um fornecedor baseado no plano.</seg>
       </tuv>
     </tu>
     <tu>
