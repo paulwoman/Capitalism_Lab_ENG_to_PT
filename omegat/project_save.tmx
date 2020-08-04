@@ -2854,6 +2854,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021527Z" creationid="RAFAEL" creationdate="20200804T021527Z">
+        <seg>Clique aqui para definir o gerente desta empresa (Tecla de atalho: 'z').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to switch between display modes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021544Z" creationid="RAFAEL" creationdate="20200804T021544Z">
+        <seg>Clique aqui para alternar entre os modos de exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view profile details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224319Z" creationid="RAFAEL" creationdate="20200802T224319Z">
@@ -4090,6 +4106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233059Z" creationid="RAFAEL" creationdate="20200802T233059Z">
         <seg>Demolir este edifício comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021505Z" creationid="RAFAEL" creationdate="20200804T021505Z">
+        <seg>Demolir esta empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5875,6 +5899,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224216Z" creationid="RAFAEL" creationdate="20200802T224216Z">
         <seg>Vá para o relatório Empresas e selecione as suas empresas que deseja aplicar a alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the firm selling or producing this product (Hotkey: Enter)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021734Z" creationid="RAFAEL" creationdate="20200804T021734Z">
+        <seg>Ir para a empresa que vende ou produz este produto (Tecla de atalho: Enter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +10008,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Product (Hotkey: 'x')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021703Z" creationid="RAFAEL" creationdate="20200804T021703Z">
+        <seg>Próximo produto (Tecla de atalho: 'x')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Research Project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223241Z" creationid="RAFAEL" creationdate="20200802T223241Z">
@@ -12240,6 +12280,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Product (Hotkey: 'u')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021638Z" creationid="RAFAEL" creationdate="20200804T021638Z">
+        <seg>Produto anterior (Tecla de atalho: 'u')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Research Project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223217Z" creationid="RAFAEL" creationdate="20200802T223217Z">
@@ -13724,6 +13772,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015453Z" creationid="Olivier" creationdate="20200802T015453Z">
         <seg>Score change=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for a specific product (Hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021619Z" creationid="RAFAEL" creationdate="20200804T021619Z">
+        <seg>Busca de um produto específico (Tecla de atalho: Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,6 +16125,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232747Z" creationid="RAFAEL" creationdate="20200802T232747Z">
         <seg>Você também pode colocar um modificador no topo da taxa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may relocate this firm in the same city, or demolish it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021453Z" creationid="RAFAEL" creationdate="20200804T021453Z">
+        <seg>Você pode realocar esta empresa na mesma cidade, ou demoli-la.</seg>
       </tuv>
     </tu>
     <tu>
