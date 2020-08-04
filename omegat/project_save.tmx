@@ -13736,6 +13736,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shopping Convenience</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015016Z" creationid="RAFAEL" creationdate="20200804T015016Z">
+        <seg>Shopping de Conveniência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut To Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221932Z" creationid="RAFAEL" creationdate="20200802T221932Z">
