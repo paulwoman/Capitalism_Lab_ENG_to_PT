@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy Firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021251Z" creationid="RAFAEL" creationdate="20200804T021251Z">
+        <seg>Comprar Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Land</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015031Z" creationid="Olivier" creationdate="20200802T015031Z">
@@ -2862,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the [Buy Firm] button below to buy it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021338Z" creationid="RAFAEL" creationdate="20200804T021338Z">
+        <seg>Clique no botão [Comprar Empresa] abaixo para comprá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
@@ -2890,6 +2906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215854Z" creationid="RAFAEL" creationdate="20200802T215854Z">
         <seg>Clique para comprar a ação exibida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to buy this firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021349Z" creationid="RAFAEL" creationdate="20200804T021349Z">
+        <seg>Clique para comprar esta empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -12904,6 +12928,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021437Z" creationid="RAFAEL" creationdate="20200804T021437Z">
+        <seg>Realocar ou Demolir esta empresa (Tecla de atalho: Ctrl-X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015357Z" creationid="RAFAEL" creationdate="20200804T015357Z">
@@ -15261,6 +15293,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223449Z" creationid="RAFAEL" creationdate="20200801T223449Z">
         <seg>Este valor é o lucro operacional da sua empresa nos últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This firm is for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021305Z" creationid="RAFAEL" creationdate="20200804T021305Z">
+        <seg>Esta empresa está à venda.</seg>
       </tuv>
     </tu>
     <tu>
