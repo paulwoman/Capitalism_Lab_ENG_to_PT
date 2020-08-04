@@ -742,6 +742,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annual Emigrants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
+        <seg>Emigrantes anuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annual Immigrants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023647Z" creationid="RAFAEL" creationdate="20200804T023647Z">
+        <seg>Imigrantes Anuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apartments and Commercial Buildings Display (hotkey: Ctrl-C)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205538Z" creationid="RAFAEL" creationdate="20200802T205538Z">
@@ -2330,6 +2346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012350Z" creationid="Olivier" creationdate="20200802T012350Z">
         <seg>City GDP=6000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Population</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023604Z" creationid="RAFAEL" creationdate="20200804T023604Z">
+        <seg>População da Cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,6 +15360,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of immigrants to the city annually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023753Z" creationid="RAFAEL" creationdate="20200804T023753Z">
+        <seg>O número de pessoas que imigram para a cidade anualmente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of people emigrated from the city annually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023833Z" creationid="RAFAEL" creationdate="20200804T023833Z">
+        <seg>O número de pessoas que emigram da cidade anualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214830Z" creationid="Olivier" creationdate="20200730T214830Z">
@@ -15613,6 +15653,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223742Z" creationid="RAFAEL" creationdate="20200801T223742Z">
         <seg>Esta é a data atual do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the city's population changes over time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023637Z" creationid="RAFAEL" creationdate="20200804T023637Z">
+        <seg>Isso mostra que a população da cidade muda com o tempo.</seg>
       </tuv>
     </tu>
     <tu>
