@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to put this firm up for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021152Z" creationid="RAFAEL" creationdate="20200804T021152Z">
+        <seg>Clique aqui para colocar esta empresa à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to see how this can be used to make other products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225359Z" creationid="RAFAEL" creationdate="20200802T225359Z">
@@ -5259,6 +5267,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012535Z" creationid="Olivier" creationdate="20200802T012535Z">
         <seg>Food Supply rating=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Sale</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021027Z" creationid="RAFAEL" creationdate="20200804T021012Z">
+        <seg>Está à Venda</seg>
       </tuv>
     </tu>
     <tu>
