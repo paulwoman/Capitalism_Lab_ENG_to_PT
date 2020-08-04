@@ -15850,8 +15850,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T200157Z" creationid="User" creationdate="20200802T200157Z">
-        <seg>A dependência é interrompida quando a empresa é transferida para um novo proprietário. \ N \ nTem certeza de que deseja continu?|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090707Z" creationid="User" creationdate="20200802T200157Z">
+        <seg>A dependência é interrompida quando a empresa é transferida para um novo proprietário.\n\nTem certeza de que deseja continu?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30427,8 +30427,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T000540Z" creationid="User" creationdate="20200802T000540Z">
-        <seg>[2825]&lt;RDC6&gt;Atualmente, nenhuma das unidades de compras de nenhuma empresa fornece o fornecimento desse tipo de produto. \ N \ nAssim, nenhuma ação foi tomada.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090504Z" creationid="User" creationdate="20200802T000540Z">
+        <seg>[2825]&lt;RDC6&gt;Atualmente, nenhuma das unidades de compras de nenhuma empresa fornece o fornecimento desse tipo de produto.\n\nAssim, nenhuma ação foi tomada.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30875,24 +30875,24 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003354Z" creationid="User" creationdate="20200802T003354Z">
-        <seg>[2886]&lt;NCG1&gt;Você ativou o Modo de sobrevivência no DLC da City Economic Simulation. \ n \ n|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090608Z" creationid="User" creationdate="20200802T003354Z">
+        <seg>[2886]&lt;NCG1&gt;Você ativou o Modo de sobrevivência no DLC da City Economic Simulation.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003440Z" creationid="User" creationdate="20200802T003440Z">
-        <seg>[2887]&lt;NCG2&gt;Todos os produtos estão bloqueados, exigindo reinvenção, exceto os produtos da mega classe Alimentos e Bebidas e os produtos nos quais você possui experiência. \ N \ n \ n|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090626Z" creationid="User" creationdate="20200802T003440Z">
+        <seg>[2887]&lt;NCG2&gt;Todos os produtos estão bloqueados, exigindo reinvenção, exceto os produtos da mega classe Alimentos e Bebidas e os produtos nos quais você possui experiência.\n\n\n|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003506Z" creationid="User" creationdate="20200802T003506Z">
-        <seg>[2888]&lt;NCG3&gt;Você foi designado com novas metas. \ N \ n|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090643Z" creationid="User" creationdate="20200802T003506Z">
+        <seg>[2888]&lt;NCG3&gt;Você foi designado com novas metas.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30907,8 +30907,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003556Z" creationid="User" creationdate="20200802T003556Z">
-        <seg>[2890]&lt;NCG5&gt;Você foi designado com uma nova meta. \ N \ n|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090653Z" creationid="User" creationdate="20200802T003556Z">
+        <seg>[2890]&lt;NCG5&gt;Você foi designado com uma nova meta.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
