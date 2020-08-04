@@ -16451,8 +16451,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Toggle the menu for applying a specific land purpose for the entire city.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032407Z" creationid="RAFAEL" creationdate="20200804T032407Z">
-        <seg>Alterne o menu para aplicar uma finalidade específica da terra para toda a cidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032519Z" creationid="RAFAEL" creationdate="20200804T032407Z">
+        <seg>Alterna entre os menus para aplicar um uso específico do solo a toda a cidade.</seg>
       </tuv>
     </tu>
     <tu>
