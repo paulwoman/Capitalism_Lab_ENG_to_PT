@@ -4239,6 +4239,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Distance to Central Business District(CBD)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015544Z" creationid="RAFAEL" creationdate="20200804T015544Z">
+        <seg>Distância para o Distrito Comercial Central (DCC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diversified Companies=1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015632Z" creationid="Olivier" creationdate="20200802T015632Z">
@@ -8000,6 +8008,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase this rating by decreasing the rent you are asking for.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015407Z" creationid="RAFAEL" creationdate="20200804T015407Z">
+        <seg>Aumente esta classificação diminuindo o aluguel que você está pedindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Industrial Goods Seaports=0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015634Z" creationid="Olivier" creationdate="20200802T015634Z">
@@ -10792,6 +10808,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015418Z" creationid="RAFAEL" creationdate="20200804T015418Z">
+        <seg>Classificação geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ownership=1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014146Z" creationid="Olivier" creationdate="20200802T014146Z">
@@ -12844,6 +12868,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015630Z" creationid="Olivier" creationdate="20200802T015630Z">
         <seg>Real Wage Rate=95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rent Attractiveness</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015357Z" creationid="RAFAEL" creationdate="20200804T015357Z">
+        <seg>Atratividade de aluguel</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,6 +15000,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall rating is a combination of the above ratings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015429Z" creationid="RAFAEL" creationdate="20200804T015429Z">
+        <seg>A classificação geral é uma combinação das classificações acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The progress of the current R&amp;D project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
@@ -14988,6 +15028,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225551Z" creationid="RAFAEL" creationdate="20200802T225551Z">
         <seg>A barra vermelha informa a sua participação de mercado para este produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
+        <seg>Quanto menor a distância para o Distrito Central de Negócios(DCN), maior é a classificação.</seg>
       </tuv>
     </tu>
     <tu>
