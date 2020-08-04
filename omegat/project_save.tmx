@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customer Traffic index of this area</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022935Z" creationid="RAFAEL" creationdate="20200804T022935Z">
+        <seg>Índice de tráfego de clientes nesta área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEFALL</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010232Z" creationid="Olivier" creationdate="20200802T010232Z">
@@ -6264,6 +6272,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: 'G'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022635Z" creationid="RAFAEL" creationdate="20200804T022635Z">
+        <seg>Atalho: 'G'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: 'I'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022601Z" creationid="RAFAEL" creationdate="20200804T022601Z">
@@ -6284,6 +6300,70 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022547Z" creationid="RAFAEL" creationdate="20200804T022547Z">
         <seg>Atalho: 'R'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'T'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022823Z" creationid="RAFAEL" creationdate="20200804T022823Z">
+        <seg>Atalho: 'T'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: 'Y'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022830Z" creationid="RAFAEL" creationdate="20200804T022830Z">
+        <seg>Atalho: 'Y'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022650Z" creationid="RAFAEL" creationdate="20200804T022650Z">
+        <seg>Atalho: F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022846Z" creationid="RAFAEL" creationdate="20200804T022846Z">
+        <seg>Atalho: F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022657Z" creationid="RAFAEL" creationdate="20200804T022657Z">
+        <seg>Atalho: F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022817Z" creationid="RAFAEL" creationdate="20200804T022817Z">
+        <seg>Atalho: F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F4</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022851Z" creationid="RAFAEL" creationdate="20200804T022851Z">
+        <seg>Atalho: F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F7</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022642Z" creationid="RAFAEL" creationdate="20200804T022642Z">
+        <seg>Atalho: F7</seg>
       </tuv>
     </tu>
     <tu>
@@ -32845,14 +32925,6 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165016Z" creationid="Olivier" creationdate="20200730T165016Z">
         <seg>\n|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>`</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021929Z" creationid="Olivier" creationdate="20200802T004842Z">
-        <seg>-`</seg>
       </tuv>
     </tu>
     <tu>
