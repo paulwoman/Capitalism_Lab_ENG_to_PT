@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the same supplier change that you've just made to other firms of yours.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025737Z" creationid="RAFAEL" creationdate="20200804T025737Z">
+        <seg>Aplique a mesma alteração de fornecedor que você acabou de fazer a outras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply the same supplier change to other firms of yours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025641Z" creationid="RAFAEL" creationdate="20200804T025641Z">
@@ -1408,8 +1416,8 @@
       <tuv lang="en-US">
         <seg>Batch Switching Supplier</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025627Z" creationid="RAFAEL" creationdate="20200804T025627Z">
-        <seg>Mudança de fornecedor por grupo</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025720Z" creationid="RAFAEL" creationdate="20200804T025627Z">
+        <seg>Mudança de fornecedor em Lote</seg>
       </tuv>
     </tu>
     <tu>
@@ -13464,6 +13472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset all goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025822Z" creationid="RAFAEL" creationdate="20200804T025822Z">
+        <seg>Redefina todos os objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011323Z" creationid="Olivier" creationdate="20200802T011323Z">
@@ -14280,6 +14296,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the folder containing predefined layout plans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025847Z" creationid="RAFAEL" creationdate="20200804T025834Z">
+        <seg>Selecione a pasta que contém planos de layout predefinidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the folder containing user-defined layout plans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025916Z" creationid="RAFAEL" creationdate="20200804T025916Z">
+        <seg>Selecione a pasta que contém planos de layout definidos pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the folder containing wildcard layout plans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030029Z" creationid="RAFAEL" creationdate="20200804T030029Z">
+        <seg>Selecione a pasta que contém os planos genéricos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this and the message will be sent to all players</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232607Z" creationid="RAFAEL" creationdate="20200802T232607Z">
@@ -14348,6 +14388,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225500Z" creationid="RAFAEL" creationdate="20200802T225500Z">
         <seg>Montar uma nova produção para esta empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set your rent to a percentage above or below the current market price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025805Z" creationid="RAFAEL" creationdate="20200804T025805Z">
+        <seg>Defina seu aluguel para uma porcentagem acima ou abaixo do preço atual de mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16365,6 +16413,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231037Z" creationid="RAFAEL" creationdate="20200802T231037Z">
         <seg>Atualize esta unidade de fabricação para usar a mais recente tecnologia de produção que sua empresa possui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Filters at the top of this screen to select firms to apply the change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025750Z" creationid="RAFAEL" creationdate="20200804T025750Z">
+        <seg>Use Filtros na parte superior desta tela para selecionar empresas para aplicar a alteração.</seg>
       </tuv>
     </tu>
     <tu>
