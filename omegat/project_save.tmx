@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A growing wage rate means that people are earning more money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024808Z" creationid="RAFAEL" creationdate="20200804T024808Z">
+        <seg>Uma taxa salarial crescente significa que as pessoas estão ganhando mais dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T020126Z" creationid="RAFAEL" creationdate="20200804T020126Z">
@@ -8440,6 +8448,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024850Z" creationid="RAFAEL" creationdate="20200804T024850Z">
+        <seg>Taxa de Inflação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Strength=Normal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010932Z" creationid="Olivier" creationdate="20200802T010932Z">
@@ -9348,6 +9364,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231126Z" creationid="RAFAEL" creationdate="20200802T231126Z">
         <seg>Link para um novo fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loan Interest Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025008Z" creationid="RAFAEL" creationdate="20200804T025008Z">
+        <seg>Taxa de juros de Empréstimo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15456,10 +15480,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024914Z" creationid="RAFAEL" creationdate="20200804T024914Z">
+        <seg>A taxa de inflação é afetada pela taxa de desemprego (as pessoas gastam menos quando estão desempregadas) e pela demanda e oferta de dinheiro (uma maior oferta de dinheiro promove gastos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
         <seg>A companhia de seguros não possui caixa suficiente para pagar todas as suas obrigações de contrato de seguro em reservas de sinistros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The interest rate is set by the central bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025022Z" creationid="RAFAEL" creationdate="20200804T025022Z">
+        <seg>A taxa de juros é definida pelo banco central.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16445,6 +16485,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
         <seg>Quando a barra de demanda (laranja) é mais longa que a barra de oferta (amarela), significa que você não tem oferta suficiente para atender à demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the interest rate is high, the money supply is also tight.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025113Z" creationid="RAFAEL" creationdate="20200804T025113Z">
+        <seg>Quando a taxa de juros é alta, a oferta de dinheiro também é apertada.</seg>
       </tuv>
     </tu>
     <tu>
