@@ -5335,6 +5335,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial stocks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031419Z" creationid="RAFAEL" creationdate="20200804T031419Z">
+        <seg>Ações financeiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm Filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202732Z" creationid="RAFAEL" creationdate="20200802T202732Z">
@@ -11280,6 +11288,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show companies that sell consumer products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031451Z" creationid="RAFAEL" creationdate="20200804T031451Z">
+        <seg>Mostrar apenas as empresas que vendem produtos de consumo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show financial companies, including companies whose main business activities are investing into other companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031441Z" creationid="RAFAEL" creationdate="20200804T031441Z">
+        <seg>Mostrar apenas empresas financeiras, incluindo empresas cujas principais atividades comerciais estão investindo em outras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show index stocks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031148Z" creationid="RAFAEL" creationdate="20200804T031148Z">
@@ -11300,6 +11324,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232244Z" creationid="RAFAEL" creationdate="20200802T232244Z">
         <seg>Mostrar apenas as indústrias e classes de produtos que sua empresa domina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show media stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031400Z" creationid="RAFAEL" creationdate="20200804T031400Z">
+        <seg>Mostrar apenas as ações da mídia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show real estate stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031326Z" creationid="RAFAEL" creationdate="20200804T031311Z">
+        <seg>Mostrar apenas as ações das imobiliárias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16117,6 +16157,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225310Z" creationid="RAFAEL" creationdate="20200802T225310Z">
         <seg>Este é um produto agrícola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a private company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031517Z" creationid="RAFAEL" creationdate="20200804T031517Z">
+        <seg>Esta é uma empresa privada.</seg>
       </tuv>
     </tu>
     <tu>
