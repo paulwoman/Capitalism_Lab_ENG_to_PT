@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the same supplier change to other firms of yours.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025641Z" creationid="RAFAEL" creationdate="20200804T025641Z">
+        <seg>Aplique a mesma mudança de fornecedor a outras empresas suas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply this price change to all your retail stores in the same city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212559Z" creationid="RAFAEL" creationdate="20200802T212559Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T234928Z" creationid="User" creationdate="20200801T234928Z">
         <seg>Notas e moedas para a moeda reavaliada entrarão em circulação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch Switching Supplier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025627Z" creationid="RAFAEL" creationdate="20200804T025627Z">
+        <seg>Mudança de fornecedor por grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025422Z" creationid="RAFAEL" creationdate="20200804T025422Z">
         <seg>Clique aqui para cancelá-lo e manuseá-lo manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to cancel waiting and handle it manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025447Z" creationid="RAFAEL" creationdate="20200804T025447Z">
+        <seg>Clique aqui para cancelar a espera e lidar com ela manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6075,6 +6099,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223230Z" creationid="RAFAEL" creationdate="20200801T223230Z">
         <seg>Volte para a empresa selecionada anteriormente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to Firm Report and select firms to apply the change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025653Z" creationid="RAFAEL" creationdate="20200804T025653Z">
+        <seg>Vá até o Relatório da empresa e selecione empresas para aplicar a mudança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16025,6 +16057,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle whether the supplier list should only show warehouses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025558Z" creationid="RAFAEL" creationdate="20200804T025558Z">
+        <seg>Determina se a lista de fornecedores deve mostrar apenas os armazéns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toolbox</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204324Z" creationid="RAFAEL" creationdate="20200801T204324Z">
@@ -16633,6 +16673,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot issue new shares to the public too frequently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025507Z" creationid="RAFAEL" creationdate="20200804T025507Z">
+        <seg>Não se pode emitir novas ações para o público com demasiada freqüência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have done an excellent job as the mayor of|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005322Z" creationid="User" creationdate="20200802T005322Z">
@@ -16653,6 +16701,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200540Z" creationid="User" creationdate="20200802T200540Z">
         <seg>Você adquiriu com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have used a layout plan for this firm and it is now waiting for required inputs to manufacture this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025438Z" creationid="RAFAEL" creationdate="20200804T025438Z">
+        <seg>Você usou um plano de layout para esta empresa e agora está esperando os insumos necessários para fabricar este produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16693,6 +16749,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021453Z" creationid="RAFAEL" creationdate="20200804T021453Z">
         <seg>Você pode realocar esta empresa na mesma cidade, ou demoli-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may try again a few weeks later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025516Z" creationid="RAFAEL" creationdate="20200804T025516Z">
+        <seg>Você pode tentar novamente algumas semanas mais tarde.</seg>
       </tuv>
     </tu>
     <tu>
