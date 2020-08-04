@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to go to the Firm Summary report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023150Z" creationid="RAFAEL" creationdate="20200804T023150Z">
+        <seg>Clique aqui para acessar o relatório Resumo da Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to go to the Persons page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022023Z" creationid="RAFAEL" creationdate="20200804T022023Z">
@@ -2898,6 +2906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021544Z" creationid="RAFAEL" creationdate="20200804T021544Z">
         <seg>Clique aqui para alternar entre os modos de exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to toggle this filter on and off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023219Z" creationid="RAFAEL" creationdate="20200804T023219Z">
+        <seg>Clique aqui para ativar e desativar este filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,6 +14120,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shortcut to Firm Summary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023134Z" creationid="RAFAEL" creationdate="20200804T023134Z">
+        <seg>Atalho para o resumo da Empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012741Z" creationid="Olivier" creationdate="20200802T012741Z">
@@ -14172,6 +14196,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231136Z" creationid="RAFAEL" creationdate="20200802T231136Z">
         <seg>Mostrar o fornecedor atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show your corporation and subsidiaries only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023203Z" creationid="RAFAEL" creationdate="20200804T023203Z">
+        <seg>Mostre apenas sua corporação e subsidiárias</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +15288,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this retail store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023045Z" creationid="RAFAEL" creationdate="20200804T023045Z">
+        <seg>Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta loja varejista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
@@ -15645,6 +15685,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231640Z" creationid="RAFAEL" creationdate="20200802T231640Z">
         <seg>Ativar vendas internas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle News Popup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023256Z" creationid="RAFAEL" creationdate="20200804T023256Z">
+        <seg>Exibir notícias em pop-up</seg>
       </tuv>
     </tu>
     <tu>
