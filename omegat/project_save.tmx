@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural Zoning Tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032136Z" creationid="RAFAEL" creationdate="20200804T032136Z">
+        <seg>Ferramenta de Zoneamento Agrícola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Cities Or Current City filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205926Z" creationid="RAFAEL" creationdate="20200802T205926Z">
@@ -9440,6 +9448,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land plots marked by this tool will not be for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032258Z" creationid="RAFAEL" creationdate="20200804T032258Z">
+        <seg>Os terrenos marcados por esta ferramenta não estarão à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land-use planning</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225120Z" creationid="RAFAEL" creationdate="20200801T225120Z">
@@ -14496,6 +14512,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a land purpose and apply it to the entire city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032436Z" creationid="RAFAEL" creationdate="20200804T032436Z">
+        <seg>Escolha uma atribuição de terras e a aplique a toda a cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a new input material</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214742Z" creationid="RAFAEL" creationdate="20200802T214742Z">
@@ -15896,6 +15920,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The land cost in agricultural zones are significantly lower than other zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032204Z" creationid="RAFAEL" creationdate="20200804T032204Z">
+        <seg>O custo da terra nas zonas agrícolas é significativamente mais baixo do que em outras zonas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The new advertising pricing (the cost per thousand impressions) will become effective next month.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225155Z" creationid="RAFAEL" creationdate="20200802T225155Z">
@@ -16417,6 +16449,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the menu for applying a specific land purpose for the entire city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032407Z" creationid="RAFAEL" creationdate="20200804T032407Z">
+        <seg>Alterne o menu para aplicar uma finalidade específica da terra para toda a cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle whether showing only companies in which you own shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031007Z" creationid="RAFAEL" creationdate="20200804T031007Z">
@@ -16777,10 +16817,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to agricultural zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032149Z" creationid="RAFAEL" creationdate="20200804T032149Z">
+        <seg>Use esta ferramenta para definir parcelas de terra selecionadas para zonas agrícolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this tool to set selected land plots to commercial zones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031938Z" creationid="RAFAEL" creationdate="20200804T031938Z">
         <seg>Use esta ferramenta para definir terrenos selecionados para zonas comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to industrial zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032126Z" creationid="RAFAEL" creationdate="20200804T032126Z">
+        <seg>Use esta ferramenta para definir parcelas de terreno selecionadas para zonas industriais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17413,6 +17469,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031832Z" creationid="RAFAEL" creationdate="20200804T031832Z">
         <seg>Ferramenta de Zoneamento - Qualquer Finalidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoning Tool - Not For Sale</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032246Z" creationid="RAFAEL" creationdate="20200804T032246Z">
+        <seg>Ferramenta de Zoneamento - Não está à venda</seg>
       </tuv>
     </tu>
     <tu>
