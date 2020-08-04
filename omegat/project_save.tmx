@@ -2790,6 +2790,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to go to the Corporate Details page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021944Z" creationid="RAFAEL" creationdate="20200804T021944Z">
+        <seg>Clique aqui para ir para a página de Detalhes Corporativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to go to the Persons page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022023Z" creationid="RAFAEL" creationdate="20200804T022023Z">
+        <seg>Clique aqui para ir para a página de Pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
@@ -32763,8 +32779,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>`</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T004842Z" creationid="Olivier" creationdate="20200802T004842Z">
-        <seg>`</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021929Z" creationid="Olivier" creationdate="20200802T004842Z">
+        <seg>-`</seg>
       </tuv>
     </tu>
     <tu>
