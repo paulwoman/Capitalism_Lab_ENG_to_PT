@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Balance market shares and profit margins and set prices sensibly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030702Z" creationid="RAFAEL" creationdate="20200804T030702Z">
+        <seg>Equilibrar quotas de mercado e margens de lucro e estabelecer preços de forma sensata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Banknotes and coins for the revalued currency will enter into circulation.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T234928Z" creationid="User" creationdate="20200801T234928Z">
@@ -9472,6 +9480,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limit the list to only show persons in your group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030855Z" creationid="RAFAEL" creationdate="20200804T030855Z">
+        <seg>Limite a lista para mostrar apenas as pessoas de seu grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Limit the list to only show the executive staff in your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030836Z" creationid="RAFAEL" creationdate="20200804T030836Z">
+        <seg>Limite a lista apenas aos executivos de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link This Item</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223104Z" creationid="Olivier" creationdate="20200802T004810Z">
@@ -9524,6 +9548,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132037Z" creationid="Olivier" creationdate="20200730T132037Z">
         <seg>Saqueadores roubaram |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lower prices to gain market shares at the expense of profit margins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030642Z" creationid="RAFAEL" creationdate="20200804T030642Z">
+        <seg>Preços mais baixos para ganhar quotas de mercado às custas das margens de lucro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10132,6 +10164,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013732Z" creationid="Olivier" creationdate="20200802T013732Z">
         <seg>Marketing=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximize profit margins by raising prices at the expense of market shares and capacity utilization rates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030620Z" creationid="RAFAEL" creationdate="20200804T030620Z">
+        <seg>Maximizar as margens de lucro elevando os preços em detrimento das quotas de mercado e das taxas de utilização de capacidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16717,6 +16757,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
         <seg>Quando todos os trabalhadores de uma unidade se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selecting a supplier, the freight cost is a very important factor to consider.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030740Z" creationid="RAFAEL" creationdate="20200804T030740Z">
+        <seg>Ao selecionar um fornecedor, o custo do frete é um fator muito importante a ser considerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selecting a supplier, the freight cost is not a major factor to consider.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030722Z" creationid="RAFAEL" creationdate="20200804T030722Z">
+        <seg>Ao selecionar um fornecedor, o custo do frete não é um fator importante a ser considerado.</seg>
       </tuv>
     </tu>
     <tu>
