@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: Enter)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030125Z" creationid="RAFAEL" creationdate="20200804T030125Z">
+        <seg>(Atalho: Enter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
@@ -2914,6 +2922,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025447Z" creationid="RAFAEL" creationdate="20200804T025447Z">
         <seg>Clique aqui para cancelar a espera e lidar com ela manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to finish editing this firm's description.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030140Z" creationid="RAFAEL" creationdate="20200804T030140Z">
+        <seg>Clique aqui para terminar de editar a descrição desta firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to finish editing this layout plan's description.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030211Z" creationid="RAFAEL" creationdate="20200804T030211Z">
+        <seg>Clique aqui para terminar de editar a descrição deste plano de layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14616,6 +14640,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort by Challenge Game Title.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030253Z" creationid="RAFAEL" creationdate="20200804T030253Z">
+        <seg>Ordenar por título de jogo de desafio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort the layout plans in this library by their descriptions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232442Z" creationid="RAFAEL" creationdate="20200802T232442Z">
@@ -15937,6 +15969,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This firm's description - click here to edit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030116Z" creationid="RAFAEL" creationdate="20200804T030116Z">
+        <seg>Descrição desta empresa - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a farm product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225310Z" creationid="RAFAEL" creationdate="20200802T225310Z">
@@ -15949,6 +15989,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223742Z" creationid="RAFAEL" creationdate="20200801T223742Z">
         <seg>Esta é a data atual do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This layout plan's description - click here to edit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
+        <seg>Descrição deste plano de layout - clique aqui para editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16637,6 +16685,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224630Z" creationid="RAFAEL" creationdate="20200802T224502Z">
         <seg>Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
+        <seg>Os planos de layout Genericos são para fábricas e podem ser usados para produzir quaisquer produtos com o mesmo número de entradas.</seg>
       </tuv>
     </tu>
     <tu>
