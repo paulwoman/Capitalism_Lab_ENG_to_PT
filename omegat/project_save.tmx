@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090743Z" creationid="Olivier" creationdate="20200804T090743Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090748Z" creationid="Olivier" creationdate="20200804T090748Z">
+        <seg>.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013824Z" creationid="Olivier" creationdate="20200802T013824Z">
@@ -20137,6 +20153,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0817]&lt;0037&gt;Marketing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090721Z" creationid="Olivier" creationdate="20200804T090721Z">
+        <seg>[0817]&lt;0037&gt;Marketing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0818]&lt;0038&gt;Training|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084916Z" creationid="Olivier" creationdate="20200728T084916Z">
@@ -20977,6 +21001,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0953]&lt;0161&gt;Rank|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090726Z" creationid="Olivier" creationdate="20200804T090726Z">
+        <seg>[0953]&lt;0161&gt;Rank|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0954]&lt;0162&gt;Leader|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085451Z" creationid="Olivier" creationdate="20200728T085451Z">
@@ -21021,6 +21053,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085519Z" creationid="Olivier" creationdate="20200728T085519Z">
         <seg>[1017]&lt;0174&gt;Gráfico|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1018]&lt;0175&gt;Total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090730Z" creationid="Olivier" creationdate="20200804T090730Z">
+        <seg>[1018]&lt;0175&gt;Total|</seg>
       </tuv>
     </tu>
     <tu>
@@ -21541,6 +21581,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T181620Z" creationid="Olivier" creationdate="20200728T091640Z">
         <seg>[1093]&lt;0249&gt;Acionistas públicos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1094]&lt;0250&gt;total|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090733Z" creationid="Olivier" creationdate="20200804T090733Z">
+        <seg>[1094]&lt;0250&gt;total|</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,6 +23109,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180823Z" creationid="Olivier" creationdate="20200728T180823Z">
         <seg>[1393]&lt;0458&gt;Produção de matéria-prima|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090737Z" creationid="Olivier" creationdate="20200804T090737Z">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
       </tuv>
     </tu>
     <tu>
@@ -25021,6 +25077,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102431Z" creationid="Olivier" creationdate="20200730T102431Z">
         <seg>[1958]&lt;0907&gt;Lucro:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1960]&lt;0909&gt;Local|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090751Z" creationid="Olivier" creationdate="20200804T090751Z">
+        <seg>[1960]&lt;0909&gt;Local|</seg>
       </tuv>
     </tu>
     <tu>
@@ -28057,6 +28121,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2462]&lt;1352&gt;Neutral|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090755Z" creationid="Olivier" creationdate="20200804T090755Z">
+        <seg>[2462]&lt;1352&gt;Neutral|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2463]&lt;1353&gt;Good|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170631Z" creationid="Olivier" creationdate="20200730T170631Z">
@@ -28097,6 +28169,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2469]&lt;1359&gt;C.E.O.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090758Z" creationid="Olivier" creationdate="20200804T090758Z">
+        <seg>[2469]&lt;1359&gt;C.E.O.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2470]&lt;1360&gt;, you must terminate the employment of the current one.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170713Z" creationid="Olivier" creationdate="20200730T170713Z">
@@ -28117,6 +28197,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170725Z" creationid="Olivier" creationdate="20200730T170725Z">
         <seg>[2472]&lt;1362&gt;presidente de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2473]&lt;1363&gt;C.E.O.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090803Z" creationid="Olivier" creationdate="20200804T090803Z">
+        <seg>[2473]&lt;1363&gt;C.E.O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28181,6 +28269,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170928Z" creationid="Olivier" creationdate="20200730T170928Z">
         <seg>[2481]&lt;1371&gt;Presidente de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2482]&lt;1372&gt;C.E.O.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090809Z" creationid="Olivier" creationdate="20200804T090809Z">
+        <seg>[2482]&lt;1372&gt;C.E.O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29105,6 +29201,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2641]&lt;1521&gt;, CTO, |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090839Z" creationid="Olivier" creationdate="20200804T090839Z">
+        <seg>[2641]&lt;1521&gt;, CTO, |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2642]&lt;1522&gt;The media does not have any advertising space available currently.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172328Z" creationid="Olivier" creationdate="20200730T172328Z">
@@ -29409,10 +29513,50 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2684]&lt;C006&gt;Thomas Lam, Charles Wong, Stephen Ho|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090842Z" creationid="Olivier" creationdate="20200804T090842Z">
+        <seg>[2684]&lt;C006&gt;Thomas Lam, Charles Wong, Stephen Ho|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2685]&lt;C007&gt;Graphics:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T234521Z" creationid="User" creationdate="20200801T234521Z">
         <seg>[2685]&lt;C007&gt;Graficos:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2686]&lt;C008&gt;Ada Chui, Yanwei|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090844Z" creationid="Olivier" creationdate="20200804T090844Z">
+        <seg>[2686]&lt;C008&gt;Ada Chui, Yanwei|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090845Z" creationid="Olivier" creationdate="20200804T090845Z">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090846Z" creationid="Olivier" creationdate="20200804T090846Z">
+        <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2689]&lt;C011&gt;David Lee|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090846Z" creationid="Olivier" creationdate="20200804T090846Z">
+        <seg>[2689]&lt;C011&gt;David Lee|</seg>
       </tuv>
     </tu>
     <tu>
@@ -29433,6 +29577,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2692]&lt;C014&gt;Daniel Yip, Eva Cheung, Alan Ng|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090848Z" creationid="Olivier" creationdate="20200804T090848Z">
+        <seg>[2692]&lt;C014&gt;Daniel Yip, Eva Cheung, Alan Ng|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2693]&lt;C015&gt; |</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200801T203521Z" creationid="Olivier" creationdate="20200801T203521Z">
@@ -29445,6 +29597,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200801T203526Z" creationid="Olivier" creationdate="20200801T203526Z">
         <seg>[2694]&lt;C016&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2696]&lt;NANA&gt;N/A|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090849Z" creationid="Olivier" creationdate="20200804T090849Z">
+        <seg>[2696]&lt;NANA&gt;N/A|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30145,6 +30305,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090855Z" creationid="Olivier" creationdate="20200804T090855Z">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174122Z" creationid="Olivier" creationdate="20200730T174122Z">
@@ -30317,6 +30485,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174336Z" creationid="Olivier" creationdate="20200730T174336Z">
         <seg>[2810]&lt;FRE4&gt;caminhão - Porto maritimo ao comprador:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090857Z" creationid="Olivier" creationdate="20200804T090857Z">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30529,6 +30705,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090859Z" creationid="Olivier" creationdate="20200804T090859Z">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2839]&lt;AIG7&gt;Software Focused|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T001203Z" creationid="User" creationdate="20200802T001203Z">
@@ -30537,10 +30721,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2840]&lt;AIS7&gt;Software|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090859Z" creationid="Olivier" creationdate="20200804T090859Z">
+        <seg>[2840]&lt;AIS7&gt;Software|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2841]&lt;AIG8&gt;Internet Focused|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T001246Z" creationid="User" creationdate="20200802T001246Z">
         <seg>[2841]&lt;AIG8&gt;Focado em Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090900Z" creationid="Olivier" creationdate="20200804T090900Z">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30601,6 +30801,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090902Z" creationid="Olivier" creationdate="20200804T090902Z">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2851]&lt;CIT3&gt;in this city (Total:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T001646Z" creationid="User" creationdate="20200802T001646Z">
@@ -30613,6 +30821,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T001725Z" creationid="User" creationdate="20200802T001725Z">
         <seg>[2852]&lt;AIG9&gt;focado em Telecom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090904Z" creationid="Olivier" creationdate="20200804T090904Z">
+        <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
       </tuv>
     </tu>
     <tu>
@@ -31101,6 +31317,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T004608Z" creationid="User" creationdate="20200802T004608Z">
         <seg>[2914]&lt;ACP2&gt;adquire a empresa privada|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2915]&lt;IPO1&gt;IPO!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090907Z" creationid="Olivier" creationdate="20200804T090907Z">
+        <seg>[2915]&lt;IPO1&gt;IPO!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -33329,6 +33553,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3194]&lt;NORM&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090912Z" creationid="Olivier" creationdate="20200804T090912Z">
+        <seg>[3194]&lt;NORM&gt;Normal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3195]&lt;MOR1&gt;50% more|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220837Z" creationid="User" creationdate="20200803T220837Z">
@@ -34035,8 +34267,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>of |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170749Z" creationid="Olivier" creationdate="20200730T170749Z">
-        <seg>de |</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090832Z" creationid="Olivier" creationdate="20200730T170749Z">
+        <seg>de|</seg>
       </tuv>
     </tu>
     <tu>
