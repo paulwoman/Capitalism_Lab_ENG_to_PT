@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you may also transfer it to another company under your control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015133Z" creationid="RAFAEL" creationdate="20200805T015133Z">
+        <seg>Alternativamente, você também pode transferi-la para outra empresa sob seu controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -2738,6 +2746,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230227Z" creationid="RAFAEL" creationdate="20200802T230227Z">
         <seg>Taxa de utilização da capacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production tech</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014919Z" creationid="RAFAEL" creationdate="20200805T014919Z">
+        <seg>Mudar a tecnologia de produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production tech of the entire firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014955Z" creationid="RAFAEL" creationdate="20200805T014955Z">
+        <seg>Mudar a tecnologia de produção de toda a empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production technologies of all manufacturing units in the current firm to the selected level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015007Z" creationid="RAFAEL" creationdate="20200805T015007Z">
+        <seg>Mudar as tecnologias de produção de todas as unidades de produção da empresa atual para o nível selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production technology of the current manufacturing unit to the selected level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014927Z" creationid="RAFAEL" creationdate="20200805T014927Z">
+        <seg>Mudar a tecnologia de produção da unidade de produção atual para o nível selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14608,6 +14648,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate, Demolish or Transfer this firm (hotkey: Ctrl-X)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015123Z" creationid="RAFAEL" creationdate="20200805T015123Z">
+        <seg>Relocar, Demolir ou Transferir esta empresa (Atalho: Ctrl-X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove land-use restrictions on any land plots owned by the government.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000730Z" creationid="RAFAEL" creationdate="20200805T000730Z">
@@ -17729,6 +17777,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will associate the product with the selected image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014934Z" creationid="RAFAEL" creationdate="20200805T014934Z">
+        <seg>Isto associará o produto com a imagem selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will skip the tutorials|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005955Z" creationid="User" creationdate="20200802T005955Z">
@@ -18037,6 +18093,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013735Z" creationid="Olivier" creationdate="20200802T013735Z">
         <seg>Training=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer or Demolish this apartment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015143Z" creationid="RAFAEL" creationdate="20200805T015143Z">
+        <seg>Transferir ou Demolir este apartamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer or Demolish this commercial building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015203Z" creationid="RAFAEL" creationdate="20200805T015203Z">
+        <seg>Transferir ou Demolir este edifício comercial</seg>
       </tuv>
     </tu>
     <tu>
@@ -18917,6 +18989,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014828Z" creationid="RAFAEL" creationdate="20200805T014828Z">
         <seg>Você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer this apartment to another company under your control, or demolish it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015153Z" creationid="RAFAEL" creationdate="20200805T015153Z">
+        <seg>Você pode transferir este apartamento para outra empresa sob seu controle, ou demoli-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer this commercial building to another company under your control, or demolish it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015212Z" creationid="RAFAEL" creationdate="20200805T015212Z">
+        <seg>Você pode transferir este edifício comercial para outra empresa sob seu controle, ou demoli-lo.</seg>
       </tuv>
     </tu>
     <tu>
