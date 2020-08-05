@@ -1054,6 +1054,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Manage Apartments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004040Z" creationid="RAFAEL" creationdate="20200805T004040Z">
+        <seg>Gestão automática de apartamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Manage Commercial Buildings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004127Z" creationid="RAFAEL" creationdate="20200805T004127Z">
+        <seg>Gerenciamento automático de edifícios comerciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Manage Media Firms</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003956Z" creationid="RAFAEL" creationdate="20200805T003956Z">
@@ -3242,6 +3258,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225238Z" creationid="RAFAEL" creationdate="20200802T225238Z">
         <seg>Clique aqui para ver os produtos que são fabricados com este semi-produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to select a type of civic building for the mini map to display the geographical coverage of its services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004308Z" creationid="RAFAEL" creationdate="20200805T004308Z">
+        <seg>Clique aqui para selecionar um tipo de edifício cívico para o mini mapa para exibir a cobertura geográfica de seus serviços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to select another type of civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004253Z" creationid="RAFAEL" creationdate="20200805T004253Z">
+        <seg>Clique aqui para selecionar outro tipo de edifício cívico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6575,6 +6607,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Government Mode (hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004324Z" creationid="RAFAEL" creationdate="20200805T004324Z">
+        <seg>Modo Governo (Atalho: Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gray colors mean imports from seaports.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230636Z" creationid="RAFAEL" creationdate="20200802T230636Z">
@@ -9336,6 +9376,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It will set the apartments' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004108Z" creationid="RAFAEL" creationdate="20200805T004108Z">
+        <seg>Ele definirá os aluguéis dos apartamentos com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004201Z" creationid="RAFAEL" creationdate="20200805T004201Z">
+        <seg>Ele definirá os aluguéis dos edifícios comerciais com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its bondholders lost all their investments in the bonds.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195642Z" creationid="User" creationdate="20200802T195642Z">
@@ -10660,6 +10716,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221839Z" creationid="RAFAEL" creationdate="20200801T221839Z">
         <seg>Mini Map (Tecla de atalho: 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mini Map - Public Service mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004231Z" creationid="RAFAEL" creationdate="20200805T004231Z">
+        <seg>Mini mapa - Modo de serviço público</seg>
       </tuv>
     </tu>
     <tu>
@@ -12540,6 +12604,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182016Z" creationid="Olivier" creationdate="20200730T132112Z">
         <seg>Panico por parte dos acionistas!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People emigrating from the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004210Z" creationid="RAFAEL" creationdate="20200805T004210Z">
+        <seg>Pessoas que emigram da cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16376,6 +16448,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The low value of this aspect of quality of life has caused some people to emigrate from this city to other cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004222Z" creationid="RAFAEL" creationdate="20200805T004222Z">
+        <seg>O baixo valor deste aspecto da qualidade de vida fez com que algumas pessoas emigrassem desta cidade para outras cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini map currently shows the geographical coverage of this type of civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004241Z" creationid="RAFAEL" creationdate="20200805T004241Z">
+        <seg>O mini mapa mostra atualmente a cobertura geográfica deste tipo de construção cívica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The new advertising pricing (the cost per thousand impressions) will become effective next month.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225155Z" creationid="RAFAEL" creationdate="20200802T225155Z">
@@ -17717,6 +17805,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002732Z" creationid="RAFAEL" creationdate="20200805T002732Z">
         <seg>Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing apartments for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004051Z" creationid="RAFAEL" creationdate="20200805T004051Z">
+        <seg>Quando isso for ativado, o computador gerenciará automaticamente todos os apartamentos da cidade existentes para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing commercial buildings for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004142Z" creationid="RAFAEL" creationdate="20200805T004142Z">
+        <seg>Quando isto for ativado, o computador gerenciará automaticamente todos os edifícios comerciais existentes da cidade para você.</seg>
       </tuv>
     </tu>
     <tu>
