@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Tax = Product Price X Consumer Tax Rate).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003659Z" creationid="RAFAEL" creationdate="20200805T003659Z">
+        <seg>(Imposto = Preço do produto X Taxa de imposto ao consumidor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215958Z" creationid="RAFAEL" creationdate="20200802T215958Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003242Z" creationid="RAFAEL" creationdate="20200805T003242Z">
         <seg>Um alto valor significa que diferentes regiões da cidade têm uma boa cobertura policial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A high value means that people living in different regions of the city is well served.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003427Z" creationid="RAFAEL" creationdate="20200805T003427Z">
+        <seg>Um alto valor significa que as pessoas que vivem em diferentes regiões da cidade são bem servidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023647Z" creationid="RAFAEL" creationdate="20200804T023647Z">
         <seg>Imigrantes Anuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annual limit on immigrants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003525Z" creationid="RAFAEL" creationdate="20200805T003525Z">
+        <seg>Limite anual para imigrantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Citizens' overall satisfaction of the services</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003451Z" creationid="RAFAEL" creationdate="20200805T003451Z">
+        <seg>A satisfação geral dos cidadãos com os serviços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Average</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225801Z" creationid="RAFAEL" creationdate="20200802T225801Z">
@@ -4006,6 +4038,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Tax Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003629Z" creationid="RAFAEL" creationdate="20200805T003629Z">
+        <seg>Taxas de impostos ao consumidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer taxes are charged whenever consumers spending money on goods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003642Z" creationid="RAFAEL" creationdate="20200805T003642Z">
+        <seg>Os impostos ao consumidor são cobrados sempre que o consumidor gasta dinheiro em mercadorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Deadline=2020-12-31</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010801Z" creationid="Olivier" creationdate="20200802T010801Z">
@@ -4130,6 +4178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003253Z" creationid="RAFAEL" creationdate="20200805T003253Z">
         <seg>Por outro lado, um valor baixo indica que algumas regiões da cidade não têm cobertura policial adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, a low value indicates that people in some regions of the city do not have good access to the services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003438Z" creationid="RAFAEL" creationdate="20200805T003438Z">
+        <seg>Por outro lado, um valor baixo indica que as pessoas em algumas regiões da cidade não têm um bom acesso aos serviços.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16681,6 +16737,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a product of the above three values and it ultimately tells whether the mayor is doing a good job providing services of this kind to the citizens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003511Z" creationid="RAFAEL" creationdate="20200805T003511Z">
+        <seg>Este é um produto dos três valores acima e, em última análise, diz se o prefeito está fazendo um bom trabalho fornecendo serviços deste tipo para os cidadãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a public company</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031535Z" creationid="RAFAEL" creationdate="20200804T031535Z">
@@ -17513,10 +17577,34 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weak consumer spending will in turn adversely affect the business sector.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003723Z" creationid="RAFAEL" creationdate="20200805T003723Z">
+        <seg>Os fracos gastos dos consumidores, por sua vez, afetarão negativamente o setor empresarial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When #Internal Sale# is enabled, competitors cannot purchase this product from you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231709Z" creationid="RAFAEL" creationdate="20200802T231709Z">
         <seg>Quando #Venda interna# estiver ativada, os concorrentes não poderão comprar este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a city does not have sufficient job opportunities for new immigrants, or its public facilities cannot keep up with the demand by its growing population, the city is likely to tighten its immigration policy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003549Z" creationid="RAFAEL" creationdate="20200805T003549Z">
+        <seg>Quando uma cidade não tem oportunidades de emprego suficientes para novos imigrantes, ou quando suas instalações públicas não conseguem acompanhar a demanda de sua crescente população, é provável que a cidade aperte sua política de imigração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a city's consumer tax rate is too high, consumer spending will decline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003711Z" creationid="RAFAEL" creationdate="20200805T003711Z">
+        <seg>Quando a taxa de imposto de consumo de uma cidade é muito alta, os gastos dos consumidores diminuirão.</seg>
       </tuv>
     </tu>
     <tu>
