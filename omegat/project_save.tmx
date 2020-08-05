@@ -18401,6 +18401,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the [+][-] buttons to set the tech level for this custom image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015607Z" creationid="RAFAEL" creationdate="20200805T015607Z">
+        <seg>Use os botões [+] [-] para definir o nível tecnológico para esta imagem personalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the slider to set the budget for upgrading the facilities of this civic building.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002913Z" creationid="RAFAEL" creationdate="20200805T002913Z">
@@ -18813,6 +18821,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014103Z" creationid="RAFAEL" creationdate="20200805T014103Z">
         <seg>Quando seu nível técnico tiver atingido o nível designado, a imagem personalizada será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your tech level has reached this level, the current custom image will be displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015634Z" creationid="RAFAEL" creationdate="20200805T015634Z">
+        <seg>Quando seu nível tecnológico atingir esse nível, a imagem personalizada atual será exibida.</seg>
       </tuv>
     </tu>
     <tu>
