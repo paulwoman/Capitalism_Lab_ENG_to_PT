@@ -4030,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm the price change (hotkey: '*' or ']')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005325Z" creationid="RAFAEL" creationdate="20200805T005325Z">
+        <seg>Confirmar a mudança de preço (Atalho: '*' ou ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194738Z" creationid="RAFAEL" creationdate="20200802T194738Z">
@@ -7064,10 +7072,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Left arrow key to go to the previous layout plan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005423Z" creationid="RAFAEL" creationdate="20200805T005423Z">
+        <seg>Atalho: Tecla de seta à esquerda para ir para o plano de layout anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230554Z" creationid="RAFAEL" creationdate="20200802T230554Z">
         <seg>Tecla de atalho: Pressione a primeira letra do nome de uma unidade funcional para adicioná-la instantaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Right arrow key to go to the next layout plan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005438Z" creationid="RAFAEL" creationdate="20200805T005438Z">
+        <seg>Atalho: Tecla de seta para a direita para ir para o próximo plano de layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14176,6 +14200,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Red text denotes that layout plans or inputs are not available for the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005357Z" creationid="RAFAEL" creationdate="20200805T005357Z">
+        <seg>O texto vermelho denota que os planos de layout ou insumos não estão disponíveis para o produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021437Z" creationid="RAFAEL" creationdate="20200804T021437Z">
@@ -17185,6 +17217,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To locate the product you want, type the first letter of the product name</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005258Z" creationid="RAFAEL" creationdate="20200805T005258Z">
+        <seg>Para localizar o produto que você deseja, digite a primeira letra do nome do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To remedy this, you may transfer funds from the parent corporation to the bank.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192615Z" creationid="User" creationdate="20200802T192615Z">
@@ -17621,6 +17661,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025750Z" creationid="RAFAEL" creationdate="20200804T025750Z">
         <seg>Use Filtros na parte superior desta tela para selecionar empresas para aplicar a alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Space key to show or hide this drop down list of product filters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005344Z" creationid="RAFAEL" creationdate="20200805T005344Z">
+        <seg>Use a tecla Space para mostrar ou ocultar esta lista suspensa de filtros de produtos.</seg>
       </tuv>
     </tu>
     <tu>
