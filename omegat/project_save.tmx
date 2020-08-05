@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Adjust Operation Levels of Civic Buildings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023652Z" creationid="RAFAEL" creationdate="20200805T023652Z">
+        <seg>Níveis de operação de autoajuste de edifícios cívicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Link Supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222327Z" creationid="RAFAEL" creationdate="20200802T222327Z">
@@ -14120,6 +14128,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Potential</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023410Z" creationid="RAFAEL" creationdate="20200805T023410Z">
+        <seg>Potencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
@@ -17840,10 +17856,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The red dot indicates the CBD (central business district).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023640Z" creationid="RAFAEL" creationdate="20200805T023640Z">
+        <seg>O ponto vermelho indica o DCC (distrito comercial central).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
         <seg>Quanto menor a distância para o Distrito Central de Negócios(DCN), maior é a classificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023551Z" creationid="RAFAEL" creationdate="20200805T023551Z">
+        <seg>A velocidade na qual a habilidade de um funcionário aumenta é afetada pelo potencial do funcionário e pelo orçamento de treinamento da empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19349,6 +19381,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002732Z" creationid="RAFAEL" creationdate="20200805T002732Z">
         <seg>Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically adjust the operation levels of all of the city's civic facilities for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023703Z" creationid="RAFAEL" creationdate="20200805T023703Z">
+        <seg>Quando isso for ativado, o computador ajustará automaticamente os níveis de operação de todas as instalações cívicas da cidade para você.</seg>
       </tuv>
     </tu>
     <tu>
