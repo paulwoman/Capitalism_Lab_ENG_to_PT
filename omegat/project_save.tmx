@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apps Availability</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031007Z" creationid="RAFAEL" creationdate="20200805T031007Z">
+        <seg>Disponibilité des applications </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Adjust Operation Levels of Civic Buildings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023652Z" creationid="RAFAEL" creationdate="20200805T023652Z">
@@ -3670,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the Corporation filter to "All" and the Firm Type filter to "Internet Company".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030841Z" creationid="RAFAEL" creationdate="20200805T030736Z">
+        <seg>Clique aqui para definir o filtro Empresa para "Todos" e o filtro Tipo de Negócio para "Empresa na Internet".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021527Z" creationid="RAFAEL" creationdate="20200804T021527Z">
@@ -4786,6 +4802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223720Z" creationid="RAFAEL" creationdate="20200801T223720Z">
         <seg>Data atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Internet Pricing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030854Z" creationid="RAFAEL" creationdate="20200805T030854Z">
+        <seg>Preço atual da Internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12080,6 +12104,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Month Internet Pricing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030917Z" creationid="RAFAEL" creationdate="20200805T030917Z">
+        <seg>Preços do próximo mês da Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Product</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214649Z" creationid="RAFAEL" creationdate="20200802T214649Z">
@@ -16440,6 +16472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a new Internet monthly subscription fee that will become effective next month.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030927Z" creationid="RAFAEL" creationdate="20200805T030927Z">
+        <seg>Estabelecer uma nova taxa de assinatura mensal da Internet que entrará em vigor no próximo mês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set dividend to be paid to shareholders at year end</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223714Z" creationid="RAFAEL" creationdate="20200802T223714Z">
@@ -18665,6 +18705,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates whether there are enough application software available for this OS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031021Z" creationid="RAFAEL" creationdate="20200805T031021Z">
+        <seg>Isto indica se há software de aplicação suficiente disponível para este sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a farm product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225310Z" creationid="RAFAEL" creationdate="20200802T225310Z">
@@ -18713,6 +18761,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the monthly subscription fee that the company charges customers for the Internet services provided.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030906Z" creationid="RAFAEL" creationdate="20200805T030906Z">
+        <seg>Esta é a taxa de assinatura mensal que a empresa cobra dos clientes pelos serviços de Internet fornecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is to prevent you from undercutting the supplier in the market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024628Z" creationid="RAFAEL" creationdate="20200805T024628Z">
@@ -18741,6 +18797,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012408Z" creationid="RAFAEL" creationdate="20200805T012408Z">
         <seg>Esse percentual é calculado dividindo-se o retorno total aos investidores (que é a soma dos dividendos pagos e ganhos de capital provenientes dos aumentos dos preços das ações nos últimos 365 dias) pelo preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is calculated based on the variety of the software applications available for this OS and their quality ratings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031034Z" creationid="RAFAEL" creationdate="20200805T031034Z">
+        <seg>Esta classificação é calculada com base na variedade das aplicações de software disponíveis para este sistema operacional e suas classificações de qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19517,6 +19581,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015607Z" creationid="RAFAEL" creationdate="20200805T015607Z">
         <seg>Use os botões [+] [-] para definir o nível tecnológico para esta imagem personalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the below list to limit the firm list to a specific type of Internet company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030835Z" creationid="RAFAEL" creationdate="20200805T030835Z">
+        <seg> Use a lista abaixo para limitar a lista de empresas a um tipo específico de empresa de Internet. </seg>
       </tuv>
     </tu>
     <tu>
