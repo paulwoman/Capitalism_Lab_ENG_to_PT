@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Click here now to view the supplier.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024638Z" creationid="RAFAEL" creationdate="20200805T024638Z">
+        <seg>(Clique aqui agora para ver o fornecedor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012919Z" creationid="RAFAEL" creationdate="20200805T012919Z">
@@ -1006,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024722Z" creationid="RAFAEL" creationdate="20200805T024722Z">
+        <seg>Um funcionário com um nível de lealdade de 80 ou superior não será caçado pela concorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -1210,6 +1226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013131Z" creationid="Olivier" creationdate="20200802T013131Z">
         <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically develop new versions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024746Z" creationid="RAFAEL" creationdate="20200805T024746Z">
+        <seg>Desenvolver automaticamente novas versões</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,6 +5695,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Employee loyalty</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024659Z" creationid="RAFAEL" creationdate="20200805T024659Z">
+        <seg>Lealdade dos funcionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable Auto Apply R&amp;D Results to your factories' manufacturing units.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195828Z" creationid="RAFAEL" creationdate="20200802T195828Z">
@@ -7460,6 +7492,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224621Z" creationid="RAFAEL" creationdate="20200802T224621Z">
         <seg>Contrate um novo Diretor de Tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire all</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024844Z" creationid="RAFAEL" creationdate="20200805T024809Z">
+        <seg>Contratar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire team leads for all functional units connected with the current one, choosing job candidates whose requested salaries are similar to the one's you hired.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024835Z" creationid="RAFAEL" creationdate="20200805T024835Z">
+        <seg>Contratar líderes de equipe para todas as unidades funcionais conectadas com a atual, escolhendo candidatos cujo salário solicitado seja semelhante ao do contratado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9516,6 +9564,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014715Z" creationid="RAFAEL" creationdate="20200805T014715Z">
         <seg>Se isto for permitido, qualquer empresa em sua Corporação e #subsidiárias# poderão sempre comprar produtos uma da outra, independentemente do ajuste #Venda Interna#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, it will automatically develop next versions of the software when more advanced tech has been researched.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024759Z" creationid="RAFAEL" creationdate="20200805T024759Z">
+        <seg>Se isto for ativado, ele desenvolverá automaticamente as próximas versões do software quando uma tecnologia mais avançada tiver sido pesquisada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,6 +16320,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up this factory for producing software products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024733Z" creationid="RAFAEL" creationdate="20200805T024733Z">
+        <seg>Montar esta fábrica para a produção de produtos de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up your factory to manufacture this product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022712Z" creationid="RAFAEL" creationdate="20200805T022712Z">
@@ -16372,6 +16436,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232112Z" creationid="RAFAEL" creationdate="20200802T232112Z">
         <seg>Mostre aqui se o nível tecnológico de sua empresa &gt;= 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show only private companies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024909Z" creationid="RAFAEL" creationdate="20200805T024909Z">
+        <seg>Mostrar somente empresas privadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -18409,6 +18481,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is to prevent you from undercutting the supplier in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024628Z" creationid="RAFAEL" creationdate="20200805T024628Z">
+        <seg>Isto é para evitar que o fornecedor não seja prejudicado no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This layout plan's description - click here to edit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
@@ -19587,8 +19667,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>When you sell a product that is sourced from an external supplier, if the supplier is also selling the same product in its own retail store, you will have to agree to the retail price set by the supplier.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024612Z" creationid="RAFAEL" creationdate="20200805T024612Z">
-        <seg>Quando você vende um produto que é proveniente de um fornecedor externo, se o fornecedor também estiver vendendo o mesmo produto em sua própria loja de varejo, você terá que concordar com o preço de varejo estabelecido pelo fornecedor</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024620Z" creationid="RAFAEL" creationdate="20200805T024612Z">
+        <seg>Quando você vende um produto que é proveniente de um fornecedor externo, se o fornecedor também estiver vendendo o mesmo produto em sua própria loja de varejo, você terá que concordar com o preço de varejo estabelecido pelo fornecedor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19725,6 +19805,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014050Z" creationid="RAFAEL" creationdate="20200805T014050Z">
         <seg>Você pode associar imagens personalizadas a seus produtos e atribuir um nível tecnológico a cada imagem de produto personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can increase employee loyalty in the following ways: 1) give salary raises 2) set a higher training budget.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024711Z" creationid="RAFAEL" creationdate="20200805T024711Z">
+        <seg>Você pode aumentar a lealdade dos funcionários das seguintes maneiras: 1) dar aumentos salariais 2) estabelecer um orçamento de treinamento mais elevado.</seg>
       </tuv>
     </tu>
     <tu>
