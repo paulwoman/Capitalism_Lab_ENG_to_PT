@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Added product design</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014143Z" creationid="RAFAEL" creationdate="20200805T014143Z">
+        <seg>Projeto do produto adicionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional funding for the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030526Z" creationid="RAFAEL" creationdate="20200804T030526Z">
@@ -15656,6 +15664,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show disabled product classes or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014341Z" creationid="RAFAEL" creationdate="20200805T014341Z">
+        <seg>Mostrar classes de produtos deficientes ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show here if your company's technology level &gt;= 30.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232112Z" creationid="RAFAEL" creationdate="20200802T232112Z">
@@ -16124,6 +16140,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230712Z" creationid="RAFAEL" creationdate="20200802T230712Z">
         <seg>Parar a ligação atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strong export will improve the city's employment significantly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014328Z" creationid="RAFAEL" creationdate="20200805T014328Z">
+        <seg>Uma forte exportação melhorará significativamente o emprego na cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16704,6 +16728,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Global Competitiveness Rating of the industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014242Z" creationid="RAFAEL" creationdate="20200805T014242Z">
+        <seg>A Classificação de Competitividade Global do setor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012139Z" creationid="RAFAEL" creationdate="20200805T011931Z">
@@ -16788,6 +16820,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002925Z" creationid="RAFAEL" creationdate="20200805T002925Z">
         <seg>O orçamento para a modernização das instalações deste edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The city's Competitiveness Rating of the industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014203Z" creationid="RAFAEL" creationdate="20200805T014203Z">
+        <seg>O Índice de Competitividade da indústria da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The city's volume of export of the industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014308Z" creationid="RAFAEL" creationdate="20200805T014308Z">
+        <seg>O volume de exportação da indústria da cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16924,6 +16972,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012331Z" creationid="RAFAEL" creationdate="20200805T012331Z">
         <seg>Quanto maior o rendimento dos dividendos, mais dinheiro é devolvido a cada investidor quando o dividendo é pago a cada ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The green background indicates that this product design has already been added to your library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014154Z" creationid="RAFAEL" creationdate="20200805T014154Z">
+        <seg>O fundo verde indica que este projeto de produto já foi adicionado à sua biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the city's competitiveness rating, the larger number of people are employed in the local industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014213Z" creationid="RAFAEL" creationdate="20200805T014213Z">
+        <seg>Quanto mais alta a classificação de competitividade da cidade, maior é o número de pessoas empregadas na indústria local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17293,6 +17357,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
         <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There will be export when the city's competitiveness rating exceeds the global competitiveness rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014320Z" creationid="RAFAEL" creationdate="20200805T014320Z">
+        <seg>Haverá exportação quando a classificação de competitividade da cidade exceder a classificação de competitividade global.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18441,6 +18513,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the city's competitiveness is weak, it will have to import large volumes of goods, hurting employment in the manufacturing sector.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014229Z" creationid="RAFAEL" creationdate="20200805T014229Z">
+        <seg>Quando a competitividade da cidade for fraca, ela terá que importar grandes volumes de mercadorias, prejudicando o emprego no setor de manufatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the city's competitiveness rating exceeds the global competitiveness rating, the city will be in a position to export its products to the worldwide market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014259Z" creationid="RAFAEL" creationdate="20200805T014259Z">
+        <seg>Quando a classificação de competitividade da cidade exceder a classificação de competitividade global, a cidade estará em condições de exportar seus produtos para o mercado mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
@@ -18493,6 +18581,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224630Z" creationid="RAFAEL" creationdate="20200802T224502Z">
         <seg>Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your Smart Phone tech has reached 300, this custom image will be displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014132Z" creationid="RAFAEL" creationdate="20200805T014132Z">
+        <seg>Quando sua tecnologia Smart Phone chegar a 300, esta imagem personalizada será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your tech level has reached the assigned level, the custom image will be displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014103Z" creationid="RAFAEL" creationdate="20200805T014103Z">
+        <seg>Quando seu nível técnico tiver atingido o nível designado, a imagem personalizada será exibida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18589,6 +18693,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224310Z" creationid="RAFAEL" creationdate="20200802T224310Z">
         <seg>Você pode designar o COO para administrar suas empresas individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can associate custom images to your products and assign a technology level to each custom product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014050Z" creationid="RAFAEL" creationdate="20200805T014050Z">
+        <seg>Você pode associar imagens personalizadas a seus produtos e atribuir um nível tecnológico a cada imagem de produto personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35573,6 +35685,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015027Z" creationid="Olivier" creationdate="20200802T015027Z">
         <seg>city=Hong Kong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014121Z" creationid="RAFAEL" creationdate="20200805T014115Z">
+        <seg>Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível técnico de 300.</seg>
       </tuv>
     </tu>
     <tu>
