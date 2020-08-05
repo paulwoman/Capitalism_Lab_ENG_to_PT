@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002837Z" creationid="RAFAEL" creationdate="20200805T002837Z">
+        <seg>(Se a demanda for alta, defina a capacidade operacional para um valor maior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Select Pollution mode on the mini map to see the city's population level.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002217Z" creationid="RAFAEL" creationdate="20200805T002217Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224952Z" creationid="RAFAEL" creationdate="20200802T224952Z">
         <seg>Uma classificação de qualidade de conteúdo mais alta leva a pontos de classificação mais altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A larger Facilities Upgrade Budget leads to higher quality of the facilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003030Z" creationid="RAFAEL" creationdate="20200805T003030Z">
+        <seg>Um orçamento maior de atualização das instalações leva a uma maior qualidade das instalações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demand/supply index for services provided by this civic building</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003144Z" creationid="RAFAEL" creationdate="20200805T003144Z">
+        <seg>Índice de Oferta/Demanda para os serviços prestados por este edifício cívico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demolish This Firm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221805Z" creationid="RAFAEL" creationdate="20200802T221805Z">
@@ -5411,6 +5435,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010045Z" creationid="Olivier" creationdate="20200802T010045Z">
         <seg>F_SUPPLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Facilities Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003018Z" creationid="RAFAEL" creationdate="20200805T003018Z">
+        <seg>Qualidade das instalações</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,6 +13448,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality of service</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003042Z" creationid="RAFAEL" creationdate="20200805T003042Z">
+        <seg>Qualidade do serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quantity Sold Graph</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222905Z" creationid="RAFAEL" creationdate="20200802T222905Z">
@@ -15248,6 +15288,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff skill level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002941Z" creationid="RAFAEL" creationdate="20200805T002941Z">
+        <seg>Nível de habilidade do pessoal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a R&amp;D project for a new product invention.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231316Z" creationid="RAFAEL" creationdate="20200802T231316Z">
@@ -16008,6 +16056,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The budget for upgrading the facilities of this civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002925Z" creationid="RAFAEL" creationdate="20200805T002925Z">
+        <seg>O orçamento para a modernização das instalações deste edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color shown here tells which company is the producer of this product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230625Z" creationid="RAFAEL" creationdate="20200802T230625Z">
@@ -16240,6 +16296,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The quality of service provided by this civic building is determined by 1) its staff's skill and 2) its facilities' quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003056Z" creationid="RAFAEL" creationdate="20200805T003056Z">
+        <seg>A qualidade do serviço prestado por este edifício cívico é determinada por 1) a habilidade de seu pessoal e 2) a qualidade de suas instalações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The raw material which the unit is currently producing.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214255Z" creationid="Olivier" creationdate="20200730T214255Z">
@@ -16260,6 +16324,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
         <seg>Quanto menor a distância para o Distrito Central de Negócios(DCN), maior é a classificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002900Z" creationid="RAFAEL" creationdate="20200805T002900Z">
+        <seg>O orçamento de treinamento de pessoal para este edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff's skill level is determined by 1) the education level of people in this city and 2) the staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003003Z" creationid="RAFAEL" creationdate="20200805T003003Z">
+        <seg>O nível de habilidade do pessoal é determinado por 1) o nível de educação das pessoas nesta cidade e 2) o orçamento de treinamento do pessoal para este edifício cívico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17109,6 +17189,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025750Z" creationid="RAFAEL" creationdate="20200804T025750Z">
         <seg>Use Filtros na parte superior desta tela para selecionar empresas para aplicar a alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the slider to set the budget for upgrading the facilities of this civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002913Z" creationid="RAFAEL" creationdate="20200805T002913Z">
+        <seg>Use o controle deslizante para definir o orçamento para melhorar as instalações deste edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the slider to set the staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002849Z" creationid="RAFAEL" creationdate="20200805T002849Z">
+        <seg>Use o controle deslizante para definir o orçamento de treinamento do pessoal para este edifício cívico.</seg>
       </tuv>
     </tu>
     <tu>
