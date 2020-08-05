@@ -1704,8 +1704,16 @@
       <tuv lang="en-US">
         <seg>Build a new city (size: 200x200) (disabled)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005713Z" creationid="RAFAEL" creationdate="20200805T005713Z">
-        <seg>Construção de uma nova cidade (tamanho: 200x200) (desvantagem)</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005749Z" creationid="RAFAEL" creationdate="20200805T005713Z">
+        <seg>Construção de uma nova cidade (tamanho: 200x200) (desativada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 200x200).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005802Z" creationid="RAFAEL" creationdate="20200805T005802Z">
+        <seg>Construa uma nova cidade (tamanho: 200x200).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,6 +9472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It equals to its share price times the total number of shares outstanding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010043Z" creationid="RAFAEL" creationdate="20200805T010043Z">
+        <seg>É igual ao preço das ações multiplicado pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It equals to the total GDP divided by the total number of people in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024335Z" creationid="RAFAEL" creationdate="20200804T024335Z">
@@ -16528,6 +16544,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005817Z" creationid="RAFAEL" creationdate="20200805T005817Z">
+        <seg>O preço atual das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default setting of #Auto Apply R&amp;D Results# is #Disabled#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195630Z" creationid="RAFAEL" creationdate="20200802T195630Z">
@@ -16660,6 +16684,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004222Z" creationid="RAFAEL" creationdate="20200805T004222Z">
         <seg>O baixo valor deste aspecto da qualidade de vida fez com que algumas pessoas emigrassem desta cidade para outras cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The market capitalization of a company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010010Z" creationid="RAFAEL" creationdate="20200805T010010Z">
+        <seg>A capitalização de mercado de uma empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16820,6 +16852,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024404Z" creationid="RAFAEL" creationdate="20200804T024404Z">
         <seg>O PIB total é a soma do consumo, do investimento privado, dos gastos do governo e das exportações líquidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total number of shares currently held by all its shareholders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005829Z" creationid="RAFAEL" creationdate="20200805T005829Z">
+        <seg>O número total de ações atualmente detidas por todos os seus acionistas.</seg>
       </tuv>
     </tu>
     <tu>
