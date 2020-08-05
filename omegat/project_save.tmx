@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Mode  (hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004525Z" creationid="RAFAEL" creationdate="20200805T004525Z">
+        <seg>Modo de Negócios  (Atalho: Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Business Ownership Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203431Z" creationid="RAFAEL" creationdate="20200802T203431Z">
@@ -3210,6 +3218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
         <seg>Clique aqui para abrir o Relatório Detalhado da Corporação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to open the Mayor report.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004612Z" creationid="RAFAEL" creationdate="20200805T004612Z">
+        <seg>Clique aqui para abrir o relatório do prefeito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5927,6 +5943,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more details, see the Cities page on the Information Center.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004603Z" creationid="RAFAEL" creationdate="20200805T004603Z">
+        <seg>Para mais detalhes, consulte a página Cidades no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freq.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
@@ -6563,6 +6587,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232156Z" creationid="RAFAEL" creationdate="20200802T232156Z">
         <seg>Ir ao seu centro de P&amp;D responsável pela pesquisa da tecnologia selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achievement Progress</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004624Z" creationid="RAFAEL" creationdate="20200805T004624Z">
+        <seg>Progresso no alcance das metas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10620,6 +10652,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030620Z" creationid="RAFAEL" creationdate="20200804T030620Z">
         <seg>Maximizar as margens de lucro elevando os preços em detrimento das quotas de mercado e das taxas de utilização de capacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor Approval Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004546Z" creationid="RAFAEL" creationdate="20200805T004546Z">
+        <seg>Classificação da Aprovação do Prefeito</seg>
       </tuv>
     </tu>
     <tu>
@@ -15840,6 +15880,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch to the Business Mode to give orders on behalf of the corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004533Z" creationid="RAFAEL" creationdate="20200805T004533Z">
+        <seg>Mudar para o Modo de Negócios para dar ordens em nome da corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch to the Government Mode to give orders on behalf of the government.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004336Z" creationid="RAFAEL" creationdate="20200805T004336Z">
+        <seg>Mudar para o Modo Governo para dar ordens em nome do governo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TALENT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020204Z" creationid="Olivier" creationdate="20200802T020204Z">
@@ -16316,6 +16372,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
         <seg>A versão do criador é %1s enquanto que a sua é %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current city's mayor approval rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004554Z" creationid="RAFAEL" creationdate="20200805T004554Z">
+        <seg>A atual taxa de aprovação do prefeito da cidade.</seg>
       </tuv>
     </tu>
     <tu>
