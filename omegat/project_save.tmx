@@ -9536,6 +9536,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is calculated by dividing the current stock price by the Equity Per Share.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011953Z" creationid="RAFAEL" creationdate="20200805T011953Z">
+        <seg>Ele é calculado dividindo o preço atual das ações pelo valor patrimonial por ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
