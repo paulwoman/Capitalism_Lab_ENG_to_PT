@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=Build Menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122745Z" creationid="Olivier" creationdate="20200805T122745Z">
+        <seg>Active Interface=Build Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Interface=City View</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121450Z" creationid="Olivier" creationdate="20200805T121450Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122138Z" creationid="Olivier" creationdate="20200805T122138Z">
         <seg>Active Interface=Corporate Detail Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Active Interface=Manufacturer Guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122603Z" creationid="Olivier" creationdate="20200805T122603Z">
+        <seg>Active Interface=Manufacturer Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,10 +1006,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Seaport Product=Aluminum</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122600Z" creationid="Olivier" creationdate="20200805T122600Z">
+        <seg>Add Seaport Product=Aluminum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Dyestuff</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122037Z" creationid="Olivier" creationdate="20200805T122037Z">
         <seg>Add Seaport Product=Dyestuff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Seaport Product=Electronic Components</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122552Z" creationid="Olivier" creationdate="20200805T122552Z">
+        <seg>Add Seaport Product=Electronic Components</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Seaport Product=Glass</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122554Z" creationid="Olivier" creationdate="20200805T122554Z">
+        <seg>Add Seaport Product=Glass</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,6 +6143,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extend Text Box=36,600,700,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122713Z" creationid="Olivier" creationdate="20200805T122713Z">
+        <seg>Extend Text Box=36,600,700,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extend Text Box=450,100,300,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121518Z" creationid="Olivier" creationdate="20200805T121518Z">
@@ -6447,6 +6495,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fast forward days=190</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122712Z" creationid="Olivier" creationdate="20200805T122712Z">
+        <seg>Fast forward days=190</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast forward days=5</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121436Z" creationid="Olivier" creationdate="20200805T121436Z">
@@ -6523,6 +6579,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121913Z" creationid="Olivier" creationdate="20200805T121913Z">
         <seg>Firm count=Factory, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm count=Headquarters, 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122750Z" creationid="Olivier" creationdate="20200805T122750Z">
+        <seg>Firm count=Headquarters, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm count=R&amp;D Center, 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122626Z" creationid="Olivier" creationdate="20200805T122626Z">
+        <seg>Firm count=R&amp;D Center, 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -7459,6 +7531,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122428Z" creationid="Olivier" creationdate="20200805T122428Z">
         <seg>Game speed=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game speed=5</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122710Z" creationid="Olivier" creationdate="20200805T122710Z">
+        <seg>Game speed=5</seg>
       </tuv>
     </tu>
     <tu>
@@ -12024,6 +12104,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturer Guide=Air Conditioner</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122608Z" creationid="Olivier" creationdate="20200805T122608Z">
+        <seg>Manufacturer Guide=Air Conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturer Guide=Chair</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121853Z" creationid="Olivier" creationdate="20200805T121853Z">
@@ -14776,6 +14864,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=174,34,197,57</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122808Z" creationid="Olivier" creationdate="20200805T122808Z">
+        <seg>Pointer=174,34,197,57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=175,161,775,200</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122333Z" creationid="Olivier" creationdate="20200805T122333Z">
@@ -14816,6 +14912,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=200,6,228,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122716Z" creationid="Olivier" creationdate="20200805T122716Z">
+        <seg>Pointer=200,6,228,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=202,385,246,400</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121645Z" creationid="Olivier" creationdate="20200805T121645Z">
@@ -14840,6 +14944,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=203,387,278,402</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122643Z" creationid="Olivier" creationdate="20200805T122643Z">
+        <seg>Pointer=203,387,278,402</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=255,386,312,400</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121730Z" creationid="Olivier" creationdate="20200805T121730Z">
@@ -14852,6 +14964,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121452Z" creationid="Olivier" creationdate="20200805T121452Z">
         <seg>Pointer=262,0,580,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=265,384,372,401</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122532Z" creationid="Olivier" creationdate="20200805T122532Z">
+        <seg>Pointer=265,384,372,401</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,6 +15072,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=379,209,403,223</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122722Z" creationid="Olivier" creationdate="20200805T122722Z">
+        <seg>Pointer=379,209,403,223</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=38,121,55,238</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121437Z" creationid="Olivier" creationdate="20200805T121437Z">
@@ -15000,6 +15128,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=450,360,660,370</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122702Z" creationid="Olivier" creationdate="20200805T122702Z">
+        <seg>Pointer=450,360,660,370</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=450,484,459,534</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122731Z" creationid="Olivier" creationdate="20200805T122731Z">
+        <seg>Pointer=450,484,459,534</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=486,357,560,440</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121644Z" creationid="Olivier" creationdate="20200805T121644Z">
@@ -15012,6 +15156,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121618Z" creationid="Olivier" creationdate="20200805T121618Z">
         <seg>Pointer=489,253,573,336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=489,363,573,446</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122633Z" creationid="Olivier" creationdate="20200805T122633Z">
+        <seg>Pointer=489,363,573,446</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=503,175,682,225</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122610Z" creationid="Olivier" creationdate="20200805T122610Z">
+        <seg>Pointer=503,175,682,225</seg>
       </tuv>
     </tu>
     <tu>
@@ -15036,6 +15196,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122329Z" creationid="Olivier" creationdate="20200805T122329Z">
         <seg>Pointer=524,51,725,64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=528,344,534,359</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122634Z" creationid="Olivier" creationdate="20200805T122634Z">
+        <seg>Pointer=528,344,534,359</seg>
       </tuv>
     </tu>
     <tu>
@@ -15100,6 +15268,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121637Z" creationid="Olivier" creationdate="20200805T121637Z">
         <seg>Pointer=576,400,593,405</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=579,292,592,298</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122526Z" creationid="Olivier" creationdate="20200805T122526Z">
+        <seg>Pointer=579,292,592,298</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=599,242,680,322</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122751Z" creationid="Olivier" creationdate="20200805T122751Z">
+        <seg>Pointer=599,242,680,322</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,6 +15364,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121457Z" creationid="Olivier" creationdate="20200805T121457Z">
         <seg>Pointer=680,0,764,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=685, 107, 760, 121</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122606Z" creationid="Olivier" creationdate="20200805T122606Z">
+        <seg>Pointer=685, 107, 760, 121</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=687,292,702,298</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122541Z" creationid="Olivier" creationdate="20200805T122541Z">
+        <seg>Pointer=687,292,702,298</seg>
       </tuv>
     </tu>
     <tu>
@@ -18752,6 +18952,46 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=120,300,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122719Z" creationid="Olivier" creationdate="20200805T122719Z">
+        <seg>Text Box=120,300,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=142,462,690,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122539Z" creationid="Olivier" creationdate="20200805T122539Z">
+        <seg>Text Box=142,462,690,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=150,120,600,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122530Z" creationid="Olivier" creationdate="20200805T122530Z">
+        <seg>Text Box=150,120,600,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=150,160,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122739Z" creationid="Olivier" creationdate="20200805T122739Z">
+        <seg>Text Box=150,160,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=150,200,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122727Z" creationid="Olivier" creationdate="20200805T122727Z">
+        <seg>Text Box=150,200,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=170,380,580,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122242Z" creationid="Olivier" creationdate="20200805T122242Z">
@@ -18796,6 +19036,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121445Z" creationid="Olivier" creationdate="20200805T121445Z">
         <seg>Text Box=20,270,280,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,250,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122818Z" creationid="Olivier" creationdate="20200805T122818Z">
+        <seg>Text Box=200,250,500,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19016,6 +19264,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=320,280,390,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122609Z" creationid="Olivier" creationdate="20200805T122609Z">
+        <seg>Text Box=320,280,390,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=330,120,450,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122216Z" creationid="Olivier" creationdate="20200805T122216Z">
@@ -19100,6 +19356,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122209Z" creationid="Olivier" creationdate="20200805T122209Z">
         <seg>Text Box=430,150,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=50,240,350,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122747Z" creationid="Olivier" creationdate="20200805T122747Z">
+        <seg>Text Box=50,240,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=60,250,200,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122637Z" creationid="Olivier" creationdate="20200805T122637Z">
+        <seg>Text Box=60,250,200,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=60,250,350,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122751Z" creationid="Olivier" creationdate="20200805T122751Z">
+        <seg>Text Box=60,250,350,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20801,6 +21081,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=2, Human Resources Department</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122752Z" creationid="Olivier" creationdate="20200805T122752Z">
+        <seg>Unit Exists=2, Human Resources Department</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=2, Livestock Processing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122524Z" creationid="Olivier" creationdate="20200805T122524Z">
+        <seg>Unit Exists=2, Livestock Processing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=3, Sales</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121922Z" creationid="Olivier" creationdate="20200805T121922Z">
@@ -20833,6 +21129,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Linked=Livestock Processing, Sales, 2, 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122548Z" creationid="Olivier" creationdate="20200805T122548Z">
+        <seg>Unit Linked=Livestock Processing, Sales, 2, 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Livestock Raising, Livestock Processing, 1, 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122529Z" creationid="Olivier" creationdate="20200805T122529Z">
+        <seg>Unit Linked=Livestock Raising, Livestock Processing, 1, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Linked=Manufacturing, Sales, 2, 3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121933Z" creationid="Olivier" creationdate="20200805T121933Z">
@@ -20845,6 +21157,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121950Z" creationid="Olivier" creationdate="20200805T121950Z">
         <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122629Z" creationid="Olivier" creationdate="20200805T122629Z">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 4</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122636Z" creationid="Olivier" creationdate="20200805T122636Z">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -20881,6 +21209,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit has item=1, Air Conditioner</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122708Z" creationid="Olivier" creationdate="20200805T122708Z">
+        <seg>Unit has item=1, Air Conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit has item=1, Cattle</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122514Z" creationid="Olivier" creationdate="20200805T122514Z">
@@ -20893,6 +21229,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121940Z" creationid="Olivier" creationdate="20200805T121940Z">
         <seg>Unit has item=1, Timber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit has item=2, Frozen Beef</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122534Z" creationid="Olivier" creationdate="20200805T122534Z">
+        <seg>Unit has item=2, Frozen Beef</seg>
       </tuv>
     </tu>
     <tu>
