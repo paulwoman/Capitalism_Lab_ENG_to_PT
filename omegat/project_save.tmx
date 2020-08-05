@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024410Z" creationid="RAFAEL" creationdate="20200805T024410Z">
+        <seg>(#Melhor oferta significa produtos com classificações gerais mais altas, sem falta de oferta.#) A IA pode alterar os tipos de produtos à vontade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI will NOT change the product type when it sources new supplies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024311Z" creationid="RAFAEL" creationdate="20200805T024311Z">
@@ -10832,6 +10840,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look for better products to sell in retail stores</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024346Z" creationid="RAFAEL" creationdate="20200805T024346Z">
+        <seg>Procurar produtos melhores para vender em lojas de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look for better supplies</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024226Z" creationid="RAFAEL" creationdate="20200805T024226Z">
@@ -11796,6 +11812,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224936Z" creationid="RAFAEL" creationdate="20200802T224936Z">
         <seg>O desenvolvimento de novos conteúdos é essencial para aumentar a classificação de qualidade do conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New software product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024427Z" creationid="RAFAEL" creationdate="20200805T024427Z">
+        <seg>Novo produto de software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024515Z" creationid="RAFAEL" creationdate="20200805T024515Z">
+        <seg>Nova versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -16688,6 +16720,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a project for developing a new software product with a new product name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024437Z" creationid="RAFAEL" creationdate="20200805T024437Z">
+        <seg>Iniciar um projeto para desenvolver um novo produto de software com um novo nome de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a project for developing a new version of the software product that was previously completed here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024526Z" creationid="RAFAEL" creationdate="20200805T024526Z">
+        <seg>Iniciar um projeto de desenvolvimento de uma nova versão do produto de software que foi previamente concluída aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a radical R&amp;D project for improving production technology.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231432Z" creationid="RAFAEL" creationdate="20200802T231432Z">
@@ -18241,6 +18289,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines whether the AI executive should look for better products to sell in retail stores only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024359Z" creationid="RAFAEL" creationdate="20200805T024359Z">
+        <seg>Isto determina se o executivo de IA deve procurar produtos melhores para vender somente em lojas de varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines whether the AI executive should look for better supplies in retail stores, factories and warehouses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024246Z" creationid="RAFAEL" creationdate="20200805T024246Z">
@@ -19529,6 +19585,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you sell a product that is sourced from an external supplier, if the supplier is also selling the same product in its own retail store, you will have to agree to the retail price set by the supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024612Z" creationid="RAFAEL" creationdate="20200805T024612Z">
+        <seg>Quando você vende um produto que é proveniente de um fornecedor externo, se o fornecedor também estiver vendendo o mesmo produto em sua própria loja de varejo, você terá que concordar com o preço de varejo estabelecido pelo fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your Smart Phone tech has reached 300, this custom image will be displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014132Z" creationid="RAFAEL" creationdate="20200805T014132Z">
@@ -19685,6 +19749,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025507Z" creationid="RAFAEL" creationdate="20200804T025507Z">
         <seg>Não se pode emitir novas ações para o público com demasiada freqüência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have a price agreement with the supplier of this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024538Z" creationid="RAFAEL" creationdate="20200805T024538Z">
+        <seg>Você tem um acordo de preços com o fornecedor deste produto.</seg>
       </tuv>
     </tu>
     <tu>
