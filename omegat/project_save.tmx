@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All land plots owned by the government will not be for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001257Z" creationid="RAFAEL" creationdate="20200805T001257Z">
+        <seg>Todos os terrenos de propriedade do governo não estarão à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010930Z" creationid="Olivier" creationdate="20200802T010930Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000929Z" creationid="RAFAEL" creationdate="20200805T000929Z">
         <seg>Aplicar Tudo - Zonas Mistas Residencial-Comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Not For Sale</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001246Z" creationid="RAFAEL" creationdate="20200805T001246Z">
+        <seg>Aplicar tudo - Não está à venda</seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,6 +6752,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Housing and Community Facilities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001407Z" creationid="RAFAEL" creationdate="20200805T001407Z">
+        <seg>Habitação e Instalações Comunitárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing and Community Facilities rating=90, Berlin</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012612Z" creationid="Olivier" creationdate="20200802T012612Z">
@@ -9304,6 +9328,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jobs and Income</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001458Z" creationid="RAFAEL" creationdate="20200805T001458Z">
+        <seg>Empregos e Renda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jobs and Income rating=90, Detroit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012348Z" creationid="Olivier" creationdate="20200802T012348Z">
@@ -11548,6 +11580,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015233Z" creationid="Olivier" creationdate="20200802T015233Z">
         <seg>Operating Profit Margin=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operation suspended</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001306Z" creationid="RAFAEL" creationdate="20200805T001306Z">
+        <seg>Operação suspensa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16064,6 +16104,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The operation of this public facility is suspended due to lack of government funding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001317Z" creationid="RAFAEL" creationdate="20200805T001317Z">
+        <seg>A operação deste estabelecimento público está suspensa devido à falta de financiamento do governo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214830Z" creationid="Olivier" creationdate="20200730T214830Z">
@@ -16397,6 +16445,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
         <seg>Descrição deste plano de layout - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the city's Housing Supply and the average Overall Ratings of existing apartments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001438Z" creationid="RAFAEL" creationdate="20200805T001430Z">
+        <seg>Esta classificação é determinada pelo fornecimento de moradias da cidade e pela classificação geral média dos apartamentos existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the city's Wage Level, the Unemployment Rate, and the Individual Income Tax Rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001525Z" creationid="RAFAEL" creationdate="20200805T001525Z">
+        <seg>Essa classificação é determinada pelo nível salarial da cidade, a taxa de desemprego e a taxa individual de imposto de renda.</seg>
       </tuv>
     </tu>
     <tu>
