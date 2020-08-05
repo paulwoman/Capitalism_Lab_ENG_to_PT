@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI will NOT change the product type when it sources new supplies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024311Z" creationid="RAFAEL" creationdate="20200805T024311Z">
+        <seg>(#Melhor oferta significa produtos com classificações gerais mais altas sem falta de oferta.#) A IA NÃO mudará o tipo de produto quando se abastecer de novas fontes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012919Z" creationid="RAFAEL" creationdate="20200805T012919Z">
@@ -3742,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable notifications about completions of R&amp;D projects in the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024156Z" creationid="RAFAEL" creationdate="20200805T024156Z">
+        <seg>Clique para desativar as notificações sobre a conclusão de projetos de P&amp;D no Event Tracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable sound effects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200630Z" creationid="RAFAEL" creationdate="20200802T200630Z">
@@ -3882,6 +3898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201431Z" creationid="RAFAEL" creationdate="20200802T201431Z">
         <seg>Clique para ativar informações detalhadas de ajuda dentro do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable notifications about completions of R&amp;D projects in the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024216Z" creationid="RAFAEL" creationdate="20200805T024216Z">
+        <seg>Clique para habilitar notificações sobre a conclusão de projetos de P&amp;D no Event Tracker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable R&amp;D completion notifications</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024144Z" creationid="RAFAEL" creationdate="20200805T024144Z">
+        <seg>Desativar notificações de conclusão de P&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable the enhanced hotkey system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202132Z" creationid="RAFAEL" creationdate="20200802T201758Z">
@@ -5659,6 +5691,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192710Z" creationid="RAFAEL" creationdate="20200802T192710Z">
         <seg>Ativar venda interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable R&amp;D completion notifications</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024208Z" creationid="RAFAEL" creationdate="20200805T024208Z">
+        <seg>Habilitar notificações de conclusão de P&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -9146,8 +9186,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>IP Creation</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024049Z" creationid="RAFAEL" creationdate="20200805T024049Z">
-        <seg>Criação da PI</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024107Z" creationid="RAFAEL" creationdate="20200805T024049Z">
+        <seg>Criação de IP </seg>
       </tuv>
     </tu>
     <tu>
@@ -9564,6 +9604,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010104Z" creationid="RAFAEL" creationdate="20200805T010104Z">
         <seg>Em outras palavras, é o valor total de mercado da empresa no mercado de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the game, each player is given an ability to create one IP from scratch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024125Z" creationid="RAFAEL" creationdate="20200805T024051Z">
+        <seg>No jogo, cada jogador tem a capacidade de criar um IP a partir do zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,6 +10828,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012132Z" creationid="Olivier" creationdate="20200802T012132Z">
         <seg>Locked=yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for better supplies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024226Z" creationid="RAFAEL" creationdate="20200805T024226Z">
+        <seg>Procure por melhores suprimentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18185,6 +18241,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines whether the AI executive should look for better supplies in retail stores, factories and warehouses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024246Z" creationid="RAFAEL" creationdate="20200805T024246Z">
+        <seg>Isto determina se o executivo de IA deve procurar melhores suprimentos em lojas, fábricas e armazéns de varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines whether the CEO may build factories, farms and natural resource firms to supply raw materials and semi products to existing factories that need them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015331Z" creationid="RAFAEL" creationdate="20200805T015331Z">
@@ -19629,6 +19693,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013936Z" creationid="RAFAEL" creationdate="20200805T013936Z">
         <seg>Você já adicionou o projeto do produto personalizado selecionado em sua biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already created an IP and therefore cannot create any further IPs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024134Z" creationid="RAFAEL" creationdate="20200805T024134Z">
+        <seg>Você já criou um IP e, portanto, não pode criar mais IPs.</seg>
       </tuv>
     </tu>
     <tu>
