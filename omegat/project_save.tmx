@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the selected custom product design into your library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013903Z" creationid="RAFAEL" creationdate="20200805T013903Z">
+        <seg>Adicione o projeto do produto personalizado selecionado em sua biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional funding for the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030526Z" creationid="RAFAEL" creationdate="20200804T030526Z">
@@ -1682,6 +1690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025720Z" creationid="RAFAEL" creationdate="20200804T025627Z">
         <seg>Mudança de fornecedor em Lote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013959Z" creationid="RAFAEL" creationdate="20200805T013959Z">
+        <seg>Porque você já atingiu o número máximo de projetos de produtos que você pode adicionar à sua biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2698,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225515Z" creationid="RAFAEL" creationdate="20200802T225515Z">
         <seg>Cancelar a venda da Mansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot add it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013926Z" creationid="RAFAEL" creationdate="20200805T013926Z">
+        <seg>Não é possível adicioná-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot add this product design</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013947Z" creationid="RAFAEL" creationdate="20200805T013947Z">
+        <seg>Não é possível acrescentar este projeto de produto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5483,6 +5515,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232524Z" creationid="RAFAEL" creationdate="20200802T232524Z">
         <seg>Sair da biblioteca do plano de layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit this window (hotkey: ESC)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014024Z" creationid="RAFAEL" creationdate="20200805T014024Z">
+        <seg>Saia desta janela (Atalho: ESC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12192,6 +12232,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the file folder where custom product images are stored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013813Z" creationid="RAFAEL" creationdate="20200805T013813Z">
+        <seg>Abra a pasta de arquivos onde são armazenadas as imagens de produtos personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the interface for adding custom design product images into the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013839Z" creationid="RAFAEL" creationdate="20200805T013839Z">
+        <seg>Abra a interface para adicionar imagens de produtos com design personalizado ao jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Profit Margin=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013631Z" creationid="Olivier" creationdate="20200802T013631Z">
@@ -13708,6 +13764,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230611Z" creationid="RAFAEL" creationdate="20200802T230611Z">
         <seg>Indicador de marca do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014035Z" creationid="RAFAEL" creationdate="20200805T014035Z">
+        <seg>Personalização de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -15784,6 +15848,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort the custom product images by their required tech levels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013851Z" creationid="RAFAEL" creationdate="20200805T013851Z">
+        <seg>Classificar as imagens de produtos personalizados de acordo com seus níveis tecnológicos requeridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort the layout plans in this library by their descriptions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232442Z" creationid="RAFAEL" creationdate="20200802T232442Z">
@@ -17513,10 +17585,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add new custom product images into the game, save PNG image files (120x120 pixels) into the folder."</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013827Z" creationid="RAFAEL" creationdate="20200805T013827Z">
+        <seg>Para adicionar novas imagens de produtos personalizados ao jogo, salve arquivos de imagem PNG (120x120 pixels) na pasta."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To build a new city, first select an empty region on the map that has sufficient land mass.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005734Z" creationid="RAFAEL" creationdate="20200805T005734Z">
         <seg>Para construir uma nova cidade, primeiro selecione no mapa uma região vazia que tenha massa de terra suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To increase the limit, first increase the tech level of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014009Z" creationid="RAFAEL" creationdate="20200805T014009Z">
+        <seg>Para aumentar o limite, primeiro aumente o nível tecnológico do produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,10 +18601,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can then use the product design in your manufacturing units in your factories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013915Z" creationid="RAFAEL" creationdate="20200805T013915Z">
+        <seg>Você pode então utilizar o projeto do produto em suas unidades de fabricação em suas fábricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot issue new shares to the public too frequently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025507Z" creationid="RAFAEL" creationdate="20200804T025507Z">
         <seg>Não se pode emitir novas ações para o público com demasiada freqüência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already added the selected custom product design into your library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013936Z" creationid="RAFAEL" creationdate="20200805T013936Z">
+        <seg>Você já adicionou o projeto do produto personalizado selecionado em sua biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
