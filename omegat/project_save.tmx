@@ -9384,6 +9384,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022327Z" creationid="RAFAEL" creationdate="20200805T022327Z">
+        <seg>Se o valor for definido como baixo, a IA tem menor tolerância a baixa oferta e tem maior tendência a procurar novas ofertas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, any firms in your company and #subsidiaries# will always be able to buy products from each other, regardless of the #Internal Sale# setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014715Z" creationid="RAFAEL" creationdate="20200805T014715Z">
@@ -10660,6 +10668,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132037Z" creationid="Olivier" creationdate="20200730T132037Z">
         <seg>Saqueadores roubaram |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Low Supply Tolerance Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022314Z" creationid="RAFAEL" creationdate="20200805T022314Z">
+        <seg>Baixo Nível de Tolerância de Fornecimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -16096,6 +16112,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the current supplier (hotkey: W or U)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022342Z" creationid="RAFAEL" creationdate="20200805T022342Z">
+        <seg>Mostrar o fornecedor atual (Atalho: W ou U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show your corporation and subsidiaries only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023203Z" creationid="RAFAEL" creationdate="20200804T023203Z">
@@ -16920,6 +16944,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Target brand rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022411Z" creationid="RAFAEL" creationdate="20200805T022411Z">
+        <seg>Avaliação da marca-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech Change=Jeans, -50</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013554Z" creationid="Olivier" creationdate="20200802T013554Z">
@@ -17404,6 +17436,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023045Z" creationid="RAFAEL" creationdate="20200804T023045Z">
         <seg>Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta loja varejista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the slider's value, the higher the brand rating the CMO will target to achieve by advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022541Z" creationid="RAFAEL" creationdate="20200805T022541Z">
+        <seg>Quanto maior o valor do controle deslizante, maior será a classificação da marca que o CMO terá como meta alcançar pela publicidade.</seg>
       </tuv>
     </tu>
     <tu>
