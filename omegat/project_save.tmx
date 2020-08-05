@@ -7072,6 +7072,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkeys: Use F1, F2 and F3 to select All suppliers, Seaports and your own firms respectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005007Z" creationid="RAFAEL" creationdate="20200805T005007Z">
+        <seg>Teclas de atalho: Use F1, F2 e F3 para selecionar todos os fornecedores, portos marítimos e suas próprias empresas, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing Supply and Demand Index</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024037Z" creationid="RAFAEL" creationdate="20200804T024037Z">
@@ -13400,6 +13408,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press [Enter] any time to open the product filter list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005247Z" creationid="RAFAEL" creationdate="20200805T005247Z">
+        <seg>Pressione [Enter] a qualquer momento para abrir a lista de filtros do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Building (hotkey: PgUp)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211240Z" creationid="RAFAEL" creationdate="20200802T211240Z">
@@ -15092,6 +15108,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230926Z" creationid="RAFAEL" creationdate="20200802T230926Z">
         <seg>Selecione o produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the city where the suppliers are located.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004950Z" creationid="RAFAEL" creationdate="20200805T004950Z">
+        <seg>Selecione a cidade onde os fornecedores estão localizados.</seg>
       </tuv>
     </tu>
     <tu>
