@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Select Pollution mode on the mini map to see the city's population level.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002217Z" creationid="RAFAEL" creationdate="20200805T002217Z">
+        <seg>(Selecione o modo Poluição no mini mapa para ver o nível populacional da cidade).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Success chance:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195020Z" creationid="User" creationdate="20200802T195020Z">
@@ -5095,6 +5103,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002152Z" creationid="RAFAEL" creationdate="20200805T002152Z">
+        <seg>Meio Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Event Tracker (hotkey: F5)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222911Z" creationid="RAFAEL" creationdate="20200801T222911Z">
@@ -5683,6 +5699,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012535Z" creationid="Olivier" creationdate="20200802T012535Z">
         <seg>Food Supply rating=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Food availability at retail</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002100Z" creationid="RAFAEL" creationdate="20200805T002100Z">
+        <seg>Disponibilidade de alimentos no varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13248,6 +13272,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Products availability at retail</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002134Z" creationid="RAFAEL" creationdate="20200805T002134Z">
+        <seg>Disponibilidade de produtos no varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profit Graph</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222806Z" creationid="RAFAEL" creationdate="20200802T222806Z">
@@ -14452,6 +14484,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005636Z" creationid="Olivier" creationdate="20200802T005636Z">
         <seg>S_TECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001954Z" creationid="RAFAEL" creationdate="20200805T001954Z">
+        <seg>Segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -16321,6 +16361,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The variety and supply of consumer products available at retail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002143Z" creationid="RAFAEL" creationdate="20200805T002143Z">
+        <seg>A variedade e o fornecimento de produtos de consumo disponíveis no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The variety and supply of food available at retail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002124Z" creationid="RAFAEL" creationdate="20200805T002124Z">
+        <seg>A variedade e o fornecimento de alimentos disponíveis no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
@@ -16481,10 +16537,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Police Stations and Fire Stations in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002016Z" creationid="RAFAEL" creationdate="20200805T002016Z">
+        <seg>Esta classificação é determinada pelas classificações de Satisfação geral das delegacias de polícia e bombeiros da cidade (os detalhes podem ser vistos na página "Instalações públicas").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This rating is determined by the Overall Satisfaction ratings of Schools and Universities in the city (details can be viewed on the "Public Facilities" page) and the Education Levels of the citizens (info can be viewed on the detail window of a school or a university.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001727Z" creationid="RAFAEL" creationdate="20200805T001727Z">
         <seg>Esta classificação é determinada pelos índices de satisfação geral das escolas e universidades da cidade (detalhes podem ser vistos na página "Instalações Públicas") e os níveis educacionais dos cidadãos (informações podem ser vistas na janela de detalhes de uma escola ou universidade).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Pollution level of the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002200Z" creationid="RAFAEL" creationdate="20200805T002200Z">
+        <seg>Esta classificação é determinada pelo nível de poluição da cidade.</seg>
       </tuv>
     </tu>
     <tu>
