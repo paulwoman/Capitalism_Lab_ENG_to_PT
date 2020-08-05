@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012226Z" creationid="RAFAEL" creationdate="20200805T012226Z">
+        <seg>Uma relação VPA inferior a 1,0 significa que a ação está sendo negociada atualmente a um preço inferior ao valor líquido da ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023502Z" creationid="RAFAEL" creationdate="20200804T023502Z">
@@ -4971,6 +4979,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013412Z" creationid="Olivier" creationdate="20200802T013412Z">
         <seg>Diversified Companies=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dividend Yield</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012235Z" creationid="RAFAEL" creationdate="20200805T012235Z">
+        <seg>Rendimento de Dividendos</seg>
       </tuv>
     </tu>
     <tu>
@@ -16506,8 +16522,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011931Z" creationid="RAFAEL" creationdate="20200805T011931Z">
-        <seg>Indice P / B ,ou preço/valor de mercado</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012139Z" creationid="RAFAEL" creationdate="20200805T011931Z">
+        <seg>Indice VPA ,ou Valor Patrimonial por Ação</seg>
       </tuv>
     </tu>
     <tu>
@@ -16716,6 +16732,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
         <seg>o governo anunciou que a moeda vai ser reavaliada a uma razão de 1 para 100.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012331Z" creationid="RAFAEL" creationdate="20200805T012331Z">
+        <seg>Quanto maior o rendimento dos dividendos, mais dinheiro é devolvido a cada investidor quando o dividendo é pago a cada ano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17189,6 +17213,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225310Z" creationid="RAFAEL" creationdate="20200802T225310Z">
         <seg>Este é um produto agrícola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012245Z" creationid="RAFAEL" creationdate="20200805T012245Z">
+        <seg>Esta é uma porcentagem calculada dividindo o último dividendo pago pelo preço da ação.</seg>
       </tuv>
     </tu>
     <tu>
