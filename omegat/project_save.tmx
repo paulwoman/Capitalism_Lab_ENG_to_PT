@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Inexact search is supported.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030129Z" creationid="RAFAEL" creationdate="20200805T030129Z">
+        <seg>(É suportada a busca inexata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Select Pollution mode on the mini map to see the city's population level.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002217Z" creationid="RAFAEL" creationdate="20200805T002217Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003659Z" creationid="RAFAEL" creationdate="20200805T003659Z">
         <seg>(Imposto = Preço do produto X Taxa de imposto ao consumidor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The more loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030335Z" creationid="RAFAEL" creationdate="20200805T030335Z">
+        <seg>(Quanto mais leal for a pessoa ao seu atual empregador, maior será o salário que você deve oferecer).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,6 +7271,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to your e-commerce company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030137Z" creationid="RAFAEL" creationdate="20200805T030137Z">
+        <seg>Vá para sua empresa de comércio eletrônico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004624Z" creationid="RAFAEL" creationdate="20200805T004624Z">
@@ -7527,6 +7551,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030145Z" creationid="RAFAEL" creationdate="20200805T030145Z">
+        <seg>Contrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire Chief Marketing Officer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215220Z" creationid="RAFAEL" creationdate="20200802T215220Z">
@@ -7572,6 +7604,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224621Z" creationid="RAFAEL" creationdate="20200802T224621Z">
         <seg>Contrate um novo Diretor de Tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a team lead for the current functional unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030153Z" creationid="RAFAEL" creationdate="20200805T030153Z">
+        <seg>Contratar um chefe de equipe para a unidade funcional atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18833,6 +18873,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To headhunt a person, you must offer a higher salary and a signup bonus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030314Z" creationid="RAFAEL" creationdate="20200805T030259Z">
+        <seg>Para recrutar alguém, você deve oferecer-lhe um salário mais alto e um bônus de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To increase the limit, first increase the tech level of the product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014009Z" creationid="RAFAEL" creationdate="20200805T014009Z">
@@ -19153,6 +19201,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030404Z" creationid="RAFAEL" creationdate="20200805T030404Z">
+        <seg>Transferir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer or Demolish this apartment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015143Z" creationid="RAFAEL" creationdate="20200805T015143Z">
@@ -19165,6 +19221,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015203Z" creationid="RAFAEL" creationdate="20200805T015203Z">
         <seg>Transferir ou Demolir este edifício comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer this employee from another company under your group to the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030420Z" creationid="RAFAEL" creationdate="20200805T030420Z">
+        <seg>Transfira este funcionário de outra empresa do seu grupo para a empresa atual.</seg>
       </tuv>
     </tu>
     <tu>
