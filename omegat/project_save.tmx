@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: G)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004657Z" creationid="RAFAEL" creationdate="20200805T004657Z">
+        <seg>(Atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224314Z" creationid="RAFAEL" creationdate="20200801T224314Z">
@@ -3222,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Goal report.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004653Z" creationid="RAFAEL" creationdate="20200805T004653Z">
+        <seg>Clique aqui para abrir o relatório dos objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Mayor report.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004612Z" creationid="RAFAEL" creationdate="20200805T004612Z">
@@ -5335,6 +5351,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extend the Economic Info window to display additional info.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004734Z" creationid="RAFAEL" creationdate="20200805T004734Z">
+        <seg>Estender a janela de Informações Econômicas para exibir informações adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exterior view</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231931Z" creationid="RAFAEL" creationdate="20200802T231931Z">
@@ -6819,6 +6843,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012614Z" creationid="Olivier" creationdate="20200802T012614Z">
         <seg>Health rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide the Economic Info window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004721Z" creationid="RAFAEL" creationdate="20200805T004721Z">
+        <seg>Ocultar a janela de informações econômicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide the extended section of the Economic Info window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004753Z" creationid="RAFAEL" creationdate="20200805T004753Z">
+        <seg>Ocultar a seção ampliada da janela de Informações Econômicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9364,6 +9404,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024335Z" creationid="RAFAEL" creationdate="20200804T024335Z">
         <seg>Equivale ao PIB total dividido pelo número total de pessoas na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It indicates your progress in achieving the goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004633Z" creationid="RAFAEL" creationdate="20200805T004633Z">
+        <seg>Ele indica seu progresso na realização dos objetivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15288,6 +15336,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the Economic Info window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004708Z" creationid="RAFAEL" creationdate="20200805T004708Z">
+        <seg>Mostrar a janela de Informações Econômicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show the current supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231136Z" creationid="RAFAEL" creationdate="20200802T231136Z">
@@ -17125,6 +17181,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194832Z" creationid="User" creationdate="20200802T194832Z">
         <seg>Para retomar a emissão do empréstimo, acesse o banco, selecione [Financeiro] e [Transferência de fundo].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To search a product, simply type the first letter of the product's name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004804Z" creationid="RAFAEL" creationdate="20200805T004804Z">
+        <seg>Para pesquisar um produto, basta digitar a primeira letra do nome do produto.</seg>
       </tuv>
     </tu>
     <tu>
