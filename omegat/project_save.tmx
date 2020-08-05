@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But if the company is out of cash, the CEO will have to issue new shares to raise funds for the company's survival regardless of this setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021452Z" creationid="RAFAEL" creationdate="20200805T021452Z">
+        <seg>Mas se a empresa estiver sem dinheiro, o CEO terá que emitir novas ações para arrecadar fundos para a sobrevivência da empresa, independentemente dessa configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Firm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021251Z" creationid="RAFAEL" creationdate="20200804T021251Z">
@@ -2010,6 +2018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005227Z" creationid="Olivier" creationdate="20200802T005227Z">
         <seg>CDR_T_GO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEO Policy on Issuing New Shares</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021427Z" creationid="RAFAEL" creationdate="20200805T021427Z">
+        <seg>Política do CEO sobre emissão de novas ações</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005811Z" creationid="Olivier" creationdate="20200802T005811Z">
         <seg>CONFIRMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO Pricing Policy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021239Z" creationid="RAFAEL" creationdate="20200805T021239Z">
+        <seg>Política de preços do COO</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021224Z" creationid="RAFAEL" creationdate="20200805T021224Z">
         <seg>Limpe a caixa de seleção para usar a política geral de preços definida na página Políticas de Gestão do CEO (em Pessoas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear the checkbox to use the general pricing policy set on the COO Management Policies page (under the Persons report.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021324Z" creationid="RAFAEL" creationdate="20200805T021324Z">
+        <seg>Desmarque a caixa para usar a política geral de preços definida na página Políticas de Gerenciamento de COO (sob o relatório Pessoas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5571,6 +5603,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231957Z" creationid="RAFAEL" creationdate="20200802T231957Z">
         <seg>Ativar ou desativar o gráfico de venda do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable or disable the option of popping up news windows about custom product launches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021416Z" creationid="RAFAEL" creationdate="20200805T021416Z">
+        <seg>Ative ou desative a opção de exibir janelas de notícias sobre lançamentos de produtos personalizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9324,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232830Z" creationid="RAFAEL" creationdate="20200802T232830Z">
         <seg>Se isso for ativado, o computador ajustará automaticamente o aluguel do edifício comercial com base na tarifa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is turned off, the CEO will never issue new shares for expanding the business.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021437Z" creationid="RAFAEL" creationdate="20200805T021437Z">
+        <seg>Se isso estiver desativado, o CEO nunca emitirá novas ações para expandir os negócios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14144,6 +14192,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purchasing Power</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021504Z" creationid="RAFAEL" creationdate="20200805T021504Z">
+        <seg>Poder de compra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchasing power is the amount of goods or services that one can buy with a unit of currency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021515Z" creationid="RAFAEL" creationdate="20200805T021515Z">
+        <seg>Poder de compra é a quantidade de bens ou serviços que se pode comprar com uma unidade monetária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QOL_CULT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005725Z" creationid="Olivier" creationdate="20200802T005725Z">
@@ -18013,6 +18077,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211156Z" creationid="RAFAEL" creationdate="20200802T211156Z">
         <seg>Alternar o filtro do produto para exibir os locais de um produto específico no Mini Mapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Product Launch News Popup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021404Z" creationid="RAFAEL" creationdate="20200805T021404Z">
+        <seg>Alternar pop-up de notícias sobre lançamento de produto</seg>
       </tuv>
     </tu>
     <tu>
