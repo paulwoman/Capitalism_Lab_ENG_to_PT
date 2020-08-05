@@ -4478,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently a MOD is in use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013420Z" creationid="RAFAEL" creationdate="20200805T013420Z">
+        <seg>Atualmente, um MOD está em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom Filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205625Z" creationid="RAFAEL" creationdate="20200802T205625Z">
@@ -6099,6 +6107,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232900Z" creationid="RAFAEL" creationdate="20200802T232900Z">
         <seg>Por exemplo, você pode definir que o aluguel de seu edifício comercial seja sempre 10% mais alto do que a taxa do mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, your mine's reserve #has exhausted#, and you have just #built a new mine#, then you may use this button to #redirect all the affected supply links# to the #new mine#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013402Z" creationid="RAFAEL" creationdate="20200805T013402Z">
+        <seg>Por exemplo, a reserva de sua mina #esgotou#, e você acabou de #construir uma nova mina#, então você pode usar este botão para #criar todos os links de fornecimento afetados# para a #nova mina#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9060,6 +9076,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005530Z" creationid="Olivier" creationdate="20200802T005530Z">
         <seg>I_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013307Z" creationid="RAFAEL" creationdate="20200805T013307Z">
+        <seg>Se alguma de suas outras empresas tiver #links de fornecimento quebrados# que exijam o #mesmo item# que #esta unidade de vendas# está vendendo, você pode usar este botão para #redirecionar todos os links de fornecimento afetados# para #esta unidade de vendas#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13824,6 +13848,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product custom images will be accessed from the "MOD\&lt;mod name&gt;\Products" folder instead of the "My Games\Capitalism Lab\Products" folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013801Z" creationid="RAFAEL" creationdate="20200805T013801Z">
+        <seg>As imagens personalizadas do produto serão acessadas a partir da pasta "MOD\&lt;nome do mod&gt;\Products" ao invés da pasta "Meus Jogos\Capitalism Lab\Products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011705Z" creationid="Olivier" creationdate="20200802T011705Z">
@@ -14388,6 +14420,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005357Z" creationid="RAFAEL" creationdate="20200805T005357Z">
         <seg>O texto vermelho denota que os planos de layout ou insumos não estão disponíveis para o produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redirect Supply Links</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013134Z" creationid="RAFAEL" creationdate="20200805T013134Z">
+        <seg>Links de fornecimento redirecionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -18069,6 +18109,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031915Z" creationid="RAFAEL" creationdate="20200804T031915Z">
         <seg>Use esta ferramenta para definir terrenos selecionados para zonas residenciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the MOD folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013412Z" creationid="RAFAEL" creationdate="20200805T013412Z">
+        <seg>Usando a pasta MOD</seg>
       </tuv>
     </tu>
     <tu>
