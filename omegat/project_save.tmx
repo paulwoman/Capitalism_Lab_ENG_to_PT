@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Pricing Policy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021037Z" creationid="RAFAEL" creationdate="20200805T021037Z">
+        <seg>Política de preços do CEO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEO Salary Modifier=20</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013946Z" creationid="Olivier" creationdate="20200802T013946Z">
@@ -3298,6 +3306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231603Z" creationid="RAFAEL" creationdate="20200802T231603Z">
         <seg>Limpe o estoque existente deste produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear the checkbox to use the general pricing policy set on the CEO Management Policies page (under the Persons report.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021224Z" creationid="RAFAEL" creationdate="20200805T021224Z">
+        <seg>Limpe a caixa de seleção para usar a política geral de preços definida na página Políticas de Gestão do CEO (em Pessoas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15700,6 +15716,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231051Z" creationid="RAFAEL" creationdate="20200802T231051Z">
         <seg>Definir produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the checkbox to use a specific pricing policy for this individual product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021110Z" creationid="RAFAEL" creationdate="20200805T021110Z">
+        <seg>Marque a caixa para usar uma política de preços específica para este produto em particular.</seg>
       </tuv>
     </tu>
     <tu>
