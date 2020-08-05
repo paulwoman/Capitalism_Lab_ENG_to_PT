@@ -7487,6 +7487,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headhunt Targets Include Subsidiaries</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030704Z" creationid="RAFAEL" creationdate="20200805T030506Z">
+        <seg>Os alvos do Headhunt incluem filiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headquarters</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T135753Z" creationid="RAFAEL" creationdate="20200802T135753Z">
@@ -9712,6 +9720,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, the list of headhunt targets will include employees from your subsidiary companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030554Z" creationid="RAFAEL" creationdate="20200805T030554Z">
+        <seg>Se isto for permitido, a lista de alvos de headhunt incluirá funcionários de suas empresas subsidiárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is turned off, the CEO will never issue new shares for expanding the business.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021437Z" creationid="RAFAEL" creationdate="20200805T021437Z">
@@ -10140,6 +10156,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231943Z" creationid="RAFAEL" creationdate="20200802T231943Z">
         <seg>Vista interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet Company Filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030723Z" creationid="RAFAEL" creationdate="20200805T030723Z">
+        <seg>Filtro de empresas de Internet</seg>
       </tuv>
     </tu>
     <tu>
