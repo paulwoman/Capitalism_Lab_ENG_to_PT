@@ -4566,6 +4566,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customize the production technology level for this manufacturing unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014729Z" creationid="RAFAEL" creationdate="20200805T014729Z">
+        <seg>Personalizar o nível de tecnologia de produção para esta unidade de fabricação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize the production technology level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014816Z" creationid="RAFAEL" creationdate="20200805T014816Z">
+        <seg>Personalizar o nível da tecnologia de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEFALL</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010232Z" creationid="Olivier" creationdate="20200802T010232Z">
@@ -9212,6 +9228,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
         <seg>Se você quiser ativar #Venda interna# por padrão, você pode abrir o menu #Opção# (Tecla de atalho: 'O') e definir #Venda interna padrão# para #Ativado#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want, you may revert its production technology to a lower level and associate it with a different custom product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014745Z" creationid="RAFAEL" creationdate="20200805T014745Z">
+        <seg>Se desejar, você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14648,6 +14672,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset the custom design.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014754Z" creationid="RAFAEL" creationdate="20200805T014754Z">
+        <seg>Redefinir o projeto personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Residential Zoning Tool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031900Z" creationid="RAFAEL" creationdate="20200804T031900Z">
@@ -14764,6 +14796,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222833Z" creationid="RAFAEL" creationdate="20200802T222833Z">
         <seg>Gráfico de Receitas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revert it back to its original product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014807Z" creationid="RAFAEL" creationdate="20200805T014807Z">
+        <seg>Revertê-lo de volta à sua imagem original do produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17296,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tech level is displayed below each product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014851Z" creationid="RAFAEL" creationdate="20200805T014838Z">
+        <seg>O nível Tecnologico é exibido abaixo de cada imagem do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The total GDP is the sum of the consumption, private investment, government spending and net exports.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024404Z" creationid="RAFAEL" creationdate="20200804T024404Z">
@@ -18861,6 +18909,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021453Z" creationid="RAFAEL" creationdate="20200804T021453Z">
         <seg>Você pode realocar esta empresa na mesma cidade, ou demoli-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may revert its production technology to a lower level and associate it with a different custom product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014828Z" creationid="RAFAEL" creationdate="20200805T014828Z">
+        <seg>Você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.</seg>
       </tuv>
     </tu>
     <tu>
