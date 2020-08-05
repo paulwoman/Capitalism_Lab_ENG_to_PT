@@ -12016,6 +12016,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show layout plans with all inputs available (F2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012535Z" creationid="RAFAEL" creationdate="20200805T012535Z">
+        <seg>Mostrar apenas planos de layout com todas as entradas disponíveis (F2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show media stocks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031400Z" creationid="RAFAEL" creationdate="20200804T031400Z">
@@ -15464,6 +15472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show all layout plans (F1)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012510Z" creationid="RAFAEL" creationdate="20200805T012510Z">
+        <seg>Mostrar todos os planos de layout (F1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show all technologies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232049Z" creationid="RAFAEL" creationdate="20200802T232049Z">
@@ -17265,6 +17281,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This percentage is calculated by dividing the total return to investors (which is the sum of all dividends paid and lifetime capital gains from stock price increases), by the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012501Z" creationid="RAFAEL" creationdate="20200805T012501Z">
+        <seg>Este percentual é calculado dividindo o retorno total aos investidores (que é a soma de todos os dividendos pagos e ganhos de capital vitalícios decorrentes do aumento do preço das ações), pelo preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This percentage is calculated by dividing the total return to investors (which is the sum of dividends paid and capital gains from stock price increases in the past 365 days), by the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012408Z" creationid="RAFAEL" creationdate="20200805T012408Z">
+        <seg>Esse percentual é calculado dividindo-se o retorno total aos investidores (que é a soma dos dividendos pagos e ganhos de capital provenientes dos aumentos dos preços das ações nos últimos 365 dias) pelo preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This rating is determined by the Overall Satisfaction ratings of Hospitals in the city (details can be viewed on the "Public Facilities" page).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001756Z" creationid="RAFAEL" creationdate="20200805T001756Z">
@@ -17505,6 +17537,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle between Banner display mode and Info display mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012707Z" creationid="RAFAEL" creationdate="20200805T012707Z">
+        <seg>Alternar entre o modo de exibição Banner e o modo de exibição Info.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle display mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012605Z" creationid="RAFAEL" creationdate="20200805T012605Z">
+        <seg>Mudando o modo de exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle the filter mode between All Cities and Current City.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210028Z" creationid="RAFAEL" creationdate="20200802T210028Z">
@@ -17557,6 +17605,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011132Z" creationid="Olivier" creationdate="20200802T011132Z">
         <seg>Total Number of Employees=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Shareholder Return (Annual)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012352Z" creationid="RAFAEL" creationdate="20200805T012352Z">
+        <seg>Retorno total ao acionista (anual)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Shareholder Return (Lifetime)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012442Z" creationid="RAFAEL" creationdate="20200805T012442Z">
+        <seg>Retorno total dos acionistas (Tempo de vida)</seg>
       </tuv>
     </tu>
     <tu>
