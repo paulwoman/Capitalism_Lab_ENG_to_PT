@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to access the special version of Manufacturer's Guide and use it to set up your factory's production layout instantly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023402Z" creationid="RAFAEL" creationdate="20200805T023402Z">
+        <seg>Clique aqui para acessar a versão especial do Guia do Fabricante e usá-lo para configurar o layout de produção de sua fábrica instantaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to access the stock market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031548Z" creationid="RAFAEL" creationdate="20200804T031548Z">
@@ -4986,6 +4994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233049Z" creationid="RAFAEL" creationdate="20200802T233049Z">
         <seg>Demolir este apartamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023259Z" creationid="RAFAEL" creationdate="20200805T023259Z">
+        <seg>Demolir este edifício.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,6 +14968,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate this building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023251Z" creationid="RAFAEL" creationdate="20200805T023251Z">
+        <seg>Realocar este edifício.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relocate this firm and compensate the owner for the difference in land prices if there is any.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031743Z" creationid="RAFAEL" creationdate="20200804T031743Z">
@@ -15936,6 +15960,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the 2nd floor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023208Z" creationid="RAFAEL" creationdate="20200805T023208Z">
+        <seg>Selecione o 2º andar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the 3rd floor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023218Z" creationid="RAFAEL" creationdate="20200805T023218Z">
+        <seg>Selecione o 3º andar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the city where the suppliers are located.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004950Z" creationid="RAFAEL" creationdate="20200805T004950Z">
@@ -16068,6 +16108,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000830Z" creationid="RAFAEL" creationdate="20200805T000830Z">
         <seg>Ajustar os terrenos de toda a cidade atualmente propriedade do governo para zonas residenciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up a new floor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023233Z" creationid="RAFAEL" creationdate="20200805T023233Z">
+        <seg>Montar um novo andar</seg>
       </tuv>
     </tu>
     <tu>
@@ -16804,6 +16852,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012852Z" creationid="Olivier" creationdate="20200802T012852Z">
         <seg>Subsidiary Net Worth=1000,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply of this item is available in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023322Z" creationid="RAFAEL" creationdate="20200805T023322Z">
+        <seg>O fornecimento deste item está disponível no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply of this item is unavailable in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023311Z" creationid="RAFAEL" creationdate="20200805T023311Z">
+        <seg>O fornecimento deste item não está disponível no mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18889,6 +18953,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the Manufacturer's Guide to set up Factory Production.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023333Z" creationid="RAFAEL" creationdate="20200805T023333Z">
+        <seg>Use o Guia do fabricante para montar a fábrica de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Space key to show or hide this drop down list of product filters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005344Z" creationid="RAFAEL" creationdate="20200805T005344Z">
@@ -19581,6 +19653,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025516Z" creationid="RAFAEL" creationdate="20200804T025516Z">
         <seg>Você pode tentar novamente algumas semanas mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use PageUp and PageDown keys to switch between floors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023159Z" creationid="RAFAEL" creationdate="20200805T023159Z">
+        <seg>Você pode usar as teclas PageUp e PageDown para alternar entre andares.</seg>
       </tuv>
     </tu>
     <tu>
