@@ -854,6 +854,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All - Commercial Zones</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000904Z" creationid="RAFAEL" creationdate="20200805T000904Z">
+        <seg>Aplicar Tudo - Zonas Comerciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Mixed Industrial-Agricultural Zones</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001012Z" creationid="RAFAEL" creationdate="20200805T001012Z">
+        <seg>Aplicar tudo - Zonas mistas industriais-agrícolas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Mixed Residential-Commercial Zones</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000929Z" creationid="RAFAEL" creationdate="20200805T000929Z">
+        <seg>Aplicar Tudo - Zonas Mistas Residencial-Comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply All - Residential Zones</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000745Z" creationid="RAFAEL" creationdate="20200805T000745Z">
@@ -14684,6 +14708,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231051Z" creationid="RAFAEL" creationdate="20200802T231051Z">
         <seg>Definir produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to commercial zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000916Z" creationid="RAFAEL" creationdate="20200805T000916Z">
+        <seg>Ajustar as parcelas de terreno da cidade inteira atualmente propriedade do governo para zonas comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to mixed industrial-agricultural zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001152Z" creationid="RAFAEL" creationdate="20200805T001152Z">
+        <seg>Coloca todos os lotes de terra da cidade, atualmente propriedade do governo, em zonas mistas industriais-agrícolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to mixed residential-commercial zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000959Z" creationid="RAFAEL" creationdate="20200805T000959Z">
+        <seg>Ajustar todos os terrenos da cidade atualmente propriedade do governo para zonas mistas de residenciais e comerciais.</seg>
       </tuv>
     </tu>
     <tu>
