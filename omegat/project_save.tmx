@@ -5263,6 +5263,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earning Per Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010119Z" creationid="RAFAEL" creationdate="20200805T010119Z">
+        <seg>Lucro por ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Education</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001535Z" creationid="RAFAEL" creationdate="20200805T001535Z">
@@ -5371,6 +5379,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002152Z" creationid="RAFAEL" creationdate="20200805T002152Z">
         <seg>Meio Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equity Per Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010301Z" creationid="RAFAEL" creationdate="20200805T010301Z">
+        <seg>Patrimônio Líquido por Ação</seg>
       </tuv>
     </tu>
     <tu>
@@ -9040,6 +9056,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other words, it is the total market value of the company in the stock market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010104Z" creationid="RAFAEL" creationdate="20200805T010104Z">
+        <seg>Em outras palavras, é o valor total de mercado da empresa no mercado de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase this rating by building more community facilities close to this apartment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014147Z" creationid="RAFAEL" creationdate="20200804T014147Z">
@@ -9492,6 +9516,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004633Z" creationid="RAFAEL" creationdate="20200805T004633Z">
         <seg>Ele indica seu progresso na realização dos objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
+        <seg>É o patrimônio líquido da empresa (que você pode visualizar no balanço patrimonial) dividido pelo número total de ações em circulação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,6 +16472,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010225Z" creationid="RAFAEL" creationdate="20200805T010225Z">
+        <seg>O Lucro por ação é o lucro operacional de uma empresa nos últimos 365 dias dividido pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225750Z" creationid="RAFAEL" creationdate="20200802T225750Z">
@@ -18037,6 +18077,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003750Z" creationid="RAFAEL" creationdate="20200805T003750Z">
         <seg>Quando a taxa de imposto de renda individual de uma cidade é muito alta, isso terá um efeito negativo sobre os gastos dos consumidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010244Z" creationid="RAFAEL" creationdate="20200805T010244Z">
+        <seg>Quando uma empresa emite novas ações, o Lucro por ação será diluído, pois o lucro da empresa será dividido por um número maior de ações.</seg>
       </tuv>
     </tu>
     <tu>
