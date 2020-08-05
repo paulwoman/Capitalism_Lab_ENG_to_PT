@@ -4758,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Advertising Pricing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025631Z" creationid="RAFAEL" creationdate="20200805T025631Z">
+        <seg>Preço atual da publicidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Date</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223720Z" creationid="RAFAEL" creationdate="20200801T223720Z">
@@ -5050,6 +5058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232400Z" creationid="RAFAEL" creationdate="20200802T232400Z">
         <seg>Apagar este plano de layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete this media link.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025809Z" creationid="RAFAEL" creationdate="20200805T025809Z">
+        <seg>Apagar este link de mídia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,6 +7219,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232146Z" creationid="RAFAEL" creationdate="20200802T232146Z">
         <seg>Ir para o centro de P&amp;D responsável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the software company that develops this software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025712Z" creationid="RAFAEL" creationdate="20200805T025712Z">
+        <seg>Ir para a empresa de software que desenvolve este software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to this media</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025757Z" creationid="RAFAEL" creationdate="20200805T025757Z">
+        <seg>Ir para a mídia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10896,6 +10928,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link to a media firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025851Z" creationid="RAFAEL" creationdate="20200805T025851Z">
+        <seg>Link para uma empresa de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link to a new media firm for advertising</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230727Z" creationid="RAFAEL" creationdate="20200802T230727Z">
@@ -12036,6 +12076,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220613Z" creationid="User" creationdate="20200803T220613Z">
         <seg>Não recomendado para jogadores normais.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that if the output from this factory fails to meet the demands from its business clients, there will be no stock available for e-commerce sales.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025617Z" creationid="RAFAEL" creationdate="20200805T025617Z">
+        <seg>Observe que se a produção desta fábrica não atender às demandas de seus clientes comerciais, não haverá estoque disponível para vendas de comércio eletrônico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +15304,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replace this link with a new link to another media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025724Z" creationid="RAFAEL" creationdate="20200805T025724Z">
+        <seg>Substitua este link por um novo link para outra mídia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Tech Achieved?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023734Z" creationid="RAFAEL" creationdate="20200805T023734Z">
@@ -17664,6 +17720,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025638Z" creationid="RAFAEL" creationdate="20200805T025638Z">
+        <seg>O preço da publicidade é medido no custo por mil impressões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of cash currently in the city fund.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022027Z" creationid="RAFAEL" creationdate="20200805T022027Z">
@@ -18068,6 +18132,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003940Z" creationid="RAFAEL" creationdate="20200805T003940Z">
         <seg>A taxa de remuneração do subsídio de desemprego como porcentagem do salário de referência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of Internet users in all cities that visits this web.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025701Z" creationid="RAFAEL" creationdate="20200805T025701Z">
+        <seg>A porcentagem de usuários da Internet em todas as cidades que visitam esta web.</seg>
       </tuv>
     </tu>
     <tu>
