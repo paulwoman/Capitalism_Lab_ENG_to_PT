@@ -5583,6 +5583,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each type of software depends on certain tech.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023743Z" creationid="RAFAEL" creationdate="20200805T023743Z">
+        <seg>Cada tipo de software depende de determinada tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Earning Per Share</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010119Z" creationid="RAFAEL" creationdate="20200805T010119Z">
@@ -9136,6 +9144,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP Creation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024049Z" creationid="RAFAEL" creationdate="20200805T024049Z">
+        <seg>Criação da PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IPLIMIT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010041Z" creationid="Olivier" creationdate="20200802T010041Z">
@@ -10132,6 +10148,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004201Z" creationid="RAFAEL" creationdate="20200805T004201Z">
         <seg>Ele definirá os aluguéis dos edifícios comerciais com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will set the operation levels based on the demands of the civic facilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023711Z" creationid="RAFAEL" creationdate="20200805T023711Z">
+        <seg>Estabelecerá os níveis de operação com base nas exigências das instalações cívicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,6 +15072,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required Tech Achieved?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023734Z" creationid="RAFAEL" creationdate="20200805T023734Z">
+        <seg>Tecnologia Requerida Realizada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required tech level for this custom product image</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015504Z" creationid="RAFAEL" creationdate="20200805T015504Z">
@@ -18497,6 +18529,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the details, open the Software Guide in the Information Center.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023832Z" creationid="RAFAEL" creationdate="20200805T023832Z">
+        <seg>Para ver os detalhes, abra o Guia do Software no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Corporate Filter to display a specific corporation in the Mini Map.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210643Z" creationid="RAFAEL" creationdate="20200802T210643Z">
@@ -19773,6 +19813,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012034Z" creationid="Olivier" creationdate="20200802T012034Z">
         <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company must possess the minimum tech level required for each tech in order to create the software product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023816Z" creationid="RAFAEL" creationdate="20200805T023816Z">
+        <seg>Sua empresa deve possuir o nível técnico mínimo exigido para cada tecnologia a fim de criar o produto de software.</seg>
       </tuv>
     </tu>
     <tu>
