@@ -16496,6 +16496,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011931Z" creationid="RAFAEL" creationdate="20200805T011931Z">
+        <seg>Indice P / B ,ou preço/valor de mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The P/E Ratio or the Price-Earnings Ratio</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011610Z" creationid="RAFAEL" creationdate="20200805T011610Z">
