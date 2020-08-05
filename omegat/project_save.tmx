@@ -1678,6 +1678,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a logging camp for processing logs into timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005513Z" creationid="RAFAEL" creationdate="20200805T005513Z">
+        <seg>Construir um campo de extração para o processamento de toras em madeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a mine for extracting minerals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005449Z" creationid="RAFAEL" creationdate="20200805T005449Z">
+        <seg>Construir uma mina para extração de minerais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build a new city (disabled)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215059Z" creationid="Olivier" creationdate="20200802T215059Z">
@@ -1686,10 +1702,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a new city (size: 200x200) (disabled)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005713Z" creationid="RAFAEL" creationdate="20200805T005713Z">
+        <seg>Construção de uma nova cidade (tamanho: 200x200) (desvantagem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194754Z" creationid="User" creationdate="20200802T194754Z">
         <seg>Construa um centro de P&amp;D e configure unidades de P&amp;D em tecnologia para pesquisar a tecnologia necessária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build an oil well for extracting oil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005500Z" creationid="RAFAEL" creationdate="20200805T005500Z">
+        <seg>Construir um poço de petróleo para extração de óleo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17197,6 +17229,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To build a new city, first select an empty region on the map that has sufficient land mass.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005734Z" creationid="RAFAEL" creationdate="20200805T005734Z">
+        <seg>Para construir uma nova cidade, primeiro selecione no mapa uma região vazia que tenha massa de terra suficiente.</seg>
       </tuv>
     </tu>
     <tu>
