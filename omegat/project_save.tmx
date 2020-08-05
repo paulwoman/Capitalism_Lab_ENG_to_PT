@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A nation's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022940Z" creationid="RAFAEL" creationdate="20200805T022940Z">
+        <seg>O crescimento da população de uma nação é apoiado por 1) #uma baixa taxa de desemprego#, 2) #alta qualidade de vida#, e 3) #abastecimento habitacional suficiente#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A positive value means that the housing supply is greater than the housing demand, and vice versa.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024049Z" creationid="RAFAEL" creationdate="20200804T024049Z">
@@ -5655,6 +5663,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable the survival mode if you like the challenge of building a nation from the ground up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023028Z" creationid="RAFAEL" creationdate="20200805T023028Z">
+        <seg>Habilite o modo de sobrevivência se você gosta do desafio de construir uma nação a partir do zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable/Disable Stock News</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221211Z" creationid="RAFAEL" creationdate="20200802T221211Z">
@@ -6323,6 +6339,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021027Z" creationid="RAFAEL" creationdate="20200804T021012Z">
         <seg>Está à Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For each city where you or a member of your political party is the mayor, the city's population, GDP per capita and the mayor's approval rating will determine the political influence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022824Z" creationid="RAFAEL" creationdate="20200805T022824Z">
+        <seg>Para cada cidade onde você ou um membro de seu partido político é o prefeito, a população da cidade, o PIB per capita e o índice de aprovação do prefeito determinarão a influência política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9440,6 +9464,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are the party's leader, each of your members' influence value will contribute 50% to yours.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022835Z" creationid="RAFAEL" creationdate="20200805T022835Z">
+        <seg>Se você é o líder do partido, o valor de influência de cada um de seus membros contribuirá em 50% para o seu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
@@ -9984,6 +10016,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is the accumulation of of all past political influence values x 50%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022903Z" creationid="RAFAEL" creationdate="20200805T022903Z">
+        <seg>É a acumulação de todos os valores de influência política do passado x 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
@@ -10084,6 +10124,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T195825Z" creationid="User" creationdate="20200802T195825Z">
         <seg>Seus portadores recebem|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its calculation is similar to the Current Political Influence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022853Z" creationid="RAFAEL" creationdate="20200805T022853Z">
+        <seg>Seu cálculo é semelhante à Influência Política Atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13888,6 +13936,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023001Z" creationid="RAFAEL" creationdate="20200805T023001Z">
+        <seg>População</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population Growth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022913Z" creationid="RAFAEL" creationdate="20200805T022913Z">
+        <seg>Crescimento da população</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population Growth Rate=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015626Z" creationid="Olivier" creationdate="20200802T015626Z">
@@ -15776,6 +15840,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score component: Current Political Influence</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022800Z" creationid="RAFAEL" creationdate="20200805T022800Z">
+        <seg>Componente de pontuação: Influência política atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score component: Past Political Influence</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022845Z" creationid="RAFAEL" creationdate="20200805T022845Z">
+        <seg>Componente de pontuação: Influência política do passado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for a specific product (Hotkey: Tab)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021619Z" creationid="RAFAEL" creationdate="20200804T021619Z">
@@ -15844,6 +15924,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230926Z" creationid="RAFAEL" creationdate="20200802T230926Z">
         <seg>Selecione o produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the 1st floor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023148Z" creationid="RAFAEL" creationdate="20200805T023148Z">
+        <seg>Selecione o 1º andar</seg>
       </tuv>
     </tu>
     <tu>
@@ -16724,6 +16812,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022034Z" creationid="RAFAEL" creationdate="20200805T022034Z">
         <seg>Excedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Survival Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023018Z" creationid="RAFAEL" creationdate="20200805T023018Z">
+        <seg>Modo de Sobrevivência</seg>
       </tuv>
     </tu>
     <tu>
@@ -17640,6 +17736,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The population growth rate is a result of comparing the nation's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022954Z" creationid="RAFAEL" creationdate="20200805T022954Z">
+        <seg>A taxa de crescimento da população é resultado da comparação da população da nação no início deste ano com o mesmo período do ano passado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The progress of the current R&amp;D project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
@@ -18157,6 +18261,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023637Z" creationid="RAFAEL" creationdate="20200804T023637Z">
         <seg>Isso mostra que a população da cidade muda com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the nation's population changes over time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023010Z" creationid="RAFAEL" creationdate="20200805T023010Z">
+        <seg>Isto mostra que a população da nação muda com o tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19117,6 +19229,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030722Z" creationid="RAFAEL" creationdate="20200804T030722Z">
         <seg>Ao selecionar um fornecedor, o custo do frete não é um fator importante a ser considerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the Survival Mode is enabled, the options available on the New Game Settings menu will be different to reflect the new gameplay mechanism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023041Z" creationid="RAFAEL" creationdate="20200805T023041Z">
+        <seg>Quando o Modo de Sobrevivência estiver ativado, as opções disponíveis no menu Novas configurações de jogo serão diferentes para refletir o novo mecanismo de jogabilidade.</seg>
       </tuv>
     </tu>
     <tu>
