@@ -2902,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City fund</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022018Z" creationid="RAFAEL" creationdate="20200805T022018Z">
+        <seg>Fundo da cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City population=1000000, Seoul</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012505Z" creationid="Olivier" creationdate="20200802T012505Z">
@@ -4926,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deficit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022051Z" creationid="RAFAEL" creationdate="20200805T022051Z">
+        <seg>Déficit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete this layout plan</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232400Z" creationid="RAFAEL" creationdate="20200802T232400Z">
@@ -6043,6 +6059,14 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222243Z" creationid="RAFAEL" creationdate="20200802T222243Z">
         <seg>Relatório Financeiro (Tecla de atalho: F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Financial report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022113Z" creationid="RAFAEL" creationdate="20200805T022113Z">
+        <seg>Relatório financeiro (Atalho: F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +9980,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012844Z" creationid="RAFAEL" creationdate="20200805T012844Z">
         <seg>É a porcentagem dos ganhos pagos aos acionistas em dividendos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used for calculating the Net Exports component of GDP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021904Z" creationid="RAFAEL" creationdate="20200805T021904Z">
+        <seg>É utilizado para o cálculo do componente de Exportações Líquidas do PIB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used for calculating the Net Imports component of GDP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022009Z" creationid="RAFAEL" creationdate="20200805T022009Z">
+        <seg>É utilizado para o cálculo do componente Importações Líquidas do PIB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16624,6 +16664,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Surplus</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022034Z" creationid="RAFAEL" creationdate="20200805T022034Z">
+        <seg>Excedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Survival Mode=No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012339Z" creationid="Olivier" creationdate="20200802T012339Z">
@@ -17112,6 +17160,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of cash currently in the city fund.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022027Z" creationid="RAFAEL" creationdate="20200805T022027Z">
+        <seg>A quantidade de dinheiro em espécie atualmente no fundo da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of deficit that the current city has registered over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022058Z" creationid="RAFAEL" creationdate="20200805T022058Z">
+        <seg>A quantidade de déficit que a cidade atual registrou durante os últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of surplus that the current city has registered over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022044Z" creationid="RAFAEL" creationdate="20200805T022044Z">
+        <seg>A quantidade de excedente que a cidade atual registrou durante os últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average ratings are derived from your competitors' products and your products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225836Z" creationid="RAFAEL" creationdate="20200802T225836Z">
@@ -17564,6 +17636,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005829Z" creationid="RAFAEL" creationdate="20200805T005829Z">
         <seg>O número total de ações atualmente detidas por todos os seus acionistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total value of exports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021833Z" creationid="RAFAEL" creationdate="20200805T021833Z">
+        <seg>O valor total das exportações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total value of imports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021921Z" creationid="RAFAEL" creationdate="20200805T021921Z">
+        <seg>O valor total das importações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18185,6 +18273,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the display of the financial report for this public facility.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022128Z" creationid="RAFAEL" creationdate="20200805T022128Z">
+        <seg>Alternar a exibição do relatório financeiro para esta instalação pública.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle the filter mode between All Cities and Current City.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210028Z" creationid="RAFAEL" creationdate="20200802T210028Z">
@@ -18225,10 +18321,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Exports</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021826Z" creationid="RAFAEL" creationdate="20200805T021826Z">
+        <seg>Exportações totais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Gross Domestic Product (GDP)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024351Z" creationid="RAFAEL" creationdate="20200804T024351Z">
         <seg>Produto Interno Bruto Total (PIB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Imports</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021913Z" creationid="RAFAEL" creationdate="20200805T021913Z">
+        <seg>Importação total</seg>
       </tuv>
     </tu>
     <tu>
