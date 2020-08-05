@@ -846,6 +846,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All - Any Purposes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000711Z" creationid="RAFAEL" creationdate="20200805T000711Z">
+        <seg>Aplicar a todos - todos os usos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Residential Zones</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000745Z" creationid="RAFAEL" creationdate="20200805T000745Z">
+        <seg>Aplicar tudo - Zonas Residenciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply Selected</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224017Z" creationid="RAFAEL" creationdate="20200802T223851Z">
@@ -13680,6 +13696,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove land-use restrictions on any land plots owned by the government.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000730Z" creationid="RAFAEL" creationdate="20200805T000730Z">
+        <seg>Remover as restrições de uso do solo em qualquer parcela de terra de propriedade do governo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015357Z" creationid="RAFAEL" creationdate="20200804T015357Z">
@@ -14660,6 +14684,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231051Z" creationid="RAFAEL" creationdate="20200802T231051Z">
         <seg>Definir produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to residential zones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T000830Z" creationid="RAFAEL" creationdate="20200805T000830Z">
+        <seg>Ajustar os terrenos de toda a cidade atualmente propriedade do governo para zonas residenciais.</seg>
       </tuv>
     </tu>
     <tu>
