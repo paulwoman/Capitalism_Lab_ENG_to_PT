@@ -6519,6 +6519,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Health</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001734Z" creationid="RAFAEL" creationdate="20200805T001734Z">
+        <seg>Saúde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health rating=90, Berlin</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012612Z" creationid="Olivier" creationdate="20200802T012612Z">
@@ -14952,6 +14960,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Social Security</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001807Z" creationid="RAFAEL" creationdate="20200805T001807Z">
+        <seg>Seguridade Social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Social Security rating=90, Berlin</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012612Z" creationid="Olivier" creationdate="20200802T012612Z">
@@ -16453,6 +16469,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
         <seg>Descrição deste plano de layout - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Hospitals in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001756Z" creationid="RAFAEL" creationdate="20200805T001756Z">
+        <seg>Esta classificação é determinada pelos índices de satisfação geral dos Hospitais da cidade (detalhes podem ser vistos na página "Instalações Públicas").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Schools and Universities in the city (details can be viewed on the "Public Facilities" page) and the Education Levels of the citizens (info can be viewed on the detail window of a school or a university.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001727Z" creationid="RAFAEL" creationdate="20200805T001727Z">
+        <seg>Esta classificação é determinada pelos índices de satisfação geral das escolas e universidades da cidade (detalhes podem ser vistos na página "Instalações Públicas") e os níveis educacionais dos cidadãos (informações podem ser vistas na janela de detalhes de uma escola ou universidade).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the average pay rate of Unemployment Benefits as a percentage of the reference salary in the past 3 years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001945Z" creationid="RAFAEL" creationdate="20200805T001945Z">
+        <seg>Esta classificação é determinada pela taxa de remuneração média dos Benefícios de Desemprego como uma porcentagem do salário de referência nos últimos 3 anos.</seg>
       </tuv>
     </tu>
     <tu>
