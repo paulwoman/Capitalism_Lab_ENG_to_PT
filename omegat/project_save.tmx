@@ -10296,6 +10296,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It contributes to the OS's overall rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031043Z" creationid="RAFAEL" creationdate="20200805T031043Z">
+        <seg>Ele contribui para a classificação geral do sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It equals to its share price times the total number of shares outstanding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010043Z" creationid="RAFAEL" creationdate="20200805T010043Z">
