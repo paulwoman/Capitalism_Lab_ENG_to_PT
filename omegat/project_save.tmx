@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tick sign indicates that there are custom images defined for the product type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014436Z" creationid="RAFAEL" creationdate="20200805T014436Z">
+        <seg>Um sinal de seleção indica que existem imagens personalizadas definidas para o tipo de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A unit with a higher experience level has #larger capacity# and #higher productivity#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230200Z" creationid="RAFAEL" creationdate="20200802T230200Z">
@@ -3470,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to toggle whether disabled product classes should be shown on this list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014351Z" creationid="RAFAEL" creationdate="20200805T014351Z">
+        <seg>Clique aqui para alternar se as classes de produtos deficientes devem ser mostradas nesta lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to type in an exact number (hotkey: '=')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030932Z" creationid="RAFAEL" creationdate="20200804T030932Z">
@@ -3810,6 +3826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222226Z" creationid="RAFAEL" creationdate="20200802T222226Z">
         <seg>Clique para abrir a Biblioteca do Plano de Layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Product Customization Editor to define custom images for the current product type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014426Z" creationid="RAFAEL" creationdate="20200805T014426Z">
+        <seg>Clique para abrir o Editor de Personalização de Produto para definir imagens personalizadas para o tipo de produto atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6911,6 +6935,14 @@ Exibir o menu Caixa de ferramentas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Group Supersedes Internal Sale</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014450Z" creationid="RAFAEL" creationdate="20200805T014450Z">
+        <seg>O Grupo Supera a Venda Interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grow Crop</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230904Z" creationid="RAFAEL" creationdate="20200802T230904Z">
@@ -7132,6 +7164,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220134Z" creationid="RAFAEL" creationdate="20200802T220134Z">
         <seg>Segure a tecla #SHIFT# enquanto clica na velocidade #10X#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: '!'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014359Z" creationid="RAFAEL" creationdate="20200805T014359Z">
+        <seg>Atalho: '!'</seg>
       </tuv>
     </tu>
     <tu>
@@ -9132,6 +9172,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013307Z" creationid="RAFAEL" creationdate="20200805T013307Z">
         <seg>Se alguma de suas outras empresas tiver #links de fornecimento quebrados# que exijam o #mesmo item# que #esta unidade de vendas# está vendendo, você pode usar este botão para #redirecionar todos os links de fornecimento afetados# para #esta unidade de vendas#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, any firms in your company and #subsidiaries# will always be able to buy products from each other, regardless of the #Internal Sale# setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014715Z" creationid="RAFAEL" creationdate="20200805T014715Z">
+        <seg>Se isto for permitido, qualquer empresa em sua Corporação e #subsidiárias# poderão sempre comprar produtos uma da outra, independentemente do ajuste #Venda Interna#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13780,6 +13828,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014035Z" creationid="RAFAEL" creationdate="20200805T014035Z">
         <seg>Personalização de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization (hotkey: 'z')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014415Z" creationid="RAFAEL" creationdate="20200805T014415Z">
+        <seg>Personalização do produto (Atalho: 'z')</seg>
       </tuv>
     </tu>
     <tu>
