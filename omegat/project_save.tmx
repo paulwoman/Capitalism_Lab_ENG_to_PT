@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Backward Integration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015253Z" creationid="RAFAEL" creationdate="20200805T015253Z">
+        <seg>Integração reversa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Balance market shares and profit margins and set prices sensibly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030702Z" creationid="RAFAEL" creationdate="20200804T030702Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022109Z" creationid="RAFAEL" creationdate="20200804T022109Z">
         <seg>Clique aqui para ir para a Bolsa de Valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to name the current custom product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015414Z" creationid="RAFAEL" creationdate="20200805T015414Z">
+        <seg>Clique aqui para nomear a imagem atual personalizada do produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14688,6 +14704,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required tech level for this custom product image</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015504Z" creationid="RAFAEL" creationdate="20200805T015504Z">
+        <seg>Nível tecnológico necessário para esta imagem de produto personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -17144,6 +17168,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The higher the slider's value, the higher the tendency to set up firms for backward integration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015404Z" creationid="RAFAEL" creationdate="20200805T015404Z">
+        <seg>Quanto maior o valor do controle deslizante, maior a tendência de criação de empresas para integração com integração reversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024914Z" creationid="RAFAEL" creationdate="20200804T024914Z">
@@ -17573,6 +17605,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031559Z" creationid="RAFAEL" creationdate="20200804T031559Z">
         <seg>Esta empresa é a subsidiária de sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines whether the CEO may build factories, farms and natural resource firms to supply raw materials and semi products to existing factories that need them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015331Z" creationid="RAFAEL" creationdate="20200805T015331Z">
+        <seg>Isso determina se o CEO pode construir fábricas, fazendas e firmas de recursos naturais para fornecer matérias-primas e semiprodutos às fábricas existentes que precisam deles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35891,8 +35931,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014121Z" creationid="RAFAEL" creationdate="20200805T014115Z">
-        <seg>Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível técnico de 300.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015523Z" creationid="RAFAEL" creationdate="20200805T014115Z">
+        <seg>Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível tecnológico de 300.</seg>
       </tuv>
     </tu>
     <tu>
