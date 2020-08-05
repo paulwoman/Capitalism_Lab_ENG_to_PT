@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high corporate profit tax rate brings in greater tax revenue for the city whereas a low corporate profit tax attracts business investment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003838Z" creationid="RAFAEL" creationdate="20200805T003838Z">
+        <seg>Uma alta taxa de imposto sobre o lucro corporativo traz maior receita fiscal para a cidade, enquanto um imposto sobre o lucro corporativo baixo atrai investimentos comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212453Z" creationid="RAFAEL" creationdate="20200802T212453Z">
         <seg>Localização automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Manage Media Firms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003956Z" creationid="RAFAEL" creationdate="20200805T003956Z">
+        <seg>Gerenciar empresas de mídia automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210626Z" creationid="RAFAEL" creationdate="20200802T210626Z">
         <seg>Filtro Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Profit Tax Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003822Z" creationid="RAFAEL" creationdate="20200805T003822Z">
+        <seg>Taxa de imposto sobre o lucro corporativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8824,6 +8848,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the "Jobs and Income" category of the Quality of Life index will suffer a drop as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003807Z" creationid="RAFAEL" creationdate="20200805T003807Z">
+        <seg>Além disso, a categoria "Emprego e renda" do índice de Qualidade de Vida também sofrerá uma queda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase this rating by building more community facilities close to this apartment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014147Z" creationid="RAFAEL" creationdate="20200804T014147Z">
@@ -8844,6 +8876,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015407Z" creationid="RAFAEL" creationdate="20200804T015407Z">
         <seg>Aumente esta classificação diminuindo o aluguel que você está pedindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Individual Income Tax Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003737Z" creationid="RAFAEL" creationdate="20200805T003737Z">
+        <seg>Taxa de Imposto de Renda de Pessoa Física</seg>
       </tuv>
     </tu>
     <tu>
@@ -16400,6 +16440,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The pay rate of unemployment benefits as a percentage of the reference salary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003940Z" creationid="RAFAEL" creationdate="20200805T003940Z">
+        <seg>A taxa de remuneração do subsídio de desemprego como porcentagem do salário de referência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023540Z" creationid="RAFAEL" creationdate="20200804T023540Z">
@@ -17209,6 +17257,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unemployment Benefits Pay Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003849Z" creationid="RAFAEL" creationdate="20200805T003849Z">
+        <seg>Taxa de Pagamento de Benefícios de Desemprego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unemployment Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024445Z" creationid="RAFAEL" creationdate="20200804T024445Z">
@@ -17609,6 +17665,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a city's individual income tax rate is too high, it will have a negative effect on consumer spending.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003750Z" creationid="RAFAEL" creationdate="20200805T003750Z">
+        <seg>Quando a taxa de imposto de renda individual de uma cidade é muito alta, isso terá um efeito negativo sobre os gastos dos consumidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
@@ -17653,6 +17717,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002732Z" creationid="RAFAEL" creationdate="20200805T002732Z">
         <seg>Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing media firms for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004025Z" creationid="RAFAEL" creationdate="20200805T004025Z">
+        <seg>Quando isso está ativado, o computador gerencia  automaticamente todas as empresas de mídia da cidade.</seg>
       </tuv>
     </tu>
     <tu>
