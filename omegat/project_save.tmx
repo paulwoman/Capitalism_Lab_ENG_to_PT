@@ -7464,6 +7464,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-I</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022747Z" creationid="RAFAEL" creationdate="20200805T022747Z">
+        <seg>Atalho: Ctrl-I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: F1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022650Z" creationid="RAFAEL" creationdate="20200804T022650Z">
@@ -10496,6 +10504,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land Price Index</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022649Z" creationid="RAFAEL" creationdate="20200805T022649Z">
+        <seg>Índice de preços de terrenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land Value Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203615Z" creationid="RAFAEL" creationdate="20200802T203615Z">
@@ -10508,6 +10524,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032258Z" creationid="RAFAEL" creationdate="20200804T032258Z">
         <seg>Os terrenos marcados por esta ferramenta não estarão à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Land-use Plan and Business Relationship.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022556Z" creationid="RAFAEL" creationdate="20200805T022556Z">
+        <seg>Plano de Uso do Solo e Relação Comercial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15968,6 +15992,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up your factory to manufacture this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022712Z" creationid="RAFAEL" creationdate="20200805T022712Z">
+        <seg>Monte sua fábrica para fabricar este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set your rent to a percentage above or below the current market price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025805Z" creationid="RAFAEL" creationdate="20200804T025805Z">
@@ -16744,6 +16776,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch to this mode to show the Land-use Plan and the Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022637Z" creationid="RAFAEL" creationdate="20200805T022637Z">
+        <seg>Mude para este modo para mostrar o Plano de Uso do Solo e o Modo de Relação Comercial - com uma empresa selecionada, este modo exibirá linhas de ligação com empresas em negócios diretos com a empresa selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TALENT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020204Z" creationid="Olivier" creationdate="20200802T020204Z">
@@ -17392,6 +17432,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game is more challenging if you have to start from scratch without a developed city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022734Z" creationid="RAFAEL" creationdate="20200805T022734Z">
+        <seg>O jogo é mais desafiador se você tiver que começar do zero sem uma cidade desenvolvida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060347Z" creationid="Olivier" creationdate="20200728T060347Z">
@@ -17941,6 +17989,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030116Z" creationid="RAFAEL" creationdate="20200804T030116Z">
         <seg>Descrição desta empresa - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This index determines the prices that the government sells its land and natural resource sites to corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022700Z" creationid="RAFAEL" creationdate="20200805T022700Z">
+        <seg>Este índice determina os preços que o governo vende suas terras e sítios de recursos naturais a corporações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19157,6 +19213,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015634Z" creationid="RAFAEL" creationdate="20200805T015634Z">
         <seg>Quando seu nível tecnológico atingir esse nível, a imagem personalizada atual será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whether there is a developed city at the beginning or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022724Z" creationid="RAFAEL" creationdate="20200805T022724Z">
+        <seg>Se há uma cidade desenvolvida no início ou não.</seg>
       </tuv>
     </tu>
     <tu>
