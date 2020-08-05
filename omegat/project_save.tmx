@@ -1848,8 +1848,24 @@
       <tuv lang="en-US">
         <seg>Build a new city (disabled)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215059Z" creationid="Olivier" creationdate="20200802T215059Z">
-        <seg>Build a new city (disabled)</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025043Z" creationid="Olivier" creationdate="20200802T215059Z">
+        <seg>Construir uma nova cidade (desativada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 100X100) (disabled)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024930Z" creationid="RAFAEL" creationdate="20200805T024930Z">
+        <seg>Construir uma nova cidade (tamanho: 100X100) ( desativada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 100x100).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025006Z" creationid="RAFAEL" creationdate="20200805T025006Z">
+        <seg>Construir uma nova cidade (tamanho: 100x100).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17936,6 +17952,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum number of cities allowed in a game has been reached.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025054Z" creationid="RAFAEL" creationdate="20200805T025054Z">
+        <seg>O número máximo de cidades permitido em um jogo foi alcançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mini map currently shows the geographical coverage of this type of civic building.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004241Z" creationid="RAFAEL" creationdate="20200805T004241Z">
@@ -19809,6 +19833,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can build a maximum of 15 cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025210Z" creationid="RAFAEL" creationdate="20200805T025210Z">
+        <seg>Você pode construir um máximo de 15 cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can increase employee loyalty in the following ways: 1) give salary raises 2) set a higher training budget.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024711Z" creationid="RAFAEL" creationdate="20200805T024711Z">
@@ -19829,6 +19861,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013915Z" creationid="RAFAEL" creationdate="20200805T013915Z">
         <seg>Você pode então utilizar o projeto do produto em suas unidades de fabricação em suas fábricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot build new ones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025103Z" creationid="RAFAEL" creationdate="20200805T025103Z">
+        <seg>Não se pode construir novos.</seg>
       </tuv>
     </tu>
     <tu>
