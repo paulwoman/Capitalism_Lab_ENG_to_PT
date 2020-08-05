@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high P/E ratio generally means the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010957Z" creationid="RAFAEL" creationdate="20200805T010957Z">
+        <seg>Uma alta relação P/E geralmente significa que as ações são caras, pois as pessoas estão comprando preços altos para comprar as ações, possivelmente movidas pela confiança dos investidores nas perspectivas de crescimento da empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high corporate profit tax rate brings in greater tax revenue for the city whereas a low corporate profit tax attracts business investment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003838Z" creationid="RAFAEL" creationdate="20200805T003838Z">
@@ -9520,6 +9528,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010932Z" creationid="RAFAEL" creationdate="20200805T010932Z">
+        <seg>É um múltiplo de avaliação patrimonial, definido como o preço das ações dividido pelo Lucro por Ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
@@ -16476,6 +16492,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010225Z" creationid="RAFAEL" creationdate="20200805T010225Z">
         <seg>O Lucro por ação é o lucro operacional de uma empresa nos últimos 365 dias dividido pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The P/E Ratio or the Price-Earnings Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011610Z" creationid="RAFAEL" creationdate="20200805T011610Z">
+        <seg>Relação preço/lucro ou Preço sobre Valor Patrimonial</seg>
       </tuv>
     </tu>
     <tu>
