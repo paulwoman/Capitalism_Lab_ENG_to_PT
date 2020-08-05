@@ -358,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high value means that different regions of the city have good coverage of fire services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003325Z" creationid="RAFAEL" creationdate="20200805T003325Z">
+        <seg>Um alto valor significa que diferentes regiões da cidade têm uma boa cobertura dos serviços do Bombeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A high value means that different regions of the city have good police coverage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003242Z" creationid="RAFAEL" creationdate="20200805T003242Z">
+        <seg>Um alto valor significa que diferentes regiões da cidade têm uma boa cobertura policial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher Content Quality rating leads to higher Rating Points.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224952Z" creationid="RAFAEL" creationdate="20200802T224952Z">
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230214Z" creationid="RAFAEL" creationdate="20200802T230214Z">
         <seg>O nível de uma unidade pode ser aumentado através de #treinamento#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A value of less than 100 means that it cannot keep up with the current demand and you should build more buildings of this type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003215Z" creationid="RAFAEL" creationdate="20200805T003215Z">
+        <seg>Um valor inferior a 100 significa que não consegue acompanhar a demanda atual e você deve construir mais edifícios deste tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a low value indicates some regions of the city do not have adequate fire services coverage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003403Z" creationid="RAFAEL" creationdate="20200805T003403Z">
+        <seg>Por outro lado, um valor baixo indica que algumas regiões da cidade não têm cobertura adequada dos serviços de incêndio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, a low value indicates some regions of the city do not have adequate police coverage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003253Z" creationid="RAFAEL" creationdate="20200805T003253Z">
+        <seg>Por outro lado, um valor baixo indica que algumas regiões da cidade não têm cobertura policial adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Brand Rating=35, 35</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012045Z" creationid="Olivier" creationdate="20200802T012045Z">
@@ -6323,6 +6363,22 @@ Exibir o menu Caixa de ferramentas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024024Z" creationid="RAFAEL" creationdate="20200804T024024Z">
         <seg>Geralmente, quando há um grande número de vagas disponíveis na cidade, a cidade pode se dar ao luxo de aceitar imigrantes em um ritmo mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical coverage of fire services</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003336Z" creationid="RAFAEL" creationdate="20200805T003303Z">
+        <seg>Cobertura geográfica dos serviços do Bombeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical coverage of police</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003229Z" creationid="RAFAEL" creationdate="20200805T003229Z">
+        <seg>Cobertura geográfica da polícia</seg>
       </tuv>
     </tu>
     <tu>
@@ -9764,6 +9820,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025008Z" creationid="RAFAEL" creationdate="20200804T025008Z">
         <seg>Taxa de juros de Empréstimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location convenience</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003413Z" creationid="RAFAEL" creationdate="20200805T003413Z">
+        <seg>Conveniência do local</seg>
       </tuv>
     </tu>
     <tu>
@@ -16589,6 +16653,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030116Z" creationid="RAFAEL" creationdate="20200804T030116Z">
         <seg>Descrição desta empresa - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This index tells you whether you have enough civic buildings in the city to meet the citizens' demands for the services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003158Z" creationid="RAFAEL" creationdate="20200805T003158Z">
+        <seg>Este índice informa se você tem edifícios cívicos suficientes na cidade para atender as demandas dos cidadãos pelos serviços.</seg>
       </tuv>
     </tu>
     <tu>
