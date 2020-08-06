@@ -4070,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to show/hide the window that shows the Market Share of the current product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024607Z" creationid="RAFAEL" creationdate="20200806T024607Z">
+        <seg>Clique aqui para mostrar / ocultar a janela que mostra a participação de mercado do produto atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to switch between display modes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021544Z" creationid="RAFAEL" creationdate="20200804T021544Z">
@@ -12819,6 +12827,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015625Z" creationid="Olivier" creationdate="20200802T015625Z">
         <seg>Marco Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Market Share Window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024555Z" creationid="RAFAEL" creationdate="20200806T024555Z">
+        <seg>Janela de Participação no Mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -22561,6 +22577,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024521Z" creationid="RAFAEL" creationdate="20200806T024521Z">
+        <seg>Modo de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer or Demolish this apartment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015143Z" creationid="RAFAEL" creationdate="20200805T015143Z">
@@ -23917,6 +23941,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021101Z" creationid="RAFAEL" creationdate="20200806T021101Z">
         <seg>Você pode atribuir as teclas 'W', 'S', 'A' e 'D' como teclas de atalho sensíveis ao contexto ou usá-las para percorrer o mapa da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the bank to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024539Z" creationid="RAFAEL" creationdate="20200806T024539Z">
+        <seg>Você pode alterar o modo de transferência - seja para transferir fundos do banco para a empresa controladora ou vice-versa, clicando no ícone Seta.</seg>
       </tuv>
     </tu>
     <tu>
