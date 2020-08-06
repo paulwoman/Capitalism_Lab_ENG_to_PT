@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025706Z" creationid="RAFAEL" creationdate="20200806T025706Z">
+        <seg>Índice de Capital Bancário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Banknotes and coins for the revalued currency will enter into circulation.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T234928Z" creationid="User" creationdate="20200801T234928Z">
@@ -4042,6 +4050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025627Z" creationid="RAFAEL" creationdate="20200806T025627Z">
         <seg>Clique aqui para retomar a aceitação de novos depósitos bancários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to resume approving new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025654Z" creationid="RAFAEL" creationdate="20200806T025654Z">
+        <seg>Clique aqui para retomar a aprovação de novos empréstimos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20756,6 +20772,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122022Z" creationid="Olivier" creationdate="20200805T122022Z">
         <seg>Text Box=70,422,380,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030029Z" creationid="RAFAEL" creationdate="20200806T030029Z">
+        <seg>O #relação de capital" é uma relação entre o "capital próprio" de um banco e seu total de "empréstimos a clientes". Um banco deve manter uma relação de capital que atenda às exigências do banco central </seg>
       </tuv>
     </tu>
     <tu>
