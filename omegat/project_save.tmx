@@ -10399,6 +10399,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you change the #training budget# here, the change will apply to all the front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015921Z" creationid="RAFAEL" creationdate="20200806T015921Z">
+        <seg>Se você alterar o #orçamento de treinamento# aqui, a alteração se aplicará a todos os front-office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you change the training budget here, the change will apply to all branches of the bank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013827Z" creationid="RAFAEL" creationdate="20200806T013827Z">
@@ -20115,6 +20123,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013846Z" creationid="RAFAEL" creationdate="20200806T013846Z">
         <seg>O nível médio de habilidade do pessoal de todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average staff skill level of all the insurance company's front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015933Z" creationid="RAFAEL" creationdate="20200806T015933Z">
+        <seg>O nível médio de habilidade do pessoal de todos os escritórios da companhia de seguros.</seg>
       </tuv>
     </tu>
     <tu>
