@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to resume accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025627Z" creationid="RAFAEL" creationdate="20200806T025627Z">
+        <seg>Clique aqui para retomar a aceitação de novos depósitos bancários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to see how this can be used to make other products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225359Z" creationid="RAFAEL" creationdate="20200802T225359Z">
@@ -11295,6 +11303,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment Profit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025423Z" creationid="RAFAEL" creationdate="20200806T025423Z">
+        <seg>Lucro do investimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment is the total investment by businesses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021645Z" creationid="RAFAEL" creationdate="20200805T021645Z">
@@ -11371,6 +11387,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010043Z" creationid="RAFAEL" creationdate="20200805T010043Z">
         <seg>É igual ao preço das ações multiplicado pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It equals to the amount of premiums received, less insurance claims and operating expenses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025413Z" creationid="RAFAEL" creationdate="20200806T025413Z">
+        <seg>É igual à quantidade de prêmios recebidos, menos sinistro de seguro e despesas operacionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14227,6 +14251,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220538Z" creationid="User" creationdate="20200803T220538Z">
         <seg>Escolha apenas se você ganhou em jogos mais fáceis.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only do this when you intend to wind down the bank's deposits and eventually close it down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025532Z" creationid="RAFAEL" creationdate="20200806T025532Z">
+        <seg>Faça isso somente quando pretender encerrar os depósitos do banco e, eventualmente, fechá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17703,6 +17735,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resume Bank Deposits</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025609Z" creationid="RAFAEL" creationdate="20200806T025609Z">
+        <seg>Retomar depósitos bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resume Bank Loans</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025638Z" creationid="RAFAEL" creationdate="20200806T025638Z">
+        <seg>Retomar empréstimos bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011323Z" creationid="Olivier" creationdate="20200802T011323Z">
@@ -19544,6 +19592,38 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop Bank Deposits</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025510Z" creationid="RAFAEL" creationdate="20200806T025448Z">
+        <seg>Parar depósitos bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Bank Loans</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025550Z" creationid="RAFAEL" creationdate="20200806T025550Z">
+        <seg>Interromper empréstimos bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025502Z" creationid="RAFAEL" creationdate="20200806T025502Z">
+        <seg>Pare de aceitar novos depósitos bancários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop approving new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025600Z" creationid="RAFAEL" creationdate="20200806T025600Z">
+        <seg>Pare de aprovar novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stop purchasing from the current supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231147Z" creationid="RAFAEL" creationdate="20200802T231147Z">
@@ -20889,6 +20969,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank has stopped accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025617Z" creationid="RAFAEL" creationdate="20200806T025617Z">
+        <seg>O banco parou de aceitar novos depósitos bancários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bank has stopped approving new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025646Z" creationid="RAFAEL" creationdate="20200806T025646Z">
+        <seg>O banco parou de aprovar novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bar indicates the growth progress of the crop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213720Z" creationid="Olivier" creationdate="20200730T213720Z">
@@ -21445,6 +21541,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020312Z" creationid="RAFAEL" creationdate="20200806T020312Z">
         <seg>O nível de preços dos prêmios de seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profit from underwriting insurance policies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025351Z" creationid="RAFAEL" creationdate="20200806T025351Z">
+        <seg>O lucro da subscrição de apólices de seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profits from investments in stocks, bonds, and bank deposits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025432Z" creationid="RAFAEL" creationdate="20200806T025432Z">
+        <seg>Os lucros de investimentos em ações, títulos e depósitos bancários.</seg>
       </tuv>
     </tu>
     <tu>
