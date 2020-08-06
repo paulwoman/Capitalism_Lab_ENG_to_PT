@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Building for preparing this product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233728Z" creationid="RAFAEL" creationdate="20200806T233728Z">
+        <seg>Construção para a preparação deste produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Business Activity Index</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032448Z" creationid="RAFAEL" creationdate="20200806T032448Z">
@@ -14831,6 +14839,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show sovereign bonds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233715Z" creationid="RAFAEL" creationdate="20200806T233715Z">
+        <seg>Mostrar apenas títulos soberanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show technologies that your company is currently researching.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232134Z" creationid="RAFAEL" creationdate="20200802T232134Z">
@@ -19551,6 +19567,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up a layout in your firm for preparing this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233908Z" creationid="RAFAEL" creationdate="20200806T233908Z">
+        <seg>Estabeleça um layout em sua empresa para a preparação deste produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new floor</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023233Z" creationid="RAFAEL" creationdate="20200805T023233Z">
@@ -23134,6 +23158,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022450Z" creationid="RAFAEL" creationdate="20200806T022450Z">
         <seg>Este produto é proveniente de múltiplos fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This product must be prepared in this specific building using #[Prepare] units#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233846Z" creationid="RAFAEL" creationdate="20200806T233846Z">
+        <seg>Este produto deve ser preparado neste edifício específico usando unidades #[Preparar].</seg>
       </tuv>
     </tu>
     <tu>
