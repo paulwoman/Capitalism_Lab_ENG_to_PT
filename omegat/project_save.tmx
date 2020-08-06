@@ -10319,6 +10319,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, the skill level is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015955Z" creationid="RAFAEL" creationdate="20200806T015955Z">
+        <seg>Se o #City Economics Simulation DLC# estiver habilitado, o nível de habilidade também é afetado pelo #nível de instrução# das pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022327Z" creationid="RAFAEL" creationdate="20200805T022327Z">
@@ -10823,6 +10831,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Brand Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020237Z" creationid="RAFAEL" creationdate="20200806T020226Z">
+        <seg>Classificação das marcas de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interface Select=Product Details Report, Jeans</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122049Z" creationid="Olivier" creationdate="20200805T122049Z">
@@ -10979,6 +10995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013858Z" creationid="RAFAEL" creationdate="20200806T013858Z">
         <seg>Afeta a qualidade geral do #serviço# do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It affects the overall #service quality# of the insurance company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015943Z" creationid="RAFAEL" creationdate="20200806T015943Z">
+        <seg>Afeta a qualidade total do #serviço# da seguradora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20103,6 +20127,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average customer waiting time of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020134Z" creationid="RAFAEL" creationdate="20200806T020134Z">
+        <seg>O tempo médio de espera do cliente de todos os front-office de seguros da seguradora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average ratings are derived from your competitors' products and your products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225836Z" creationid="RAFAEL" creationdate="20200802T225836Z">
@@ -20115,6 +20147,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013938Z" creationid="RAFAEL" creationdate="20200806T013938Z">
         <seg>A qualidade média de serviço de todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average service quality of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020216Z" creationid="RAFAEL" creationdate="20200806T020216Z">
+        <seg>A qualidade média de serviço de todas as front-office de seguros da seguradora.</seg>
       </tuv>
     </tu>
     <tu>
