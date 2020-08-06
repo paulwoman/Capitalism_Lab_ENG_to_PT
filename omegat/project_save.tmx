@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advertisement</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021942Z" creationid="RAFAEL" creationdate="20200806T021942Z">
+        <seg>Propaganda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advertising unit is linked=5</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122208Z" creationid="Olivier" creationdate="20200805T122208Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001257Z" creationid="RAFAEL" creationdate="20200805T001257Z">
         <seg>Todos os terrenos de propriedade do governo não estarão à venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allocate retail space and hire staff for selling the same product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022302Z" creationid="RAFAEL" creationdate="20200806T022302Z">
+        <seg>Aloque espaço de varejo e contrate funcionários para vender o mesmo produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to view the advertisement setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022017Z" creationid="RAFAEL" creationdate="20200806T022017Z">
+        <seg>Clique aqui para ver as configurações do anúncio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view the person's details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221831Z" creationid="RAFAEL" creationdate="20200802T221831Z">
@@ -4506,6 +4530,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221230Z" creationid="RAFAEL" creationdate="20200802T221230Z">
         <seg>Clique para ativar ou desativar a opção de notícias sobre ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client Deposits</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021828Z" creationid="RAFAEL" creationdate="20200806T021828Z">
+        <seg>Depósitos de clientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client Deposits from All Branches of This Bank</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021904Z" creationid="RAFAEL" creationdate="20200806T021904Z">
+        <seg>Depósitos de clientes de todas as agências deste banco</seg>
       </tuv>
     </tu>
     <tu>
@@ -10563,6 +10603,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024125Z" creationid="RAFAEL" creationdate="20200805T024051Z">
         <seg>No jogo, cada jogador tem a capacidade de criar um IP a partir do zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022032Z" creationid="RAFAEL" creationdate="20200806T022032Z">
+        <seg>Aumentar a capacidade de varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -20543,6 +20591,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021801Z" creationid="RAFAEL" creationdate="20200806T021801Z">
+        <seg>A demanda por bens necessários é bastante constante, pois as pessoas devem comprá-los mesmo que o preço oferecido não seja atraente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090707Z" creationid="User" creationdate="20200802T200157Z">
@@ -20555,6 +20611,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214534Z" creationid="Olivier" creationdate="20200730T214534Z">
         <seg>A duração da pesquisa.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021842Z" creationid="RAFAEL" creationdate="20200806T021842Z">
+        <seg>A figura mostra o total de depósitos de clientes e a taxa de crescimento ano a ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The figure shows the total client deposits from all branches of this bank and the year-over-year growth rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021929Z" creationid="RAFAEL" creationdate="20200806T021929Z">
+        <seg>A figura mostra o total de depósitos de clientes de todas as agências deste banco e a taxa de crescimento de um ano para o outro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20603,6 +20675,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
         <seg>o governo anunciou que a moeda vai ser reavaliada a uma razão de 1 para 100.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021853Z" creationid="RAFAEL" creationdate="20200806T021853Z">
+        <seg>O gráfico mostra os depósitos nos últimos 36 meses.</seg>
       </tuv>
     </tu>
     <tu>
