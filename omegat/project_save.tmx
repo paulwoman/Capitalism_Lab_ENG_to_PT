@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bond's Yield takes into account the bond's current market price and tells you what you will actually earn on an annualized basis when you buy the bond at its current market price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030953Z" creationid="RAFAEL" creationdate="20200806T030953Z">
+        <seg>O Rendimento de um título leva em consideração o preço atual de mercado do título e informa o que você realmente ganhará anualmente, quando comprar o título pelo seu preço atual de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023502Z" creationid="RAFAEL" creationdate="20200804T023502Z">
@@ -17775,6 +17783,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset Stock Returns History</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031233Z" creationid="RAFAEL" creationdate="20200806T031006Z">
+        <seg>Redefinir histórico de retorno da ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reset all goals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025822Z" creationid="RAFAEL" creationdate="20200804T025822Z">
@@ -19668,6 +19684,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025510Z" creationid="RAFAEL" creationdate="20200806T025448Z">
         <seg>Parar depósitos bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Bank Deposits and Loans</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031022Z" creationid="RAFAEL" creationdate="20200806T031022Z">
+        <seg>Interromper depósitos e empréstimos bancários</seg>
       </tuv>
     </tu>
     <tu>
@@ -24102,6 +24126,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225918Z" creationid="RAFAEL" creationdate="20200802T225918Z">
         <seg>Barra amarela = o fornecimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yield (also called Yield to Maturity)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030935Z" creationid="RAFAEL" creationdate="20200806T030935Z">
+        <seg>Rendimento (também chamado de Rendimento até o vencimento)</seg>
       </tuv>
     </tu>
     <tu>
