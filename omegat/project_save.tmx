@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A long customer waiting time negatively affects the #service quality# of the branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013445Z" creationid="RAFAEL" creationdate="20200806T013445Z">
+        <seg>Um longo tempo de espera do cliente afeta negativamente a qualidade do #serviço# da filial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A low rate means that the unit has idle time and its capacity is underutilized.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230259Z" creationid="RAFAEL" creationdate="20200802T230259Z">
@@ -5078,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customer Waiting Time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013435Z" creationid="RAFAEL" creationdate="20200806T013435Z">
+        <seg>Tempo de espera do cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customize the production technology level for this manufacturing unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014729Z" creationid="RAFAEL" creationdate="20200805T014729Z">
@@ -6962,6 +6978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021027Z" creationid="RAFAEL" creationdate="20200804T021012Z">
         <seg>Está à Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Smart Phone, Quality Rating is determined by 1) Raw Material Quality 2) Technology/Production Quality 3) OS Software Quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013347Z" creationid="RAFAEL" creationdate="20200806T013347Z">
+        <seg>Para Smart Phone, o Classificação de qualidade é determinado por 1) Qualidade da matéria-prima 2) Tecnologia/ Qualidade da produção 3) Qualidade do software OS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10195,6 +10219,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013307Z" creationid="RAFAEL" creationdate="20200805T013307Z">
         <seg>Se alguma de suas outras empresas tiver #links de fornecimento quebrados# que exijam o #mesmo item# que #esta unidade de vendas# está vendendo, você pode usar este botão para #redirecionar todos os links de fornecimento afetados# para #esta unidade de vendas#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, it is also affected by the #education level# of people in the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013423Z" creationid="RAFAEL" creationdate="20200806T013423Z">
+        <seg>Se o #City Economics Simulation DLC# estiver habilitado, ele também é afetado pelo #nível de instrução# das pessoas na cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18375,6 +18407,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff Skill Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013357Z" creationid="RAFAEL" creationdate="20200806T013357Z">
+        <seg>Nível de Habilidade do Pessoal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Staff attitude change=CMO, -100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011535Z" creationid="Olivier" creationdate="20200802T011535Z">
@@ -22652,6 +22692,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011510Z" creationid="RAFAEL" creationdate="20200806T011510Z">
         <seg>Você pode estabelecer preços de comércio eletrônico individualmente ou estabelecer uma porcentagem de marcação de preço que se aplica a todos os produtos desta empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may set the #training budget# to provide training to the staff to increase their skills.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013409Z" creationid="RAFAEL" creationdate="20200806T013409Z">
+        <seg>Você pode definir o #orçamento de treinamento# para fornecer treinamento ao pessoal a fim de aumentar suas habilidades.</seg>
       </tuv>
     </tu>
     <tu>
