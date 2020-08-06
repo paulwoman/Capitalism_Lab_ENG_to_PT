@@ -398,10 +398,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033817Z" creationid="RAFAEL" creationdate="20200806T033817Z">
+        <seg>1) As empresas locais da cidade se beneficiam do aumento da competitividade e #exportação#, contratando assim mais trabalhadores e diminuindo a taxa de #desemprego# da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is normal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020330Z" creationid="RAFAEL" creationdate="20200806T020330Z">
         <seg>100 é normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2) #Manufacturing units# in factories have #City Quality Bonuses# added to their products' #Product Quality# ratings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033845Z" creationid="RAFAEL" creationdate="20200806T033845Z">
+        <seg>2) #Unidades de fabricação# nas fábricas têm #Bônus de qualidade da cidade# adicionado à classificação de seus produtos #Qualidade do produto#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Deposits</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033715Z" creationid="RAFAEL" creationdate="20200806T033715Z">
+        <seg>Todos os depósitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Loans</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014015Z" creationid="RAFAEL" creationdate="20200806T014015Z">
@@ -1618,6 +1642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232538Z" creationid="RAFAEL" creationdate="20200802T232538Z">
         <seg>Suprimentos disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Brand Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033642Z" creationid="RAFAEL" creationdate="20200806T033642Z">
+        <seg>Classificação média da marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025720Z" creationid="RAFAEL" creationdate="20200804T025627Z">
         <seg>Mudança de fornecedor em Lote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch Transfer Firms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034008Z" creationid="RAFAEL" creationdate="20200806T034008Z">
+        <seg>Transferência de empresa em lotes </seg>
       </tuv>
     </tu>
     <tu>
@@ -19079,6 +19119,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this to show a summary of customer deposits made via bank branches and deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033728Z" creationid="RAFAEL" creationdate="20200806T033728Z">
+        <seg>Selecione isto para mostrar um resumo dos depósitos de clientes feitos através de agências bancárias e depósitos feitos por corporações e pessoas do jogo através da sede do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this to show all bad loans that have been defaulted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014406Z" creationid="RAFAEL" creationdate="20200806T014406Z">
@@ -21321,6 +21369,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average brand rating of the bank in all the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033655Z" creationid="RAFAEL" creationdate="20200806T033655Z">
+        <seg>A classificação média da marca do banco em todas as cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average brand rating of the insurance company in all the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033707Z" creationid="RAFAEL" creationdate="20200806T033707Z">
+        <seg>A classificação média da marca da companhia de seguros em todas as cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average customer waiting time of all the bank's branches.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013927Z" creationid="RAFAEL" creationdate="20200806T013927Z">
@@ -21805,6 +21869,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
         <seg>A companhia de seguros não possui caixa suficiente para pagar todas as suas obrigações de contrato de seguro em reservas de sinistros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The interest rate for 1 Year Time Deposit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033627Z" creationid="RAFAEL" creationdate="20200806T033627Z">
+        <seg>A taxa de juros por 1 ano de Depósito a Prazo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23726,6 +23798,38 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122015Z" creationid="Olivier" creationdate="20200805T122015Z">
         <seg>Unit has item=4, Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in Products</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033745Z" creationid="RAFAEL" creationdate="20200806T033745Z">
+        <seg>Pesquisa universitária em produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in Tech</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033858Z" creationid="RAFAEL" creationdate="20200806T033858Z">
+        <seg>Pesquisa Universitária em Tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in specific fields of technology leads to increases in #skill levels# of researchers and software engineers in those fields (under the Talent system).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033915Z" creationid="RAFAEL" creationdate="20200806T033915Z">
+        <seg>A pesquisa universitária em campos específicos de tecnologia leva a um aumento dos níveis de qualificação dos pesquisadores e engenheiros de software nesses campos (sob o sistema Talent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in specific industries leads to #higher competitiveness#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033801Z" creationid="RAFAEL" creationdate="20200806T033801Z">
+        <seg>A pesquisa universitária em indústrias específicas leva a #uma maior competitividade#.</seg>
       </tuv>
     </tu>
     <tu>
