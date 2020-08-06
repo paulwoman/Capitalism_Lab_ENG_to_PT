@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Product Quality# is the sum total of #Raw Material Quality# and #Production Quality#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234223Z" creationid="RAFAEL" creationdate="20200806T234223Z">
+        <seg>#Qualidade do produto# é a soma total de #Qualidade da matéria-prima# e #Qualidade da produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Production Quality# is determined by the #Product Technology# of the producer company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234320Z" creationid="RAFAEL" creationdate="20200806T234320Z">
+        <seg>#A Qualidade da Produção# é determinada pela #Tecnologia do Produto# da empresa produtora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024410Z" creationid="RAFAEL" creationdate="20200805T024410Z">
@@ -7614,6 +7630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more details, press F1 to open the guide to see the production details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234256Z" creationid="RAFAEL" creationdate="20200806T234256Z">
+        <seg>Para mais detalhes, pressione F1 para abrir o guia e ver os detalhes de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more details, see the Cities page on the Information Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004603Z" creationid="RAFAEL" creationdate="20200805T004603Z">
@@ -9051,6 +9075,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012613Z" creationid="Olivier" creationdate="20200802T012613Z">
         <seg>Housing and Community Facilities rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hover the mouse over any of the text lines below to see context sensitive help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234204Z" creationid="RAFAEL" creationdate="20200806T234204Z">
+        <seg>Passe o mouse sobre qualquer uma das linhas de texto abaixo para ver a ajuda sensível ao contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17423,6 +17455,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234214Z" creationid="RAFAEL" creationdate="20200806T234214Z">
+        <seg>Qualidade do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Rating Indicators</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225634Z" creationid="RAFAEL" creationdate="20200802T225634Z">
@@ -17507,6 +17547,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012007Z" creationid="Olivier" creationdate="20200802T012007Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Production Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234309Z" creationid="RAFAEL" creationdate="20200806T234309Z">
+        <seg>Qualidade da Produção</seg>
       </tuv>
     </tu>
     <tu>
@@ -17683,6 +17731,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215311Z" creationid="Olivier" creationdate="20200802T010530Z">
         <seg>QUALITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234110Z" creationid="RAFAEL" creationdate="20200806T234110Z">
+        <seg>Classificação de qualidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -18027,6 +18083,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013732Z" creationid="Olivier" creationdate="20200802T013732Z">
         <seg>Raw Material Production=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw Materials Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234234Z" creationid="RAFAEL" creationdate="20200806T234234Z">
+        <seg>Qualidade das matérias primas</seg>
       </tuv>
     </tu>
     <tu>
@@ -21561,6 +21625,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Overall rating is determined by the #Price#, the #Quality# rating and the #Brand# rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234124Z" creationid="RAFAEL" creationdate="20200806T234124Z">
+        <seg>A classificação geral é determinada pelo # Preço #, pela # Qualidade # e pela # Marca #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012139Z" creationid="RAFAEL" creationdate="20200805T011931Z">
@@ -21589,6 +21661,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225732Z" creationid="RAFAEL" creationdate="20200802T225732Z">
         <seg>A classificação geral do produto é a soma total dessas 3 classificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Quality section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234136Z" creationid="RAFAEL" creationdate="20200806T234136Z">
+        <seg>A seção Qualidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -21629,6 +21709,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025638Z" creationid="RAFAEL" creationdate="20200805T025638Z">
         <seg>O preço da publicidade é medido no custo por mil impressões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aggregate quality of all the required raw materials and semi products for making this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234246Z" creationid="RAFAEL" creationdate="20200806T234246Z">
+        <seg>A qualidade agregada de todas as matérias primas e semi-produtos necessários para a fabricação deste produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25158,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
         <seg>Os planos de layout Genericos são para fábricas e podem ser usados para produzir quaisquer produtos com o mesmo número de entradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcard layout plans are for setting up a layout with #[Prepare] units# and can be used for preparing any products with the same number of inputs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234056Z" creationid="RAFAEL" creationdate="20200806T234056Z">
+        <seg>Os layouts de wildcard são usados para estabelecer um layout com #[Preparar] unidades# e podem ser usados para preparar qualquer produto com o mesmo número de entradas.</seg>
       </tuv>
     </tu>
     <tu>
