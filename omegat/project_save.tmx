@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tech with a bigger weight means that it is more important.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031431Z" creationid="RAFAEL" creationdate="20200806T031431Z">
+        <seg>Uma tecnologia com um peso maior significa que ela é mais importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tender offer is an offer to buy shares of a corporation, usually at a price in excess of the value of the shares on the stock market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194341Z" creationid="RAFAEL" creationdate="20200802T194341Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012824Z" creationid="RAFAEL" creationdate="20200805T012824Z">
         <seg>Acesse o fórum MOD do Capitalism Lab para baixar os MODs criados pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access the interface for stopping new bank deposits and/or loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031253Z" creationid="RAFAEL" creationdate="20200806T031253Z">
+        <seg>Acesse a interface para interromper novos depósitos bancários e / ou empréstimos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013918Z" creationid="RAFAEL" creationdate="20200806T013918Z">
         <seg>Tempo médio de espera do cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Interest Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031314Z" creationid="RAFAEL" creationdate="20200806T031314Z">
+        <seg>Taxa Média de Juros</seg>
       </tuv>
     </tu>
     <tu>
@@ -11511,6 +11535,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is the average interest rate of all deposits under this term, including older time deposits that were set up at interest rates different than the current interest rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031328Z" creationid="RAFAEL" creationdate="20200806T031328Z">
+        <seg>É a taxa de juros média de todos os depósitos sob esse prazo, incluindo depósitos a prazo mais antigos, configurados com taxas de juros diferentes da taxa de juros atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
@@ -14331,6 +14363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025532Z" creationid="RAFAEL" creationdate="20200806T025532Z">
         <seg>Faça isso somente quando pretender encerrar os depósitos do banco e, eventualmente, fechá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only do this when you intend to wind down the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031303Z" creationid="RAFAEL" creationdate="20200806T031303Z">
+        <seg>Faça isso somente quando pretender desacelerar o banco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20945,6 +20985,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Total Tech value is calculated by adding up the values of individual tech, adjusted by their assigned weights (indicated by the yellow bars).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031421Z" creationid="RAFAEL" creationdate="20200806T031421Z">
+        <seg>O valor Tecnologia Total é calculado pela soma dos valores de cada tecnologia, ajustados por seus pesos atribuídos (indicados pelas barras amarelas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025638Z" creationid="RAFAEL" creationdate="20200805T025638Z">
@@ -22794,6 +22842,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Top Tech</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031455Z" creationid="RAFAEL" creationdate="20200806T031455Z">
+        <seg>Alta tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Exports</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021826Z" creationid="RAFAEL" creationdate="20200805T021826Z">
@@ -22846,6 +22902,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012442Z" creationid="RAFAEL" creationdate="20200805T012442Z">
         <seg>Retorno total dos acionistas (Tempo de vida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Tech</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031345Z" creationid="RAFAEL" creationdate="20200806T031345Z">
+        <seg>Tecnologia Total</seg>
       </tuv>
     </tu>
     <tu>
