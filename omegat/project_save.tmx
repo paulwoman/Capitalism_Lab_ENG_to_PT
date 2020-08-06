@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020826Z" creationid="RAFAEL" creationdate="20200806T020826Z">
+        <seg>#As apólices de seguro de vida#, que se supõe que durarão em média 30 anos neste jogo, gerarão receitas de prêmios para a companhia de seguros em uma base anual até o amadurecimento das apólices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024410Z" creationid="RAFAEL" creationdate="20200805T024410Z">
@@ -6702,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial Performance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020552Z" creationid="RAFAEL" creationdate="20200806T020552Z">
+        <seg>Desempenho financeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial Report (hotkey: F6)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222243Z" creationid="RAFAEL" creationdate="20200802T222243Z">
@@ -10851,6 +10867,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020237Z" creationid="RAFAEL" creationdate="20200806T020226Z">
         <seg>Classificação das marcas de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance Premiums</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020616Z" creationid="RAFAEL" creationdate="20200806T020616Z">
+        <seg>Prémios de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020625Z" creationid="RAFAEL" creationdate="20200806T020625Z">
+        <seg>Rendimentos de prêmios de seguros nos últimos 365 dias</seg>
       </tuv>
     </tu>
     <tu>
@@ -16103,6 +16135,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Premiums from Existing Insurance Policies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020837Z" creationid="RAFAEL" creationdate="20200806T020837Z">
+        <seg>Prêmios de apólices de seguro existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Premiums from New Insurance Policies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020638Z" creationid="RAFAEL" creationdate="20200806T020638Z">
+        <seg>Prêmios das Novas Apólices de Seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
@@ -20151,6 +20199,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average amount of insurance premium this company has received per customer annually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020543Z" creationid="RAFAEL" creationdate="20200806T020543Z">
+        <seg>O valor médio do prêmio de seguro que esta empresa recebe anualmente por cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average customer waiting time of all the bank's branches.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013927Z" creationid="RAFAEL" creationdate="20200806T013927Z">
@@ -20395,6 +20451,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214534Z" creationid="Olivier" creationdate="20200730T214534Z">
         <seg>A duração da pesquisa.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The financial performance of this insurance company in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020606Z" creationid="RAFAEL" creationdate="20200806T020606Z">
+        <seg>O desempenho financeiro desta seguradora nos últimos 12 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21036,6 +21100,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225855Z" creationid="RAFAEL" creationdate="20200802T225855Z">
         <seg>Portanto, se as classificações de seu produto forem superiores às médias da cidade, seus produtos venderão melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are insurance premiums earned from new insurance contracts in the past 365 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020648Z" creationid="RAFAEL" creationdate="20200806T020648Z">
+        <seg>Esses são os prêmios de seguro obtidos com novos contratos de seguro nos últimos 365 dias.</seg>
       </tuv>
     </tu>
     <tu>
