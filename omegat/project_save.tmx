@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Claims</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021013Z" creationid="RAFAEL" creationdate="20200806T021013Z">
+        <seg>Reclamações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear Stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231012Z" creationid="RAFAEL" creationdate="20200802T231012Z">
@@ -6282,6 +6290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030119Z" creationid="RAFAEL" creationdate="20200805T030119Z">
         <seg>Exemplo: digite "Computador Relógio Londres" para procurar por computadores e relógios de fornecedores em Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020851Z" creationid="RAFAEL" creationdate="20200806T020851Z">
+        <seg>As apólices de seguro de vida existentes fornecem um fluxo confiável de renda de prêmios para a companhia de seguros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21200,6 +21216,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020904Z" creationid="RAFAEL" creationdate="20200806T020904Z">
+        <seg>Esta figura mostra o valor das receitas de prêmios de seguro das apólices de seguro existentes nos últimos 365 dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This firm is for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021305Z" creationid="RAFAEL" creationdate="20200804T021305Z">
@@ -21808,6 +21832,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Insurance Premiums</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020919Z" creationid="RAFAEL" creationdate="20200806T020919Z">
+        <seg>Total de prêmios de seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011132Z" creationid="Olivier" creationdate="20200802T011132Z">
@@ -21828,6 +21860,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012442Z" creationid="RAFAEL" creationdate="20200805T012442Z">
         <seg>Retorno total dos acionistas (Tempo de vida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total claims paid to customers in the past 365 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021021Z" creationid="RAFAEL" creationdate="20200806T021021Z">
+        <seg>Total de reclamações pagas aos clientes nos últimos 365 dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020927Z" creationid="RAFAEL" creationdate="20200806T020927Z">
+        <seg>Rendas totais dos prêmios de seguro nos últimos 365 dias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22624,6 +22672,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WSAD Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021134Z" creationid="RAFAEL" creationdate="20200806T021134Z">
+        <seg>Teclas WSAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WTECHQUA</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010416Z" creationid="Olivier" creationdate="20200802T010416Z">
@@ -23172,6 +23228,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232747Z" creationid="RAFAEL" creationdate="20200802T232747Z">
         <seg>Você também pode colocar um modificador no topo da taxa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may assign the 'W', 'S', 'A' and 'D' keys as context sensitive shortcut keys or use them for scrolling the city map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021101Z" creationid="RAFAEL" creationdate="20200806T021101Z">
+        <seg>Você pode atribuir as teclas 'W', 'S', 'A' e 'D' como teclas de atalho sensíveis ao contexto ou usá-las para percorrer o mapa da cidade.</seg>
       </tuv>
     </tu>
     <tu>
