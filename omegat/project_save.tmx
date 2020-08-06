@@ -5390,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defaults by Corporations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014504Z" creationid="RAFAEL" creationdate="20200806T014504Z">
+        <seg>Defaults por corporações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deficit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022051Z" creationid="RAFAEL" creationdate="20200805T022051Z">
@@ -13007,6 +13015,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that these loan defaults, together with those by local companies, constitute the loan defaults shown on the [All Defaults] page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014705Z" creationid="RAFAEL" creationdate="20200806T014705Z">
+        <seg>Observe que estes inadimplentes, juntamente com os inadimplentes de empresas locais, constituem os inadimplentes mostrados na página [Todos os inadimplentes].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that these loans, together with loans to local companies, constitute the loan totals shown on the [All Loans] page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014109Z" creationid="RAFAEL" creationdate="20200806T014109Z">
@@ -17987,6 +18003,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232607Z" creationid="RAFAEL" creationdate="20200802T232607Z">
         <seg>Selecione isto e a mensagem será enviada a todos os jogadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show a list of loans made to corporations that have been defaulted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014517Z" creationid="RAFAEL" creationdate="20200806T014517Z">
+        <seg>Selecione isto para mostrar uma lista de empréstimos feitos a corporações que tenham sido inadimplidas.</seg>
       </tuv>
     </tu>
     <tu>
