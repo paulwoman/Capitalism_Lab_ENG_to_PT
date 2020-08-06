@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The change from 12 months ago is displayed in brackets.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033252Z" creationid="RAFAEL" creationdate="20200806T033252Z">
+        <seg>(A mudança de 12 meses atrás é exibida entre parênteses.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The more loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030335Z" creationid="RAFAEL" creationdate="20200805T030335Z">
@@ -11583,6 +11591,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is capped to a range from -50% to 50% for the purpose of calculating the average ROE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033319Z" creationid="RAFAEL" creationdate="20200806T033319Z">
+        <seg>É limitado a uma faixa de -50% a 50% para fins de cálculo do ROE médio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is determined by the #staff skill level# and the #customer waiting time#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013947Z" creationid="RAFAEL" creationdate="20200806T013947Z">
@@ -11723,6 +11739,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
         <seg>Foi salvo com uma versão diferente do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will not notify you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033129Z" creationid="RAFAEL" creationdate="20200806T033129Z">
+        <seg>Ele não o notificará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13639,6 +13663,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Notification</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033101Z" creationid="RAFAEL" creationdate="20200806T033101Z">
+        <seg>Nenhuma notificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the other companies have a technology more advanced than yours.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T081336Z" creationid="Olivier" creationdate="20200728T081336Z">
@@ -13723,6 +13755,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021522Z" creationid="RAFAEL" creationdate="20200806T021522Z">
         <seg>Observe que este preço de custo pode ser diferente do preço de custo mostrado na Unidade de Compra, pois leva em conta a quantidade do insumo necessário para a produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notification Only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033022Z" creationid="RAFAEL" creationdate="20200806T033022Z">
+        <seg>Notificação apenas</seg>
       </tuv>
     </tu>
     <tu>
@@ -17559,6 +17599,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ROE is considered a measure of how effectively the bank is using its capital to generate profits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033233Z" creationid="RAFAEL" creationdate="20200806T033233Z">
+        <seg>O ROE é considerado uma medida da eficácia com que o banco está utilizando seu capital para gerar lucros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RREMOVE</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010317Z" creationid="Olivier" creationdate="20200802T010317Z">
@@ -18075,6 +18123,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023135Z" creationid="RAFAEL" creationdate="20200806T023135Z">
         <seg>Lucros acumulados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033207Z" creationid="RAFAEL" creationdate="20200806T033207Z">
+        <seg>Retorno sobre o patrimônio líquido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033223Z" creationid="RAFAEL" creationdate="20200806T033223Z">
+        <seg>O retorno sobre o patrimônio líquido (ROE) é calculado dividindo o lucro líquido do banco por seu capital social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033310Z" creationid="RAFAEL" creationdate="20200806T033310Z">
+        <seg>O retorno sobre o patrimônio líquido (ROE) é calculado dividindo o lucro líquido da seguradora pelo seu capital social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21737,6 +21809,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033141Z" creationid="RAFAEL" creationdate="20200806T033141Z">
+        <seg>A quantia máxima de dinheiro que você está autorizado a transferir da companhia de seguros para sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum amount of loans that the bank can lend out is restricted by this ratio.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030609Z" creationid="RAFAEL" creationdate="20200806T030609Z">
@@ -24154,6 +24234,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans and notify you via the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033034Z" creationid="RAFAEL" creationdate="20200806T033034Z">
+        <seg>Quando a taxa de capital do banco for muito baixa, o jogo deixará de emitir empréstimos e notificará você através do Event Tracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033120Z" creationid="RAFAEL" creationdate="20200806T033120Z">
+        <seg>Quando a taxa de capital do banco for muito baixa, o jogo deixará de emitir empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the city has a high level of business activity, more jobs will be created, lowering the unemployment rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032511Z" creationid="RAFAEL" creationdate="20200806T032511Z">
@@ -24638,6 +24734,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024539Z" creationid="RAFAEL" creationdate="20200806T024539Z">
         <seg>Você pode alterar o modo de transferência - seja para transferir fundos do banco para a empresa controladora ou vice-versa, clicando no ícone Seta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033155Z" creationid="RAFAEL" creationdate="20200806T033155Z">
+        <seg>Você pode mudar o modo de transferência - se é para transferir fundos da companhia de seguros para sua matriz, ou o contrário, clicando no ícone da seta.</seg>
       </tuv>
     </tu>
     <tu>
