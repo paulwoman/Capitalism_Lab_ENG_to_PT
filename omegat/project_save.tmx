@@ -12695,6 +12695,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New Game Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013132Z" creationid="RAFAEL" creationdate="20200806T013132Z">
+        <seg>Projeto de um novo jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New content development is essential for increasing the Content Quality rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224936Z" creationid="RAFAEL" creationdate="20200802T224936Z">
@@ -16167,6 +16175,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Products Quality and Variety</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013042Z" creationid="RAFAEL" creationdate="20200806T013042Z">
+        <seg>Qualidade e variedade de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Products availability at retail</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002134Z" creationid="RAFAEL" creationdate="20200805T002134Z">
@@ -18455,6 +18471,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a project for developing a new game product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013146Z" creationid="RAFAEL" creationdate="20200806T013146Z">
+        <seg>Iniciar um projeto para desenvolver um novo produto de jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a project for developing a new software product with a new product name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024437Z" creationid="RAFAEL" creationdate="20200805T024437Z">
@@ -18819,6 +18843,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012215Z" creationid="RAFAEL" creationdate="20200806T012215Z">
         <seg>Mudar a estratégia da marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch information display mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013226Z" creationid="RAFAEL" creationdate="20200806T013226Z">
+        <seg>Mudando o modo de exibição das informações </seg>
       </tuv>
     </tu>
     <tu>
@@ -20752,6 +20784,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a rating ranging from 0 to 100 indicating the quality and variety of products available on this e-commerce site.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013057Z" creationid="RAFAEL" creationdate="20200806T013057Z">
+        <seg>Esta é uma classificação que varia de 0 a 100, indicando a qualidade e variedade de produtos disponíveis neste site de comércio eletrônico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is determined by the experience levels of all individual units in your factory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012604Z" creationid="RAFAEL" creationdate="20200806T012604Z">
@@ -20968,6 +21008,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To develop an OS, set up a Software Company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013007Z" creationid="RAFAEL" creationdate="20200806T013007Z">
+        <seg>Para desenvolver um sistema operacional, configure uma empresa de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To headhunt a person, you must offer a higher salary and a signup bonus.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030314Z" creationid="RAFAEL" creationdate="20200805T030259Z">
@@ -21044,6 +21092,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023832Z" creationid="RAFAEL" creationdate="20200805T023832Z">
         <seg>Para ver os detalhes, abra o Guia do Software no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Together with the e-commerce site quality rating, they affect the amount of visitors to this site.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013109Z" creationid="RAFAEL" creationdate="20200806T013109Z">
+        <seg>Juntamente com a classificação de qualidade do site de comércio eletrônico, eles afetam a quantidade de visitantes deste site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22500,6 +22556,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024134Z" creationid="RAFAEL" creationdate="20200805T024134Z">
         <seg>Você já criou um IP e, portanto, não pode criar mais IPs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already developed an Operating System for your IP, now you may set up factories to manufacture the hardware using the IP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013025Z" creationid="RAFAEL" creationdate="20200806T013025Z">
+        <seg>Você já desenvolveu um Sistema Operacional para seu IP, agora você pode montar fábricas para fabricar o hardware usando o IP.</seg>
       </tuv>
     </tu>
     <tu>
