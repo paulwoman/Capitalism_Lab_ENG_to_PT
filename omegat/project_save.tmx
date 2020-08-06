@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100 is normal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020330Z" creationid="RAFAEL" creationdate="20200806T020330Z">
+        <seg>100 é normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2) Utilization rates are displayed for factories, farms and mines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205357Z" creationid="RAFAEL" creationdate="20200802T205357Z">
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013918Z" creationid="RAFAEL" creationdate="20200806T013918Z">
         <seg>Tempo médio de espera do cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Premium</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020532Z" creationid="RAFAEL" creationdate="20200806T020532Z">
+        <seg>Prêmio Médio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11119,6 +11135,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It ranges from 80 to 120.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020321Z" creationid="RAFAEL" creationdate="20200806T020321Z">
+        <seg>Vai de 80 a 120.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122410Z" creationid="Olivier" creationdate="20200805T122410Z">
@@ -16071,6 +16095,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Premium Price Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020438Z" creationid="RAFAEL" creationdate="20200806T020259Z">
+        <seg>Nível de preço do prêmio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
@@ -20231,6 +20263,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The brand rating of the insurance company in this city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020246Z" creationid="RAFAEL" creationdate="20200806T020246Z">
+        <seg>A classificação da marca da companhia de seguros nesta cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The budget for upgrading the facilities of this civic building.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002925Z" creationid="RAFAEL" creationdate="20200805T002925Z">
@@ -20651,6 +20691,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022954Z" creationid="RAFAEL" creationdate="20200805T022954Z">
         <seg>A taxa de crescimento da população é resultado da comparação da população da nação no início deste ano com o mesmo período do ano passado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The price level of the insurance premiums.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020312Z" creationid="RAFAEL" creationdate="20200806T020312Z">
+        <seg>O nível de preços dos prêmios de seguro.</seg>
       </tuv>
     </tu>
     <tu>
