@@ -20288,6 +20288,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tech Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031806Z" creationid="RAFAEL" creationdate="20200806T031806Z">
+        <seg>qualidade tecnológica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech change=Electronic Components, 1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014211Z" creationid="Olivier" creationdate="20200802T014211Z">
@@ -20981,6 +20989,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231502Z" creationid="RAFAEL" creationdate="20200802T231502Z">
         <seg>A habilidade de P&amp;D do gerente desta empresa de P&amp;D deve ser de pelo menos 20 para iniciar um projeto radical de P&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Top Tech value represents the highest Total Tech value that is ever achieved by a company, whether it is this company or a competitor, for this type of Internet business.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031743Z" creationid="RAFAEL" creationdate="20200806T031743Z">
+        <seg>O valor da tecnologia avançada representa o maior valor tecnológico total já alcançado por uma empresa, seja ela ou um concorrente, para este tipo de atividade na Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22844,8 +22860,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Top Tech</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031455Z" creationid="RAFAEL" creationdate="20200806T031455Z">
-        <seg>Alta tecnologia</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031749Z" creationid="RAFAEL" creationdate="20200806T031455Z">
+        <seg>Tecnologia de última geração</seg>
       </tuv>
     </tu>
     <tu>
