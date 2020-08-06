@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022643Z" creationid="RAFAEL" creationdate="20200806T022643Z">
+        <seg>Um desdobramento de ações aumenta o número total de ações em uma corporação e diminui o preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tender offer is an offer to buy shares of a corporation, usually at a price in excess of the value of the shares on the stock market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T194341Z" creationid="RAFAEL" creationdate="20200802T194341Z">
@@ -3178,6 +3186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022316Z" creationid="RAFAEL" creationdate="20200806T022316Z">
         <seg>Não é possível aumentar a capacidade de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022404Z" creationid="RAFAEL" creationdate="20200806T022404Z">
+        <seg>Não é possível reduzir a capacidade de varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11199,6 +11215,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is allowed when the stock price is over $100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022707Z" creationid="RAFAEL" creationdate="20200806T022707Z">
+        <seg>É permitido quando o preço das ações for superior a $ 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010932Z" creationid="RAFAEL" creationdate="20200805T010932Z">
@@ -17239,6 +17263,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove the Product</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022433Z" creationid="RAFAEL" creationdate="20200806T022433Z">
+        <seg>Remover o Produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove this product from the retail store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022440Z" creationid="RAFAEL" creationdate="20200806T022440Z">
+        <seg>Retirar este produto da loja de varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015357Z" creationid="RAFAEL" creationdate="20200804T015357Z">
@@ -18463,6 +18503,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up a new production at the current farm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022533Z" creationid="RAFAEL" creationdate="20200806T022533Z">
+        <seg>Instalar uma nova produção na fazenda atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new production for this firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225500Z" creationid="RAFAEL" creationdate="20200802T225500Z">
@@ -18823,6 +18871,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sorry, you cannot reduce its capacity further as it is already at the minimum capacity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022421Z" creationid="RAFAEL" creationdate="20200806T022421Z">
+        <seg>Desculpe, você não pode reduzir ainda mais sua capacidade, pois ela já está com a capacidade mínima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort by Challenge Game Title.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030253Z" creationid="RAFAEL" creationdate="20200804T030253Z">
@@ -19123,6 +19179,15 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013632Z" creationid="Olivier" creationdate="20200802T013632Z">
         <seg>Stock Price=88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Split</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022629Z" creationid="RAFAEL" creationdate="20200806T022629Z">
+        <seg>
+Divisão de ações</seg>
       </tuv>
     </tu>
     <tu>
@@ -20647,6 +20712,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The farm does not have sufficient space for setting up a new production.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022543Z" creationid="RAFAEL" creationdate="20200806T022543Z">
+        <seg>A fazenda não tem espaço suficiente para a instalação de uma nova produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021842Z" creationid="RAFAEL" creationdate="20200806T021842Z">
@@ -21572,6 +21645,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012408Z" creationid="RAFAEL" creationdate="20200805T012408Z">
         <seg>Esse percentual é calculado dividindo-se o retorno total aos investidores (que é a soma dos dividendos pagos e ganhos de capital provenientes dos aumentos dos preços das ações nos últimos 365 dias) pelo preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This product is sourced from multiple suppliers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022450Z" creationid="RAFAEL" creationdate="20200806T022450Z">
+        <seg>Este produto é proveniente de múltiplos fornecedores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22668,6 +22749,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002849Z" creationid="RAFAEL" creationdate="20200805T002849Z">
         <seg>Use o controle deslizante para definir o orçamento de treinamento do pessoal para este edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use these buttons to select which supplier's information to be displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022500Z" creationid="RAFAEL" creationdate="20200806T022500Z">
+        <seg>Use estes botões para selecionar quais informações do fornecedor a serem exibidas.</seg>
       </tuv>
     </tu>
     <tu>
