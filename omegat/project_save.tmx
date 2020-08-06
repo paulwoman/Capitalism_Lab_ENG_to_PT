@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher value means that consumers are more concerned about that aspect when making a purchase decision.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012122Z" creationid="RAFAEL" creationdate="20200806T012122Z">
+        <seg>Um valor mais alto significa que os consumidores estão mais preocupados com esse aspecto ao tomar uma decisão de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A larger Facilities Upgrade Budget leads to higher quality of the facilities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003030Z" creationid="RAFAEL" creationdate="20200805T003030Z">
@@ -4670,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Concerns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012025Z" creationid="RAFAEL" creationdate="20200806T012025Z">
+        <seg>Preocupações do consumidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumer Goods Seaports=0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015634Z" creationid="Olivier" creationdate="20200802T015634Z">
@@ -8335,6 +8351,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the relative concern consumers place on these factors varies from product to product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012047Z" creationid="RAFAEL" creationdate="20200806T012047Z">
+        <seg>No entanto, a relativa preocupação dos consumidores com esses fatores varia de produto para produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hurry Up!|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T095743Z" creationid="Olivier" creationdate="20200730T095743Z">
@@ -10575,6 +10599,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012154Z" creationid="RAFAEL" creationdate="20200806T012154Z">
+        <seg>Entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input Material</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214730Z" creationid="RAFAEL" creationdate="20200802T214730Z">
@@ -10779,6 +10811,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024335Z" creationid="RAFAEL" creationdate="20200804T024335Z">
         <seg>Equivale ao PIB total dividido pelo número total de pessoas na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It indicates the quantity of the input required for the production and how much it contributes to the finished product's quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012205Z" creationid="RAFAEL" creationdate="20200806T012205Z">
+        <seg>Indica a quantidade de insumos necessários para a produção e o quanto ela contribui para a qualidade do produto acabado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12379,6 +12419,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031950Z" creationid="RAFAEL" creationdate="20200804T031950Z">
         <seg>Ferramenta de Zoneamento Residencial-Comercial Misto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mobile Users</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012240Z" creationid="RAFAEL" creationdate="20200806T012240Z">
+        <seg>Usuários móveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -18655,6 +18703,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch Brand Strategy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012215Z" creationid="RAFAEL" creationdate="20200806T012215Z">
+        <seg>Mudar a estratégia da marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch to the Business Mode to give orders on behalf of the corporation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004533Z" creationid="RAFAEL" creationdate="20200805T004533Z">
@@ -20312,6 +20368,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The white portion of the pie charts represents the combined market share of all local competitors in the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012002Z" creationid="RAFAEL" creationdate="20200806T012002Z">
+        <seg>A porção branca dos gráficos da torta representa a quota de mercado combinada de todos os concorrentes locais na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
@@ -20324,6 +20388,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214818Z" creationid="Olivier" creationdate="20200730T214818Z">
         <seg>A barra amarela indica o fornecimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their product ratings are shown here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012011Z" creationid="RAFAEL" creationdate="20200806T012011Z">
+        <seg>Suas classificações de produtos são mostradas aqui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21864,6 +21936,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a consumer buys a product, the product's price, quality, and brand are considered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012036Z" creationid="RAFAEL" creationdate="20200806T012036Z">
+        <seg>Quando um consumidor compra um produto, o preço, a qualidade e a marca do produto são considerados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
@@ -22172,6 +22252,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215917Z" creationid="RAFAEL" creationdate="20200802T215917Z">
         <seg>Você só pode negociar ações uma vez por dia em um Challenge Game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can switch your corporation's brand strategy here by clicking one of the below brand strategies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012230Z" creationid="RAFAEL" creationdate="20200806T012230Z">
+        <seg>Você pode mudar a estratégia de marca de sua corporação aqui, clicando em uma das estratégias de marca abaixo.</seg>
       </tuv>
     </tu>
     <tu>
