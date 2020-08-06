@@ -5790,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the previous production that uses the pinned input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023552Z" creationid="RAFAEL" creationdate="20200806T023552Z">
+        <seg>Mostrar a produção anterior que utiliza a entrada fixada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the selected building's number from the total number of buildings based on the filter settings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211822Z" creationid="RAFAEL" creationdate="20200802T211724Z">
@@ -13191,6 +13199,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next production</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023606Z" creationid="RAFAEL" creationdate="20200806T023606Z">
+        <seg>Próxima produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
@@ -15039,6 +15055,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pin Input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023453Z" creationid="RAFAEL" creationdate="20200806T023453Z">
+        <seg>Fixe a entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pin the current input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023502Z" creationid="RAFAEL" creationdate="20200806T023502Z">
+        <seg>Fixe a entrada atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Profit=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011525Z" creationid="Olivier" creationdate="20200802T011525Z">
@@ -16387,6 +16419,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223217Z" creationid="RAFAEL" creationdate="20200802T223217Z">
         <seg>Projeto de Pesquisa Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous production</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023522Z" creationid="RAFAEL" creationdate="20200806T023522Z">
+        <seg>Produção anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -21413,6 +21453,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
         <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then you may browse productions that use the current input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023511Z" creationid="RAFAEL" creationdate="20200806T023511Z">
+        <seg>Então você pode navegar por produções que utilizam a entrada atual.</seg>
       </tuv>
     </tu>
     <tu>
