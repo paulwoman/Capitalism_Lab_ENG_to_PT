@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bank must maintain a capital ratio that meets the central bank's requirement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030519Z" creationid="RAFAEL" creationdate="20200806T030519Z">
+        <seg>Um banco deve manter uma relação de capital que atenda aos requisitos do banco central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023502Z" creationid="RAFAEL" creationdate="20200804T023502Z">
@@ -12991,6 +12999,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum Loans-to-Assets Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030557Z" creationid="RAFAEL" creationdate="20200806T030557Z">
+        <seg>Relação Máxima entre Empréstimos e Ativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum Special Dividend</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022720Z" creationid="RAFAEL" creationdate="20200806T022720Z">
@@ -17687,6 +17703,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030529Z" creationid="RAFAEL" creationdate="20200806T030529Z">
+        <seg>Relação do capital necessário do banco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Tech Achieved?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023734Z" creationid="RAFAEL" creationdate="20200805T023734Z">
@@ -21061,6 +21085,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024411Z" creationid="RAFAEL" creationdate="20200806T024411Z">
         <seg>O requisito de capital definido pelo banco central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030543Z" creationid="RAFAEL" creationdate="20200806T030543Z">
+        <seg>O banco central exige que os bancos tenham reservado capital suficiente para cobrir perdas inesperadas e se manterem solventes em uma crise.</seg>
       </tuv>
     </tu>
     <tu>
