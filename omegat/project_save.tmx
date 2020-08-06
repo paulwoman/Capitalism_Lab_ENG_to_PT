@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's #Brand Rating# is the sum of its #Brand Awareness# and #Brand Loyalty#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235423Z" creationid="RAFAEL" creationdate="20200806T235333Z">
+        <seg>A #Classificação da marca# de um produto é a soma de sua #Conhecimento da marca# e #Lealdade à marca#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223647Z" creationid="RAFAEL" creationdate="20200801T223647Z">
@@ -2358,10 +2366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brand Awareness</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235434Z" creationid="RAFAEL" creationdate="20200806T235342Z">
+        <seg>Conhecimento da marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Loyalty</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235451Z" creationid="RAFAEL" creationdate="20200806T235451Z">
+        <seg>Lealdade à marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brand Rating</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235222Z" creationid="RAFAEL" creationdate="20200806T235222Z">
-        <seg>Classificação de marca</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235229Z" creationid="RAFAEL" creationdate="20200806T235222Z">
+        <seg>Classificação da marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2394,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235146Z" creationid="RAFAEL" creationdate="20200806T235146Z">
         <seg>Estratégia de marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand awareness measures consumers' knowledge that a particular brand exists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235355Z" creationid="RAFAEL" creationdate="20200806T235355Z">
+        <seg>O conhecimento da marca mede o conhecimento dos consumidores de que uma determinada marca existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand loyalty measures the attachment that a customer has to a brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235502Z" creationid="RAFAEL" creationdate="20200806T235502Z">
+        <seg>A fidelidade à marca mede o apego que um cliente tem a uma marca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +10983,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a customer is satisfied after using a product (#good product quality#), brand loyalty #increases#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235627Z" creationid="RAFAEL" creationdate="20200806T235627Z">
+        <seg>Se um cliente está satisfeito após utilizar um produto (#boa qualidade do produto#), a fidelidade à marca #aumenta#. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013307Z" creationid="RAFAEL" creationdate="20200805T013307Z">
@@ -11747,6 +11795,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015943Z" creationid="RAFAEL" creationdate="20200806T015943Z">
         <seg>Afeta a qualidade total do #serviço# da seguradora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be increased via advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235442Z" creationid="RAFAEL" creationdate="20200806T235442Z">
+        <seg>Pode ser aumentada através de publicidade.</seg>
       </tuv>
     </tu>
     <tu>
