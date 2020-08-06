@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An insurance company has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025121Z" creationid="RAFAEL" creationdate="20200806T025121Z">
+        <seg>Uma companhia de seguros possui seu próprio balanço patrimonial e seus ativos são separados dos da controladora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -3814,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Claims Reserves</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025230Z" creationid="RAFAEL" creationdate="20200806T025201Z">
+        <seg>Reservas de Sinistro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear Stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231012Z" creationid="RAFAEL" creationdate="20200802T231012Z">
@@ -4914,6 +4930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024935Z" creationid="RAFAEL" creationdate="20200806T024935Z">
         <seg>Demonstração Consolidada dos Resultados Bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consolidated Insurance Company Income Statement</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025047Z" creationid="RAFAEL" creationdate="20200806T025047Z">
+        <seg>Demonstração de Resultado Consolidada da Seguradora</seg>
       </tuv>
     </tu>
     <tu>
@@ -11119,6 +11143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company Assets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025110Z" creationid="RAFAEL" creationdate="20200806T025110Z">
+        <seg>Ativos da companhia de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020616Z" creationid="RAFAEL" creationdate="20200806T020616Z">
@@ -11307,6 +11339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024947Z" creationid="RAFAEL" creationdate="20200806T024947Z">
         <seg>Consolida os dados financeiros da sede do banco e de todas as suas agências bancárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It consolidates the financial data from the HQ and all its front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025100Z" creationid="RAFAEL" creationdate="20200806T025100Z">
+        <seg>Consolida os dados financeiros da sede e de todos os seus escritórios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20921,6 +20961,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025224Z" creationid="RAFAEL" creationdate="20200806T025224Z">
+        <seg>As reservas de sinistros representam o dinheiro que deve ser retido pela companhia de seguros para poder atender a todos os sinistros futuros decorrentes de apólices escritas no passado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color shown here tells which company is the producer of this product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230625Z" creationid="RAFAEL" creationdate="20200802T230625Z">
@@ -22802,6 +22850,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Underwriting Profit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025338Z" creationid="RAFAEL" creationdate="20200806T025338Z">
+        <seg>Lucro em subscrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unemployment Benefits Pay Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003849Z" creationid="RAFAEL" creationdate="20200805T003849Z">
@@ -24070,6 +24126,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025036Z" creationid="RAFAEL" creationdate="20200806T025036Z">
         <seg>Você pode transferir fundos da controladora para o balanço do banco ou vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer funds from the parent company to the insurance company's balance sheet or vice versa.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025140Z" creationid="RAFAEL" creationdate="20200806T025140Z">
+        <seg>Você pode transferir fundos da controladora para o balanço da companhia de seguros ou vice-versa.</seg>
       </tuv>
     </tu>
     <tu>
