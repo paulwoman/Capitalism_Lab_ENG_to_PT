@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Training Budget</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013806Z" creationid="RAFAEL" creationdate="20200806T013806Z">
+        <seg>Orçamento médio de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BACK_INT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005920Z" creationid="Olivier" creationdate="20200802T005920Z">
@@ -1978,6 +1986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030702Z" creationid="RAFAEL" creationdate="20200804T030702Z">
         <seg>Equilibrar quotas de mercado e margens de lucro e estabelecer preços de forma sensata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bank Brand Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013631Z" creationid="RAFAEL" creationdate="20200806T013618Z">
+        <seg>Classificação da marca do banco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6618,6 +6634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222243Z" creationid="RAFAEL" creationdate="20200802T222243Z">
         <seg>Relatório Financeiro (Tecla de atalho: F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Financial Statements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013705Z" creationid="RAFAEL" creationdate="20200806T013705Z">
+        <seg>Demonstrações financeiras</seg>
       </tuv>
     </tu>
     <tu>
@@ -16359,6 +16383,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality of Service</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013540Z" creationid="RAFAEL" creationdate="20200806T013540Z">
+        <seg>Qualidade do serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quality of living of the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023849Z" creationid="RAFAEL" creationdate="20200804T023849Z">
@@ -19879,6 +19911,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of loan defaults in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013653Z" creationid="RAFAEL" creationdate="20200806T013653Z">
+        <seg>O montante de inadimplência dos empréstimos nos últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of surplus that the current city has registered over the past 12 months.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022044Z" creationid="RAFAEL" creationdate="20200805T022044Z">
@@ -19923,6 +19963,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214051Z" creationid="Olivier" creationdate="20200730T214051Z">
         <seg>As barras azuis representam o estoque desse produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The brand rating of the bank in this city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013626Z" creationid="RAFAEL" creationdate="20200806T013626Z">
+        <seg>A classificação da marca do banco nesta cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20107,6 +20155,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014213Z" creationid="RAFAEL" creationdate="20200805T014213Z">
         <seg>Quanto mais alta a classificação de competitividade da cidade, maior é o número de pessoas empregadas na indústria local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this bank branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013735Z" creationid="RAFAEL" creationdate="20200806T013735Z">
+        <seg>Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta agência bancária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20331,6 +20387,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
         <seg>O progresso do projeto de pesquisa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The quality of service of this bank branch is primarily determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013553Z" creationid="RAFAEL" creationdate="20200806T013553Z">
+        <seg>A qualidade do serviço desta agência bancária é determinada principalmente pelo #nível de qualificação do pessoal# e pelo #tempo de espera do cliente#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21064,6 +21128,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To increase it, select the #Marketing# tab and set up advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013640Z" creationid="RAFAEL" creationdate="20200806T013640Z">
+        <seg>Para aumentá-la, selecione a aba #Marketing# e crie publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To increase the limit, first increase the tech level of the product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014009Z" creationid="RAFAEL" creationdate="20200805T014009Z">
@@ -21132,6 +21204,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023832Z" creationid="RAFAEL" creationdate="20200805T023832Z">
         <seg>Para ver os detalhes, abra o Guia do Software no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To serve your customers better, you should open new branches whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013528Z" creationid="RAFAEL" creationdate="20200806T013528Z">
+        <seg>Para atender melhor seus clientes, você deve abrir novas agências sempre que o tempo de espera do cliente for assustadoramente longo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22080,6 +22160,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the financial statements of this corporate group, in addition to those of this bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013716Z" creationid="RAFAEL" creationdate="20200806T013716Z">
+        <seg>Veja as demonstrações financeiras deste grupo empresarial, além das deste banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View the list of clients that are purchasing this product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231832Z" creationid="RAFAEL" creationdate="20200802T231832Z">
@@ -22244,6 +22332,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030722Z" creationid="RAFAEL" creationdate="20200804T030722Z">
         <seg>Ao selecionar um fornecedor, o custo do frete não é um fator importante a ser considerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the #customer waiting time# is higher than 30, it starts to negatively affect the #quality of service#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013606Z" creationid="RAFAEL" creationdate="20200806T013606Z">
+        <seg>Quando o tempo de espera do #cliente# é superior a 30, começa a afetar negativamente a #qualidade do serviço#.</seg>
       </tuv>
     </tu>
     <tu>
