@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AAA is the best credit rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023845Z" creationid="RAFAEL" creationdate="20200806T023845Z">
+        <seg>AAA é a melhor classificação de crédito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADVERT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010311Z" creationid="Olivier" creationdate="20200802T010311Z">
@@ -2338,6 +2346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224803Z" creationid="RAFAEL" creationdate="20200801T224803Z">
         <seg>Comprar terrenos (Tecla de atalho: CTRL-L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C is the poorest credit rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023914Z" creationid="RAFAEL" creationdate="20200806T023914Z">
+        <seg>C é a classificação de crédito mais baixa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5778,6 +5794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211439Z" creationid="RAFAEL" creationdate="20200802T211439Z">
         <seg>Exibir o próximo edifício - a vista da cidade está centrada no edifício</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the next production that uses the pinned input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023617Z" creationid="RAFAEL" creationdate="20200806T023617Z">
+        <seg>Exiba a próxima produção que usa a entrada fixada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12007,6 +12031,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loan Credit Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023759Z" creationid="RAFAEL" creationdate="20200806T023759Z">
+        <seg>Rating de crédito de empréstimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loan Interest Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025008Z" creationid="RAFAEL" creationdate="20200804T025008Z">
@@ -12019,6 +12051,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121838Z" creationid="Olivier" creationdate="20200805T121838Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loans are categorized based on the borrowers' credit ratings which indicate the financial health of the borrowers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023837Z" creationid="RAFAEL" creationdate="20200806T023837Z">
+        <seg>Os empréstimos são classificados com base nas classificações de crédito dos mutuários, que indicam a saúde financeira dos mutuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14171,6 +14211,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013839Z" creationid="RAFAEL" creationdate="20200805T013839Z">
         <seg>Abra a interface para adicionar imagens de produtos com design personalizado ao jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operating Expenses Report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023630Z" creationid="RAFAEL" creationdate="20200806T023630Z">
+        <seg>Relatório de Despesas Operacionais</seg>
       </tuv>
     </tu>
     <tu>
@@ -16699,6 +16747,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T203703Z" creationid="RAFAEL" creationdate="20200802T203703Z">
         <seg>Modo de lucro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projected Annual Total Loan Interest Incomes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023705Z" creationid="RAFAEL" creationdate="20200806T023705Z">
+        <seg>Renda total anual projetada dos juros dos empréstimos</seg>
       </tuv>
     </tu>
     <tu>
@@ -21208,6 +21264,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The same for the other 2 figures below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023733Z" creationid="RAFAEL" creationdate="20200806T023733Z">
+        <seg>O mesmo para as outras 2 figuras abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
@@ -21565,6 +21629,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015331Z" creationid="RAFAEL" creationdate="20200805T015331Z">
         <seg>Isso determina se o CEO pode construir fábricas, fazendas e firmas de recursos naturais para fornecer matérias-primas e semiprodutos às fábricas existentes que precisam deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is projected by multiplying the latest monthly loan interest incomes by 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023719Z" creationid="RAFAEL" creationdate="20200806T023719Z">
+        <seg>Esse valor é projetado pela multiplicação das últimas receitas mensais dos juros do empréstimo por 12 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22005,6 +22077,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023832Z" creationid="RAFAEL" creationdate="20200805T023832Z">
         <seg>Para ver os detalhes, abra o Guia do Software no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To see the real historical total net interest incomes, please view the Financial report.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023744Z" creationid="RAFAEL" creationdate="20200806T023744Z">
+        <seg>Para ver a receita líquida total de juros histórica real, consulte o relatório Financeiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23021,6 +23101,22 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231832Z" creationid="RAFAEL" creationdate="20200802T231832Z">
         <seg>Veja a lista de clientes que estão comprando este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the operating expenses of this bank branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023638Z" creationid="RAFAEL" creationdate="20200806T023638Z">
+        <seg>Veja as despesas operacionais desta agência bancária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the operating expenses of this insurance office.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023653Z" creationid="RAFAEL" creationdate="20200806T023653Z">
+        <seg>Veja as despesas operacionais deste escritório de seguros.</seg>
       </tuv>
     </tu>
     <tu>
