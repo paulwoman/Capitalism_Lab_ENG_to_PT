@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A long customer waiting time negatively affects the service quality of this insurance front office.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033456Z" creationid="RAFAEL" creationdate="20200806T033456Z">
+        <seg>Um longo tempo de espera do cliente afeta negativamente a qualidade do serviço deste front office de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A low rate means that the unit has idle time and its capacity is underutilized.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230259Z" creationid="RAFAEL" creationdate="20200802T230259Z">
@@ -4226,6 +4234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021544Z" creationid="RAFAEL" creationdate="20200804T021544Z">
         <seg>Clique aqui para alternar entre os modos de exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to switch between the standard view and the Cumulative Performance view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033355Z" creationid="RAFAEL" creationdate="20200806T033355Z">
+        <seg>Clique aqui para alternar entre a visualização padrão e a visualização Desempenho Cumulativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10759,6 +10775,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the City Economics Simulation DLC is enabled, it is also affected by the education level of people in the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033444Z" creationid="RAFAEL" creationdate="20200806T033444Z">
+        <seg>Se o City Economics Simulation DLC estiver habilitado, ele também é afetado pelo nível de educação das pessoas na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022327Z" creationid="RAFAEL" creationdate="20200805T022327Z">
@@ -11295,6 +11319,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company Brand Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033558Z" creationid="RAFAEL" creationdate="20200806T033558Z">
+        <seg>Classificação da marca da companhia de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020616Z" creationid="RAFAEL" creationdate="20200806T020616Z">
@@ -11307,6 +11339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020625Z" creationid="RAFAEL" creationdate="20200806T020625Z">
         <seg>Rendimentos de prêmios de seguros nos últimos 365 dias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interest Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033618Z" creationid="RAFAEL" creationdate="20200806T033618Z">
+        <seg>Taxa de juros</seg>
       </tuv>
     </tu>
     <tu>
@@ -20184,6 +20224,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch View (hotkey: 'A')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033346Z" creationid="RAFAEL" creationdate="20200806T033346Z">
+        <seg>Alternar visualização (Atalho: 'A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch information display mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013226Z" creationid="RAFAEL" creationdate="20200806T013226Z">
@@ -22025,6 +22073,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The quality of service of this insurance front office is primarily determined by the Staff Skill Level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033533Z" creationid="RAFAEL" creationdate="20200806T033533Z">
+        <seg>A qualidade do serviço deste front office de seguros é determinada principalmente pelo Nível de Habilidade do Pessoal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The quality of service provided by this civic building is determined by 1) its staff's skill and 2) its facilities' quality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003056Z" creationid="RAFAEL" creationdate="20200805T003056Z">
@@ -22117,6 +22173,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002900Z" creationid="RAFAEL" creationdate="20200805T002900Z">
         <seg>O orçamento de treinamento de pessoal para este edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff's skill level affects the quality of service of this insurance front office.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033427Z" creationid="RAFAEL" creationdate="20200806T033427Z">
+        <seg>O nível de habilidade do pessoal afeta a qualidade do serviço deste escritório de seguros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22834,6 +22898,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033609Z" creationid="RAFAEL" creationdate="20200806T033609Z">
+        <seg>Para aumentá-la, selecione a aba "Marketing" e crie publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To increase it, select the #Marketing# page and set up advertising.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014003Z" creationid="RAFAEL" creationdate="20200806T014003Z">
@@ -22934,6 +23006,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013528Z" creationid="RAFAEL" creationdate="20200806T013528Z">
         <seg>Para atender melhor seus clientes, você deve abrir novas agências sempre que o tempo de espera do cliente for assustadoramente longo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To serve your customers better, you should open new front offices whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033521Z" creationid="RAFAEL" creationdate="20200806T033521Z">
+        <seg>Para atender melhor seus clientes, você deve abrir novos escritórios de atendimento sempre que o tempo de espera do cliente for longo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24206,6 +24286,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032948Z" creationid="RAFAEL" creationdate="20200806T032948Z">
         <seg>Quando o índice de capital do banco cai abaixo da exigência, há 3 maneiras possíveis de lidar com isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the Customer Waiting Time is higher than 30, it starts to negatively affect the Quality of Service.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033543Z" creationid="RAFAEL" creationdate="20200806T033543Z">
+        <seg>Quando o Tempo de Espera do Cliente é superior a 30, ele começa a afetar negativamente a Qualidade do Serviço.</seg>
       </tuv>
     </tu>
     <tu>
