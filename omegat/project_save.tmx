@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Activity Index</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032448Z" creationid="RAFAEL" creationdate="20200806T032448Z">
+        <seg>Índice de Atividade Comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Business Mode  (hotkey: Tab)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004525Z" creationid="RAFAEL" creationdate="20200805T004525Z">
@@ -3986,6 +3994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025447Z" creationid="RAFAEL" creationdate="20200804T025447Z">
         <seg>Clique aqui para cancelar a espera e lidar com ela manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to change the housing graph to display one of the following: supply, demand, or supply vs demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032714Z" creationid="RAFAEL" creationdate="20200806T032714Z">
+        <seg>Clique aqui para mudar o gráfico da caixa para exibir um dos seguintes: oferta, demanda ou oferta versus demanda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8823,6 +8839,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Housing Graph Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032659Z" creationid="RAFAEL" creationdate="20200806T032659Z">
+        <seg>Modo gráfico da moradia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing Supply and Demand Index</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024037Z" creationid="RAFAEL" creationdate="20200804T024037Z">
@@ -8859,6 +8883,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012613Z" creationid="Olivier" creationdate="20200802T012613Z">
         <seg>Housing and Community Facilities rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hover the mouse over the financial figures on this row to see the detailed amounts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032627Z" creationid="RAFAEL" creationdate="20200806T032627Z">
+        <seg>Passe o mouse sobre os valores financeiros nesta linha para ver os valores detalhados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11523,6 +11555,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010932Z" creationid="RAFAEL" creationdate="20200805T010932Z">
         <seg>É um múltiplo de avaliação patrimonial, definido como o preço das ações dividido pelo Lucro por Ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is an index measuring business activity in the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032455Z" creationid="RAFAEL" creationdate="20200806T032455Z">
+        <seg>É um índice que mede a atividade comercial na cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17103,6 +17143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Profit Tax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032532Z" creationid="RAFAEL" creationdate="20200806T032532Z">
+        <seg>Imposto sobre o lucro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Projected Annual Interest Incomes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024042Z" creationid="RAFAEL" creationdate="20200806T024042Z">
@@ -19728,6 +19776,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock and Bond Return</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032618Z" creationid="RAFAEL" creationdate="20200806T032618Z">
+        <seg>Retorno de Ações e Títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock at the Unit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230310Z" creationid="RAFAEL" creationdate="20200802T230310Z">
@@ -21789,6 +21845,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025351Z" creationid="RAFAEL" creationdate="20200806T025351Z">
         <seg>O lucro da subscrição de apólices de seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profit of this firm is offset against losses in other firms of this corporation, resulting in a reduction in its profit tax.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032552Z" creationid="RAFAEL" creationdate="20200806T032552Z">
+        <seg>O lucro desta empresa é compensado com perdas em outras empresas desta corporação, resultando em uma redução em seu imposto sobre os lucros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23962,6 +24026,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032439Z" creationid="RAFAEL" creationdate="20200806T032439Z">
+        <seg>Quando for maior que a Relação Máxima de Empréstimos por Ativos, o banco deixará de conceder novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selecting a supplier, the freight cost is a very important factor to consider.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030740Z" creationid="RAFAEL" creationdate="20200804T030740Z">
@@ -23998,6 +24070,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023041Z" creationid="RAFAEL" creationdate="20200805T023041Z">
         <seg>Quando o Modo de Sobrevivência estiver ativado, as opções disponíveis no menu Novas configurações de jogo serão diferentes para refletir o novo mecanismo de jogabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the city has a high level of business activity, more jobs will be created, lowering the unemployment rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032511Z" creationid="RAFAEL" creationdate="20200806T032511Z">
+        <seg>Quando a cidade tiver um alto nível de atividade empresarial, mais empregos serão criados, diminuindo a taxa de desemprego.</seg>
       </tuv>
     </tu>
     <tu>
