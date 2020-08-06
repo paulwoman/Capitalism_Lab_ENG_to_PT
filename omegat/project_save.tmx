@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advertising Expense</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235714Z" creationid="RAFAEL" creationdate="20200806T235714Z">
+        <seg>Despesas de Publicidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advertising unit is linked=5</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122208Z" creationid="Olivier" creationdate="20200805T122208Z">
@@ -5462,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a bad experience with a product (#poor product quality#) will lead to a #decrease# in brand loyalty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235705Z" creationid="RAFAEL" creationdate="20200806T235705Z">
+        <seg>Por outro lado, uma experiência ruim com o produto (#pobre qualidade do produto#) levará a uma #diminuição# da fidelidade à marca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, a low value indicates some regions of the city do not have adequate fire services coverage.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003403Z" creationid="RAFAEL" creationdate="20200805T003403Z">
@@ -5490,6 +5506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023947Z" creationid="RAFAEL" creationdate="20200806T023947Z">
         <seg>Por outro lado, os tomadores de empréstimos com classificações de crédito ruins apresentam riscos de inadimplência mais altos, portanto o banco cobra taxas de juros mais altas para justificar os riscos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235804Z" creationid="RAFAEL" creationdate="20200806T235804Z">
+        <seg>Marca Corporativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -12015,6 +12039,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the cost and price of this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235751Z" creationid="RAFAEL" creationdate="20200806T235751Z">
+        <seg>Mostra o custo e o preço deste produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the current price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035043Z" creationid="RAFAEL" creationdate="20200806T035043Z">
@@ -18159,6 +18191,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Range Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235849Z" creationid="RAFAEL" creationdate="20200806T235849Z">
+        <seg>Conjunto de marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranking Method=Score</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011139Z" creationid="Olivier" creationdate="20200802T011139Z">
@@ -21769,6 +21809,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Price section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235730Z" creationid="RAFAEL" creationdate="20200806T235730Z">
+        <seg>A seção de Preços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225750Z" creationid="RAFAEL" creationdate="20200802T225750Z">
@@ -22517,6 +22565,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004241Z" creationid="RAFAEL" creationdate="20200805T004241Z">
         <seg>O mini mapa mostra atualmente a cobertura geográfica deste tipo de construção cívica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monthly advertising expense on this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235722Z" creationid="RAFAEL" creationdate="20200806T235722Z">
+        <seg>As despesas mensais de publicidade deste produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25030,6 +25086,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012036Z" creationid="RAFAEL" creationdate="20200806T012036Z">
         <seg>Quando um consumidor compra um produto, o preço, a qualidade e a marca do produto são considerados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a corporation uses a single umbrella brand for all its products, newly launched products will benefit from the existing corporate brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235819Z" creationid="RAFAEL" creationdate="20200806T235819Z">
+        <seg>Quando uma empresa utiliza uma única marca guarda-chuva para todos os seus produtos, os produtos recém-lançados serão beneficiados pela marca corporativa existente.</seg>
       </tuv>
     </tu>
     <tu>
