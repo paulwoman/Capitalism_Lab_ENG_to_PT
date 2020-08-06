@@ -14927,6 +14927,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pay a Special Dividend</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023249Z" creationid="RAFAEL" creationdate="20200806T023249Z">
+        <seg>Pagar um Dividendo Especial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>People emigrating from the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004210Z" creationid="RAFAEL" creationdate="20200805T004210Z">
@@ -17459,6 +17467,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012301Z" creationid="Olivier" creationdate="20200802T012301Z">
         <seg>Retailing=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retained Earnings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023135Z" creationid="RAFAEL" creationdate="20200806T023135Z">
+        <seg>Lucros acumulados</seg>
       </tuv>
     </tu>
     <tu>
@@ -20922,8 +20938,8 @@ Divisão de ações</seg>
       <tuv lang="en-US">
         <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023049Z" creationid="RAFAEL" creationdate="20200806T023049Z">
-        <seg>O montante máximo de dividendos especiais que você pode pagar é o menor de 1) o #dinheiro# da empresa e 2) seus #lucros retidos# (visíveis em seu #balanço#).</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023146Z" creationid="RAFAEL" creationdate="20200806T023049Z">
+        <seg>O montante máximo de dividendos especiais que você pode pagar é o menor de 1) o #dinheiro# da empresa e 2) seus #lucros acumulados# (visíveis em seu #balanço#).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21132,6 +21148,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023640Z" creationid="RAFAEL" creationdate="20200805T023640Z">
         <seg>O ponto vermelho indica o DCC (distrito comercial central).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The retained earnings are the accumulative net earnings of a company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023209Z" creationid="RAFAEL" creationdate="20200806T023209Z">
+        <seg>Os lucros acumulados são os lucros líquidos acumulados de uma empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23441,6 +23465,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can view it on the #Balance Sheet# at the #Corporate Details# screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023239Z" creationid="RAFAEL" creationdate="20200806T023239Z">
+        <seg>Você pode vê-lo na tela #Folha de Balanço# na tela #Detalhes Corporativos#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot build any more new ones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025222Z" creationid="RAFAEL" creationdate="20200805T025222Z">
@@ -23557,6 +23589,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232747Z" creationid="RAFAEL" creationdate="20200802T232747Z">
         <seg>Você também pode colocar um modificador no topo da taxa de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may arrange a special dividend payment from #your company# or #a subsidiary# with a controlling interest of at least 75%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023303Z" creationid="RAFAEL" creationdate="20200806T023303Z">
+        <seg>Você pode providenciar um pagamento especial de dividendos de #sua empresa# ou #uma subsidiária# com uma participação de controle de pelo menos 75%.</seg>
       </tuv>
     </tu>
     <tu>
