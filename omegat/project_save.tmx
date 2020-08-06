@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Loans-to-Assets Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032250Z" creationid="RAFAEL" creationdate="20200806T032250Z">
+        <seg>Relação Empréstimos atuais para os ativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently a MOD is in use.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013420Z" creationid="RAFAEL" creationdate="20200805T013420Z">
@@ -17801,8 +17809,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Required Tech</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032143Z" creationid="RAFAEL" creationdate="20200806T032143Z">
-        <seg>Tecnologia necessária</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032225Z" creationid="RAFAEL" creationdate="20200806T032143Z">
+        <seg>Tecnologia requerida</seg>
       </tuv>
     </tu>
     <tu>
@@ -20977,6 +20985,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Loans-to-Assets ratio is calculated by dividing the bank's total amount of loans by its total amount of assets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032426Z" creationid="RAFAEL" creationdate="20200806T032426Z">
+        <seg>A relação Empréstimos/ativos é calculada dividindo o montante total de empréstimos do banco por seu montante total de ativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012139Z" creationid="RAFAEL" creationdate="20200805T011931Z">
@@ -22166,6 +22182,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020648Z" creationid="RAFAEL" creationdate="20200806T020648Z">
         <seg>Esses são os prêmios de seguro obtidos com novos contratos de seguro nos últimos 365 dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032220Z" creationid="RAFAEL" creationdate="20200806T032220Z">
+        <seg>Esta empresa de Internet ainda não possui a tecnologia necessária para iniciar a operação, já que a atual Qualidade Tecnológica ainda é menor do que a Tecnologia Requerida.</seg>
       </tuv>
     </tu>
     <tu>
