@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A company's brand strategy can be viewed in the #Corporate Details# report's #Brand# page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235213Z" creationid="RAFAEL" creationdate="20200806T235213Z">
+        <seg>A estratégia da marca de uma empresa pode ser visualizada na página #Detalhes da empresa# do relatório #Marca#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T203054Z" creationid="User" creationdate="20200802T203054Z">
@@ -2346,6 +2354,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122443Z" creationid="Olivier" creationdate="20200805T122443Z">
         <seg>Bought other company stock=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235222Z" creationid="RAFAEL" creationdate="20200806T235222Z">
+        <seg>Classificação de marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Strategy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235146Z" creationid="RAFAEL" creationdate="20200806T235146Z">
+        <seg>Estratégia de marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -21625,6 +21649,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Brand section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235136Z" creationid="RAFAEL" creationdate="20200806T235136Z">
+        <seg>A seção Marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CEO is not comfortable with setting up new businesses.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220117Z" creationid="User" creationdate="20200803T220117Z">
@@ -22029,6 +22061,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025224Z" creationid="RAFAEL" creationdate="20200806T025224Z">
         <seg>As reservas de sinistros representam o dinheiro que deve ser retido pela companhia de seguros para poder atender a todos os sinistros futuros decorrentes de apólices escritas no passado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The closer the #Owned Tech# is to this #Top Tech#, the higher the product's #Quality# is.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235127Z" creationid="RAFAEL" creationdate="20200806T235127Z">
+        <seg>Quanto mais próxima a #Tecnologia própria# está desta #Alta tecnologia#, mais alta é a #Qualidade# do produto.</seg>
       </tuv>
     </tu>
     <tu>
