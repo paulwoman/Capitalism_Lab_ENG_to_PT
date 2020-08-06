@@ -4006,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to change the office space graph to display one of the following: supply, demand, or supply vs demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032737Z" creationid="RAFAEL" creationdate="20200806T032737Z">
+        <seg>Clique aqui para mudar o gráfico do espaço de escritório para exibir um dos seguintes: oferta, demanda ou oferta versus demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to finish editing this firm's description.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030140Z" creationid="RAFAEL" creationdate="20200804T030140Z">
@@ -13319,6 +13327,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Must Take Action</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033001Z" creationid="RAFAEL" creationdate="20200806T033001Z">
+        <seg>Deve agir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NECEINDX</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010308Z" creationid="Olivier" creationdate="20200802T010308Z">
@@ -14383,6 +14399,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Office Space Graph Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032726Z" creationid="RAFAEL" creationdate="20200806T032726Z">
+        <seg>Modo gráfico do espaço de escritório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Office Space Supply and Demand Index</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024104Z" creationid="RAFAEL" creationdate="20200804T024104Z">
@@ -14667,6 +14691,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140119Z" creationid="RAFAEL" creationdate="20200802T140119Z">
         <seg>Menu Opções (Tecla de atalho: 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options for Handling Insufficient Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032932Z" creationid="RAFAEL" creationdate="20200806T032932Z">
+        <seg>Opções para lidar com a insuficiência da relação de capital bancário</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,6 +15411,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182016Z" creationid="Olivier" creationdate="20200730T132112Z">
         <seg>Panico por parte dos acionistas!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Company Credit Rating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032806Z" creationid="RAFAEL" creationdate="20200806T032806Z">
+        <seg>Classificação de crédito da empresa Matriz</seg>
       </tuv>
     </tu>
     <tu>
@@ -21265,6 +21305,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank's Capital Ratio is too low</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032830Z" creationid="RAFAEL" creationdate="20200806T032830Z">
+        <seg>A relação de capital do banco é muito baixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032908Z" creationid="RAFAEL" creationdate="20200806T032908Z">
+        <seg>O índice de capital do banco é muito baixo e deixou de emitir novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bar indicates the growth progress of the crop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213720Z" creationid="Olivier" creationdate="20200730T213720Z">
@@ -21373,6 +21429,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172851Z" creationid="Olivier" creationdate="20200730T172806Z">
         <seg>A versão do criador é %1s enquanto que a sua é %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The credit rating of a subsidiary company would never exceed its parent company's credit rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032819Z" creationid="RAFAEL" creationdate="20200806T032819Z">
+        <seg>A classificação de crédito de uma empresa subsidiária nunca excederia a classificação de crédito de sua matriz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24058,6 +24122,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Bank Capital Ratio falls below the Requirement, there are 3 possible ways to handle it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032948Z" creationid="RAFAEL" creationdate="20200806T032948Z">
+        <seg>Quando o índice de capital do banco cai abaixo da exigência, há 3 maneiras possíveis de lidar com isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Inflation mode is set to #Inverse Inflation#, a bond's #Face Value# may decline over time due to inflation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030733Z" creationid="RAFAEL" creationdate="20200806T030733Z">
@@ -24070,6 +24142,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023041Z" creationid="RAFAEL" creationdate="20200805T023041Z">
         <seg>Quando o Modo de Sobrevivência estiver ativado, as opções disponíveis no menu Novas configurações de jogo serão diferentes para refletir o novo mecanismo de jogabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will pop up a window forcing the player to take action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033011Z" creationid="RAFAEL" creationdate="20200806T033011Z">
+        <seg>Quando a taxa de capital do banco for muito baixa, o jogo abrirá uma janela forçando o jogador a agir.</seg>
       </tuv>
     </tu>
     <tu>
