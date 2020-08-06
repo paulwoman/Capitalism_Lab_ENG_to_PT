@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030620Z" creationid="RAFAEL" creationdate="20200806T030620Z">
+        <seg>Uma proporção maior aumenta a renda proveniente dos juros dos empréstimos, mas também aumenta os riscos de liquidez do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher value means that consumers are more concerned about that aspect when making a purchase decision.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012122Z" creationid="RAFAEL" creationdate="20200806T012122Z">
@@ -5320,8 +5328,8 @@
       <tuv lang="en-US">
         <seg>Coupon Rate</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010408Z" creationid="Olivier" creationdate="20200802T010408Z">
-        <seg>Coupon Rate</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030752Z" creationid="Olivier" creationdate="20200802T010408Z">
+        <seg>Taxa de cupom</seg>
       </tuv>
     </tu>
     <tu>
@@ -6898,6 +6906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010045Z" creationid="Olivier" creationdate="20200802T010045Z">
         <seg>F_SUPPLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Face Value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030707Z" creationid="RAFAEL" creationdate="20200806T030707Z">
+        <seg>Valor Facial</seg>
       </tuv>
     </tu>
     <tu>
@@ -11591,6 +11607,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tells you what the bond paid when it was issued.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030836Z" creationid="RAFAEL" creationdate="20200806T030836Z">
+        <seg>Isto lhe informa o valor da obrigação quando ela é emitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
@@ -13355,6 +13379,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021747Z" creationid="RAFAEL" creationdate="20200805T021747Z">
         <seg>Exportações líquidas igual a exportações menos importações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Interest Margin</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030629Z" creationid="RAFAEL" creationdate="20200806T030629Z">
+        <seg>Margem de juros líquidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,6 +20849,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #net interest margin# is a measure of the difference between the bank's #interest income from loans# and the amount of #deposit interest paid out to its customers#, relative to the amount of its #interest-earning assets#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030652Z" creationid="RAFAEL" creationdate="20200806T030652Z">
+        <seg>A # margem de juros líquida# é uma medida da diferença entre a # receita de juros de empréstimos# do banco e o montante de # juros de depósito pagos a seus clientes#, em relação ao montante de seus # ativos que rendem juros#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CEO is not comfortable with setting up new businesses.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220117Z" creationid="User" creationdate="20200803T220117Z">
@@ -20901,6 +20941,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022058Z" creationid="RAFAEL" creationdate="20200805T022058Z">
         <seg>A quantidade de déficit que a cidade atual registrou durante os últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of interest income earned on the bond each year can be calculated by multiplying the bond's Face Value by its Coupon Rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030901Z" creationid="RAFAEL" creationdate="20200806T030901Z">
+        <seg>O valor dos juros auferidos sobre o título a cada ano pode ser calculado multiplicando o valor nominal do título por sua taxa de cupom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21437,6 +21485,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024335Z" creationid="RAFAEL" creationdate="20200806T024335Z">
         <seg>A quantia máxima em dinheiro que você tem permissão para transferir do banco para sua Corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amount of loans that the bank can lend out is restricted by this ratio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030609Z" creationid="RAFAEL" creationdate="20200806T030609Z">
+        <seg>O montante máximo de empréstimos que o banco pode emprestar é limitado por esta relação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23774,6 +23830,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013606Z" creationid="RAFAEL" creationdate="20200806T013606Z">
         <seg>Quando o tempo de espera do #cliente# é superior a 30, começa a afetar negativamente a #qualidade do serviço#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the Inflation mode is set to #Inverse Inflation#, a bond's #Face Value# may decline over time due to inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030733Z" creationid="RAFAEL" creationdate="20200806T030733Z">
+        <seg>Quando o modo Inflação é ajustado para #Inversa Inflação#, o #Valor facial# de um título pode diminuir com o tempo devido à inflação.</seg>
       </tuv>
     </tu>
     <tu>
