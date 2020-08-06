@@ -3430,6 +3430,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change R&amp;D Projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034950Z" creationid="RAFAEL" creationdate="20200806T034950Z">
+        <seg>Mudança de projetos de P&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Training Budget</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035012Z" creationid="RAFAEL" creationdate="20200806T035012Z">
+        <seg>Alterar orçamento de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the production tech</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014919Z" creationid="RAFAEL" creationdate="20200805T014919Z">
@@ -5466,6 +5482,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012837Z" creationid="Olivier" creationdate="20200802T012837Z">
         <seg>Corporate cash change=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035128Z" creationid="RAFAEL" creationdate="20200806T035128Z">
+        <seg>Custo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cost + Freight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035119Z" creationid="RAFAEL" creationdate="20200806T035119Z">
+        <seg>Custo + Frete</seg>
       </tuv>
     </tu>
     <tu>
@@ -7586,6 +7618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034835Z" creationid="RAFAEL" creationdate="20200806T034835Z">
         <seg>Para aqueles produtos marcados para #Venda Interna# nas fábricas, a IA sempre os venderá ao custo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035135Z" creationid="RAFAEL" creationdate="20200806T035135Z">
+        <seg>Frete</seg>
       </tuv>
     </tu>
     <tu>
@@ -11835,6 +11875,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
         <seg>Ele mostra as classificações médias deste produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the current price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035043Z" creationid="RAFAEL" creationdate="20200806T035043Z">
+        <seg>Ele mostra o preço atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21489,6 +21537,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Selling Price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035033Z" creationid="RAFAEL" creationdate="20200806T035033Z">
+        <seg>O preço de venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Top Tech value represents the highest Total Tech value that is ever achieved by a company, whether it is this company or a competitor, for this type of Internet business.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031743Z" creationid="RAFAEL" creationdate="20200806T031743Z">
@@ -22722,6 +22778,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These options specify whether you want the AI executive to change Training Budgets, R&amp;D Projects and Advertising Budgets for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034923Z" creationid="RAFAEL" creationdate="20200806T034923Z">
+        <seg>Estas opções especificam se você deseja que o executivo de IA mude os orçamentos de treinamento, projetos de P&amp;D e orçamentos publicitários para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032220Z" creationid="RAFAEL" creationdate="20200806T032220Z">
@@ -22966,6 +23030,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034730Z" creationid="RAFAEL" creationdate="20200806T034730Z">
         <seg>Esta opção especifica se você deseja que o executivo IA mude as configurações dos produtos #Venda Interna# para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option specifies whether you want the CTO to change Training Budgets in research facilities for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035023Z" creationid="RAFAEL" creationdate="20200806T035023Z">
+        <seg>Esta opção especifica se você deseja que o CTO altere os Orçamentos de Treinamento nas instalações de pesquisa para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option specifies whether you want the CTO to manage and change R&amp;D Projects for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035002Z" creationid="RAFAEL" creationdate="20200806T035002Z">
+        <seg>Esta opção especifica se você deseja que o CTO gerencie e mude os projetos de P&amp;D para você.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24182,6 +24262,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025750Z" creationid="RAFAEL" creationdate="20200804T025750Z">
         <seg>Use Filtros na parte superior desta tela para selecionar empresas para aplicar a alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use [+][-] to set a New Price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035053Z" creationid="RAFAEL" creationdate="20200806T035053Z">
+        <seg>Use [+][-] para estabelecer um Novo Preço.</seg>
       </tuv>
     </tu>
     <tu>
