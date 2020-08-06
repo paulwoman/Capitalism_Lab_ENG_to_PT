@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access the official Capitalism Lab Forum.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034514Z" creationid="RAFAEL" creationdate="20200806T034514Z">
+        <seg>Acesse o Fórum oficial do Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the mode for buying plots of land.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224902Z" creationid="RAFAEL" creationdate="20200801T224902Z">
@@ -8230,6 +8238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Global Stock Market (hotkey: Ctrl-G)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034352Z" creationid="RAFAEL" creationdate="20200806T034352Z">
+        <seg>Mercado de ações global (Atalho: Ctrl-G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Globe X=380</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013339Z" creationid="Olivier" creationdate="20200802T013339Z">
@@ -11367,6 +11383,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034526Z" creationid="RAFAEL" creationdate="20200806T034526Z">
+        <seg>Companhia de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Company Assets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025110Z" creationid="RAFAEL" creationdate="20200806T025110Z">
@@ -12127,6 +12151,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Join the Discord channel of Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034416Z" creationid="RAFAEL" creationdate="20200806T034416Z">
+        <seg>Junte-se ao canal Discord do Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep a distance between this apartment and other buildings, specially factories and mines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015222Z" creationid="RAFAEL" creationdate="20200804T015222Z">
@@ -12539,6 +12571,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024225Z" creationid="RAFAEL" creationdate="20200806T024225Z">
         <seg>Configurações de aluguel local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Stock Market</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034336Z" creationid="RAFAEL" creationdate="20200806T034336Z">
+        <seg>Mercado de ações local</seg>
       </tuv>
     </tu>
     <tu>
@@ -14807,6 +14847,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the official Capitalism Lab Facebook page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034451Z" creationid="RAFAEL" creationdate="20200806T034451Z">
+        <seg>Abra a página oficial do Capitalism Lab no Facebook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Expenses Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023630Z" creationid="RAFAEL" creationdate="20200806T023630Z">
@@ -14891,6 +14939,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225926Z" creationid="RAFAEL" creationdate="20200802T225926Z">
         <seg>Barra laranja = a Demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Order this insurance company to buy or sell stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034616Z" creationid="RAFAEL" creationdate="20200806T034616Z">
+        <seg>Ordenar à seguradora que compre ou venda ações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,6 +19095,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034256Z" creationid="RAFAEL" creationdate="20200806T034256Z">
+        <seg>Selecione Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select City</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202457Z" creationid="RAFAEL" creationdate="20200802T202457Z">
@@ -19083,6 +19147,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214811Z" creationid="RAFAEL" creationdate="20200802T214811Z">
         <seg>Selecione um novo produto de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select all firms in the current list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034303Z" creationid="RAFAEL" creationdate="20200806T034303Z">
+        <seg>Selecione todas as empresas da lista atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,6 +23586,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer a group of selected firms from this company to another company under your control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034246Z" creationid="RAFAEL" creationdate="20200806T034246Z">
+        <seg>Transferir um grupo de empresas selecionadas desta empresa para outra empresa sob seu controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer or Demolish this apartment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015143Z" creationid="RAFAEL" creationdate="20200805T015143Z">
@@ -24006,6 +24086,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012016Z" creationid="Olivier" creationdate="20200802T012016Z">
         <seg>Unlock product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unselect All</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034319Z" creationid="RAFAEL" creationdate="20200806T034319Z">
+        <seg>Desselecionar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unselect all firms in the current list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034327Z" creationid="RAFAEL" creationdate="20200806T034327Z">
+        <seg>Desselecione todas as empresas da lista atual.</seg>
       </tuv>
     </tu>
     <tu>
