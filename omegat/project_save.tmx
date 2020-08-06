@@ -17239,6 +17239,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Price Synchronization Enabled for All Firms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233508Z" creationid="RAFAEL" creationdate="20200806T233508Z">
+        <seg>Sincronização de preços ativada para todas as empresas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Price Synchronization Enabled for Retail Stores Only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233443Z" creationid="RAFAEL" creationdate="20200806T233443Z">
+        <seg>Sincronização de preços habilitada somente para lojas de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Price Synchronization is Disabled.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035325Z" creationid="RAFAEL" creationdate="20200806T035325Z">
@@ -19967,6 +19983,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sovereign Bonds</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233706Z" creationid="RAFAEL" creationdate="20200806T233706Z">
+        <seg>Títulos Soberanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T180837Z" creationid="Olivier" creationdate="20200728T085344Z">
@@ -21953,6 +21977,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The demand for a software product soars during the release of a new version, then decreases over time as more users have already owned the new version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233553Z" creationid="RAFAEL" creationdate="20200806T233553Z">
+        <seg>A demanda por um produto de software aumenta durante o lançamento de uma nova versão e depois diminui com o tempo, já que mais usuários já possuem a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021801Z" creationid="RAFAEL" creationdate="20200806T021801Z">
@@ -22269,6 +22301,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023833Z" creationid="RAFAEL" creationdate="20200804T023833Z">
         <seg>O número de pessoas que emigram da cidade anualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of years since the release of the last version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233540Z" creationid="RAFAEL" creationdate="20200806T233540Z">
+        <seg>O número de anos desde o lançamento da última versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -23222,6 +23262,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005924Z" creationid="User" creationdate="20200802T005924Z">
         <seg>Isso pulará o tutorial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus it is important to regularly release new versions to generate new demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233602Z" creationid="RAFAEL" creationdate="20200806T233602Z">
+        <seg>Portanto, é importante lançar regularmente novas versões para gerar nova demanda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24934,6 +24982,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024620Z" creationid="RAFAEL" creationdate="20200805T024612Z">
         <seg>Quando você vende um produto que é proveniente de um fornecedor externo, se o fornecedor também estiver vendendo o mesmo produto em sua própria loja de varejo, você terá que concordar com o preço de varejo estabelecido pelo fornecedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you set a new price, the new price will be applied to #all of your firms# of the same type selling the same product in the same city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233529Z" creationid="RAFAEL" creationdate="20200806T233529Z">
+        <seg>Quando você estabelece um novo preço, o novo preço será aplicado a #todas as suas empresas# do mesmo tipo que vendem o mesmo produto na mesma cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you set a new price, the new price will be applied to all of your #Retail Stores# selling the same product in the same city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233458Z" creationid="RAFAEL" creationdate="20200806T233458Z">
+        <seg>Quando você estabelece um novo preço, o novo preço será aplicado a todas as suas #Lojas de varejo# vendendo o mesmo produto na mesma cidade.</seg>
       </tuv>
     </tu>
     <tu>
