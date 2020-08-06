@@ -9855,6 +9855,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP Required for Production</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012412Z" creationid="RAFAEL" creationdate="20200806T012412Z">
+        <seg>IP Necessário para a Produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IPLIMIT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010041Z" creationid="Olivier" creationdate="20200802T010041Z">
@@ -10211,6 +10219,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021437Z" creationid="RAFAEL" creationdate="20200805T021437Z">
         <seg>Se isso estiver desativado, o CEO nunca emitirá novas ações para expandir os negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is enabled, then companies can only produce products in this product category if they own the IP or have access to the IP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012427Z" creationid="RAFAEL" creationdate="20200806T012427Z">
+        <seg>Se esta opção for ativada, então as empresas só poderão produzir produtos nesta categoria de produto se forem proprietárias do IP ou tiverem acesso ao IP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10907,6 +10923,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
         <seg>Ele mostra as classificações médias deste produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the number of mobile users in this city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012358Z" creationid="RAFAEL" creationdate="20200806T012358Z">
+        <seg>Isto indica o número de usuários de telefones celulares nesta cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12425,8 +12449,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Mobile Users</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012240Z" creationid="RAFAEL" creationdate="20200806T012240Z">
-        <seg>Usuários móveis</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012312Z" creationid="RAFAEL" creationdate="20200806T012240Z">
+        <seg>Usuários de celulares</seg>
       </tuv>
     </tu>
     <tu>
@@ -13747,6 +13771,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214759Z" creationid="RAFAEL" creationdate="20200802T214759Z">
         <seg>Produto de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall Experience Level of the Factory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012552Z" creationid="RAFAEL" creationdate="20200806T012552Z">
+        <seg>Nível de experiência geral da fábrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -20167,6 +20199,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sale data include both retail and ecommerce sales.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012450Z" creationid="RAFAEL" creationdate="20200806T012450Z">
+        <seg>Os dados de venda incluem tanto as vendas no varejo quanto as vendas no comércio eletrônico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
@@ -20888,6 +20928,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Analysis Mode (Hotkey: X)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012520Z" creationid="RAFAEL" creationdate="20200806T012520Z">
+        <seg>Modo de análise de alternância (Atalho: X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Corporate Filter to display a specific corporation in the Mini Map.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210643Z" creationid="RAFAEL" creationdate="20200802T210643Z">
@@ -20964,6 +21012,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012707Z" creationid="RAFAEL" creationdate="20200805T012707Z">
         <seg>Alternar entre o modo de exibição Banner e o modo de exibição Info.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle between the Analysis Mode and the standard 3x3 layout mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012531Z" creationid="RAFAEL" creationdate="20200806T012531Z">
+        <seg>Alternar entre o modo de análise e o modo de layout padrão 3x3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21092,6 +21148,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013631Z" creationid="Olivier" creationdate="20200802T013631Z">
         <seg>Total number of Employees=95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total sales in this city</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012439Z" creationid="RAFAEL" creationdate="20200806T012439Z">
+        <seg>Total de vendas nesta cidade</seg>
       </tuv>
     </tu>
     <tu>
