@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024015Z" creationid="RAFAEL" creationdate="20200806T024015Z">
+        <seg>No cenário inicial, um banco empresta dinheiro igualmente a mutuários de diferentes classificações de crédito (20% cada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Adjust Operation Levels of Civic Buildings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023652Z" creationid="RAFAEL" creationdate="20200805T023652Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223327Z" creationid="RAFAEL" creationdate="20200802T223327Z">
         <seg>Emprestar dinheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Borrowers with good credit ratings can obtain loans with lower interest rates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023929Z" creationid="RAFAEL" creationdate="20200806T023929Z">
+        <seg>Mutuários com boas classificações de crédito podem obter empréstimos com taxas de juros mais baixas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle it to use local settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024207Z" creationid="RAFAEL" creationdate="20200806T024207Z">
+        <seg>Clique para alternar para usar as configurações locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to toggle the display of apartments and commercial buildings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205611Z" creationid="RAFAEL" creationdate="20200802T205611Z">
@@ -5090,6 +5114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003438Z" creationid="RAFAEL" creationdate="20200805T003438Z">
         <seg>Por outro lado, um valor baixo indica que as pessoas em algumas regiões da cidade não têm um bom acesso aos serviços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, borrowers with poor credit ratings have the higher default risks, thus the bank charges higher interest rates to justify the risks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023947Z" creationid="RAFAEL" creationdate="20200806T023947Z">
+        <seg>Por outro lado, os tomadores de empréstimos com classificações de crédito ruins apresentam riscos de inadimplência mais altos, portanto o banco cobra taxas de juros mais altas para justificar os riscos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,6 +7938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003229Z" creationid="RAFAEL" creationdate="20200805T003229Z">
         <seg>Cobertura geográfica da polícia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global Rent Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024141Z" creationid="RAFAEL" creationdate="20200806T024141Z">
+        <seg>Configurações globais de aluguel</seg>
       </tuv>
     </tu>
     <tu>
@@ -11215,6 +11255,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It currently uses the global rent settings from its HQ's Real Estate department.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024153Z" creationid="RAFAEL" creationdate="20200806T024153Z">
+        <seg>Atualmente, ele usa as configurações globais de aluguel do departamento de imóveis da sede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It equals to its share price times the total number of shares outstanding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010043Z" creationid="RAFAEL" creationdate="20200805T010043Z">
@@ -12043,6 +12091,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025008Z" creationid="RAFAEL" creationdate="20200804T025008Z">
         <seg>Taxa de juros de Empréstimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loan interests are the main incomes of the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024101Z" creationid="RAFAEL" creationdate="20200806T024101Z">
+        <seg>Os juros dos empréstimos são os principais rendimentos do banco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13131,6 +13187,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013132Z" creationid="RAFAEL" creationdate="20200806T013132Z">
         <seg>Projeto de um novo jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Loans Allocation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023958Z" creationid="RAFAEL" creationdate="20200806T023958Z">
+        <seg>Alocação de novos empréstimos</seg>
       </tuv>
     </tu>
     <tu>
@@ -16751,6 +16815,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Projected Annual Interest Incomes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024042Z" creationid="RAFAEL" creationdate="20200806T024042Z">
+        <seg>Renda anual projetada de juros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Projected Annual Total Loan Interest Incomes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023705Z" creationid="RAFAEL" creationdate="20200806T023705Z">
@@ -17227,6 +17299,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013409Z" creationid="Olivier" creationdate="20200802T013409Z">
         <seg>Real Estate Focused Companies=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real GDP Growth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024117Z" creationid="RAFAEL" creationdate="20200806T024117Z">
+        <seg>Crescimento real do PIB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real GDP growth on an annual basis is the nominal GDP growth rate adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024127Z" creationid="RAFAEL" creationdate="20200806T024127Z">
+        <seg>O crescimento real do PIB anualmente é a taxa de crescimento nominal do PIB ajustada pela inflação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20648,6 +20736,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank collects interest payments from loan borrowers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024052Z" creationid="RAFAEL" creationdate="20200806T024052Z">
+        <seg>O banco cobra pagamentos de juros de tomadores de empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
@@ -23397,6 +23493,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025248Z" creationid="RAFAEL" creationdate="20200805T025248Z">
         <seg>Quando você habilitar as vendas de eCommerce para esta empresa, seus sites de eCommerce adicionarão todos os produtos de consumo desta empresa a seu catálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you increase the allocation to borrowers of poorer credit ratings, the bank will receive higher interest income, but the loan default rate will also increase as a result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024031Z" creationid="RAFAEL" creationdate="20200806T024031Z">
+        <seg>Quando você aumenta a alocação para tomadores de empréstimos com classificações de crédito mais baixas, o banco recebe uma receita de juros mais alta, mas a taxa de inadimplência do empréstimo também aumenta como resultado.</seg>
       </tuv>
     </tu>
     <tu>
