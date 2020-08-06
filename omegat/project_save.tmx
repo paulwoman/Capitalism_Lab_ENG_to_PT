@@ -22698,6 +22698,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The workers are idle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035227Z" creationid="RAFAEL" creationdate="20200806T035227Z">
+        <seg>Os trabalhadores estão ociosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
@@ -24610,6 +24618,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Warning: The Capacity Utilization Rate of this unit is zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035217Z" creationid="RAFAEL" creationdate="20200806T035217Z">
+        <seg>Advertência: A taxa de utilização da capacidade desta unidade é zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weak consumer spending will in turn adversely affect the business sector.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003723Z" creationid="RAFAEL" creationdate="20200805T003723Z">
@@ -25582,6 +25598,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005703Z" creationid="Olivier" creationdate="20200802T005703Z">
         <seg>Z_SETALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zero Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035206Z" creationid="RAFAEL" creationdate="20200806T035206Z">
+        <seg>Taxa de utilização da capacidade reduzida a zero</seg>
       </tuv>
     </tu>
     <tu>
