@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although their firms are not shown in the game map, they compete directly with the corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011946Z" creationid="RAFAEL" creationdate="20200806T011946Z">
+        <seg>Embora suas empresas não sejam mostradas no mapa do jogo, elas competem diretamente com as corporações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024722Z" creationid="RAFAEL" creationdate="20200805T024722Z">
@@ -4294,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to set the monthly budget for upgrading infrastructure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011800Z" creationid="RAFAEL" creationdate="20200806T011800Z">
+        <seg>Clique para definir o orçamento mensal para atualizar a infraestrutura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to terminate employment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215038Z" creationid="RAFAEL" creationdate="20200802T215038Z">
@@ -5626,6 +5642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195134Z" creationid="RAFAEL" creationdate="20200802T195134Z">
         <seg>Não considerar ofertas de outras empresas para comprar sua tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not show software products that have no sales in the past 36 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011751Z" creationid="RAFAEL" creationdate="20200806T011751Z">
+        <seg>Não mostre produtos de software que não tenham vendas nos últimos 36 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,6 +7954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012614Z" creationid="Olivier" creationdate="20200802T012614Z">
         <seg>Health rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Inactive Software Products</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011736Z" creationid="RAFAEL" creationdate="20200806T011736Z">
+        <seg>Ocultar produtos de software inativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10695,6 +10727,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet Users</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011707Z" creationid="RAFAEL" creationdate="20200806T011707Z">
+        <seg>Usuários de internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment is the total investment by businesses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021645Z" creationid="RAFAEL" creationdate="20200805T021645Z">
@@ -10827,6 +10867,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
         <seg>Ele mostra as classificações médias deste produto na cidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the number of personal computer users in this city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011658Z" creationid="RAFAEL" creationdate="20200806T011658Z">
+        <seg>Mostra o número de usuários de computadores pessoais nesta cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the number of personal computer users who have access to the Internet in this city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011718Z" creationid="RAFAEL" creationdate="20200806T011718Z">
+        <seg>Ele mostra o número de usuários de computadores pessoais que têm acesso à Internet nesta cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11499,6 +11555,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121838Z" creationid="Olivier" creationdate="20200805T121838Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Competitors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011926Z" creationid="RAFAEL" creationdate="20200806T011926Z">
+        <seg>Competidores locais</seg>
       </tuv>
     </tu>
     <tu>
@@ -14379,6 +14443,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014233Z" creationid="Olivier" creationdate="20200802T014233Z">
         <seg>Personal Cash change=1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Computer Users</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011650Z" creationid="RAFAEL" creationdate="20200806T011650Z">
+        <seg>Usuários de computadores pessoais</seg>
       </tuv>
     </tu>
     <tu>
@@ -17655,6 +17727,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011913Z" creationid="RAFAEL" creationdate="20200806T011913Z">
+        <seg>Estabelecer aqui um orçamento para melhorar sua capacidade de infra-estrutura se a maior parte de sua capacidade já tiver sido utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set a new Internet monthly subscription fee that will become effective next month.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030927Z" creationid="RAFAEL" creationdate="20200805T030927Z">
@@ -19871,6 +19951,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum number of subscribers that your telecom can serve is limited by its infrastructure capacity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011825Z" creationid="RAFAEL" creationdate="20200806T011819Z">
+        <seg>O número máximo de assinantes que sua telecom pode atender é limitado por sua capacidade de infraestrutura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mini map currently shows the geographical coverage of this type of civic building.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004241Z" creationid="RAFAEL" creationdate="20200805T004241Z">
@@ -20244,6 +20332,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
         <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are local competitors in each city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011934Z" creationid="RAFAEL" creationdate="20200806T011934Z">
+        <seg>Há concorrentes locais em cada cidade.</seg>
       </tuv>
     </tu>
     <tu>
