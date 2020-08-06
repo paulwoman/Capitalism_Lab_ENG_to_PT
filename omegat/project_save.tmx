@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bank has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025010Z" creationid="RAFAEL" creationdate="20200806T025010Z">
+        <seg>Um banco possui seu próprio balanço patrimonial e seus ativos são separados dos ativos da controladora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023502Z" creationid="RAFAEL" creationdate="20200804T023502Z">
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030702Z" creationid="RAFAEL" creationdate="20200804T030702Z">
         <seg>Equilibrar quotas de mercado e margens de lucro e estabelecer preços de forma sensata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bank Assets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024957Z" creationid="RAFAEL" creationdate="20200806T024957Z">
+        <seg>Ativos bancários</seg>
       </tuv>
     </tu>
     <tu>
@@ -4894,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consolidated Bank Income Statement</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024935Z" creationid="RAFAEL" creationdate="20200806T024935Z">
+        <seg>Demonstração Consolidada dos Resultados Bancários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant Game Speed=3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013754Z" creationid="Olivier" creationdate="20200802T013754Z">
@@ -5650,6 +5674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021505Z" creationid="RAFAEL" creationdate="20200804T021505Z">
         <seg>Demolir esta empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024846Z" creationid="RAFAEL" creationdate="20200806T024846Z">
+        <seg>Depósito</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
         <seg>Ad.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fund Transfer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025022Z" creationid="RAFAEL" creationdate="20200806T025022Z">
+        <seg>Transferência de fundos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,6 +11299,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015943Z" creationid="RAFAEL" creationdate="20200806T015943Z">
         <seg>Afeta a qualidade total do #serviço# da seguradora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It consolidates the financial data from the Bank HQ and all its bank branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024947Z" creationid="RAFAEL" creationdate="20200806T024947Z">
+        <seg>Consolida os dados financeiros da sede do banco e de todas as suas agências bancárias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20592,6 +20640,15 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #maximum deposit amount# is constrained by the #deposit cap#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024902Z" creationid="RAFAEL" creationdate="20200806T024902Z">
+        <seg>
+A # quantia máxima de depósito # é restringida pelo limite de depósito #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CEO is not comfortable with setting up new businesses.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220117Z" creationid="User" creationdate="20200803T220117Z">
@@ -21697,6 +21754,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a cap that #limits the maximum amount# of deposit each depositor can make.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024924Z" creationid="RAFAEL" creationdate="20200806T024924Z">
+        <seg>Existe um limite que #limita a quantidade máxima de depósitos que cada depositante pode fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be export when the city's competitiveness rating exceeds the global competitiveness rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014320Z" creationid="RAFAEL" creationdate="20200805T014320Z">
@@ -22609,6 +22674,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transferable Cash</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024836Z" creationid="RAFAEL" creationdate="20200806T024836Z">
+        <seg>Dinheiro transferível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tutorial=TUT01</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015425Z" creationid="Olivier" creationdate="20200802T015425Z">
@@ -22717,6 +22790,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005135Z" creationid="Olivier" creationdate="20200802T005135Z">
         <seg>U_WORKER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under the regulation, deposits should be #not concentrated# on a small number of large depositors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024913Z" creationid="RAFAEL" creationdate="20200806T024913Z">
+        <seg>De acordo com o regulamento, os depósitos não devem ser concentrados em um pequeno número de grandes depositantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23981,6 +24062,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013409Z" creationid="RAFAEL" creationdate="20200806T013409Z">
         <seg>Você pode definir o #orçamento de treinamento# para fornecer treinamento ao pessoal a fim de aumentar suas habilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer funds from the parent company to the bank's balance sheet or vice versa.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025036Z" creationid="RAFAEL" creationdate="20200806T025036Z">
+        <seg>Você pode transferir fundos da controladora para o balanço do banco ou vice-versa.</seg>
       </tuv>
     </tu>
     <tu>
