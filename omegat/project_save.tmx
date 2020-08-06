@@ -12727,6 +12727,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum Special Dividend</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022720Z" creationid="RAFAEL" creationdate="20200806T022720Z">
+        <seg>Dividendo Especial Máximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mayor Approval Rating</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004546Z" creationid="RAFAEL" creationdate="20200805T004546Z">
@@ -20908,6 +20916,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010010Z" creationid="RAFAEL" creationdate="20200805T010010Z">
         <seg>A capitalização de mercado de uma empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023049Z" creationid="RAFAEL" creationdate="20200806T023049Z">
+        <seg>O montante máximo de dividendos especiais que você pode pagar é o menor de 1) o #dinheiro# da empresa e 2) seus #lucros retidos# (visíveis em seu #balanço#).</seg>
       </tuv>
     </tu>
     <tu>
