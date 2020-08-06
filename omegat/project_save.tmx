@@ -15143,6 +15143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Owned Technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234744Z" creationid="RAFAEL" creationdate="20200806T234744Z">
+        <seg>Tecnologia própria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ownership=1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014146Z" creationid="Olivier" creationdate="20200802T014146Z">
@@ -21729,6 +21737,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The World's Top #Production Technology# on this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234922Z" creationid="RAFAEL" creationdate="20200806T234922Z">
+        <seg>A melhor tecnologia do mundo #Tecnologia de produção# neste produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025638Z" creationid="RAFAEL" creationdate="20200805T025638Z">
@@ -22541,6 +22557,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020312Z" creationid="RAFAEL" creationdate="20200806T020312Z">
         <seg>O nível de preços dos prêmios de seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The producer company's #Production Technology# on this product, which can be improved in #R&amp;D Centers#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234756Z" creationid="RAFAEL" creationdate="20200806T234756Z">
+        <seg>A tecnologia de produção da empresa produtora neste produto, que pode ser melhorada nos centros de pesquisa e desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23774,6 +23798,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031749Z" creationid="RAFAEL" creationdate="20200806T031455Z">
         <seg>Tecnologia de última geração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top Technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234805Z" creationid="RAFAEL" creationdate="20200806T234805Z">
+        <seg>Tecnologia de ponta</seg>
       </tuv>
     </tu>
     <tu>
