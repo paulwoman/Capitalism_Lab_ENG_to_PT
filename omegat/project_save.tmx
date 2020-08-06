@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose a mode for setting e-commerce prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011402Z" creationid="RAFAEL" creationdate="20200806T011402Z">
+        <seg>Escolha um modo para definir os preços do comércio eletrônico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Citizens' overall satisfaction of the services</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003451Z" creationid="RAFAEL" creationdate="20200805T003451Z">
@@ -3914,6 +3922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
         <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click this button to toggle the mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011521Z" creationid="RAFAEL" creationdate="20200806T011521Z">
+        <seg>Clique neste botão para alternar o modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12679,6 +12695,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the salary displayed here is the annual salary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011610Z" creationid="RAFAEL" creationdate="20200806T011610Z">
+        <seg>Observe que o salário exibido aqui é o salário anual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Novice workers wear red uniforms, whereas experienced workers wear blue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230352Z" creationid="RAFAEL" creationdate="20200802T230352Z">
@@ -16323,6 +16347,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230916Z" creationid="RAFAEL" creationdate="20200802T230916Z">
         <seg>Criar gado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise the salary of this team lead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011600Z" creationid="RAFAEL" creationdate="20200806T011600Z">
+        <seg>Aumentar o salário deste líder de equipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22172,6 +22204,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014828Z" creationid="RAFAEL" creationdate="20200805T014828Z">
         <seg>Você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may set e-commerce prices individually or set a price markup percentage that applies to all products in this firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011510Z" creationid="RAFAEL" creationdate="20200806T011510Z">
+        <seg>Você pode estabelecer preços de comércio eletrônico individualmente ou estabelecer uma porcentagem de marcação de preço que se aplica a todos os produtos desta empresa.</seg>
       </tuv>
     </tu>
     <tu>
