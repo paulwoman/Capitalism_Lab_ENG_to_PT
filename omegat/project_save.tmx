@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle it to use the global settings from its HQ's Real Estate department.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024243Z" creationid="RAFAEL" creationdate="20200806T024243Z">
+        <seg>Clique para alternar para usar as configurações globais do departamento de imóveis da sede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to toggle the display of apartments and commercial buildings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205611Z" creationid="RAFAEL" creationdate="20200802T205611Z">
@@ -12135,6 +12143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Local Rent Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024225Z" creationid="RAFAEL" creationdate="20200806T024225Z">
+        <seg>Configurações de aluguel local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location convenience</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003413Z" creationid="RAFAEL" creationdate="20200805T003413Z">
@@ -14091,6 +14107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T123112Z" creationid="Olivier" creationdate="20200805T123112Z">
         <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On its balance sheet, the bank's net assets must be greater than the required bank capital.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024352Z" creationid="RAFAEL" creationdate="20200806T024352Z">
+        <seg>Em seu balanço, o patrimônio líquido do banco deve ser maior que o capital bancário exigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20800,6 +20824,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The capital requirement set by the central bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024411Z" creationid="RAFAEL" creationdate="20200806T024411Z">
+        <seg>O requisito de capital definido pelo banco central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The city's Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014203Z" creationid="RAFAEL" creationdate="20200805T014203Z">
@@ -21128,6 +21160,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum amount of cash that you are allowed to transfer from the bank to your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024335Z" creationid="RAFAEL" creationdate="20200806T024335Z">
+        <seg>A quantia máxima em dinheiro que você tem permissão para transferir do banco para sua Corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023146Z" creationid="RAFAEL" creationdate="20200806T023049Z">
@@ -21340,6 +21380,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023640Z" creationid="RAFAEL" creationdate="20200805T023640Z">
         <seg>O ponto vermelho indica o DCC (distrito comercial central).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The rent is set locally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024233Z" creationid="RAFAEL" creationdate="20200806T024233Z">
+        <seg>O aluguel é definido localmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23477,6 +23525,22 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004025Z" creationid="RAFAEL" creationdate="20200805T004025Z">
         <seg>Quando isso está ativado, o computador gerencia  automaticamente todas as empresas de mídia da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing apartments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024259Z" creationid="RAFAEL" creationdate="20200806T024259Z">
+        <seg>Quando isso está ativado, o computador gerencia automaticamente todos os apartamentos existentes da empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing commercial buildings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024316Z" creationid="RAFAEL" creationdate="20200806T024316Z">
+        <seg>Quando isso está ativado, o computador gerencia automaticamente todos os edifícios comerciais existentes da corporação.</seg>
       </tuv>
     </tu>
     <tu>
