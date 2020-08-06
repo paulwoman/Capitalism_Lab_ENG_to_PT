@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Loans</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014015Z" creationid="RAFAEL" creationdate="20200806T014015Z">
+        <seg>Todos os Empréstimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All land plots owned by the government will not be for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001257Z" creationid="RAFAEL" creationdate="20200805T001257Z">
@@ -1458,6 +1466,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232538Z" creationid="RAFAEL" creationdate="20200802T232538Z">
         <seg>Suprimentos disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Customer Waiting Time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013918Z" creationid="RAFAEL" creationdate="20200806T013918Z">
+        <seg>Tempo médio de espera do cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Staff Skill Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013837Z" creationid="RAFAEL" creationdate="20200806T013837Z">
+        <seg>Nível Médio de Habilidade do Pessoal</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10279,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, the #skill level# is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013909Z" creationid="RAFAEL" creationdate="20200806T013909Z">
+        <seg>Se a Simulação Econômica da Cidade DLC# estiver habilitada, o nível de #qualificação# também é afetado pelo nível de #educação# das pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022327Z" creationid="RAFAEL" creationdate="20200805T022327Z">
@@ -10331,6 +10363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022835Z" creationid="RAFAEL" creationdate="20200805T022835Z">
         <seg>Se você é o líder do partido, o valor de influência de cada um de seus membros contribuirá em 50% para o seu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you change the training budget here, the change will apply to all branches of the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013827Z" creationid="RAFAEL" creationdate="20200806T013827Z">
+        <seg>Se você alterar o orçamento de treinamento aqui, a alteração se aplicará a todas as agências do banco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,6 +10935,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It affects the overall #service quality# of the bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013858Z" creationid="RAFAEL" creationdate="20200806T013858Z">
+        <seg>Afeta a qualidade geral do #serviço# do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It contributes to the OS's overall rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031043Z" creationid="RAFAEL" creationdate="20200805T031043Z">
@@ -10947,6 +10995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T011953Z" creationid="RAFAEL" creationdate="20200805T011953Z">
         <seg>Ele é calculado dividindo o preço atual das ações pelo valor patrimonial por ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013947Z" creationid="RAFAEL" creationdate="20200806T013947Z">
+        <seg>É determinado pelo #nível de habilidade do pessoal# e pelo #tempo de espera do cliente#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11707,6 +11763,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121838Z" creationid="Olivier" creationdate="20200805T121838Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loans to Corporations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014042Z" creationid="RAFAEL" creationdate="20200806T014042Z">
+        <seg>Empréstimos a Corporações</seg>
       </tuv>
     </tu>
     <tu>
@@ -12931,6 +12995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011610Z" creationid="RAFAEL" creationdate="20200806T011610Z">
         <seg>Observe que o salário exibido aqui é o salário anual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that these loans, together with loans to local companies, constitute the loan totals shown on the [All Loans] page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014109Z" creationid="RAFAEL" creationdate="20200806T014109Z">
+        <seg>Note que esses empréstimos, juntamente com os empréstimos a empresas locais, constituem os totais dos empréstimos mostrados na página [Todos os empréstimos].</seg>
       </tuv>
     </tu>
     <tu>
@@ -17911,6 +17983,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this to show a list of loans that have been made to corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014051Z" creationid="RAFAEL" creationdate="20200806T014051Z">
+        <seg>Selecione isto para mostrar uma lista de empréstimos que foram feitos a corporações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all loans that have been made to local companies and corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014024Z" creationid="RAFAEL" creationdate="20200806T014024Z">
+        <seg>Selecione isto para mostrar todos os empréstimos que foram feitos a empresas e corporações locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selected Building Number</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211534Z" creationid="RAFAEL" creationdate="20200802T211534Z">
@@ -19927,10 +20015,42 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average customer waiting time of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013927Z" creationid="RAFAEL" creationdate="20200806T013927Z">
+        <seg>O tempo médio de espera do cliente de todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average ratings are derived from your competitors' products and your products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225836Z" creationid="RAFAEL" creationdate="20200802T225836Z">
         <seg>As classificações médias são derivadas dos produtos de seus concorrentes e de seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average service quality of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013938Z" creationid="RAFAEL" creationdate="20200806T013938Z">
+        <seg>A qualidade média de serviço de todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average staff skill level of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013846Z" creationid="RAFAEL" creationdate="20200806T013846Z">
+        <seg>O nível médio de habilidade do pessoal de todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average training budget of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013815Z" creationid="RAFAEL" creationdate="20200806T013815Z">
+        <seg>O orçamento médio de treinamento de todas as agências do banco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20219,6 +20339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032204Z" creationid="RAFAEL" creationdate="20200804T032204Z">
         <seg>O custo da terra nas zonas agrícolas é significativamente mais baixo do que em outras zonas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The loans are grouped under different credit ratings and the total amount of each group is shown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014033Z" creationid="RAFAEL" creationdate="20200806T014033Z">
+        <seg>Os empréstimos são agrupados sob diferentes classificações de crédito e o valor total de cada grupo é mostrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21124,6 +21252,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030314Z" creationid="RAFAEL" creationdate="20200805T030259Z">
         <seg>Para recrutar alguém, você deve oferecer-lhe um salário mais alto e um bônus de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To increase it, select the #Marketing# page and set up advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014003Z" creationid="RAFAEL" creationdate="20200806T014003Z">
+        <seg>Para aumentá-la, selecione a página #Marketing# e crie publicidade.</seg>
       </tuv>
     </tu>
     <tu>
