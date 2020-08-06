@@ -3174,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022316Z" creationid="RAFAEL" creationdate="20200806T022316Z">
+        <seg>Não é possível aumentar a capacidade de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot add it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013926Z" creationid="RAFAEL" creationdate="20200805T013926Z">
@@ -17175,6 +17183,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022340Z" creationid="RAFAEL" creationdate="20200806T022340Z">
+        <seg>Reduzir a capacidade de varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021437Z" creationid="RAFAEL" creationdate="20200804T021437Z">
@@ -18663,6 +18679,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shrink the retail space and reduce the staff size for selling this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022352Z" creationid="RAFAEL" creationdate="20200806T022352Z">
+        <seg>Diminua o espaço de varejo e reduza o tamanho da equipe para vender este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single-click here to select this functional unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230430Z" creationid="RAFAEL" creationdate="20200802T230430Z">
@@ -18787,6 +18811,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030428Z" creationid="RAFAEL" creationdate="20200804T030428Z">
         <seg>Desculpe, você não pode mudar a velocidade do jogo atual, uma vez que ele é corrigido por um roteiro do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry, you cannot expand its capacity further as there is no space left in the retail store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022329Z" creationid="RAFAEL" creationdate="20200806T022329Z">
+        <seg>Desculpe, você não pode expandir ainda mais sua capacidade, pois não há mais espaço na loja de varejo.</seg>
       </tuv>
     </tu>
     <tu>
