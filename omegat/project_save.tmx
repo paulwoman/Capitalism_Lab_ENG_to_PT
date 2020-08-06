@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(100 x Total Tech / Top Tech.) It represents this Internet firm's relative strength in the technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032055Z" creationid="RAFAEL" creationdate="20200806T032055Z">
+        <seg>(100 x tecnologia total / tecnologia avançada.) Representa a força relativa desta empresa de Internet na tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Click here now to view the supplier.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024638Z" creationid="RAFAEL" creationdate="20200805T024638Z">
@@ -17791,6 +17799,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required Tech</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032143Z" creationid="RAFAEL" creationdate="20200806T032143Z">
+        <seg>Tecnologia necessária</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Tech Achieved?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023734Z" creationid="RAFAEL" creationdate="20200805T023734Z">
@@ -20292,6 +20308,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031806Z" creationid="RAFAEL" creationdate="20200806T031806Z">
         <seg>qualidade tecnológica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Quality is calculated by dividing the current Total Tech by Top Tech, then multiplied by 100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031957Z" creationid="RAFAEL" creationdate="20200806T031917Z">
+        <seg>A qualidade tecnológica é calculada dividindo o total da tecnologia atual pela tecnologia de última geração e depois multiplicando o resultado por 100.</seg>
       </tuv>
     </tu>
     <tu>
