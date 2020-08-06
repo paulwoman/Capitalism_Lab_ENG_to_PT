@@ -20778,8 +20778,8 @@ Divisão de ações</seg>
       <tuv lang="en-US">
         <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030029Z" creationid="RAFAEL" creationdate="20200806T030029Z">
-        <seg>O #relação de capital" é uma relação entre o "capital próprio" de um banco e seu total de "empréstimos a clientes". Um banco deve manter uma relação de capital que atenda às exigências do banco central </seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030508Z" creationid="RAFAEL" creationdate="20200806T030029Z">
+        <seg>A relação #Capital bancario# é a relação entre o #Capital próprio# de um banco e seu total #Empréstimos a Clientes#.</seg>
       </tuv>
     </tu>
     <tu>
