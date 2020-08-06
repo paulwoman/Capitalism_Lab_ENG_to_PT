@@ -16351,6 +16351,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raise the salaries of all team leads in this firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011620Z" creationid="RAFAEL" creationdate="20200806T011620Z">
+        <seg>Aumente os salários de todos os líderes de equipe nesta empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raise the salary of this team lead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011600Z" creationid="RAFAEL" creationdate="20200806T011600Z">
