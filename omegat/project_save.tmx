@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Your company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034133Z" creationid="RAFAEL" creationdate="20200806T034133Z">
+        <seg>(Sua empresa é a acionista majoritária desta empresa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Your subsidiary company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034209Z" creationid="RAFAEL" creationdate="20200806T034209Z">
+        <seg>(Sua empresa subsidiária é a acionista majoritária desta empresa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215958Z" creationid="RAFAEL" creationdate="20200802T215958Z">
@@ -13135,6 +13151,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Management Policies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034036Z" creationid="RAFAEL" creationdate="20200806T034036Z">
+        <seg>Políticas de gestão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manager's Guide (hotkey: F3)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222004Z" creationid="RAFAEL" creationdate="20200802T222004Z">
@@ -13335,10 +13359,34 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merge Company</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034116Z" creationid="RAFAEL" creationdate="20200806T034116Z">
+        <seg>Fusão de empresas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Merge Corporations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215621Z" creationid="RAFAEL" creationdate="20200802T215621Z">
         <seg>Fusão de empresas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge this company into your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034123Z" creationid="RAFAEL" creationdate="20200806T034123Z">
+        <seg>Fundir esta empresa em sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge this company into your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034143Z" creationid="RAFAEL" creationdate="20200806T034143Z">
+        <seg>Fundir esta empresa em sua empresa subsidiária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,6 +14755,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222415Z" creationid="RAFAEL" creationdate="20200801T222415Z">
         <seg>Abrir a tela do Centro de Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Management Policies interface for this company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034044Z" creationid="RAFAEL" creationdate="20200806T034044Z">
+        <seg>Abrir a interface de Políticas de Gestão para esta empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17979,6 +18035,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022440Z" creationid="RAFAEL" creationdate="20200806T022440Z">
         <seg>Retirar este produto da loja de varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename Subsidiary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034056Z" creationid="RAFAEL" creationdate="20200806T034056Z">
+        <seg>Renomear Subsidiária</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename this subsidiary company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034104Z" creationid="RAFAEL" creationdate="20200806T034104Z">
+        <seg>Renomear esta empresa subsidiária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23426,6 +23498,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer Firms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034234Z" creationid="RAFAEL" creationdate="20200806T034234Z">
+        <seg>Transferência de empresas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024521Z" creationid="RAFAEL" creationdate="20200806T024521Z">
@@ -23446,6 +23526,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015203Z" creationid="RAFAEL" creationdate="20200805T015203Z">
         <seg>Transferir ou Demolir este edifício comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer the selected firms to another company under your control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034025Z" creationid="RAFAEL" creationdate="20200806T034025Z">
+        <seg>Transfira as empresas selecionadas para outra empresa sob seu controle.</seg>
       </tuv>
     </tu>
     <tu>
