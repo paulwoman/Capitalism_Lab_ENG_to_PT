@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Defaults</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014352Z" creationid="RAFAEL" creationdate="20200806T014352Z">
+        <seg>Todos os Defaults</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Loans</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014015Z" creationid="RAFAEL" creationdate="20200806T014015Z">
@@ -17987,6 +17995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014051Z" creationid="RAFAEL" creationdate="20200806T014051Z">
         <seg>Selecione isto para mostrar uma lista de empréstimos que foram feitos a corporações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all bad loans that have been defaulted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014406Z" creationid="RAFAEL" creationdate="20200806T014406Z">
+        <seg>Selecione esta opção para mostrar todos os empréstimos vencidos que foram inadimplentes.</seg>
       </tuv>
     </tu>
     <tu>
