@@ -17231,6 +17231,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Price Synchronization Disabled</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035314Z" creationid="RAFAEL" creationdate="20200806T035314Z">
+        <seg>Desativando a sincronização de preços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Price Synchronization is Disabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035325Z" creationid="RAFAEL" creationdate="20200806T035325Z">
+        <seg>A sincronização de preços está desativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060254Z" creationid="Olivier" creationdate="20200728T060254Z">
