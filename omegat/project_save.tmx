@@ -3582,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City Quality Bonus</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234354Z" creationid="RAFAEL" creationdate="20200806T234354Z">
+        <seg>Bônus de qualidade da cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Selection Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202439Z" creationid="RAFAEL" creationdate="20200802T202439Z">
@@ -11747,6 +11755,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024153Z" creationid="RAFAEL" creationdate="20200806T024153Z">
         <seg>Atualmente, ele usa as configurações globais de aluguel do departamento de imóveis da sede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It equals to #Maximum Production Quality# X #Owned Tech# / #Top Tech# (see below)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234345Z" creationid="RAFAEL" creationdate="20200806T234345Z">
+        <seg>Equivale a #Qualidade Máxima de Produção# X #Tecnologia de Propriedade# / #Top Tech# (veja abaixo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21576,6 +21592,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #Quality Rating# gets a boost from the #City Competitiveness Rating# in this product class.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234608Z" creationid="RAFAEL" creationdate="20200806T234608Z">
+        <seg>A "classificação de qualidade" é reforçada pela "classificação de competitividade da cidade" nesta categoria de produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #maximum deposit amount# is constrained by the #deposit cap#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024902Z" creationid="RAFAEL" creationdate="20200806T024902Z">
@@ -23526,6 +23550,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004804Z" creationid="RAFAEL" creationdate="20200805T004804Z">
         <seg>Para pesquisar um produto, basta digitar a primeira letra do nome do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To see the #City Competitiveness Rating#, open the #Cities report# and select the #Industries# page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234737Z" creationid="RAFAEL" creationdate="20200806T234737Z">
+        <seg>Para ver o #Ranking de Competitividade da Cidade#, abra o #Relatório da cidade# e selecione a página #Industria#.</seg>
       </tuv>
     </tu>
     <tu>
