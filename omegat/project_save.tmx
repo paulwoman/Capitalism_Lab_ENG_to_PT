@@ -7582,6 +7582,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For those products marked for #Internal Sale# in factories, the AI will always sell them at cost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034835Z" creationid="RAFAEL" creationdate="20200806T034835Z">
+        <seg>Para aqueles produtos marcados para #Venda Interna# nas fábricas, a IA sempre os venderá ao custo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freight Concern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034643Z" creationid="RAFAEL" creationdate="20200806T034643Z">
+        <seg>Preocupação com o frete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freq.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
@@ -10903,6 +10919,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to a high value, the AI executive will be more concerned with freight costs and tend to pick suppliers from closer distances.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034658Z" creationid="RAFAEL" creationdate="20200806T034658Z">
+        <seg>Se isto for definido para um valor alto, o executivo de AI estará mais preocupado com os custos de frete e tenderá a escolher fornecedores de distâncias mais próximas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is turned off, the CEO will never issue new shares for expanding the business.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021437Z" creationid="RAFAEL" creationdate="20200805T021437Z">
@@ -11451,6 +11475,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231943Z" creationid="RAFAEL" creationdate="20200802T231943Z">
         <seg>Vista interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internal Sale</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034707Z" creationid="RAFAEL" creationdate="20200806T034707Z">
+        <seg>Venda Interna</seg>
       </tuv>
     </tu>
     <tu>
@@ -14939,6 +14971,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225926Z" creationid="RAFAEL" creationdate="20200802T225926Z">
         <seg>Barra laranja = a Demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Order this insurance company to buy or sell bonds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034632Z" creationid="RAFAEL" creationdate="20200806T034632Z">
+        <seg>Ordene a esta companhia de seguros que compre ou venda títulos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19311,6 +19351,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sell factory #Internal Sale# products at cost</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034808Z" creationid="RAFAEL" creationdate="20200806T034808Z">
+        <seg>Venda de produtos da fábrica #Venda interna# ao custo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sell less stock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220512Z" creationid="RAFAEL" creationdate="20200802T220512Z">
@@ -22914,6 +22962,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option specifies whether you want the AI executive to change products #Internal Sale# settings for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034730Z" creationid="RAFAEL" creationdate="20200806T034730Z">
+        <seg>Esta opção especifica se você deseja que o executivo IA mude as configurações dos produtos #Venda Interna# para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This percentage is calculated by dividing the total return to investors (which is the sum of all dividends paid and lifetime capital gains from stock price increases), by the stock price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012501Z" creationid="RAFAEL" creationdate="20200805T012501Z">
@@ -24470,6 +24526,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003723Z" creationid="RAFAEL" creationdate="20200805T003723Z">
         <seg>Os fracos gastos dos consumidores, por sua vez, afetarão negativamente o setor empresarial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When #Internal Sale# is enabled for a product, it is for internal sale only and competitors are not allowed to buy it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034752Z" creationid="RAFAEL" creationdate="20200806T034752Z">
+        <seg>Quando #Venda Interna# é habilitada para um produto, é somente para venda interna e os concorrentes não estão autorizados a comprá-lo.</seg>
       </tuv>
     </tu>
     <tu>
