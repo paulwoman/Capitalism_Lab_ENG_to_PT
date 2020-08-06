@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that your factory is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012626Z" creationid="RAFAEL" creationdate="20200806T012626Z">
+        <seg>Uma alta taxa de utilização significa que sua fábrica está operando eficientemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high value means that different regions of the city have good coverage of fire services.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003325Z" creationid="RAFAEL" creationdate="20200805T003325Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230259Z" creationid="RAFAEL" creationdate="20200802T230259Z">
         <seg>Uma taxa baixa significa que a unidade tem tempo ocioso e sua capacidade é subutilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that your factory has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012641Z" creationid="RAFAEL" creationdate="20200806T012641Z">
+        <seg>Uma taxa baixa significa que sua fábrica tem tempo ocioso e sua capacidade é subutilizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +1994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013959Z" creationid="RAFAEL" creationdate="20200805T013959Z">
         <seg>Porque você já atingiu o número máximo de projetos de produtos que você pode adicionar à sua biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before you can start to manufacture hardware using this IP, you must first develop an Operating System for the IP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012857Z" creationid="RAFAEL" creationdate="20200806T012857Z">
+        <seg>Antes de começar a fabricar hardware usando este IP, você deve primeiro desenvolver um Sistema Operacional para o IP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8215,6 +8239,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-B</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012818Z" creationid="RAFAEL" creationdate="20200806T012818Z">
+        <seg>Atalho: Ctrl-B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-I</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022747Z" creationid="RAFAEL" creationdate="20200805T022747Z">
@@ -13719,6 +13751,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operating System for your IP</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012839Z" creationid="RAFAEL" creationdate="20200806T012839Z">
+        <seg>Sistema operacional para seu IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operation suspended</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001306Z" creationid="RAFAEL" creationdate="20200805T001306Z">
@@ -13771,6 +13811,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214759Z" creationid="RAFAEL" creationdate="20200802T214759Z">
         <seg>Produto de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall Capacity Utilization Rate of the Factory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012615Z" creationid="RAFAEL" creationdate="20200806T012615Z">
+        <seg>Taxa de utilização da capacidade total da fábrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -16111,6 +16159,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Production Technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012739Z" creationid="RAFAEL" creationdate="20200806T012739Z">
+        <seg>Tecnologia de Produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Products availability at retail</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002134Z" creationid="RAFAEL" creationdate="20200805T002134Z">
@@ -16243,6 +16299,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T215311Z" creationid="Olivier" creationdate="20200802T010530Z">
         <seg>QUALITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality of Input Items</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012713Z" creationid="RAFAEL" creationdate="20200806T012713Z">
+        <seg>Qualidade dos itens de entrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -18079,6 +18143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the current supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012828Z" creationid="RAFAEL" creationdate="20200806T012828Z">
+        <seg>Mostrar o fornecedor atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show your corporation and subsidiaries only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023203Z" creationid="RAFAEL" creationdate="20200804T023203Z">
@@ -18507,6 +18579,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230310Z" creationid="RAFAEL" creationdate="20200802T230310Z">
         <seg>Estoque na Unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock in the Factory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012650Z" creationid="RAFAEL" creationdate="20200806T012650Z">
+        <seg>Estoque na Fábrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -20119,6 +20199,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The part of the finished product's quality that is contributed by its input items' quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012724Z" creationid="RAFAEL" creationdate="20200806T012724Z">
+        <seg>A parte da qualidade do produto acabado que é contribuída pela qualidade de seus itens de entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The part of the finished product's quality that is contributed by the production technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012753Z" creationid="RAFAEL" creationdate="20200806T012753Z">
+        <seg>A parte da qualidade do produto acabado que é contribuída pela tecnologia de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pay rate of unemployment benefits as a percentage of the reference salary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003940Z" creationid="RAFAEL" creationdate="20200805T003940Z">
@@ -20171,6 +20267,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003056Z" creationid="RAFAEL" creationdate="20200805T003056Z">
         <seg>A qualidade do serviço prestado por este edifício cívico é determinada por 1) a habilidade de seu pessoal e 2) a qualidade de suas instalações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The quality of the finished product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012811Z" creationid="RAFAEL" creationdate="20200806T012811Z">
+        <seg>A qualidade do produto acabado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20243,6 +20347,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230322Z" creationid="RAFAEL" creationdate="20200802T230322Z">
         <seg>O estoque mantido na unidade atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stock level of the finished product in the factory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012701Z" creationid="RAFAEL" creationdate="20200806T012701Z">
+        <seg>O nível de estoque do produto acabado na fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20636,6 +20748,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031535Z" creationid="RAFAEL" creationdate="20200804T031535Z">
         <seg>Esta é uma empresa pública</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is determined by the experience levels of all individual units in your factory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012604Z" creationid="RAFAEL" creationdate="20200806T012604Z">
+        <seg>Isto é determinado pelos níveis de experiência de todas as unidades individuais em sua fábrica.</seg>
       </tuv>
     </tu>
     <tu>
