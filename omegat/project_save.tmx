@@ -5478,6 +5478,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deposits from all branches of this bank</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015331Z" creationid="RAFAEL" creationdate="20200806T015331Z">
+        <seg>Depósitos de todas as agências deste banco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposits from the headquarters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015524Z" creationid="RAFAEL" creationdate="20200806T015432Z">
+        <seg>Depósitos na sede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201411Z" creationid="RAFAEL" creationdate="20200802T201411Z">
@@ -18007,6 +18023,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this to show a list of deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015446Z" creationid="RAFAEL" creationdate="20200806T015446Z">
+        <seg>Selecione isto para mostrar uma lista de depósitos feitos por corporações e pessoas do jogo através da sede do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this to show a list of loans made to corporations that have been defaulted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014517Z" creationid="RAFAEL" creationdate="20200806T014517Z">
@@ -18027,6 +18051,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014406Z" creationid="RAFAEL" creationdate="20200806T014406Z">
         <seg>Selecione esta opção para mostrar todos os empréstimos vencidos que foram inadimplentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all customer deposits made via all the branches of this bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015349Z" creationid="RAFAEL" creationdate="20200806T015341Z">
+        <seg>Selecione isto para mostrar todos os depósitos de clientes feitos através de todas as agências deste banco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20095,6 +20127,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average training budget of all the insurance company's front offices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015627Z" creationid="RAFAEL" creationdate="20200806T015627Z">
+        <seg>O orçamento médio de treinamento de todos os escritórios da companhia de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
@@ -20323,6 +20363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013735Z" creationid="RAFAEL" creationdate="20200806T013735Z">
         <seg>Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta agência bancária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this insurance front office.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015613Z" creationid="RAFAEL" creationdate="20200806T015613Z">
+        <seg>Quanto maior o índice de tráfego de clientes, maior o número de clientes em potencial que visitarão esse escritório de seguros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22340,6 +22388,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013716Z" creationid="RAFAEL" creationdate="20200806T013716Z">
         <seg>Veja as demonstrações financeiras deste grupo empresarial, além das deste banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the financial statements of this corporate group, in addition to those of this insurance company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015549Z" creationid="RAFAEL" creationdate="20200806T015549Z">
+        <seg>Veja as demonstrações financeiras deste grupo corporativo, além das da companhia de seguros.</seg>
       </tuv>
     </tu>
     <tu>
