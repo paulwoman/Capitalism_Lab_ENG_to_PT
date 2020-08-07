@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235544Z" creationid="RAFAEL" creationdate="20200807T235544Z">
+        <seg>(A opção "Tecnologia Disruptiva" é desativada quando a "Product Customization" está habilitada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024410Z" creationid="RAFAEL" creationdate="20200805T024410Z">
@@ -11223,6 +11231,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235117Z" creationid="RAFAEL" creationdate="20200807T235117Z">
+        <seg>Se estiver definido como Ligado, você encontrará a ferramenta de Personalização do Produto no Guia do Fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to a high value, the AI executive will be more concerned with freight costs and tend to pick suppliers from closer distances.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034658Z" creationid="RAFAEL" creationdate="20200806T034658Z">
@@ -14415,6 +14431,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234825Z" creationid="RAFAEL" creationdate="20200807T234825Z">
+        <seg>Número de Cidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities You Manage=4</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012534Z" creationid="Olivier" creationdate="20200802T012534Z">
@@ -16243,6 +16267,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023502Z" creationid="RAFAEL" creationdate="20200806T023502Z">
         <seg>Fixe a entrada atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play with single or multiple cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234846Z" creationid="RAFAEL" creationdate="20200807T234846Z">
+        <seg>Jogue com uma ou várias cidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19959,6 +19991,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the level of cash your corporation has at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235005Z" creationid="RAFAEL" creationdate="20200807T235005Z">
+        <seg>Defina o nível de dinheiro que sua empresa possuirá no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the price markup for selling products from this firm on your eCommerce sites.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025352Z" creationid="RAFAEL" creationdate="20200805T025352Z">
@@ -23169,6 +23209,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stock market allows for stock trading.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235045Z" creationid="RAFAEL" creationdate="20200807T235045Z">
+        <seg>O mercado de ações permite a negociação de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tech level is displayed below each product image.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014851Z" creationid="RAFAEL" creationdate="20200805T014838Z">
@@ -26194,6 +26242,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your Advantage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235027Z" creationid="RAFAEL" creationdate="20200807T235027Z">
+        <seg>Sua vantagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Corporation's Cash</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223310Z" creationid="RAFAEL" creationdate="20200801T223310Z">
@@ -26278,6 +26334,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193541Z" creationid="RAFAEL" creationdate="20200802T193541Z">
         <seg>Suas unidades de compras tentarão encontrar fornecedores automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your start-up capital</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234857Z" creationid="RAFAEL" creationdate="20200807T234857Z">
+        <seg>Seu capital inicial</seg>
       </tuv>
     </tu>
     <tu>
