@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BCOUPONR</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200807T070913Z" creationid="Olivier" creationdate="20200807T070913Z">
+        <seg>BCOUPONR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BCRMODE0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010427Z" creationid="Olivier" creationdate="20200802T010427Z">
@@ -3578,6 +3586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230227Z" creationid="RAFAEL" creationdate="20200802T230227Z">
         <seg>Taxa de utilização da capacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200807T071012Z" creationid="Olivier" creationdate="20200807T071012Z">
+        <seg>Change</seg>
       </tuv>
     </tu>
     <tu>
