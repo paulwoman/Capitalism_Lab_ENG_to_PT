@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Available via Import</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000844Z" creationid="RAFAEL" creationdate="20200807T000844Z">
+        <seg>Disponível via Importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Brand Rating</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033642Z" creationid="RAFAEL" creationdate="20200806T033642Z">
@@ -6010,6 +6018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022051Z" creationid="RAFAEL" creationdate="20200805T022051Z">
         <seg>Déficit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete Item</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000802Z" creationid="RAFAEL" creationdate="20200807T000802Z">
+        <seg>Excluir Item</seg>
       </tuv>
     </tu>
     <tu>
@@ -11111,6 +11127,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, the bank will #stop accepting new deposits# from #corporate clients# when the bank's #cash# as a percentage of its #total assets# exceeds the specified threshold.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001104Z" creationid="RAFAEL" creationdate="20200807T001104Z">
+        <seg>Se isto for permitido, o banco #parará de aceitar novos depósitos# de #clientes corporados# quando o #Caixa# do banco como porcentagem de seu #total de ativos# exceder o limite especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, the computer will automatically adjust the apartment's rent based on the market rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232717Z" creationid="RAFAEL" creationdate="20200802T232717Z">
@@ -11207,6 +11231,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Capacity</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000824Z" creationid="RAFAEL" creationdate="20200807T000824Z">
+        <seg>Capacidade de importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012900Z" creationid="Olivier" creationdate="20200802T012900Z">
@@ -11227,6 +11259,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010942Z" creationid="Olivier" creationdate="20200802T010942Z">
         <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import a new item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000744Z" creationid="RAFAEL" creationdate="20200807T000744Z">
+        <seg>Importar um novo item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,6 +12111,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the #number of items being imported# and the #maximum number of items# that this Import Company can import.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000836Z" creationid="RAFAEL" creationdate="20200807T000836Z">
+        <seg>Mostra o #número de itens sendo importados# e o #número máximo de itens# que esta Empresa de Importação pode importar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the average ratings of this product in the current city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
@@ -12803,6 +12851,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023759Z" creationid="RAFAEL" creationdate="20200806T023759Z">
         <seg>Rating de crédito de empréstimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loan Demand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000904Z" creationid="RAFAEL" creationdate="20200807T000904Z">
+        <seg>Demanda de empréstimo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19959,6 +20015,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show clients that are purchasing this item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000816Z" creationid="RAFAEL" creationdate="20200807T000816Z">
+        <seg>Mostrar os clientes que estão comprando este item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show disabled product classes or not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014341Z" creationid="RAFAEL" creationdate="20200805T014341Z">
@@ -22217,6 +22281,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The capacity of this Import company is full.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000753Z" creationid="RAFAEL" creationdate="20200807T000753Z">
+        <seg>A capacidade desta empresa de importação está plena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The capital requirement set by the central bank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024411Z" creationid="RAFAEL" creationdate="20200806T024411Z">
@@ -23394,6 +23466,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates the level of #demand for bank loans# which is correlated to the total GDP of the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000915Z" creationid="RAFAEL" creationdate="20200807T000915Z">
+        <seg>Isto indica o nível de #demanda para empréstimos bancários# que está correlacionado com o PIB total das cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates whether there are enough application software available for this OS.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031021Z" creationid="RAFAEL" creationdate="20200805T031021Z">
@@ -23478,6 +23558,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024628Z" creationid="RAFAEL" creationdate="20200805T024628Z">
         <seg>Isto é para evitar que o fornecedor não seja prejudicado no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This item can be imported via an Import Company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000855Z" creationid="RAFAEL" creationdate="20200807T000855Z">
+        <seg>Este item pode ser importado através de uma empresa de importação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23670,6 +23758,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005924Z" creationid="User" creationdate="20200802T005924Z">
         <seg>Isso pulará o tutorial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Threshold for Stopping Accepting Corporate Deposits</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000940Z" creationid="RAFAEL" creationdate="20200807T000940Z">
+        <seg>Limite para parar de aceitar depósitos corporativos</seg>
       </tuv>
     </tu>
     <tu>
