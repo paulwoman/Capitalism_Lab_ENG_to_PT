@@ -1662,6 +1662,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Build Apartments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001510Z" creationid="RAFAEL" creationdate="20200807T001510Z">
+        <seg>Auto Construir Apartamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Build Civic Buildings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001441Z" creationid="RAFAEL" creationdate="20200807T001441Z">
+        <seg>Edifícios Cívicos Auto-Construídos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Link Supplier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222327Z" creationid="RAFAEL" creationdate="20200802T222327Z">
@@ -23001,6 +23017,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rate at which #Public Investors' Money# increases is based on the national GDP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001430Z" creationid="RAFAEL" creationdate="20200807T001430Z">
+        <seg>A taxa na qual o dinheiro dos investidores públicos aumenta é baseada no PIB nacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The raw material which the unit is currently producing.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214255Z" creationid="Olivier" creationdate="20200730T214255Z">
@@ -25526,6 +25550,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002732Z" creationid="RAFAEL" creationdate="20200805T002732Z">
         <seg>Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, AI will automatically build apartments when there is unmet demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001528Z" creationid="RAFAEL" creationdate="20200807T001528Z">
+        <seg>Quando isto for ativado, a IA construirá automaticamente apartamentos quando houver demanda não atendida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, AI will automatically build civic buildings when there is unmet demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001458Z" creationid="RAFAEL" creationdate="20200807T001458Z">
+        <seg>Quando isso for ativado, a IA construirá automaticamente edifícios cívicos quando houver demanda não atendida.</seg>
       </tuv>
     </tu>
     <tu>
