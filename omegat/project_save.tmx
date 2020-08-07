@@ -56,8 +56,8 @@
       <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235544Z" creationid="RAFAEL" creationdate="20200807T235544Z">
-        <seg>(A opção "Tecnologia Disruptiva" é desativada quando a "Product Customization" está habilitada).</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235645Z" creationid="RAFAEL" creationdate="20200807T235544Z">
+        <seg>(A opção "Tecnologia Disruptiva" é desativada quando a "Customização de produto" está habilitada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11233,8 +11233,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235117Z" creationid="RAFAEL" creationdate="20200807T235117Z">
-        <seg>Se estiver definido como Ligado, você encontrará a ferramenta de Personalização do Produto no Guia do Fabricante.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235605Z" creationid="RAFAEL" creationdate="20200807T235117Z">
+        <seg>Se estiver definido como Ligado, você encontrará a ferramenta de Costumização do Produto no Guia do Fabricante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17697,8 +17697,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Product Customization</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014035Z" creationid="RAFAEL" creationdate="20200805T014035Z">
-        <seg>Personalização de produtos</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235714Z" creationid="RAFAEL" creationdate="20200805T014035Z">
+        <seg>Customização de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17707,6 +17707,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014415Z" creationid="RAFAEL" creationdate="20200805T014415Z">
         <seg>Personalização do produto (Atalho: 'z')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization Range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235757Z" creationid="RAFAEL" creationdate="20200807T235757Z">
+        <seg>Gama de Customização de produto</seg>
       </tuv>
     </tu>
     <tu>
