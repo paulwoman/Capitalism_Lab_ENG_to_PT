@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Product Quality# is the sum total of #Raw Material Quality#, #Production Quality# and #City Quality Bonus#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000706Z" creationid="RAFAEL" creationdate="20200807T000706Z">
+        <seg>#Qualidade do produto# é a soma total de #Qualidade da matéria-prima#, #Qualidade da produção# e #Bônus de qualidade da cidade#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Production Quality# is determined by the #Product Technology# of the producer company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234320Z" creationid="RAFAEL" creationdate="20200806T234320Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025121Z" creationid="RAFAEL" creationdate="20200806T025121Z">
         <seg>Uma companhia de seguros possui seu próprio balanço patrimonial e seus ativos são separados dos da controladora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An insurance company must maintain a positive capital ratio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000607Z" creationid="RAFAEL" creationdate="20200807T000607Z">
+        <seg>Uma companhia de seguros deve manter uma relação positiva de capital.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4410,6 +4426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021527Z" creationid="RAFAEL" creationdate="20200804T021527Z">
         <seg>Clique aqui para definir o gerente desta empresa (Tecla de atalho: 'z').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to set up the layout (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000721Z" creationid="RAFAEL" creationdate="20200807T000721Z">
+        <seg>Clique aqui para configurar o layout (Atalho: A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11625,8 +11649,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Insurance Company Capital Ratio</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000427Z" creationid="RAFAEL" creationdate="20200807T000427Z">
-        <seg>Razão de capital da companhia de seguros</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000555Z" creationid="RAFAEL" creationdate="20200807T000427Z">
+        <seg>Taxa de capital da companhia de seguros</seg>
       </tuv>
     </tu>
     <tu>
@@ -19991,6 +20015,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show talents specializing in Products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000616Z" creationid="RAFAEL" creationdate="20200807T000616Z">
+        <seg>Mostrar talentos especializados em Produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show talents specializing in Technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000627Z" creationid="RAFAEL" creationdate="20200807T000627Z">
+        <seg>Mostrar talentos especializados em Tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show the Economic Info window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004708Z" creationid="RAFAEL" creationdate="20200805T004708Z">
@@ -21805,6 +21845,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032426Z" creationid="RAFAEL" creationdate="20200806T032426Z">
         <seg>A relação Empréstimos/ativos é calculada dividindo o montante total de empréstimos do banco por seu montante total de ativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Overall rating is determined by the #Price# and the #Quality# rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000734Z" creationid="RAFAEL" creationdate="20200807T000734Z">
+        <seg>A classificação geral é determinada pelo #Preço# e pela classificação #Qualidade#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24950,6 +24998,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231824Z" creationid="RAFAEL" creationdate="20200802T231824Z">
         <seg>Ver Clientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Talents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000642Z" creationid="RAFAEL" creationdate="20200807T000642Z">
+        <seg>Ver Talentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View available talents in different cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000648Z" creationid="RAFAEL" creationdate="20200807T000648Z">
+        <seg>Veja os talentos disponíveis em diferentes cidades.</seg>
       </tuv>
     </tu>
     <tu>
