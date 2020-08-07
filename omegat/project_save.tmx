@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Realistic Money Supply# is enabled in this game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001339Z" creationid="RAFAEL" creationdate="20200807T001339Z">
+        <seg>#Fornecimento realístico de dinheiro# está habilitado neste jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024410Z" creationid="RAFAEL" creationdate="20200805T024410Z">
@@ -5114,6 +5122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015336Z" creationid="Olivier" creationdate="20200802T015336Z">
         <seg>Competence of Local Competitors=Very Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competing Nation's Population</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001145Z" creationid="RAFAEL" creationdate="20200807T001145Z">
+        <seg>População da Nação Concorrente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11271,6 +11287,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In #Survival Mode#, one way to measure your performance is to compare your nation's population growth with that of the competing nation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001157Z" creationid="RAFAEL" creationdate="20200807T001157Z">
+        <seg>No modo #Survival#, uma maneira de medir seu desempenho é comparar o crescimento populacional de sua nação com o da nação concorrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In #Survival Mode#, your objective is to develop your nation's economy to support fast population growth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001136Z" creationid="RAFAEL" creationdate="20200807T001136Z">
+        <seg>No modo #Survival#, seu objetivo é desenvolver a economia de sua nação para apoiar o rápido crescimento populacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the "Jobs and Income" category of the Quality of Life index will suffer a drop as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003807Z" creationid="RAFAEL" creationdate="20200805T003807Z">
@@ -11975,6 +12007,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It equals to the total population of all your cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001125Z" creationid="RAFAEL" creationdate="20200807T001125Z">
+        <seg>Equivale à população total de todas as suas cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It indicates the quantity of the input required for the production and how much it contributes to the finished product's quality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012205Z" creationid="RAFAEL" creationdate="20200806T012205Z">
@@ -12035,6 +12075,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013947Z" creationid="RAFAEL" creationdate="20200806T013947Z">
         <seg>É determinado pelo #nível de habilidade do pessoal# e pelo #tempo de espera do cliente#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is more difficult for player and AI companies to #raise funds# from IPO, issuing new shares and bonds as there is a limited supply of #Public Investors' Money#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001418Z" creationid="RAFAEL" creationdate="20200807T001418Z">
+        <seg>É mais difícil para as empresas de IA e player #criar fundos# a partir de IPO, emitindo novas ações e títulos, pois há uma oferta limitada de #Dinheiro do Investidor Público#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17851,6 +17899,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023705Z" creationid="RAFAEL" creationdate="20200806T023705Z">
         <seg>Renda total anual projetada dos juros dos empréstimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Public Investors' Money Available to Your Company</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001245Z" creationid="RAFAEL" creationdate="20200807T001245Z">
+        <seg>O dinheiro dos investidores públicos disponíveis para sua empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -26078,6 +26134,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223411Z" creationid="RAFAEL" creationdate="20200801T223411Z">
         <seg>O lucro operacional da sua corporação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Nation's Population</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001111Z" creationid="RAFAEL" creationdate="20200807T001111Z">
+        <seg>A população de sua nação</seg>
       </tuv>
     </tu>
     <tu>
