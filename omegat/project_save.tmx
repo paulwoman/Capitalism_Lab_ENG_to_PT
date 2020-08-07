@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Premium Price Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000339Z" creationid="RAFAEL" creationdate="20200807T000239Z">
+        <seg>Nível médio de preço Prêmio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Staff Skill Level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013837Z" creationid="RAFAEL" creationdate="20200806T013837Z">
@@ -11611,6 +11619,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033558Z" creationid="RAFAEL" creationdate="20200806T033558Z">
         <seg>Classificação da marca da companhia de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance Company Capital Ratio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000427Z" creationid="RAFAEL" creationdate="20200807T000427Z">
+        <seg>Razão de capital da companhia de seguros</seg>
       </tuv>
     </tu>
     <tu>
@@ -21720,6 +21736,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of an insurance company's #Equity Capital# to its #Total Assets#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000546Z" creationid="RAFAEL" creationdate="20200807T000546Z">
+        <seg>A #Taxa de capital# é a relação entre o #Capital próprio# de uma companhia de seguros e seus #Ativos totais#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #Quality Rating# gets a boost from the #City Competitiveness Rating# in this product class.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234608Z" creationid="RAFAEL" creationdate="20200806T234608Z">
@@ -21881,6 +21905,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The advantage is that a product's brand will not be weighted down by quality issues from other product lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000208Z" creationid="RAFAEL" creationdate="20200807T000208Z">
+        <seg>A vantagem é que a marca de um produto não será afetada pelos problemas de qualidade de outras linhas de produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025638Z" creationid="RAFAEL" creationdate="20200805T025638Z">
@@ -21973,6 +22005,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020134Z" creationid="RAFAEL" creationdate="20200806T020134Z">
         <seg>O tempo médio de espera do cliente de todos os front-office de seguros da seguradora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average premium price level of #Life# insurance, #Home# insurance and #Car# insurance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000401Z" creationid="RAFAEL" creationdate="20200807T000302Z">
+        <seg>O nível médio do preço do prêmio do seguro #Vida#, #Casa# e seguro de #Carro#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24298,6 +24338,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under this strategy, each product has a unique brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000149Z" creationid="RAFAEL" creationdate="20200807T000149Z">
+        <seg>Sob essa estratégia, cada produto tem uma marca única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235917Z" creationid="RAFAEL" creationdate="20200806T235917Z">
@@ -25558,6 +25606,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215917Z" creationid="RAFAEL" creationdate="20200802T215917Z">
         <seg>Você só pode negociar ações uma vez por dia em um Challenge Game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the price level of each insurance type on the #Insurances# page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000415Z" creationid="RAFAEL" creationdate="20200807T000415Z">
+        <seg>Você pode ver o nível de preços de cada tipo de seguro na página #Seguros#.</seg>
       </tuv>
     </tu>
     <tu>
