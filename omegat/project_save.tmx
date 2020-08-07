@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234751Z" creationid="RAFAEL" creationdate="20200807T234751Z">
+        <seg>Escolha um dos oito níveis de dificuldade pré-definidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Citizens' overall satisfaction of the services</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003451Z" creationid="RAFAEL" creationdate="20200805T003451Z">
@@ -8458,6 +8466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015620Z" creationid="Olivier" creationdate="20200802T015620Z">
         <seg>Game Starting Year=2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game difficulty level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234739Z" creationid="RAFAEL" creationdate="20200807T234739Z">
+        <seg>Nível de dificuldade do jogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -26014,6 +26030,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084238Z" creationid="Olivier" creationdate="20200728T084227Z">
         <seg>Você pode adquirir por |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also #Customize# or #Randomize# the game settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234804Z" creationid="RAFAEL" creationdate="20200807T234804Z">
+        <seg>Você também pode #Personalizar# ou #Randomizar# as configurações do jogo</seg>
       </tuv>
     </tu>
     <tu>
