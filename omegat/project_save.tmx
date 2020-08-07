@@ -24298,6 +24298,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235917Z" creationid="RAFAEL" creationdate="20200806T235917Z">
+        <seg>Sob essa estratégia, os produtos na # mesma classe de produto # são rotulados com uma única marca de intervalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Underwriting Profit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025338Z" creationid="RAFAEL" creationdate="20200806T025338Z">
@@ -24318,6 +24326,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024445Z" creationid="RAFAEL" creationdate="20200804T024445Z">
         <seg>Taxa de Desemprego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unique Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000136Z" creationid="RAFAEL" creationdate="20200807T000136Z">
+        <seg>Marca Única</seg>
       </tuv>
     </tu>
     <tu>
