@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A conservative bank may set a lower #Maximum Loans-to-Assets ratio# on the bank HQ interface, provided that it does not exceed the one defined here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012152Z" creationid="RAFAEL" creationdate="20200808T012152Z">
+        <seg>Um banco conservador pode estabelecer uma relação #Máxima de Empréstimos para Ativos# mais baixa na interface da sede do banco, desde que não exceda a aqui definida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T203054Z" creationid="User" creationdate="20200802T203054Z">
@@ -6486,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Developed City at the Beginning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012201Z" creationid="RAFAEL" creationdate="20200808T012201Z">
+        <seg>Cidade desenvolvida no início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011424Z" creationid="Olivier" creationdate="20200802T011424Z">
@@ -11891,6 +11907,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001136Z" creationid="RAFAEL" creationdate="20200807T001136Z">
         <seg>No modo #Survival#, seu objetivo é desenvolver a economia de sua nação para apoiar o rápido crescimento populacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Survival mode, there is only one city in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012208Z" creationid="RAFAEL" creationdate="20200808T012208Z">
+        <seg>No modo de sobrevivência, há apenas uma cidade no início do jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24538,6 +24562,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines the #Absolute Maximum amount of loans# that a bank can lend out (including your bank and AI banks).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012055Z" creationid="RAFAEL" creationdate="20200808T012055Z">
+        <seg>Isto determina o # Montante Absoluto máximo de empréstimos# que um banco pode emprestar (incluindo seu banco e bancos de AI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines the expertise levels of AI persons in the game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002155Z" creationid="RAFAEL" creationdate="20200808T002024Z">
@@ -26706,6 +26738,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011945Z" creationid="RAFAEL" creationdate="20200808T011945Z">
+        <seg>Quando o modo expresso é habilitado, uma nova interface de usuário simplificada será usada para lojas de varejo, substituindo o layout 3x3 original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Inflation mode is set to #Inverse Inflation#, a bond's #Face Value# may decline over time due to inflation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030733Z" creationid="RAFAEL" creationdate="20200806T030733Z">
@@ -27366,6 +27406,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011510Z" creationid="RAFAEL" creationdate="20200806T011510Z">
         <seg>Você pode estabelecer preços de comércio eletrônico individualmente ou estabelecer uma porcentagem de marcação de preço que se aplica a todos os produtos desta empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may set it as a developed city or a new city created from scratch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012218Z" creationid="RAFAEL" creationdate="20200808T012218Z">
+        <seg>Você pode defini-la como uma cidade desenvolvida ou uma nova cidade criada do zero.</seg>
       </tuv>
     </tu>
     <tu>
