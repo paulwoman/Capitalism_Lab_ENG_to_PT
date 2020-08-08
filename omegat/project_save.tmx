@@ -11543,6 +11543,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you set this to a value greater than zero, rival political parties will receive donations from the general public over time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004602Z" creationid="RAFAEL" creationdate="20200808T004602Z">
+        <seg>Se você definir um valor maior que zero, os partidos políticos rivais receberão doações do público em geral ao longo do tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
@@ -18839,6 +18847,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Product Reinvention</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004631Z" creationid="RAFAEL" creationdate="20200808T004631Z">
+        <seg>Reinvenção Aleatória de Produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomly disable product classes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003337Z" creationid="RAFAEL" creationdate="20200808T003337Z">
@@ -24418,6 +24434,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This setting is mainly for increasing the difficulty level of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004618Z" creationid="RAFAEL" creationdate="20200808T004618Z">
+        <seg>Esta configuração serve principalmente para aumentar o nível de dificuldade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This shows the city's population changes over time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023637Z" creationid="RAFAEL" creationdate="20200804T023637Z">
@@ -26286,6 +26310,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003429Z" creationid="RAFAEL" creationdate="20200808T003429Z">
         <seg>Quando você seleciona esta caixa de seleção, o sistema irá desativar aleatoriamente uma porcentagem específica de classes de produtos no novo jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select this check box, the system will randomly lock a specific percentage of product classes in the new game and require the player to "reinvent" them in R&amp;D centers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004705Z" creationid="RAFAEL" creationdate="20200808T004705Z">
+        <seg>Quando você marca esta caixa de seleção, o sistema bloqueia aleatoriamente uma porcentagem específica de classes de produto no novo jogo e exige que o jogador as "reinvente" nos centros de P&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
