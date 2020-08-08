@@ -23796,8 +23796,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This determines the expertise levels of AI persons in the game.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002024Z" creationid="RAFAEL" creationdate="20200808T002024Z">
-        <seg>Isto determina os níveis de experiência das pessoas com AI no jogo.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002155Z" creationid="RAFAEL" creationdate="20200808T002024Z">
+        <seg>Isto determina os níveis de experiência dos personagens da AI no jogo.</seg>
       </tuv>
     </tu>
     <tu>
