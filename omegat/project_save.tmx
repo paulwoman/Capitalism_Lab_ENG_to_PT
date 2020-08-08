@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100 is the standard value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011023Z" creationid="RAFAEL" creationdate="20200808T011023Z">
+        <seg>100 é o valor padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2) #Manufacturing units# in factories have #City Quality Bonuses# added to their products' #Product Quality# ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033845Z" creationid="RAFAEL" creationdate="20200806T033845Z">
@@ -5314,6 +5322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232633Z" creationid="RAFAEL" creationdate="20200802T232633Z">
         <seg>Feche esta janela de bate-papo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commercial Capacity Modifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011133Z" creationid="RAFAEL" creationdate="20200808T011109Z">
+        <seg>Editar a capacidade comercial</seg>
       </tuv>
     </tu>
     <tu>
@@ -13643,6 +13659,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030642Z" creationid="RAFAEL" creationdate="20200804T030642Z">
         <seg>Preços mais baixos para ganhar quotas de mercado às custas das margens de lucro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lowering it decreases the number of people each apartment houses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011032Z" creationid="RAFAEL" creationdate="20200808T011032Z">
+        <seg>Baixá-lo diminui o número de pessoas em cada apartamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lowering it will decrease the amount of office space each commercial building provides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011202Z" creationid="RAFAEL" creationdate="20200808T011202Z">
+        <seg>Baixá-lo diminuirá a quantidade de espaço de escritório que cada edifício comercial oferece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24626,6 +24658,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means that more apartments need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011042Z" creationid="RAFAEL" creationdate="20200808T011042Z">
+        <seg>Isso significa que mais apartamentos precisam ser construídos e o negócio imobiliário será mais lucrativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that more commercial buildings need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011213Z" creationid="RAFAEL" creationdate="20200808T011213Z">
+        <seg>Isso significa que mais prédios comerciais precisam ser construídos e o negócio imobiliário será mais lucrativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010208Z" creationid="RAFAEL" creationdate="20200808T010208Z">
@@ -26066,6 +26114,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this slider to modify the capacity of all commercial buildings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011146Z" creationid="RAFAEL" creationdate="20200808T011146Z">
+        <seg>Use este controle deslizante para modificar a capacidade de todos os edifícios comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this slider to set the percentage of additional talents that you want the game to generate for this new game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010946Z" creationid="RAFAEL" creationdate="20200808T010946Z">
@@ -26382,6 +26438,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231709Z" creationid="RAFAEL" creationdate="20200802T231709Z">
         <seg>Quando #Venda interna# estiver ativada, os concorrentes não poderão comprar este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Product Customization is enabled, Technology Disruption will be automatically turned off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011320Z" creationid="RAFAEL" creationdate="20200808T011320Z">
+        <seg>Quando a personalização do produto está ativada, a tecnologia Disruptiva será automaticamente desativada.</seg>
       </tuv>
     </tu>
     <tu>
