@@ -5710,6 +5710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Constant Supply</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014530Z" creationid="RAFAEL" creationdate="20200808T014530Z">
+        <seg>Fornecimento constante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant import supply</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002914Z" creationid="RAFAEL" creationdate="20200808T002914Z">
@@ -11855,10 +11863,18 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, the variety of products available via imports will increase over time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014520Z" creationid="RAFAEL" creationdate="20200808T014520Z">
+        <seg>Se estiver habilitado, a variedade de produtos disponíveis por meio de importações aumentará com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, you will be able to set up Import Firms for importing products and materials.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012627Z" creationid="RAFAEL" creationdate="20200808T012627Z">
-        <seg>pIf this is enabled, you will be able to set up Import Firms for importing products and materials.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014434Z" creationid="RAFAEL" creationdate="20200808T012627Z">
+        <seg>Se estiver habilitado, você será capaz de configurar empresas de importação para importar produtos e materiais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12019,6 +12035,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000824Z" creationid="RAFAEL" creationdate="20200807T000824Z">
         <seg>Capacidade de importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Firm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014412Z" creationid="RAFAEL" creationdate="20200808T014412Z">
+        <seg>Empresa de Importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Increase</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014508Z" creationid="RAFAEL" creationdate="20200808T014508Z">
+        <seg>Aumento de Importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Product Variety</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014444Z" creationid="RAFAEL" creationdate="20200808T014444Z">
+        <seg>Variedade de produto de importação</seg>
       </tuv>
     </tu>
     <tu>
@@ -24882,10 +24922,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines the variety of products available via imports in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014457Z" creationid="RAFAEL" creationdate="20200808T014457Z">
+        <seg>Isso determina a variedade de produtos disponíveis por meio de importações no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines whether AI corporations may acquire independent private companies or not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005421Z" creationid="RAFAEL" creationdate="20200808T005421Z">
         <seg>Isso determina se as empresas de IA podem adquirir empresas privadas independentes ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines whether product supplies via imports are constantly available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014542Z" creationid="RAFAEL" creationdate="20200808T014542Z">
+        <seg>Isso determina se os suprimentos de produtos por meio de importações estão constantemente disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
