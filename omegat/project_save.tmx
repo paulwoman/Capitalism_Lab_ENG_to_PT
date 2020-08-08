@@ -13079,6 +13079,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235823Z" creationid="RAFAEL" creationdate="20200807T235823Z">
+        <seg>Baixo - a personalização do produto aplica-se apenas à sua empresa; Médio - aplica-se à sua empresa e subsidiárias; Alta - aplica-se a todas as empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low Supply Tolerance Level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022314Z" creationid="RAFAEL" creationdate="20200805T022314Z">
@@ -17671,6 +17679,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Private Company (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000032Z" creationid="RAFAEL" creationdate="20200808T000032Z">
+        <seg>Empresa privada (Subsidiária DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060254Z" creationid="Olivier" creationdate="20200728T060254Z">
@@ -17713,8 +17729,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Product Customization Range</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235757Z" creationid="RAFAEL" creationdate="20200807T235757Z">
-        <seg>Gama de Customização de produto</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000023Z" creationid="RAFAEL" creationdate="20200807T235757Z">
+        <seg>Faixa de Customização de produto</seg>
       </tuv>
     </tu>
     <tu>
