@@ -6582,6 +6582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Difficulty Level for Banking and Finance DLC</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014010Z" creationid="RAFAEL" creationdate="20200808T014010Z">
+        <seg>Nível de dificuldade para DLC bancos e finanças</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011424Z" creationid="Olivier" creationdate="20200802T011424Z">
@@ -11751,6 +11759,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled and you are using a #MOD# with defined #service firms#, you will be able to set up #Prepare Units# in #service firms#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014402Z" creationid="RAFAEL" creationdate="20200808T014402Z">
+        <seg>Se estiver habilitado e você estiver usando um #MOD# com #firmas de serviço definidas#, você poderá configurar #Preparar Unidade# em #firmas de serviço#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, any firms in your company and #subsidiaries# will always be able to buy products from each other, regardless of the #Internal Sale# setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014715Z" creationid="RAFAEL" creationdate="20200805T014715Z">
@@ -11779,6 +11795,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024759Z" creationid="RAFAEL" creationdate="20200805T024759Z">
         <seg>Se isto for ativado, ele desenvolverá automaticamente as próximas versões do software quando uma tecnologia mais avançada tiver sido pesquisada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, money supply is more realistically simulated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014046Z" creationid="RAFAEL" creationdate="20200808T014046Z">
+        <seg>Se isso estiver ativado, a oferta de moeda é simulada de forma mais realista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13083,6 +13107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060424Z" creationid="Olivier" creationdate="20200728T060424Z">
         <seg>Foi salvo com uma versão diferente do jogo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014101Z" creationid="RAFAEL" creationdate="20200808T014101Z">
+        <seg>Será mais difícil para o jogador e as empresas de IA levantar fundos de IPO, emitindo novas ações e títulos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18527,6 +18559,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare Unit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014116Z" creationid="RAFAEL" creationdate="20200808T014116Z">
+        <seg>Preparar Unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204419Z" creationid="RAFAEL" creationdate="20200801T204419Z">
@@ -19603,6 +19643,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024702Z" creationid="RAFAEL" creationdate="20200804T024702Z">
         <seg>O salário real refere-se aos salários que foram ajustados pela inflação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Realistic Money Supply</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014037Z" creationid="RAFAEL" creationdate="20200808T014037Z">
+        <seg>Fornecimento de dinheiro realista</seg>
       </tuv>
     </tu>
     <tu>
@@ -26550,6 +26598,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010946Z" creationid="RAFAEL" creationdate="20200808T010946Z">
         <seg>Use este controle deslizante para definir a porcentagem de talentos adicionais que você deseja que o jogo gere para este novo jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this to set the overall difficulty level for operating banks and insurance companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014024Z" creationid="RAFAEL" creationdate="20200808T014024Z">
+        <seg>Use para definir o nível de dificuldade geral para bancos e seguradoras operacionais.</seg>
       </tuv>
     </tu>
     <tu>
