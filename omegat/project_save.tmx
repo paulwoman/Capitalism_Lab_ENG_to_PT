@@ -11423,6 +11423,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002337Z" creationid="RAFAEL" creationdate="20200808T002337Z">
+        <seg>Se você selecionar "Sim", poderá acessar os segredos comerciais de todas as empresas de IA do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001007Z" creationid="RAFAEL" creationdate="20200808T001007Z">
@@ -20387,6 +20395,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000816Z" creationid="RAFAEL" creationdate="20200807T000816Z">
         <seg>Mostrar os clientes que estão comprando este item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show competitors' trade secrets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002358Z" creationid="RAFAEL" creationdate="20200808T002323Z">
+        <seg>Mostrar os segredos comerciais dos concorrentes</seg>
       </tuv>
     </tu>
     <tu>
