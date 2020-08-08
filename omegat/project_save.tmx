@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010528Z" creationid="RAFAEL" creationdate="20200808T010528Z">
+        <seg>(Você pode definir os limites para software e empresas de Internet separadamente usando um script.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Your company is the majority shareholder of this company.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034133Z" creationid="RAFAEL" creationdate="20200806T034133Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012641Z" creationid="RAFAEL" creationdate="20200806T012641Z">
         <seg>Uma taxa baixa significa que sua fábrica tem tempo ocioso e sua capacidade é subutilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lower value means an easier game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010514Z" creationid="RAFAEL" creationdate="20200808T010514Z">
+        <seg>Um valor mais baixo significa um jogo mais fácil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11519,6 +11535,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010703Z" creationid="RAFAEL" creationdate="20200808T010703Z">
+        <seg>Se isso for habilitado, as classificações de competitividade global em todos os setores serão randomizadas no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, it will automatically develop next versions of the software when more advanced tech has been researched.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024759Z" creationid="RAFAEL" creationdate="20200805T024759Z">
@@ -11575,6 +11599,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to Greatly Simplified, loyalty and headhunting features of the talent system are disabled too.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010620Z" creationid="RAFAEL" creationdate="20200808T010620Z">
+        <seg>Se estiver definido como Muito simplificado, os recursos de fidelidade e caça-talentos do sistema de talentos também serão desativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235605Z" creationid="RAFAEL" creationdate="20200807T235117Z">
@@ -11587,6 +11619,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000047Z" creationid="RAFAEL" creationdate="20200808T000047Z">
         <seg>Se isto estiver definido como On, sua empresa começará como uma empresa privada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is set to Simplified, all talents start with a skill level of 50.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010559Z" creationid="RAFAEL" creationdate="20200808T010559Z">
+        <seg>Se estiver definido como Simplificado, todos os talentos começam com um nível de habilidade de 50.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14411,6 +14451,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220846Z" creationid="RAFAEL" creationdate="20200802T220846Z">
         <seg>Gráfico de preço mensal das ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More Talents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010630Z" creationid="RAFAEL" creationdate="20200808T010630Z">
+        <seg>Mais talentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -19023,6 +19071,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Randomize Global Competitiveness Ratings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010652Z" creationid="RAFAEL" creationdate="20200808T010652Z">
+        <seg>Randomizar classificações de competitividade global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomly disable product classes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003337Z" creationid="RAFAEL" creationdate="20200808T003337Z">
@@ -21960,6 +22016,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Talent System</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010543Z" creationid="RAFAEL" creationdate="20200808T010543Z">
+        <seg>Sistema de Talento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target brand rating</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022411Z" creationid="RAFAEL" creationdate="20200805T022411Z">
@@ -24506,6 +24570,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option limits the maximum number of AI software and Internet companies in a game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010503Z" creationid="RAFAEL" creationdate="20200808T010503Z">
+        <seg>Esta opção limita o número máximo de software de IA e empresas de Internet em um jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option specifies whether you want the AI executive to change products #Internal Sale# settings for you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034730Z" creationid="RAFAEL" creationdate="20200806T034730Z">
@@ -27046,6 +27118,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023159Z" creationid="RAFAEL" creationdate="20200805T023159Z">
         <seg>Você pode usar as teclas PageUp e PageDown para alternar entre andares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use this option to have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010641Z" creationid="RAFAEL" creationdate="20200808T010641Z">
+        <seg>Você pode usar esta opção para que o jogo duplique os dados de talentos para aumentar a oferta de talentos.</seg>
       </tuv>
     </tu>
     <tu>
