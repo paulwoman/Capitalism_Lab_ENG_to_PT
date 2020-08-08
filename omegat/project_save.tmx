@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI companies are randomly set up as private companies based on this preference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003607Z" creationid="RAFAEL" creationdate="20200808T003607Z">
+        <seg>As empresas de AI são criadas aleatoriamente como empresas privadas com base nesta preferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI will take over the duties.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T132159Z" creationid="Olivier" creationdate="20200730T132159Z">
@@ -16495,6 +16503,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Percentage of competitors that are private companies (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003555Z" creationid="RAFAEL" creationdate="20200808T003555Z">
+        <seg>Porcentagem de concorrentes que são empresas privadas (Subsidiária DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Percentage of product classes to be disabled</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003506Z" creationid="RAFAEL" creationdate="20200808T003506Z">
@@ -18155,6 +18171,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211126Z" creationid="RAFAEL" creationdate="20200802T211126Z">
         <seg>Filtro de produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product List</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003731Z" creationid="RAFAEL" creationdate="20200808T003731Z">
+        <seg>Lista de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20379,6 +20403,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235005Z" creationid="RAFAEL" creationdate="20200807T235005Z">
         <seg>Defina o nível de dinheiro que sua empresa possuirá no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the percentage of product classes to be disabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003519Z" creationid="RAFAEL" creationdate="20200808T003519Z">
+        <seg>Defina a porcentagem de classes de produtos a serem desativadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23321,6 +23353,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003721Z" creationid="RAFAEL" creationdate="20200808T003721Z">
+        <seg>O número de subsidiárias que sua empresa possui no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of years since the release of the last version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T233540Z" creationid="RAFAEL" creationdate="20200806T233540Z">
@@ -24350,6 +24390,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014934Z" creationid="RAFAEL" creationdate="20200805T014934Z">
         <seg>Isto associará o produto com a imagem selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003540Z" creationid="RAFAEL" creationdate="20200808T003540Z">
+        <seg>Isto tornará a competição mais intensa e melhorará a jogabilidade, especialmente ao jogar um jogo MOD com uma grande variedade de produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26594,6 +26642,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003821Z" creationid="RAFAEL" creationdate="20200808T003821Z">
+        <seg>Você pode excluir produtos específicos do jogo, definir os manualmente ou usando a função "Classes de Produtos Desativados Aleatoriamente" para selecionar-los automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may relocate this firm in the same city, or demolish it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021453Z" creationid="RAFAEL" creationdate="20200804T021453Z">
@@ -26822,6 +26878,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122238Z" creationid="Olivier" creationdate="20200805T122238Z">
         <seg>Your store sells your product class=Apparel, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiaries (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003659Z" creationid="RAFAEL" creationdate="20200808T003659Z">
+        <seg>Suas subsidiárias (Subsidiária DLC)</seg>
       </tuv>
     </tu>
     <tu>
