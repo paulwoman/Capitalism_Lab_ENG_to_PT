@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000738Z" creationid="RAFAEL" creationdate="20200808T000738Z">
+        <seg>Todos os valores em dinheiro e empréstimos diminuirão de acordo com este Índice de Poder de Compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All land plots owned by the government will not be for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001257Z" creationid="RAFAEL" creationdate="20200805T001257Z">
@@ -1674,6 +1682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031007Z" creationid="RAFAEL" creationdate="20200805T031007Z">
         <seg>Disponibilité des applications </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As such, it will have the inflation artificially suppressed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000827Z" creationid="RAFAEL" creationdate="20200808T000827Z">
+        <seg>Como tal, terá a inflação artificialmente reprimida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11175,6 +11191,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000701Z" creationid="RAFAEL" creationdate="20200808T000701Z">
+        <seg>Se for ajustado para Inflação Inversa, os valores monetários são ajustados com base em seu poder de compra líquido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000520Z" creationid="RAFAEL" creationdate="20200808T000520Z">
@@ -11563,6 +11587,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024850Z" creationid="RAFAEL" creationdate="20200804T024850Z">
         <seg>Taxa de Inflação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation Strength</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000750Z" creationid="RAFAEL" creationdate="20200808T000750Z">
+        <seg>Força da inflação</seg>
       </tuv>
     </tu>
     <tu>
@@ -19807,6 +19839,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000817Z" creationid="RAFAEL" creationdate="20200808T000817Z">
+        <seg>Selecione Força de Inflação Reduzida se você preferir uma inflação menos forte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a civic building or sports facilities to see how conveniently citizens have access to the public services.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T204730Z" creationid="RAFAEL" creationdate="20200802T204730Z">
@@ -22237,6 +22277,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225732Z" creationid="RAFAEL" creationdate="20200802T225732Z">
         <seg>A classificação geral do produto é a soma total dessas 3 classificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000715Z" creationid="RAFAEL" creationdate="20200808T000715Z">
+        <seg>O Índice de Poder de Compra começa em 100% e diminui ao longo desses anos com a inflação.</seg>
       </tuv>
     </tu>
     <tu>
