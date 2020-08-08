@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A #lower insurance claims ratio# means a #higher profit margin# for insurance companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011818Z" creationid="RAFAEL" creationdate="20200808T011818Z">
+        <seg>Uma #baixa taxa de sinistros# significa uma #mais alta margem de lucro# para as companhias de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012226Z" creationid="RAFAEL" creationdate="20200805T012226Z">
@@ -5934,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Deposit Cap, as a percentage of the total bank deposits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011841Z" creationid="RAFAEL" creationdate="20200808T011841Z">
+        <seg>Limite de depósito corporativo, como uma porcentagem dos depósitos bancários totais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210626Z" creationid="RAFAEL" creationdate="20200802T210626Z">
@@ -7282,6 +7298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
         <seg>Nível de experiência da unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Express Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011928Z" creationid="RAFAEL" creationdate="20200808T011928Z">
+        <seg>Modo expresso</seg>
       </tuv>
     </tu>
     <tu>
@@ -12287,6 +12311,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Claims</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011747Z" creationid="RAFAEL" creationdate="20200808T011747Z">
+        <seg>Reclamações de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Company</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034526Z" creationid="RAFAEL" creationdate="20200806T034526Z">
@@ -12323,6 +12355,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020616Z" creationid="RAFAEL" creationdate="20200806T020616Z">
         <seg>Prémios de seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance Premiums Modifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011729Z" creationid="RAFAEL" creationdate="20200808T011729Z">
+        <seg>Modificador de prêmios de seguro</seg>
       </tuv>
     </tu>
     <tu>
@@ -20887,6 +20927,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting this to a value higher than 100 will increase revenues of all insurance companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011739Z" creationid="RAFAEL" creationdate="20200808T011739Z">
+        <seg>Fixar este valor em um valor superior a 100 aumentará a receita de todas as companhias de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shopping Convenience</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015016Z" creationid="RAFAEL" creationdate="20200804T015016Z">
@@ -22336,10 +22384,26 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up insurance companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011719Z" creationid="RAFAEL" creationdate="20200808T011719Z">
+        <seg>Tendência das empresas de AI com uma estratégia comercial de diversificação, que pode se expandir para qualquer tipo de indústria, para criar companhias de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tendency of AI to set up banks</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011530Z" creationid="RAFAEL" creationdate="20200808T011530Z">
         <seg>Tendência da IA ​​para estabelecer bancos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tendency of AI to set up insurance companies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011655Z" creationid="RAFAEL" creationdate="20200808T011655Z">
+        <seg>Tendência da IA para a criação de companhias de seguros</seg>
       </tuv>
     </tu>
     <tu>
@@ -23237,6 +23301,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025646Z" creationid="RAFAEL" creationdate="20200806T025646Z">
         <seg>O banco parou de aprovar novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011853Z" creationid="RAFAEL" creationdate="20200808T011853Z">
+        <seg>O regulamento do banco estipula que os depósitos não devem ser concentrados em um pequeno número de grandes depositantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24350,6 +24422,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024924Z" creationid="RAFAEL" creationdate="20200806T024924Z">
         <seg>Existe um limite que #limita a quantidade máxima de depósitos que cada depositante pode fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a cap that limits the maximum amount of deposit each depositor can make.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011905Z" creationid="RAFAEL" creationdate="20200808T011905Z">
+        <seg>Existe um limite que limita o valor máximo de depósito que cada depositante pode fazer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27238,6 +27318,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033155Z" creationid="RAFAEL" creationdate="20200806T033155Z">
         <seg>Você pode mudar o modo de transferência - se é para transferir fundos da companhia de seguros para sua matriz, ou o contrário, clicando no ícone da seta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011800Z" creationid="RAFAEL" creationdate="20200808T011800Z">
+        <seg>Você pode personalizar os valores médios das reivindicações de seguros que as companhias de seguros têm que pagar.</seg>
       </tuv>
     </tu>
     <tu>
