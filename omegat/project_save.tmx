@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013720Z" creationid="RAFAEL" creationdate="20200808T013720Z">
+        <seg>(O ciclo de expansão e contração é a expansão e contração do ciclo econômico que ocorre repetidamente.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The change from 12 months ago is displayed in brackets.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033252Z" creationid="RAFAEL" creationdate="20200806T033252Z">
@@ -2658,6 +2666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012503Z" creationid="RAFAEL" creationdate="20200808T012503Z">
         <seg>Limite de emissão de títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boom-Bust Cycle Volatility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013521Z" creationid="RAFAEL" creationdate="20200808T013521Z">
+        <seg>Volatilidade do Ciclo de Boom-Bust</seg>
       </tuv>
     </tu>
     <tu>
@@ -24674,6 +24690,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013704Z" creationid="RAFAEL" creationdate="20200808T013704Z">
+        <seg>Isso ajusta o impacto da economia sobre a demanda do consumidor, que afeta o PIB e, por sua vez, afeta a volatilidade do ciclo de expansão e contração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This apartment is for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232912Z" creationid="RAFAEL" creationdate="20200802T232912Z">
@@ -27110,6 +27134,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024316Z" creationid="RAFAEL" creationdate="20200806T024316Z">
         <seg>Quando isso está ativado, o computador gerencia automaticamente todos os edifícios comerciais existentes da corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is set to a higher value, loan defaults will soar at a higher rate during an economic downturn, leading to a potential liquidity crisis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013501Z" creationid="RAFAEL" creationdate="20200808T013501Z">
+        <seg>Quando isto for definido para um valor mais alto, a inadimplência dos empréstimos subirá a uma taxa mais alta durante uma crise econômica, levando a uma crise potencial de liquidez.</seg>
       </tuv>
     </tu>
     <tu>
