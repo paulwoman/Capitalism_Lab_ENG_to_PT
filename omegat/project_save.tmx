@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Friendly Merger</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000537Z" creationid="RAFAEL" creationdate="20200808T000537Z">
+        <seg>Fusão amigável da IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Friendly Merger=No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010939Z" creationid="Olivier" creationdate="20200802T010939Z">
@@ -11159,6 +11167,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000622Z" creationid="RAFAEL" creationdate="20200808T000622Z">
+        <seg>Se for definido como Alto, a macro economia no jogo será simulada com um alto nível de realismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000520Z" creationid="RAFAEL" creationdate="20200808T000520Z">
+        <seg>Se for ajustado para On, a ruptura tecnológica ocorre constantemente e todas as variáveis tecnológicas diminuem em 10% a cada ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000556Z" creationid="RAFAEL" creationdate="20200808T000556Z">
+        <seg>Se for definido como On, duas corporações de IA podem fundir-se uma com a outra em termos mutuamente benéficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the #City Economics Simulation DLC# is enabled, it is also affected by the #education level# of people in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013423Z" creationid="RAFAEL" creationdate="20200806T013423Z">
@@ -11519,6 +11551,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000630Z" creationid="RAFAEL" creationdate="20200808T000630Z">
+        <seg>Inflação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024850Z" creationid="RAFAEL" creationdate="20200804T024850Z">
@@ -11547,6 +11587,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021549Z" creationid="RAFAEL" creationdate="20200805T021549Z">
         <seg>A inflação corrói o poder de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation is enabled when this option is set to On.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000641Z" creationid="RAFAEL" creationdate="20200808T000641Z">
+        <seg>A inflação é ativada quando esta opção é definida como On.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13635,6 +13683,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005630Z" creationid="Olivier" creationdate="20200802T005630Z">
         <seg>M_SHARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro Economy Realism</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000606Z" creationid="RAFAEL" creationdate="20200808T000606Z">
+        <seg>Realismo Macroeconômico</seg>
       </tuv>
     </tu>
     <tu>
