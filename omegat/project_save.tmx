@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose 'Multiple' to allow for setting up multiple floors in a single retail store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004041Z" creationid="RAFAEL" creationdate="20200808T004030Z">
+        <seg>Escolha 'Múltiplos' para permitir a instalação de vários andares em uma única loja de varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose a mode for setting e-commerce prices.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011402Z" creationid="RAFAEL" creationdate="20200806T011402Z">
@@ -7786,6 +7794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015034Z" creationid="Olivier" creationdate="20200802T015034Z">
         <seg>Firm, Warehouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First City Cash Level (City Economic Simulation DLC)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003845Z" creationid="RAFAEL" creationdate="20200808T003845Z">
+        <seg>Nível de caixa da primeira cidade (DLC de simulação econômica da cidade)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18359,6 +18375,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Public Expenses Index</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003916Z" creationid="RAFAEL" creationdate="20200808T003916Z">
+        <seg>Índice de despesas públicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Public Investors' Money Available to Your Company</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001245Z" creationid="RAFAEL" creationdate="20200807T001245Z">
@@ -19243,6 +19267,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015630Z" creationid="Olivier" creationdate="20200802T015630Z">
         <seg>Retail Focused Companies=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Floors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004018Z" creationid="RAFAEL" creationdate="20200808T004018Z">
+        <seg>Pisos de lojas de varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -23081,6 +23113,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first city's cash level at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003903Z" creationid="RAFAEL" creationdate="20200808T003903Z">
+        <seg>Nível de dinheiro da primeira cidade no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030558Z" creationid="RAFAEL" creationdate="20200804T030558Z">
@@ -24094,6 +24134,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030116Z" creationid="RAFAEL" creationdate="20200804T030116Z">
         <seg>Descrição desta empresa - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003946Z" creationid="RAFAEL" creationdate="20200808T003946Z">
+        <seg>Este índice afeta as despesas recorrentes das instalações públicas, o que impacta a dificuldade do jogo quando se joga como prefeito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25998,6 +26046,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032439Z" creationid="RAFAEL" creationdate="20200806T032439Z">
         <seg>Quando for maior que a Relação Máxima de Empréstimos por Ativos, o banco deixará de conceder novos empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it is set to a higher value, the same public facility incurs larger operating expenses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004008Z" creationid="RAFAEL" creationdate="20200808T004008Z">
+        <seg>Quando é definido para um valor maior, a mesma instalação pública incorre em despesas operacionais maiores.</seg>
       </tuv>
     </tu>
     <tu>
