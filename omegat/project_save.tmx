@@ -520,8 +520,8 @@
       <tuv lang="en-US">
         <seg>A #capital ratio# is the ratio of a bank's #equity capital# to its #total assets#.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013135Z" creationid="RAFAEL" creationdate="20200808T013135Z">
-        <seg>A "relação de capital bancário" é a relação entre a "base de capital" de um banco e seus "ativos totais". </seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013139Z" creationid="RAFAEL" creationdate="20200808T013135Z">
+        <seg>A "relação de capital bancário" é a relação entre a "base de capital" de um banco e seus "ativos totais".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010110Z" creationid="RAFAEL" creationdate="20200808T010110Z">
         <seg>Vantagem da empresa AI Game Console First-mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013318Z" creationid="RAFAEL" creationdate="20200808T013318Z">
+        <seg>A agressividade de preços da IA</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Economy's Impact on Loan Defaults</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013423Z" creationid="RAFAEL" creationdate="20200808T013423Z">
+        <seg>Impacto da economia na inadimplência de empréstimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Education</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001535Z" creationid="RAFAEL" creationdate="20200805T001535Z">
@@ -7786,6 +7802,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012645Z" creationid="RAFAEL" creationdate="20200808T012543Z">
         <seg>Recurso: Titulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature: Global Stock Market</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013250Z" creationid="RAFAEL" creationdate="20200808T013250Z">
+        <seg>Recurso: Mercado de ações global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature: Insurance Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013225Z" creationid="RAFAEL" creationdate="20200808T013225Z">
+        <seg>Recurso: Negócio de seguros</seg>
       </tuv>
     </tu>
     <tu>
@@ -12739,6 +12771,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002647Z" creationid="RAFAEL" creationdate="20200808T002647Z">
         <seg>Ela determina a competência dos concorrentes locais - suas capacidades gerais para vender produtos de alta qualidade a preços competitivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It determines the economy's impact on the loan default rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013436Z" creationid="RAFAEL" creationdate="20200808T013436Z">
+        <seg>Ele determina o impacto da economia sobre a taxa de inadimplência do empréstimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24690,6 +24730,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines how far the AI companies will go in lowering prices of their products in order to grab market share from competitors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013344Z" creationid="RAFAEL" creationdate="20200808T013344Z">
+        <seg>Isto determina até onde as empresas de IA irão na redução dos preços de seus produtos a fim de obter participação de mercado dos concorrentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines the #Absolute Maximum amount of loans# that a bank can lend out (including your bank and AI banks).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012055Z" creationid="RAFAEL" creationdate="20200808T012055Z">
@@ -25142,6 +25190,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012659Z" creationid="RAFAEL" creationdate="20200808T012659Z">
         <seg>Esta configuração determina se os bancos podem ser configurados no jogo ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This setting determines whether insurance companies can be set up in the game or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013234Z" creationid="RAFAEL" creationdate="20200808T013234Z">
+        <seg>Este cenário determina se as companhias de seguro podem ser criadas no jogo ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This setting determines whether the global stock market is enabled in the game or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013259Z" creationid="RAFAEL" creationdate="20200808T013259Z">
+        <seg>Este cenário determina se o mercado acionário global está ou não habilitado no jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27046,6 +27110,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024316Z" creationid="RAFAEL" creationdate="20200806T024316Z">
         <seg>Quando isso está ativado, o computador gerencia automaticamente todos os edifícios comerciais existentes da corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is set to low, you can expect most products to enjoy healthy profit margins and companies will be in general more profitable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013408Z" creationid="RAFAEL" creationdate="20200808T013408Z">
+        <seg>Quando isto for definido como baixo, você pode esperar que a maioria dos produtos desfrute de margens de lucro saudáveis e as empresas em geral serão mais lucrativas.</seg>
       </tuv>
     </tu>
     <tu>
