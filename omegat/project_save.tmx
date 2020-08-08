@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000907Z" creationid="RAFAEL" creationdate="20200808T000907Z">
+        <seg>Escolha 'Muitos' para permitir que lojas especializadas, tais como supermercados, lojas de móveis, etc., ou 'Um' para ter apenas lojas de departamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose a mode for setting e-commerce prices.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011402Z" creationid="RAFAEL" creationdate="20200806T011402Z">
@@ -8550,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game starting year</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000918Z" creationid="RAFAEL" creationdate="20200808T000918Z">
+        <seg>Ano de início do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generally, when there are a large number of job openings available in the city, the city can afford to accept immigrants at a faster pace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024024Z" creationid="RAFAEL" creationdate="20200804T024024Z">
@@ -11379,6 +11395,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013827Z" creationid="RAFAEL" creationdate="20200806T013827Z">
         <seg>Se você alterar o orçamento de treinamento aqui, a alteração se aplicará a todas as agências do banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001007Z" creationid="RAFAEL" creationdate="20200808T001007Z">
+        <seg>Se você definir para um ano posterior, haverá menos tipos de tecnologia que você terá que pesquisar, já que alguns deles já estarão disponíveis quando o jogo começar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14523,6 +14547,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230352Z" creationid="RAFAEL" creationdate="20200802T230352Z">
         <seg>Trabalhadores novatos usam uniformes vermelhos, enquanto trabalhadores experientes usam uniformes azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of AI Competitors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001203Z" creationid="RAFAEL" creationdate="20200808T001203Z">
+        <seg>Número de competidores de IA</seg>
       </tuv>
     </tu>
     <tu>
@@ -19027,6 +19059,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030910Z" creationid="RAFAEL" creationdate="20200804T030910Z">
         <seg>Quotas do mercado varejista deste produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail store type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000840Z" creationid="RAFAEL" creationdate="20200808T000840Z">
+        <seg>Tipo de loja de varejo</seg>
       </tuv>
     </tu>
     <tu>
