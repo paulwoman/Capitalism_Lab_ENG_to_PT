@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Consumer products are not available via imports.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014723Z" creationid="RAFAEL" creationdate="20200808T014723Z">
+        <seg>(Os produtos de consumo não estão disponíveis via importação).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012919Z" creationid="RAFAEL" creationdate="20200805T012919Z">
@@ -4670,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Corporate Logo selection window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014811Z" creationid="RAFAEL" creationdate="20200808T014811Z">
+        <seg>Clique aqui para abrir a janela de seleção do logotipo da empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221944Z" creationid="RAFAEL" creationdate="20200802T221944Z">
@@ -4690,6 +4706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004612Z" creationid="RAFAEL" creationdate="20200805T004612Z">
         <seg>Clique aqui para abrir o relatório do prefeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to open the Portrait selection window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014833Z" creationid="RAFAEL" creationdate="20200808T014833Z">
+        <seg>Clique aqui para abrir a janela de seleção de Retrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,6 +6074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210626Z" creationid="RAFAEL" creationdate="20200802T210626Z">
         <seg>Filtro Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Logo Selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014801Z" creationid="RAFAEL" creationdate="20200808T014801Z">
+        <seg>Seleção do logotipo da empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11815,10 +11847,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, only #Semi Products# are available via imports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014620Z" creationid="RAFAEL" creationdate="20200808T014605Z">
+        <seg>Se estiver habilitado, apenas #Semi Produtos# estão disponíveis por meio de importações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, private AI tech companies from the Digital Age DLC may go public on the stock exchange.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005509Z" creationid="RAFAEL" creationdate="20200808T005509Z">
         <seg>Se ativado, as empresas privadas de tecnologia de IA do Digital Age DLC podem abrir o capital na bolsa de valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, the #demand for bank loans# is correlated to the total GDP of the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014750Z" creationid="RAFAEL" creationdate="20200808T014750Z">
+        <seg>Se isto for permitido, a #demanda para empréstimos bancários# está correlacionada com o PIB total das cidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18567,6 +18615,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Portrait Selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014823Z" creationid="RAFAEL" creationdate="20200808T014823Z">
+        <seg>Seleção de Retratos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Potential</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023410Z" creationid="RAFAEL" creationdate="20200805T023410Z">
@@ -19683,6 +19739,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024702Z" creationid="RAFAEL" creationdate="20200804T024702Z">
         <seg>O salário real refere-se aos salários que foram ajustados pela inflação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Realistic Loan Demand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014734Z" creationid="RAFAEL" creationdate="20200808T014734Z">
+        <seg>Demanda realística de empréstimos</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T220457Z" creationid="RAFAEL" creationdate="20200802T220457Z">
         <seg>Vender mais ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Semi Products</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014551Z" creationid="RAFAEL" creationdate="20200808T014551Z">
+        <seg>Semi Produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -26942,6 +27014,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024751Z" creationid="RAFAEL" creationdate="20200804T024751Z">
         <seg>Taxa salarial </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warehouse Floors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014843Z" creationid="RAFAEL" creationdate="20200808T014843Z">
+        <seg>Pisos de Armazém</seg>
       </tuv>
     </tu>
     <tu>
