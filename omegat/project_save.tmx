@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A #capital ratio# is the ratio of a bank's #equity capital# to its #total assets#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013135Z" creationid="RAFAEL" creationdate="20200808T013135Z">
+        <seg>A "relação de capital bancário" é a relação entre a "base de capital" de um banco e seus "ativos totais". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A #lower insurance claims ratio# means a #higher profit margin# for insurance companies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011818Z" creationid="RAFAEL" creationdate="20200808T011818Z">
