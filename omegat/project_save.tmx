@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A larger net interest spread means a greater profit margin for a bank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012738Z" creationid="RAFAEL" creationdate="20200808T012738Z">
+        <seg>Um spread de juros líquido maior significa uma margem de lucro maior para um banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A long customer waiting time negatively affects the #service quality# of the branch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013445Z" creationid="RAFAEL" creationdate="20200806T013445Z">
@@ -7758,6 +7766,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feature: Bank</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012616Z" creationid="RAFAEL" creationdate="20200808T012616Z">
+        <seg>Recurso: Banco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature: Bond</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012645Z" creationid="RAFAEL" creationdate="20200808T012543Z">
+        <seg>Recurso: Titulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Female</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003254Z" creationid="RAFAEL" creationdate="20200808T003254Z">
@@ -11743,6 +11767,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, you will be able to set up Import Firms for importing products and materials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012627Z" creationid="RAFAEL" creationdate="20200808T012627Z">
+        <seg>pIf this is enabled, you will be able to set up Import Firms for importing products and materials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to Greatly Simplified, loyalty and headhunting features of the talent system are disabled too.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010620Z" creationid="RAFAEL" creationdate="20200808T010620Z">
@@ -12331,6 +12363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231904Z" creationid="RAFAEL" creationdate="20200802T231904Z">
         <seg>Visão da informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initial Net Interest Spread</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012710Z" creationid="RAFAEL" creationdate="20200808T012710Z">
+        <seg>Spread de juros líquidos iniciais</seg>
       </tuv>
     </tu>
     <tu>
@@ -14875,6 +14915,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030629Z" creationid="RAFAEL" creationdate="20200806T030629Z">
         <seg>Margem de juros líquidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net interest spread refers to the difference in the #rate at which a bank takes deposits from customers# and the #rate at which it offers loans#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012726Z" creationid="RAFAEL" creationdate="20200808T012726Z">
+        <seg>O spread líquido de juros se refere à diferença na #taxa em que um banco recebe depósitos de clientes # e a #taxa na qual oferece empréstimos #.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23489,6 +23537,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012755Z" creationid="RAFAEL" creationdate="20200808T012755Z">
+        <seg>O banco central exige que os bancos reservem capital suficiente para cobrir perdas inesperadas e se manterem solventes em uma crise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The city's Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014203Z" creationid="RAFAEL" creationdate="20200805T014203Z">
@@ -25070,6 +25126,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001525Z" creationid="RAFAEL" creationdate="20200805T001525Z">
         <seg>Essa classificação é determinada pelo nível salarial da cidade, a taxa de desemprego e a taxa individual de imposto de renda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This setting determines whether banks can be set up in the game or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012659Z" creationid="RAFAEL" creationdate="20200808T012659Z">
+        <seg>Esta configuração determina se os bancos podem ser configurados no jogo ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26902,6 +26966,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002732Z" creationid="RAFAEL" creationdate="20200805T002732Z">
         <seg>Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible. </seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012603Z" creationid="RAFAEL" creationdate="20200808T012603Z">
+        <seg>Quando esse recurso está habilitado, as empresas poderão emitir títulos para levantar capital e o mercado de títulos estará acessível.</seg>
       </tuv>
     </tu>
     <tu>
