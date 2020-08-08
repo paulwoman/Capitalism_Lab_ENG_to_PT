@@ -9455,6 +9455,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How-to web page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003052Z" creationid="RAFAEL" creationdate="20200808T003052Z">
+        <seg>Página de instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the relative concern consumers place on these factors varies from product to product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012047Z" creationid="RAFAEL" creationdate="20200806T012047Z">
@@ -13099,6 +13107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030326Z" creationid="RAFAEL" creationdate="20200804T030326Z">
         <seg>Inicie um navegador da web e abra a página do Public Challenge Game Rankings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch a web browser and open the web page with instructions on how to set up a private challenge game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003105Z" creationid="RAFAEL" creationdate="20200808T003105Z">
+        <seg>Inicie um navegador da web e abra a página da web com instruções sobre como configurar um jogo de desafio privado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26570,6 +26586,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may start the game first, then adjust the challenge game and goal settings as needed, and finally confirm them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003040Z" creationid="RAFAEL" creationdate="20200808T003040Z">
+        <seg>Você pode iniciar o jogo primeiro, depois ajustar o jogo de desafio e as configurações de objetivo conforme necessário e, finalmente, confirmá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may transfer funds from the parent company to the bank's balance sheet or vice versa.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025036Z" creationid="RAFAEL" creationdate="20200806T025036Z">
@@ -26622,6 +26646,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195641Z" creationid="RAFAEL" creationdate="20200802T195641Z">
         <seg>Você deve aplicar manualmente os resultados de P&amp;D em suas fábricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must confirm this before sending this Challenge Game to other players.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003019Z" creationid="RAFAEL" creationdate="20200808T003019Z">
+        <seg>Você deve confirmar isso antes de enviar este Jogo de desafio para outros jogadores.</seg>
       </tuv>
     </tu>
     <tu>
