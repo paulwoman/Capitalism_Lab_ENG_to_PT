@@ -5238,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of local competitors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002414Z" creationid="RAFAEL" creationdate="20200808T002414Z">
+        <seg>Competência dos concorrentes locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competing Nation's Population</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001145Z" creationid="RAFAEL" creationdate="20200807T001145Z">
@@ -12203,6 +12211,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024153Z" creationid="RAFAEL" creationdate="20200806T024153Z">
         <seg>Atualmente, ele usa as configurações globais de aluguel do departamento de imóveis da sede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002647Z" creationid="RAFAEL" creationdate="20200808T002647Z">
+        <seg>Ela determina a competência dos concorrentes locais - suas capacidades gerais para vender produtos de alta qualidade a preços competitivos.</seg>
       </tuv>
     </tu>
     <tu>
