@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher interest rate increases borrowing costs, posing greater challenges for companies that take on debt to expand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010239Z" creationid="RAFAEL" creationdate="20200808T010239Z">
+        <seg>Uma taxa de juros mais alta aumenta os custos de empréstimos, trazendo maiores desafios para a expansão das empresas que contraem dívidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030620Z" creationid="RAFAEL" creationdate="20200806T030620Z">
@@ -2482,6 +2490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T234928Z" creationid="User" creationdate="20200801T234928Z">
         <seg>Notas e moedas para a moeda reavaliada entrarão em circulação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base Loan Interest Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010152Z" creationid="RAFAEL" creationdate="20200808T010152Z">
+        <seg>Taxa básica de juros do empréstimo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8686,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game console companies run by AI will have higher initial capital.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010127Z" creationid="RAFAEL" creationdate="20200808T010127Z">
+        <seg>As empresas de consoles de jogos administradas pela AI terão um capital inicial maior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game difficulty level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234739Z" creationid="RAFAEL" creationdate="20200807T234739Z">
@@ -11543,6 +11567,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, the player will possess tech technologies in Operating System (OS) in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010303Z" creationid="RAFAEL" creationdate="20200808T010303Z">
+        <seg>Se habilitado, o jogador possuirá tecnologias de tecnologia em Sistema Operacional (SO) no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235605Z" creationid="RAFAEL" creationdate="20200807T235117Z">
@@ -14179,6 +14211,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013732Z" creationid="Olivier" creationdate="20200802T013732Z">
         <seg>Marketing=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Max AI Software and Internet Companies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010419Z" creationid="RAFAEL" creationdate="20200808T010419Z">
+        <seg>Número máximo de empresas de software e internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -17115,6 +17155,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010755Z" creationid="Olivier" creationdate="20200802T010755Z">
         <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Starts with Operating System (OS) Technologies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010252Z" creationid="RAFAEL" creationdate="20200808T010252Z">
+        <seg>O jogador começa com tecnologias de sistema operacional (SO)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24446,6 +24494,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
         <seg>Descrição deste plano de layout - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010208Z" creationid="RAFAEL" creationdate="20200808T010208Z">
+        <seg>Isso modifica a taxa de juros básica que afeta # títulos # e # empréstimos bancários #.</seg>
       </tuv>
     </tu>
     <tu>
