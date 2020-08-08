@@ -7526,6 +7526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003254Z" creationid="RAFAEL" creationdate="20200808T003254Z">
+        <seg>Feminino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fields are Completely Stripped of Vegetation.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
@@ -13927,6 +13935,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003237Z" creationid="RAFAEL" creationdate="20200808T003237Z">
+        <seg>Masculino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Management Policies</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034036Z" creationid="RAFAEL" creationdate="20200806T034036Z">
@@ -16479,6 +16495,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Percentage of product classes to be disabled</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003506Z" creationid="RAFAEL" creationdate="20200808T003506Z">
+        <seg>Porcentagem de classes de produtos a serem desativados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Person Details</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221820Z" creationid="RAFAEL" creationdate="20200802T221820Z">
@@ -18755,6 +18779,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010903Z" creationid="Olivier" creationdate="20200802T010903Z">
         <seg>Random Events=Occasional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randomly disable product classes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003337Z" creationid="RAFAEL" creationdate="20200808T003337Z">
+        <seg>Desativar aleatoriamente as classes de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -26134,6 +26166,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024031Z" creationid="RAFAEL" creationdate="20200806T024031Z">
         <seg>Quando você aumenta a alocação para tomadores de empréstimos com classificações de crédito mais baixas, o banco recebe uma receita de juros mais alta, mas a taxa de inadimplência do empréstimo também aumenta como resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select this check box, the system will randomly disable a specific percentage of product classes in the new game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003429Z" creationid="RAFAEL" creationdate="20200808T003429Z">
+        <seg>Quando você seleciona esta caixa de seleção, o sistema irá desativar aleatoriamente uma porcentagem específica de classes de produtos no novo jogo.</seg>
       </tuv>
     </tu>
     <tu>
