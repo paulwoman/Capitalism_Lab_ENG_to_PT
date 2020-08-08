@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010919Z" creationid="RAFAEL" creationdate="20200808T010919Z">
+        <seg>Uma taxa de poupança pessoal mais alta significa que as pessoas economizarão e depositarão mais dinheiro nos bancos, aumentando assim a lucratividade dos bancos em geral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030620Z" creationid="RAFAEL" creationdate="20200806T030620Z">
@@ -694,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010833Z" creationid="RAFAEL" creationdate="20200808T010833Z">
+        <seg>Um valor mais alto significa que os bancos de IA atrairão agressivamente os clientes dos concorrentes, oferecendo taxas de juros de depósito mais altas, e as seguradoras de IA oferecerão produtos de seguro com preços mais competitivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher value means that consumers are more concerned about that aspect when making a purchase decision.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012122Z" creationid="RAFAEL" creationdate="20200806T012122Z">
         <seg>Um valor mais alto significa que os consumidores estão mais preocupados com esse aspecto ao tomar uma decisão de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A higher value means that it increases at a faster rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010802Z" creationid="RAFAEL" creationdate="20200808T010802Z">
+        <seg>Um valor mais alto significa que ele aumenta em uma taxa mais rápida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aggressiveness of AI banks and insurance companies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010815Z" creationid="RAFAEL" creationdate="20200808T010815Z">
+        <seg>Agressividade de bancos e seguradoras de IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural Zoning Tool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032136Z" creationid="RAFAEL" creationdate="20200804T032136Z">
@@ -1642,6 +1674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003525Z" creationid="RAFAEL" creationdate="20200805T003525Z">
         <seg>Limite anual para imigrantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apartment Capacity Modifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011002Z" creationid="RAFAEL" creationdate="20200808T011002Z">
+        <seg>Editar Capacidade do Apartamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +8830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Global Competitiveness Rating Increases</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010725Z" creationid="RAFAEL" creationdate="20200808T010725Z">
+        <seg>Aumento da classificação de competitividade global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Global Rent Settings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024141Z" creationid="RAFAEL" creationdate="20200806T024141Z">
@@ -11515,6 +11563,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005109Z" creationid="RAFAEL" creationdate="20200808T005109Z">
         <seg>Se esse índice for superior a 100, a demanda e a receita dos produtos de software neste jogo serão maiores do que o normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is disabled, global competitiveness ratings will be initialized with a constant value of 30.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010715Z" creationid="RAFAEL" creationdate="20200808T010715Z">
+        <seg>Se estiver desativado, as classificações de competitividade global serão inicializadas com um valor constante de 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16827,6 +16883,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011650Z" creationid="RAFAEL" creationdate="20200806T011650Z">
         <seg>Usuários de computadores pessoais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Savings Rate Modifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010845Z" creationid="RAFAEL" creationdate="20200808T010845Z">
+        <seg>Editar taxa de poupança pessoal</seg>
       </tuv>
     </tu>
     <tu>
@@ -24570,6 +24634,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010752Z" creationid="RAFAEL" creationdate="20200808T010752Z">
+        <seg>Esta opção determina se as classificações de competitividade global aumentarão com o tempo, tornando o jogo cada vez mais desafiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option limits the maximum number of AI software and Internet companies in a game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010503Z" creationid="RAFAEL" creationdate="20200808T010503Z">
@@ -24734,6 +24806,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023010Z" creationid="RAFAEL" creationdate="20200805T023010Z">
         <seg>Isto mostra que a população da nação muda com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This slider modifies the personal savings rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010857Z" creationid="RAFAEL" creationdate="20200808T010857Z">
+        <seg>Este controle deslizante modifica a taxa de poupança pessoal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25978,6 +26058,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this slider to modify the capacity of all apartments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011013Z" creationid="RAFAEL" creationdate="20200808T011013Z">
+        <seg>Use este controle deslizante para modificar a capacidade de todos os apartamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this slider to set the percentage of additional talents that you want the game to generate for this new game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010946Z" creationid="RAFAEL" creationdate="20200808T010946Z">
+        <seg>Use este controle deslizante para definir a porcentagem de talentos adicionais que você deseja que o jogo gere para este novo jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this tool to remove land-use restrictions on the selected land plots.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031849Z" creationid="RAFAEL" creationdate="20200804T031849Z">
@@ -27030,6 +27126,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003821Z" creationid="RAFAEL" creationdate="20200808T003821Z">
         <seg>Você pode excluir produtos específicos do jogo, definir os manualmente ou usando a função "Classes de Produtos Desativados Aleatoriamente" para selecionar-los automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010936Z" creationid="RAFAEL" creationdate="20200808T010936Z">
+        <seg>Você pode fazer com que o jogo duplique os dados de talentos para aumentar a oferta de talentos.</seg>
       </tuv>
     </tu>
     <tu>
