@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lower Modifier value leads to lower initial stock prices, which promise more gain for the global stock market down the road.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013914Z" creationid="RAFAEL" creationdate="20200808T013914Z">
+        <seg>Um valor de modificador mais baixo leva a preços de ações iniciais mais baixos, que prometem mais ganho para o mercado de ações global no futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lower value means an easier game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010514Z" creationid="RAFAEL" creationdate="20200808T010514Z">
@@ -12431,6 +12439,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initial Stock Price Modifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013832Z" creationid="RAFAEL" creationdate="20200808T013832Z">
+        <seg>Modificador inicial do preço da ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012154Z" creationid="RAFAEL" creationdate="20200806T012154Z">
@@ -23929,6 +23945,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The initial prices of the global stocks are loaded from a database.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013850Z" creationid="RAFAEL" creationdate="20200808T013850Z">
+        <seg>Os preços iniciais dos ações globais são carregados a partir de um banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192717Z" creationid="User" creationdate="20200802T192717Z">
@@ -27742,6 +27766,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023159Z" creationid="RAFAEL" creationdate="20200805T023159Z">
         <seg>Você pode usar as teclas PageUp e PageDown para alternar entre andares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use this modifier to change the initial prices of all global stocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013902Z" creationid="RAFAEL" creationdate="20200808T013902Z">
+        <seg>Você pode usar este modificador para alterar os preços iniciais de todas as ações globais.</seg>
       </tuv>
     </tu>
     <tu>
