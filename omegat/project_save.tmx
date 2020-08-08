@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher value will allow a corporation to issue larger amounts of bonds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012527Z" creationid="RAFAEL" creationdate="20200808T012527Z">
+        <seg>Um valor mais alto permitirá que uma empresa emita quantidades maiores de títulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A larger Facilities Upgrade Budget leads to higher quality of the facilities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003030Z" creationid="RAFAEL" creationdate="20200805T003030Z">
@@ -2614,6 +2622,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bond Credit Standard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012415Z" creationid="RAFAEL" creationdate="20200808T012415Z">
+        <seg>Padrão de crédito de títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bond Issue Limit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012503Z" creationid="RAFAEL" creationdate="20200808T012503Z">
+        <seg>Limite de emissão de títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boom-Bust Cycle Volatility=Moderate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T092221Z" creationid="Olivier" creationdate="20200804T092221Z">
@@ -3946,6 +3970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012350Z" creationid="Olivier" creationdate="20200802T012350Z">
         <seg>City GDP=6000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Initial Cash Level</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012231Z" creationid="RAFAEL" creationdate="20200808T012231Z">
+        <seg>Nível de caixa inicial da cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11815,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's #initial capital# to be #funded by a bond issue#, requiring you to pay bond interests and repay the bond principal upon its maturity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012358Z" creationid="RAFAEL" creationdate="20200808T012358Z">
+        <seg>Se você é um jogador experiente em busca de um desafio maior, você pode definir uma porcentagem do #capital inicial# de sua corporação para ser #financiado por uma emissão de títulos#, exigindo que você pague os juros dos títulos e pague o principal dos títulos no vencimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are the party's leader, each of your members' influence value will contribute 50% to yours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022835Z" creationid="RAFAEL" creationdate="20200805T022835Z">
@@ -11835,6 +11875,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
         <seg>Se você quiser ativar #Venda interna# por padrão, você pode abrir o menu #Opção# (Tecla de atalho: 'O') e definir #Venda interna padrão# para #Ativado#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to see cities issuing bonds more often, so that you could invest into municipal bonds, you may set this setting to 'Low'.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012304Z" creationid="RAFAEL" creationdate="20200808T012304Z">
+        <seg>Se você quiser ver cidades emitindo títulos com mais freqüência, para que você possa investir em títulos municipais, você pode definir este cenário como "Baixo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -16899,6 +16947,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023954Z" creationid="RAFAEL" creationdate="20200804T023954Z">
         <seg>As pessoas desfrutam melhor de suas vidas quando moram em apartamentos com bom acesso a instalações comunitárias e esportivas, um ambiente verde e boas compras, além de um salário real mais alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percentage of Player Capital Funded by Bond</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012329Z" creationid="RAFAEL" creationdate="20200808T012329Z">
+        <seg>Porcentagem do Capital do Jogador Financiado por Títulos</seg>
       </tuv>
     </tu>
     <tu>
@@ -22960,6 +23016,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #maximum amounts of bonds# that a corporation can issue is limited to a #multiple of its capitalization#, which is set here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012517Z" creationid="RAFAEL" creationdate="20200808T012517Z">
+        <seg>Os # valores máximos de títulos # que uma empresa pode emitir são limitados a um # múltiplo de sua capitalização #, que é definido aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #maximum deposit amount# is constrained by the #deposit cap#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024902Z" creationid="RAFAEL" creationdate="20200806T024902Z">
@@ -24782,6 +24846,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012604Z" creationid="RAFAEL" creationdate="20200806T012604Z">
         <seg>Isto é determinado pelos níveis de experiência de todas as unidades individuais em sua fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is for setting the cash levels of cities at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012241Z" creationid="RAFAEL" creationdate="20200808T012241Z">
+        <seg>Isto é para estabelecer os níveis de caixa das cidades no início do jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27046,6 +27118,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121406Z" creationid="Olivier" creationdate="20200805T121406Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#. </seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012453Z" creationid="RAFAEL" creationdate="20200808T012453Z">
+        <seg>Com um # padrão de avaliação de crédito livre #, todas as corporações receberão # melhores avaliações de crédito # e se beneficiarão de # menores despesas com juros de títulos #.</seg>
       </tuv>
     </tu>
     <tu>
