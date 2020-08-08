@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Smart Phone Company First-mover Advantage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005749Z" creationid="RAFAEL" creationdate="20200808T005749Z">
+        <seg>Vantagem do pioneiro da AI Smart Phone Company</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI companies are randomly set up as private companies based on this preference.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003607Z" creationid="RAFAEL" creationdate="20200808T003607Z">
@@ -11391,6 +11399,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to a value, AI companies will go public within the specified number of years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005529Z" creationid="RAFAEL" creationdate="20200808T005529Z">
+        <seg>Se for definido com um valor, as empresas de IA abrirão o capital dentro do número especificado de anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the #City Economics Simulation DLC# is enabled, it is also affected by the #education level# of people in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013423Z" creationid="RAFAEL" creationdate="20200806T013423Z">
@@ -11463,10 +11479,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005604Z" creationid="RAFAEL" creationdate="20200808T005604Z">
+        <seg>Se isso for ativado, as empresas serão capazes de construir empresas de comércio eletrônico e vender produtos por meio do comércio eletrônico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, it will automatically develop next versions of the software when more advanced tech has been researched.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024759Z" creationid="RAFAEL" creationdate="20200805T024759Z">
         <seg>Se isto for ativado, ele desenvolverá automaticamente as próximas versões do software quando uma tecnologia mais avançada tiver sido pesquisada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, private AI tech companies from the Digital Age DLC may go public on the stock exchange.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005509Z" creationid="RAFAEL" creationdate="20200808T005509Z">
+        <seg>Se ativado, as empresas privadas de tecnologia de IA do Digital Age DLC podem abrir o capital na bolsa de valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20883,6 +20915,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T132933Z" creationid="RAFAEL" creationdate="20200802T132933Z">
         <seg>Diminuir nível do zoom (Aperte a tecla: ',')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smart phone companies run by AI will have higher initial capital and start with more advanced tech for Smart Phone and OS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005830Z" creationid="RAFAEL" creationdate="20200808T005830Z">
+        <seg>Empresas de telefonia inteligente geridas pela AI terão maior capital inicial e começarão com tecnologia mais avançada para Smart Phone e SO.</seg>
       </tuv>
     </tu>
     <tu>
