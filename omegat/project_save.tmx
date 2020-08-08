@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Tech Head Start</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014925Z" creationid="RAFAEL" creationdate="20200808T014925Z">
+        <seg>IA na vanguarda da tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI companies are randomly set up as private companies based on this preference.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003607Z" creationid="RAFAEL" creationdate="20200808T003607Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031007Z" creationid="RAFAEL" creationdate="20200805T031007Z">
         <seg>Disponibilité des applications </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As people embrace the Internet, they will spend more time online and less time on the traditional media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T015146Z" creationid="RAFAEL" creationdate="20200808T015146Z">
+        <seg>À medida que as pessoas abraçam a Internet, elas passarão mais tempo on-line e menos tempo na mídia tradicional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +3946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014927Z" creationid="RAFAEL" creationdate="20200805T014927Z">
         <seg>Mudar a tecnologia de produção da unidade de produção atual para o nível selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose #Multiple# to allow for setting up multiple floors in a warehouse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014853Z" creationid="RAFAEL" creationdate="20200808T014853Z">
+        <seg>Escolha #Múltiplos# para permitir a instalação de vários andares em um armazém.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,6 +6858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T211753Z" creationid="RAFAEL" creationdate="20200802T211753Z">
         <seg>Exibe o número total de edifícios com base nas configurações do filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disruption to Traditional Media</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T015113Z" creationid="RAFAEL" creationdate="20200808T015113Z">
+        <seg>Disrupção da mídia tradicional</seg>
       </tuv>
     </tu>
     <tu>
@@ -12051,6 +12083,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004602Z" creationid="RAFAEL" creationdate="20200808T004602Z">
         <seg>Se você definir um valor maior que zero, os partidos políticos rivais receberão doações do público em geral ao longo do tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want a more challenging game, you may give AI companies head starts in fields of technology that they specialize in, which means #higher starting tech levels#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014945Z" creationid="RAFAEL" creationdate="20200808T014945Z">
+        <seg>Se você quiser um jogo mais desafiador, pode dar às empresas de IA uma vantagem inicial nos campos da tecnologia em que se especializam, o que significa # níveis de tecnologia iniciais mais altos #.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27350,6 +27390,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024316Z" creationid="RAFAEL" creationdate="20200806T024316Z">
         <seg>Quando isso está ativado, o computador gerencia automaticamente todos os edifícios comerciais existentes da corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the traditional media (TV, Radio and Newspaper) will be disrupted by the Internet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T015131Z" creationid="RAFAEL" creationdate="20200808T015131Z">
+        <seg>Quando isto for ativado, a mídia tradicional (TV, Rádio e Jornal) será perturbada pela Internet.</seg>
       </tuv>
     </tu>
     <tu>
