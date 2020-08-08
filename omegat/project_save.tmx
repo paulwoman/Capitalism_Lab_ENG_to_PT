@@ -15031,6 +15031,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Companies Focused on Banking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011444Z" creationid="RAFAEL" creationdate="20200808T011444Z">
+        <seg>Número de empresas de IA com foco em bancos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of AI Companies Focused on Insurance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011508Z" creationid="RAFAEL" creationdate="20200808T011508Z">
+        <seg>Número de empresas de IA com foco em seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Competitors</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001203Z" creationid="RAFAEL" creationdate="20200808T001203Z">
@@ -22312,6 +22328,22 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up banks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011645Z" creationid="RAFAEL" creationdate="20200808T011645Z">
+        <seg>Tendência de empresas de IA com estratégia de diversificação de negócios, podendo se expandir em qualquer tipo de setor, para constituição de bancos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tendency of AI to set up banks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011530Z" creationid="RAFAEL" creationdate="20200808T011530Z">
+        <seg>Tendência da IA ​​para estabelecer bancos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Terminate Employment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215020Z" creationid="RAFAEL" creationdate="20200802T215020Z">
@@ -23657,6 +23689,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011427Z" creationid="RAFAEL" creationdate="20200808T011427Z">
+        <seg>A lógica por trás disso é que a personalização do produto depende dos níveis de tecnologia para aumentar linearmente para funcionar corretamente, enquanto a tecnologia Disruptiva reduz todos os níveis de tecnologia em 10% ao ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The low value of this aspect of quality of life has caused some people to emigrate from this city to other cities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004222Z" creationid="RAFAEL" creationdate="20200805T004222Z">
@@ -24422,6 +24462,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002155Z" creationid="RAFAEL" creationdate="20200808T002024Z">
         <seg>Isto determina os níveis de experiência dos personagens da AI no jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the number of AI companies focused on banking in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011458Z" creationid="RAFAEL" creationdate="20200808T011458Z">
+        <seg>Isso determina o número de empresas de IA focadas em serviços bancários no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the number of AI companies focused on insurance business in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011519Z" creationid="RAFAEL" creationdate="20200808T011519Z">
+        <seg>Isso determina o número de empresas de IA focadas em negócios de seguros no início do jogo.</seg>
       </tuv>
     </tu>
     <tu>
