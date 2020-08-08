@@ -14695,6 +14695,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the player person's expertise product class will not be locked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004831Z" creationid="RAFAEL" creationdate="20200808T004831Z">
+        <seg>Observe que a classe de produto de especialização do jogador não será bloqueada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the salary displayed here is the annual salary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011610Z" creationid="RAFAEL" creationdate="20200806T011610Z">
@@ -16547,6 +16555,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003506Z" creationid="RAFAEL" creationdate="20200808T003506Z">
         <seg>Porcentagem de classes de produtos a serem desativados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percentage of products requiring reinvention</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004753Z" creationid="RAFAEL" creationdate="20200808T004753Z">
+        <seg>Porcentagem de produtos que requerem reinvenção</seg>
       </tuv>
     </tu>
     <tu>
@@ -20467,6 +20483,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003519Z" creationid="RAFAEL" creationdate="20200808T003519Z">
         <seg>Defina a porcentagem de classes de produtos a serem desativadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the percentage of products to be locked initially in the game, which can be unlocked via R&amp;D invention projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004818Z" creationid="RAFAEL" creationdate="20200808T004818Z">
+        <seg>Defina a porcentagem de produtos a serem bloqueados inicialmente no jogo, que podem ser desbloqueados por meio de projetos de invenção de P&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
