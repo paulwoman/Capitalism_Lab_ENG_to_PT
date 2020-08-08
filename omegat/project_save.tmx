@@ -1454,6 +1454,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000246Z" creationid="RAFAEL" creationdate="20200808T000246Z">
+        <seg>Permitir ocorrências tais como pragas, doenças animais e apagões de energia e suas conseqüências econômicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternative Stock Sim</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000146Z" creationid="RAFAEL" creationdate="20200808T000146Z">
+        <seg>Mercado de ações alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010930Z" creationid="Olivier" creationdate="20200802T010930Z">
@@ -11239,6 +11255,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to On, your company will start as a private company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000047Z" creationid="RAFAEL" creationdate="20200808T000047Z">
+        <seg>Se isto estiver definido como On, sua empresa começará como uma empresa privada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000218Z" creationid="RAFAEL" creationdate="20200808T000218Z">
+        <seg>Se isto for definido como Sim, 1) os preços das ações não são afetados pelo atual estado econômico, e 2) a negociação de ações entre a empresa do jogador e suas subsidiárias é proibida, tornando assim mais difícil a especulação de ações para lucros rápidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to a high value, the AI executive will be more concerned with freight costs and tend to pick suppliers from closer distances.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034658Z" creationid="RAFAEL" creationdate="20200806T034658Z">
@@ -18431,6 +18463,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Events</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000234Z" creationid="RAFAEL" creationdate="20200808T000234Z">
+        <seg>Eventos Aleatórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events=Never</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014042Z" creationid="Olivier" creationdate="20200802T014042Z">
@@ -21468,6 +21508,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012255Z" creationid="Olivier" creationdate="20200802T012255Z">
         <seg>Tech lead=Notebook Computer, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000354Z" creationid="RAFAEL" creationdate="20200808T000354Z">
+        <seg>Tecnologia Disruptiva</seg>
       </tuv>
     </tu>
     <tu>
