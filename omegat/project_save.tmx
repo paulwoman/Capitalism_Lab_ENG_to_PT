@@ -606,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002749Z" creationid="RAFAEL" creationdate="20200808T002749Z">
+        <seg>Um grande número de portos marítimos de consumo aumenta a disponibilidade de bens de consumo que as empresas podem importar e vender no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A high number of industrial seaports increases the availability of manufacturing materials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002816Z" creationid="RAFAEL" creationdate="20200808T002816Z">
+        <seg>Um grande número de portos marítimos industriais aumenta a disponibilidade de materiais de manufatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
@@ -3734,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose to allow the creation of new import sources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002902Z" creationid="RAFAEL" creationdate="20200808T002902Z">
+        <seg>Escolha permitir a criação de novas fontes de importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Citizens' overall satisfaction of the services</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003451Z" creationid="RAFAEL" creationdate="20200805T003451Z">
@@ -5458,6 +5482,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015343Z" creationid="Olivier" creationdate="20200802T015343Z">
         <seg>Constant Import Supply=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Constant import supply</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002914Z" creationid="RAFAEL" creationdate="20200808T002914Z">
+        <seg>Fornecimento de importação constante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Constant supplies ease the problems of stockpiling products and the search for alternative supplies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002925Z" creationid="RAFAEL" creationdate="20200808T002925Z">
+        <seg>Suprimentos constantes facilitam os problemas de estocagem de produtos e a busca por suprimentos alternativos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High quality products offer a more attractive retail prospect to the consumer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003007Z" creationid="RAFAEL" creationdate="20200808T003007Z">
+        <seg>Produtos de alta qualidade oferecem uma perspectiva de varejo mais atraente para o consumidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030145Z" creationid="RAFAEL" creationdate="20200805T030145Z">
@@ -11503,6 +11551,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002936Z" creationid="RAFAEL" creationdate="20200808T002936Z">
+        <seg>Qualidade de importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In #Survival Mode#, one way to measure your performance is to compare your nation's population growth with that of the competing nation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001157Z" creationid="RAFAEL" creationdate="20200807T001157Z">
@@ -13279,6 +13335,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low quality products offer the chance for fledgling local manufacturers to compete.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002956Z" creationid="RAFAEL" creationdate="20200808T002956Z">
+        <seg>Produtos de baixa qualidade oferecem a chance para os novos fabricantes locais competirem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lower prices to gain market shares at the expense of profit margins.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030642Z" creationid="RAFAEL" creationdate="20200804T030642Z">
@@ -14375,6 +14439,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New seaports Emerge during the game</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002854Z" creationid="RAFAEL" creationdate="20200808T002854Z">
+        <seg>Novos portos marítimos surgem durante o jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New software product</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024427Z" creationid="RAFAEL" creationdate="20200805T024427Z">
@@ -14939,6 +15011,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012047Z" creationid="Olivier" creationdate="20200802T012047Z">
         <seg>Number of product types being produced=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of seaports Importing Consumer Goods per City</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002736Z" creationid="RAFAEL" creationdate="20200808T002736Z">
+        <seg>Número de portos marítimos que importam bens de consumo por cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of seaports Importing Industrial Goods per City</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002805Z" creationid="RAFAEL" creationdate="20200808T002805Z">
+        <seg>Número de portos marítimos que importam bens industriais por cidade</seg>
       </tuv>
     </tu>
     <tu>
