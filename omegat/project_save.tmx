@@ -6630,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Donations to Rival Political Parties</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004540Z" creationid="RAFAEL" creationdate="20200808T004540Z">
+        <seg>Doações para partidos políticos rivais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click here to add a functional unit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230515Z" creationid="RAFAEL" creationdate="20200802T230515Z">
