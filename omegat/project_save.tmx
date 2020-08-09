@@ -32508,8 +32508,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181701Z" creationid="Olivier" creationdate="20200728T091721Z">
-        <seg>[1110]&lt;0265&gt;Patrimônio Líquido por Ação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200809T204158Z" creationid="Olivier" creationdate="20200728T091721Z">
+        <seg>[1110]&lt;0265VPA|</seg>
       </tuv>
     </tu>
     <tu>
@@ -35508,8 +35508,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1838]&lt;0842&gt;Return on Equity|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T194220Z" creationid="Olivier" creationdate="20200730T101340Z">
-        <seg>[1838]&lt;0842&gt;Retorno sobre o Patrimônio Líquidoy|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200809T204038Z" creationid="Olivier" creationdate="20200730T101340Z">
+        <seg>[1838]&lt;0842&gt;Retorno sobre o Patrimônio Líquido|</seg>
       </tuv>
     </tu>
     <tu>
