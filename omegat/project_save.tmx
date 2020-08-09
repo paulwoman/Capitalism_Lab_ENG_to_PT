@@ -32508,8 +32508,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200809T204158Z" creationid="Olivier" creationdate="20200728T091721Z">
-        <seg>[1110]&lt;0265VPA|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200809T204546Z" creationid="Olivier" creationdate="20200728T091721Z">
+        <seg>[1110]&lt;0265&gt;VPA|</seg>
       </tuv>
     </tu>
     <tu>
