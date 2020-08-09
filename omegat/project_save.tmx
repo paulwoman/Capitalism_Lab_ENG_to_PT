@@ -13097,8 +13097,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010455Z" creationid="RAFAEL" creationdate="20200805T010455Z">
-        <seg>É o patrimônio líquido da empresa (que você pode visualizar no balanço patrimonial) dividido pelo número total de ações em circulação.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200809T203657Z" creationid="RAFAEL" creationdate="20200805T010455Z">
+        <seg>VPA é Valor patrimonial por ação.É o patrimônio líquido da empresa (que você pode visualizar no balanço patrimonial) dividido pelo número total de ações em circulação.</seg>
       </tuv>
     </tu>
     <tu>
