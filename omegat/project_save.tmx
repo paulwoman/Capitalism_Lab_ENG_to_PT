@@ -4014,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cick the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222747Z" creationid="RAFAEL" creationdate="20200810T222747Z">
+        <seg>Clique no ícone ~Adicionar Produto~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Citizens' overall satisfaction of the services</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003451Z" creationid="RAFAEL" creationdate="20200805T003451Z">
@@ -13139,6 +13147,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022009Z" creationid="RAFAEL" creationdate="20200805T022009Z">
         <seg>É utilizado para o cálculo do componente Importações Líquidas do PIB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lists all the products currently available within the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222909Z" creationid="RAFAEL" creationdate="20200810T222909Z">
+        <seg>Ele lista todos os produtos atualmente disponíveis dentro do jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25282,6 +25298,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222856Z" creationid="RAFAEL" creationdate="20200810T222856Z">
+        <seg>Esta é a janela ~Selecione um Fornecedor~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is to prevent you from undercutting the supplier in the market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024628Z" creationid="RAFAEL" creationdate="20200805T024628Z">
@@ -28054,6 +28078,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023159Z" creationid="RAFAEL" creationdate="20200805T023159Z">
         <seg>Você pode usar as teclas PageUp e PageDown para alternar entre andares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T223549Z" creationid="RAFAEL" creationdate="20200810T223549Z">
+        <seg>Você pode usar os três filtros na parte superior da janela para ajudá-lo a encontrar os produtos que deseja.^^Você pretende comprar produtos de portos marítimos locais, então clique na caixa de filtro ~Fornecedores~ como mostrado.</seg>
       </tuv>
     </tu>
     <tu>
