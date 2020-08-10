@@ -7006,6 +7006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T223705Z" creationid="RAFAEL" creationdate="20200810T223705Z">
+        <seg>Clique duas vezes ~Portos marítimos~ a partir da lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download MODs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012814Z" creationid="RAFAEL" creationdate="20200805T012814Z">
@@ -24838,6 +24846,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012002Z" creationid="RAFAEL" creationdate="20200806T012002Z">
         <seg>A porção branca dos gráficos da torta representa a quota de mercado combinada de todos os concorrentes locais na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The window updates to show all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T223848Z" creationid="RAFAEL" creationdate="20200810T223848Z">
+        <seg>A janela é atualizada para mostrar todos os produtos disponíveis nos portos marítimos locais.</seg>
       </tuv>
     </tu>
     <tu>
