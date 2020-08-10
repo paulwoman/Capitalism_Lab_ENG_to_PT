@@ -3830,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can you apply what you have learned into running a business in the real world?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222335Z" creationid="RAFAEL" creationdate="20200810T222335Z">
+        <seg>Você pode aplicar o que aprendeu para administrar um negócio no mundo real?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140601Z" creationid="RAFAEL" creationdate="20200802T140601Z">
@@ -27790,6 +27798,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005322Z" creationid="User" creationdate="20200802T005322Z">
         <seg>Você fez um excelente trabalho como prefeito de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have graduated with an MBA from a renowned business school.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222321Z" creationid="RAFAEL" creationdate="20200810T222321Z">
+        <seg>Você se formou com um MBA de em uma escola renomada de negócios.</seg>
       </tuv>
     </tu>
     <tu>
