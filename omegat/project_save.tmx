@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222454Z" creationid="RAFAEL" creationdate="20200810T222454Z">
+        <seg>Alternativamente, você pode apertar a tecla ~Enter~ para continuar sempre que o ícone Próximo estiver piscando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although their firms are not shown in the game map, they compete directly with the corporations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011946Z" creationid="RAFAEL" creationdate="20200806T011946Z">
@@ -15439,6 +15447,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222406Z" creationid="RAFAEL" creationdate="20200810T222406Z">
+        <seg>Agora é sua chance de provar sua habilidade!^^Clique no ícone piscante Próximo para continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now left click it to view its detail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222659Z" creationid="RAFAEL" creationdate="20200810T222659Z">
+        <seg>Agora clique com o botão esquerdo do mouse para ver seus detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Companies Focused on Banking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011444Z" creationid="RAFAEL" creationdate="20200808T011444Z">
@@ -27790,6 +27814,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013025Z" creationid="RAFAEL" creationdate="20200806T013025Z">
         <seg>Você já desenvolveu um Sistema Operacional para seu IP, agora você pode montar fábricas para fabricar o hardware usando o IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222634Z" creationid="RAFAEL" creationdate="20200810T222634Z">
+        <seg>Você foi designado para administrar esta loja de departamento.</seg>
       </tuv>
     </tu>
     <tu>
