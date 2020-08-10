@@ -20975,6 +20975,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the vertical yellow and orange bars?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224330Z" creationid="RAFAEL" creationdate="20200810T224330Z">
+        <seg>Está vendo as barras verticais amarelas e laranja?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034256Z" creationid="RAFAEL" creationdate="20200806T034256Z">
@@ -24898,6 +24906,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224614Z" creationid="RAFAEL" creationdate="20200810T224614Z">
+        <seg>A ~barra de FORNECIMENTO amarela~ indica a quantidade do produto que você tem na loja e a ~barra laranja DEMANDA~ mede a demanda do consumidor por esse produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Their product ratings are shown here.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012011Z" creationid="RAFAEL" creationdate="20200806T012011Z">
@@ -28278,6 +28294,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T234857Z" creationid="RAFAEL" creationdate="20200807T234857Z">
         <seg>Seu capital inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224241Z" creationid="RAFAEL" creationdate="20200810T224241Z">
+        <seg>Sua loja compra automaticamente o produto que você selecionou no porto e o disponibiliza para venda aos seus clientes. ^^ Observe à esquerda da imagem do produto.</seg>
       </tuv>
     </tu>
     <tu>
