@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011436Z" creationid="RAFAEL" creationdate="20200811T011436Z">
+        <seg>E escolha ~Loja de Departamento~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -5018,6 +5026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003842Z" creationid="RAFAEL" creationdate="20200811T003842Z">
         <seg>Clique no ícone ~Adicionar Produto~, depois escolha ~Porto Marítimo~ da lista de fornecedores e selecione um produto para adicionar à sua loja.^^ Desta vez, certifique-se de selecionar um produto diferente daquele que já está à venda em sua loja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011404Z" creationid="RAFAEL" creationdate="20200811T011404Z">
+        <seg>Clique no ícone ~Menu de Construção~ no ~Menu de Ferramentas do Jogo~ na parte superior esquerda da tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13303,6 +13319,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It seems within your budget, so let's proceed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011242Z" creationid="RAFAEL" creationdate="20200811T011242Z">
+        <seg>Parece estar dentro de seu orçamento, portanto, vamos prosseguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122410Z" creationid="Olivier" creationdate="20200805T122410Z">
@@ -15619,6 +15643,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230352Z" creationid="RAFAEL" creationdate="20200802T230352Z">
         <seg>Trabalhadores novatos usam uniformes vermelhos, enquanto trabalhadores experientes usam uniformes azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011417Z" creationid="RAFAEL" creationdate="20200811T011417Z">
+        <seg>Agora escolha ~ Retail Store ~ ​​no menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26498,6 +26530,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011537Z" creationid="RAFAEL" creationdate="20200811T011537Z">
+        <seg>Tente encontrar um local próximo a edifícios residenciais para se beneficiar do alto tráfego de clientes. ^^ Se o local estiver sombreado em ~amarelo~, significa que é um local válido para construir sua loja de departamentos. ^^ Quando você tiver escolhido um local, clique com o botão esquerdo e a loja de departamentos será construída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tutorial=TUT01</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015425Z" creationid="Olivier" creationdate="20200802T015425Z">
@@ -28574,6 +28614,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165707Z" creationid="Olivier" creationdate="20200730T165707Z">
         <seg>Seu nível atual de tec. é %3s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011458Z" creationid="RAFAEL" creationdate="20200811T011458Z">
+        <seg>Seu cursor agora destaca um quadrado na cidade.</seg>
       </tuv>
     </tu>
     <tu>
