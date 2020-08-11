@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011228Z" creationid="RAFAEL" creationdate="20200811T011228Z">
+        <seg>Uma nova loja de departamento custa $1.000.000 para construir, mais o custo do terreno, e mais $100.000 por mês para operar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A positive value means that the housing supply is greater than the housing demand, and vice versa.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024049Z" creationid="RAFAEL" creationdate="20200804T024049Z">
@@ -7050,6 +7058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011751Z" creationid="RAFAEL" creationdate="20200806T011751Z">
         <seg>Não mostre produtos de software que não tenham vendas nos últimos 36 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have enough money to build a second department store yet?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011204Z" creationid="RAFAEL" creationdate="20200811T011204Z">
+        <seg>Você já tem dinheiro suficiente para construir uma segunda loja de departamento?</seg>
       </tuv>
     </tu>
     <tu>
