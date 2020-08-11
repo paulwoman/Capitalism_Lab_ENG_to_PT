@@ -7294,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each retail store has four product slots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003238Z" creationid="RAFAEL" creationdate="20200811T003238Z">
+        <seg>Cada loja de varejo tem quatro slots de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each shareholder now holds|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T235203Z" creationid="Olivier" creationdate="20200730T173744Z">
