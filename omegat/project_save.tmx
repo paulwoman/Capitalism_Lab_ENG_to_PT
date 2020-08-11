@@ -4974,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003842Z" creationid="RAFAEL" creationdate="20200811T003842Z">
+        <seg>Clique no ícone ~Adicionar Produto~, depois escolha ~Porto Marítimo~ da lista de fornecedores e selecione um produto para adicionar à sua loja.^^ Desta vez, certifique-se de selecionar um produto diferente daquele que já está à venda em sua loja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224112Z" creationid="RAFAEL" creationdate="20200810T224112Z">
