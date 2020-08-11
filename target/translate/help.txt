@@ -1,0 +1,3369 @@
+B_TOOL
+Caixa de ferramentas
+Exibir o menu Caixa de ferramentas. Pressione Ctrl-T para alternar entre o menu padrão e o menu estendido.
+~
+B_MINMAP
+Mini Map (Tecla de atalho: 'M')
+Exibir o Mini Map
+~
+B_WORLD
+Mapa mundial (Tecla de atalho: Ctrl-W)
+Exibir o mapa do mundo
+~
+B_INFO
+Centro de Informação
+Abrir a tela do Centro de Informação
+~
+B_WATCH
+Rastreador de Eventos (Tecla de atalho: F5)
+Abra a Janela do Rastreador de Eventos
+~
+B_BACK
+Voltar à empresa anterior (Tecla de atalho: q)
+Volte para a empresa selecionada anteriormente
+~
+B_CASH
+O dinheiro da sua corporação
+Este valor é a quantia em dinheiro que sua empresa possui atualmente.
+~
+B_PROFIT
+O lucro operacional da sua corporação
+Este valor é o lucro operacional da sua empresa nos últimos 12 meses.
+~
+B_CHART
+Gráfico mensal de lucros e perdas da sua empresa
+As barras verticais representam o lucro ou prejuízo mensal da sua Corporação. Uma barra vermelha indica uma perda; uma barra verde indica lucro.
+~
+B_DATE
+Data atual
+Esta é a data atual do jogo
+~
+T_BUILD
+Menu de Construção (Tecla de atalho: B)
+Clique para abrir o Menu de Construção. Pressione Ctrl-Z para abrir o mesmo submenu na interface de Contrução da última vez. (o mesmo tipo de empresa e a mesma empresa/subsidiária)
+~
+T_BUYLND
+Comprar terrenos (Tecla de atalho: CTRL-L)
+Ative o modo de compra de terrenos.
+~
+T_SETLND
+Planejamento do uso do solo
+Use esta ferramenta para restringir diferentes áreas de sua cidade a usos específicos.
+~
+T_GOAL
+Relatório de objetivos (Tecla de atalho: G)
+Abrir o relatório de objetivos
+~
+T_ZOOM1
+Diminuir nível do zoom (Aperte a tecla: ',')
+Clique para alterar a vista da cidade para o menor nível de zoom.
+~
+T_ZOOM2
+Nível de zoom normal (Tecla de atalho: '.')
+Clique para alterar a vista da cidade para o nível de zoom normal.
+~
+T_ZOOM3
+Maior nível de zoom (Tecla de atalho: '/')
+Clique para alterar a vista da cidade para o maior nível de zoom
+~
+MMENUPSR
+Relatório de resumo do produto (Tecla de atalho: 'P')
+Clique para abrir o relatório de resumo do produto
+~
+MMENUCSR
+Relatório resumido corporativo (Tecla de atalho: 'C')
+Clique para abrir o Relatório Resumido Corporativo
+~
+MMENUFR
+Relatório resumido da empresa (Tecla de atalho: 'F')
+Clique para abrir o Relatório Resumido da Empresa
+~
+MMENUHQ (hotkey: 'H')
+Sede da empresa
+`
+~
+MMENUSM
+Mercado de ações
+Abra a tela do mercado de ações
+~
+MMENUGM
+Menu do jogo (Tecla de atalho: ESC)
+Salvar, carregar, aposentar-se, retornar ao menu principal ou retornar ao Windows.
+~
+MMENUOM
+Menu Opções (Tecla de atalho: 'O')
+Exibir o menu de opções do jogo.
+~
+MMENUSP
+Velocidade do jogo (Tecla de atalho: '1' à '5')
+Clique na discagem rápida para alterar a velocidade do jogo.
+~
+OM_NEWS
+Opção de exibição de notícias (Tecla de atalho: 'N')
+Abra a tela de opções de exibição de notícias
+~
+OM_OK
+Ok
+`
+~
+OM_CN
+Cancelar
+`
+~
+OM_IS_A
+Desativar a venda interna
+A configuração padrão de #Venda Interna# é #Desativada#. Os concorrentes podem comprar seus produtos.
+~
+OM_IS_B
+Ativar venda interna
+A configuração padrão de #Venda interna# é #Ativada#. Os concorrentes não estão autorizados a comprar seus produtos.
+~
+OM_AL_A
+Desativar o AutoLink para fornecedor
+A configuração padrão de #AutoLink para fornecedor# é #Desativado#. Você deve selecionar fornecedores manualmente.
+~
+OM_AL_B
+Habilitar o AutoLink para fornecedor
+A configuração padrão de #AutoLink para fornecedor# é #Ativada#. Suas unidades de compras tentarão encontrar fornecedores automaticamente.
+~
+OM_TO_A
+Não considerar Ofertas Públicas de Aquisição(OPA) de outros jogadores.
+Uma oferta pública de aquisição OPA é uma oferta para comprar ações de uma corporação, geralmente a um preço superior ao valor das ações na bolsa de valores.
+~
+OM_TO_B
+Considere Ofertas Públicas de Aquisição(OPA) de outros jogadores.
+Uma oferta pública de aquisição OPA é uma oferta para comprar ações de uma corporação, geralmente a um preço superior ao valor das ações na bolsa de valores.
+~
+OM_TE_A
+Não considerar ofertas de outras empresas para comprar sua tecnologia.
+`
+~
+OM_TE_B
+Considerar ofertas de outras empresas para a compra de sua tecnologia.
+`
+~
+OM_AR_A
+Desativar a aplicação automática dos resultados de P&D nas unidades de fabricação de suas fábricas.
+A configuração padrão de #Aplicação automática dos resultados de P&D# é #Desativada#. Você deve aplicar manualmente os resultados de P&D em suas fábricas.
+~
+OM_AR_B
+Habilite a aplicação automática dos resultados de P&D em suas unidades de fabricação.
+A configuração padrão de #Aplicação automática dos resultados de P&D# é #Ativado#. Os últimos resultados de P&D serão automaticamente aplicado a suas fábricas sem pedir sua permissão.
+~
+OM_GS_A
+Muito lento
+`
+~
+OM_GS_B
+Lento
+`
+~
+OM_GS_C
+Normal
+`
+~
+OM_GS_D
+Rápido
+`
+~
+OM_GS_E
+Muito rápido
+`
+~
+OM_MU_A
+Música Off
+`
+~
+OM_MU_B
+Music On
+`
+~
+OM_SE_A
+Efeitos da Música Desligada
+Clique para desativar os efeitos sonoros
+~
+OM_SE_B
+Efeitos sonoros On
+Clique para ativar os efeitos sonoros
+~
+OM_HE_A
+Nenhuma informação de ajuda
+Clique para desativar as informações de ajuda dentro do jogo
+~
+OM_HE_B
+Breve informação de ajuda
+Clique para habilitar breve informações  de ajuda dentro do jogo
+~
+OM_HE_C
+Informações detalhadas de ajuda
+Clique para ativar informações detalhadas de ajuda dentro do jogo
+~
+OM_AS_A
+Desativar o Auto Save
+Clique para desativar o Auto Save
+~
+OM_AS_B
+Ativar o Auto Save
+Clique para ativar o Auto Save
+~
+OM_QK_A
+Desativar o sistema de tecla de atalho melhorado.
+`
+~
+OM_QK_B
+Habilitar o sistema tecla de atalho melhorado.
+`
+~
+MMAPPT
+Cidade Anterior (Tecla de atalho: '[')
+Clique para exibir a cidade anterior
+~
+MMAPNT
+Próxima cidade (Tecla de atalho: ']')
+Clique para exibir a próxima cidade
+~
+MMAPCM
+Fechar Mini Map
+Clique para fechar o Mini Mapa
+~
+MMAPTB
+Modo de seleção de cidade
+`
+~
+MMAPTS
+Selecione a cidade
+Selecione a cidade e atualize a vista principal da cidade
+~
+MMAPBF
+Filtrar Empresa
+Alternar o Filtrar Empresa para selecionar somente empresas específicas para a exibição do mapa. Clique com o botão direito do mouse para definir o filtro com base na empresa atual.
+~
+MMAPMMO
+Modo de propriedade de negócios
+Clique para alternar o Modo de Propriedade de Negócios - Os edifícios são exibidos em suas cores corporativas.
+~
+MMAPMMV
+Modo Valor do Terreno
+Clique para alternar o modo de valor do terreno - cores mais escuras indicam valores de terreno altos
+~
+MMAPMMP
+Modo de lucro
+Clique para alternar o Modo Lucro - cores mais brilhantes indicam empresas lucrativas.
+~
+MMAPMMR
+Propriedade da terra e modo de recursos
+Clique para alternar a propriedade da terra e o modo de recursos - a propriedade da terra e os recursos naturais são exibidos.
+~
+MMAPMMB
+Modo de Relacionamento Comercial
+Clique para alternar o modo de relacionamento comercial - se uma empresa for selecionada, este modo exibirá as linhas de relacionamento comercial diretamente relacionadas com a empresa selecionada.
+~
+MMAPPUB
+Modo População e Serviços Públicos
+A densidade populacional é mostrada nas cores marrom escuro. Selecione um edifício municipal ou instalações esportivas para ver como os cidadãos têm acesso fácil aos serviços públicos.
+~
+MMAPPOL
+População e Modo de Poluição
+A densidade populacional é mostrada nas cores marrom escuro. A poluição é mostrada nas cores laranja e vermelha: Vermelho indica poluição em áreas povoadas; Laranja indica poluição em áreas despovoadas ou muito escassamente povoadas.
+~
+MMAPMM_S
+Modo Mapa do Solo
+`
+~
+MMAPMMI
+Modo de exibição de informações da empresa
+Clique para alternar o Modo de exibição de informações da empresa: 1) Os tipos de empresa são exibidos na visão principal da cidade. 2) As taxas de utilização são exibidas para fábricas, fazendas e minas. 3) As taxas de ocupação são exibidas para apartamentos e edifícios comerciais.
+~
+MMAPAC
+Exibição de Apartamentos e Edifícios Comerciais (Tecla de atalho: Ctrl-C)
+Clique para alternar a exibição de apartamentos e edifícios comerciais.
+~
+SFM_K1
+Filtro personalizado
+Clique com o botão direito do mouse para definir este filtro personalizado. Clique no botão esquerdo do mouse para ativar este filtro personalizado.
+~
+SFM_K2
+Filtro personalizado
+Clique com o botão direito do mouse para definir este filtro personalizado. Clique no botão esquerdo do mouse para ativar este filtro personalizado.
+~
+SFM_K3
+Filtro personalizado
+Clique com o botão direito do mouse para definir este filtro personalizado. Clique no botão esquerdo do mouse para ativar este filtro personalizado.
+~
+SFM_KT
+Todas as cidades ou filtro da cidade atual
+Alternar o modo de filtro entre todas as cidades e a cidade atual.
+~
+SFM_KM
+Filtro da Empresa do jogador (Tecla de atalho: F8)
+Alternar o filtro Empresa do Jogador para exibir somente as empresas do jogador na tela do Mini Map
+~
+SFM_KF
+Filtrar Empresa
+Alterne Filtrar Empresa para exibir apenas tipos específicos de firmas na exibição Mini Map. Clique com o botão direito do mouse para definir o filtro com base na empresa atual.
+~
+SFM_KC
+Filtro Corporativo
+Alterne Filtro Corporativo para exibir uma empresa específica no Mini Mapa. Clique com o botão direito do mouse para definir o filtro com base na empresa atual.
+~
+SFM_KP
+Filtro de produto
+Alternar o filtro do produto para exibir os locais de um produto específico no Mini Mapa.
+~
+SFM_KPB
+Edifício anterior (Tecla de atalho: PgUp)
+Exibir o edifício anterior - a vista da cidade está centrada no edifício
+~
+SFM_KNB
+Próximo edifício (Tecla de atalho: PgDn)
+Exibir o próximo edifício - a vista da cidade está centrada no edifício
+~
+SFM_SB
+Número do edifício selecionado
+Exibe o número do edifício selecionado a partir do número total de edifícios com base nas configurações do filtro
+~
+SFM_TB
+Número de Edifícios
+Exibe o número total de edifícios com base nas configurações do filtro
+~
+WM_CW
+Fechar o Mapa Mundial
+Fechar a janela do mapa mundial
+~
+FE_TD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+FE_TU
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+FE_RD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+FE_RU
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+FE_AL
+Localização automática
+`
+~
+IN_PD_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IN_PD_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IN_PD_PC
+Aplicar esta alteração de preço ao produto selecionado.
+`
+~
+IN_PD_AA
+Aplique esta mudança de preço a todas as suas lojas de varejo na mesma cidade.
+`
+~
+IN_MG_PM
+Produto anterior
+Mostrar produto anterior
+~
+IN_MG_NM
+Próximo produto
+Exibir próximo produto
+~
+IN_MG_IP
+Material de entrada
+Selecione um novo material de entrada
+~
+IN_MG_OP
+Produto de saída
+Selecione um novo produto de saída
+~
+IN_MG_MI
+Mais produtos que utilizam este material de entrada
+Exibir mais produtos usando este material de entrada
+~
+IN_MG_FP
+Rescisão do contrato de trabalho
+Clique para cancelar o emprego
+~
+IN_MG_HP
+Contratar o Diretor de Operações
+Clique para contratar o Chefe de Operações
+~
+IN_MG_HM
+Contratar o Diretor de Marketing
+Clique para contratar o Diretor de Marketing
+~
+IN_MG_HT
+
+Contratar Diretor de Tecnologia
+Clique para contratar o Diretor de Tecnologia
+~
+IN_SM_M
+Fusão de empresas
+Clique para fundir corporações
+~
+IN_SM_O
+Fazer uma oferta pública de aquisição
+Fazer uma oferta pública ao acionista selecionado das ações atuais
+~
+IN_SM_B
+Comprar ações
+Clique para comprar a ação exibida
+~
+IN_SM_BX
+Comprar ações
+Você só pode negociar ações uma vez por dia em um Challenge Game.
+~
+IN_SM_OI
+Clique no botão esquerdo do mouse para aumentar. (tecla de atalho: '+' ou '=')
+Clique com o botão direito do mouse para aumentar a uma taxa maior. Segure a tecla #SHIFT# enquanto clica na velocidade #10X#. Segure a tecla #CTRL# enquanto clica na velocidade #100X#.
+~
+IN_SM_OD
+Clique no botão esquerdo para diminuir. (Tecla de atalho: '-' )
+Clique com o botão direito do mouse para diminuir a uma taxa maior. Segure a tecla #SHIFT# enquanto clica na velocidade #10X#. Segure a tecla #CTRL# enquanto clica na velocidade #100X#.
+~
+IN_SM_BI
+Comprar mais ações
+`
+~
+IN_SM_BD
+Comprar menos ações
+`
+~
+IN_SM_SI
+Vender mais ações
+`
+~
+IN_SM_SD
+Vender menos ações
+`
+~
+IN_SM_S
+Vender as ações
+Clique para vender a ação exibida
+~
+IN_SM_SX
+Vender as ações
+Você só pode negociar ações uma vez por dia em um Challenge Game.
+~
+IN_SM_GD
+Gráfico de preço diário das ações
+Clique para ver o gráfico de preços diários das ações dos últimos 30 dias.
+~
+IN_SM_GM
+Gráfico de preço mensal das ações
+Clique para ver o gráfico de preços mensais das ações dos últimos 36 meses.
+~
+IN_SM_GY
+Gráfico de preço anual das ações
+Clique para ver o gráfico anual de preços das ações dos últimos 30 anos.
+~
+IN_SM_GL
+Gráfico de preço anual das ações
+Clique para ver o gráfico anual do preço das ações ao longo de sua vida útil.
+~
+IN_SM_NW
+Habilitar/Desabilitar notícias de Ação
+Clique para ativar ou desativar a opção de notícias sobre ações. Se esta opção for para compra e venda de ações, ela será destacada na visão da cidade.
+~
+NEWS_L
+Abrir janela de registro de notícias (Tecla de atalho: 'V')
+`
+~
+NEWS_LC
+Fechar janela de registro de notícias (Tecla de atalho: 'V')
+`
+~
+NEWS_B
+Botão de ação de notícias
+`
+~
+IF_S
+Oferta para venda deste estabelecimento
+`
+~
+IF_B
+Comprar esta empresa
+`
+~
+IF_D
+Demolir esta empresa
+`
+~
+IF_PERS
+Detalhes da pessoa
+Clique aqui para ver os detalhes da pessoa.
+~
+IF_SC
+Atalho para o relatório detalhado da empresa
+Clique aqui para abrir o Relatório Detalhado da Corporação
+~
+IF_H
+Guia do gerente (Tecla de atalho: F3)
+`
+~
+IF_W
+Assistente
+`
+~
+IF_L
+Biblioteca do plano de layout (Tecla de atalho: F7)
+Clique para abrir a Biblioteca do Plano de Layout
+~
+IF_F
+Relatório Financeiro (Tecla de atalho: F6)
+Clique para abrir o Relatório Financeiro da Empresa
+~
+IF_AL
+Ligação automática com o fornecedor
+Clique para permitir que as unidades de compra encontrem seus próprios fornecedores. #Clique duas vezes# para aplicar a mudança desta configuração a #todas as suas empresas#.
+~
+IF_T
+Treinamento
+Mova o controle deslizante para alterar o Nível de Treinamento. Com o treinamento, as unidades operacionais em sua empresa avançarão gradualmente para níveis mais altos, melhorando assim sua eficiência.
+~
+IFM_S
+Oferta para vender esta mansão
+`
+~
+IFM_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFM_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFM_D
+Demolir esta mansão
+`
+~
+IFM_B
+Compre esta mansão
+`
+~
+IFM_CO
+Faça uma contra-oferta
+`
+~
+IFF_FW
+Próximo produto
+`
+~
+IFF_BW
+Produto anterior
+`
+~
+IFF_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFF_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFF_PC
+Confirmar mudança no preço de venda
+`
+~
+IFF_GP
+Gráfico de lucro
+Clique para exibir o gráfico de Lucro para este produto
+~
+IFF_GR
+Gráfico de Receitas
+Clique para exibir o gráfico de receita para este produto
+~
+IFF_GQ
+Gráfico da quantidade vendida
+Clique para exibir o gráfico de Quantidade Vendida para este produto
+~
+IFR_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFR_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFR_PC
+Confirmar mudança no preço de venda
+`
+~
+IFR_L
+Vincular este item
+`
+~
+IFR_GP
+Gráfico de lucro
+Clique para exibir o gráfico de Lucro para este produto
+~
+IFR_GR
+Gráfico de Receitas
+Clique para exibir o gráfico de receita para este produto
+~
+IFR_GQ
+Gráfico da quantidade vendida
+Clique para exibir o gráfico de Quantidade Vendida para este produto
+~
+IFT_PP
+Produto anterior
+Clique para exibir o produto anterior
+~
+IFT_NP
+Próximo produto
+Clique para exibir o próximo produto
+~
+IFT_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFT_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFT_PC
+Confirmar mudança no preço de venda
+`
+~
+IFT_L
+Vincular este item
+`
+~
+IFT_GP
+Gráfico de lucro
+Clique para exibir o gráfico de Lucro para este produto
+~
+IFT_GR
+Gráfico de Receitas
+Clique para exibir o gráfico de receita para este produto
+~
+IFT_GQ
+Gráfico da quantidade vendida
+Clique para exibir o gráfico de Quantidade Vendida para este produto
+~
+IFD_PP
+Projeto de Pesquisa Anterior
+Clique para exibir o Projeto de Pesquisa anterior
+~
+IFD_NP
+Próximo projeto de pesquisa
+Clique para exibir o próximo Projeto de Pesquisa
+~
+IFS_PP
+Produto anterior
+Clique para exibir o produto anterior
+~
+IFS_NP
+Próximo produto
+Clique para exibir o próximo produto
+~
+IFS_L
+Vincular este item
+`
+~
+IFS_GP
+Gráfico de lucro
+Clique para exibir o gráfico de Lucro para este produto
+~
+IFS_GR
+Gráfico de Receitas
+Clique para exibir o gráfico de receita para este produto
+~
+IFS_GQ
+Gráfico da quantidade vendida
+Clique para exibir o gráfico de Quantidade Vendida para este produto
+~
+IFB_BI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFB_BD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFB_BC
+Emprestar dinheiro
+`
+~
+IFB_RI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFB_RD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFB_RC
+Reembolsar o empréstimo
+`
+~
+IFA_PP
+Produto anterior
+Clique para exibir o produto anterior
+~
+IFA_NP
+Próximo produto
+Clique para exibir o próximo produto
+~
+IFA_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFA_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFA_L
+Vincular este item
+`
+~
+IFA_GP
+Gráfico de lucro
+Clique para exibir o gráfico de Lucro para este produto
+~
+IFA_GR
+Gráfico de Receitas
+Clique para exibir o gráfico de receita para este produto
+~
+IFA_GQ
+Gráfico da quantidade vendida
+Clique para exibir o gráfico de Quantidade Vendida para este produto
+~
+IFH_DI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito para aumentar a uma taxa mais alta
+`
+~
+IFH_DD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa mais alta
+`
+~
+IFH_DC
+Confirme o novo dividendo
+`
+~
+IFH_DN
+Cancelar
+`
+~
+IFH_DS
+Definir novo dividendo
+Definir dividendo a ser pago aos acionistas no final do exercício
+~
+IFH_TI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito para aumentar a uma taxa mais alta
+`
+~
+IFH_TD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa mais alta
+`
+~
+APPL_ALL
+Aplicar tudo
+Aplique a alteração a todas as suas empresas
+~
+APPL_SEL
+Aplicar a seleção
+Vá para o relatório Empresas e selecione as suas empresas que deseja aplicar a alteração
+~
+IFH_TO
+Organizar um Programa de Treinamento Intensivo
+`
+~
+IFH_CED
+Exibir detalhes do Diretor Geral
+`
+~
+IFH_COD
+Você pode designar o COO para administrar suas empresas individuais. Clique aqui para ver detalhes do perfil.
+`
+~
+IFH_COC
+Contratar um novo Chefe de Operações.
+Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.
+~
+IFH_CMD
+A CMO gerencia todas as suas unidades de publicidade. Clique aqui para ver detalhes do perfil.
+`
+~
+IFH_CMC
+Contrate um novo diretor de marketing.
+Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.
+~
+IFH_CTD
+O CTO gerencia todos os seus centros de P&D. Clique aqui para ver detalhes do perfil.
+`
+~
+IFH_CTC
+Contrate um novo Diretor de Tecnologia.
+Quando você clica nesse botão, a tela Pessoa é exibida, permitindo que você selecione uma pessoa a ser contratada.
+~
+IFH_IRD
+Ajuste mensal de gastos
+`
+~
+IFH_PRD
+Ajustar os gastos mensais nos esforços de relações com investidores
+`
+~
+IFH_WAI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFH_WAD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFH_WAO
+Faça sua oferta
+`
+~
+IFH_WAN
+Cancelar
+`
+~
+IFM_L
+Link esta Media
+`
+~
+IFM_BD
+Clique para definir o orçamento mensal para o desenvolvimento de novos conteúdos.
+O desenvolvimento de novos conteúdos é essencial para aumentar a classificação de qualidade do conteúdo. Uma classificação de qualidade de conteúdo mais alta leva a pontos de classificação mais altos.
+~
+IFM_BL
+Ajustar orçamento de licenciamento
+`
+~
+IFM_AD
+Clique para definir os preços de publicidade do próximo mês.
+Os novos preços de publicidade (o custo por mil impressões) entrarão em vigor no próximo mês.
+~
+IFI_AI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFI_AD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFI_PI
+Clique no botão esquerdo do mouse para aumentar. Clique com o botão direito do mouse para aumentar a uma taxa maior.
+`
+~
+IFI_PD
+Clique no botão esquerdo para diminuir. Clique com o botão direito do mouse para diminuir a uma taxa maior.
+`
+~
+IFI_IS
+Emissão de novas ações
+`
+~
+MG_EX1
+Clique aqui para ver os produtos que são fabricados com este semi-produto.
+`
+~
+MG_EX2
+Clique aqui para ver como este material de entrada é produzido.
+`
+~
+MG_EX3
+Este é um produto agrícola. Clique aqui para ver como este material de entrada é produzido.
+`
+~
+MG_EX4
+Clique aqui para ver como isto pode ser usado para fazer outros produtos.
+`
+~
+IF_ADD
+Clique aqui para adicionar um novo produto (Tecla de atalho: A)
+`
+~
+IF_ADD2
+Atalho para a seleção de um plano de layout para esta empresa.
+`
+~
+IF_ADD3
+Montar uma nova produção para esta empresa.
+`
+~
+IFM_C
+Cancelar a venda da Mansão
+`
+~
+IFM_XM
+Fechar
+`
+~
+IFT_PMSB
+Indicador de participação no mercado de produtos
+A barra vermelha informa a sua participação de mercado para este produto na cidade atual.
+~
+IFT_PRB
+Indicadores de classificação do produto
+Barra laranja = Classificação da marca. Barra verde = Classificação da qualidade. Barra amarela = Classificação do preço. A classificação geral do produto é a soma total dessas 3 classificações.
+~
+IFT_PRB2
+Indicadores de classificação do produto
+Barra verde = Classificação da qualidade. Barra amarela = Classificação do preço. A classificação geral do produto é a soma total dessas 2 classificações.
+~
+IFT_CITY
+Média da cidade
+Ele mostra as classificações médias deste produto na cidade atual. As classificações médias são derivadas dos produtos de seus concorrentes e de seus produtos. Portanto, se as classificações de seu produto forem superiores às médias da cidade, seus produtos venderão melhor.
+~
+IFT_SD
+Indicadores de oferta e demanda de produtos
+Barra amarela = o fornecimento. Barra laranja = a Demanda. Quando a barra de demanda (laranja) é mais longa que a barra de oferta (amarela), significa que você não tem oferta suficiente para atender à demanda.
+~
+ISUPPLY
+Indicador de fornecimento de produtos
+Ele mostra que a porcentagem da demanda do produto nesta unidade de compra é atendida pela oferta.
+~
+U_LEVEL
+Nível de experiência da unidade
+Uma unidade com maior nível de experiência tem # maior capacidade# e #mais alta produtividade#. O nível de uma unidade pode ser aumentado através de #treinamento#.
+~
+U_UTIL
+Taxa de utilização da capacidade
+Uma alta taxa de utilização significa que a unidade está operando eficientemente. Uma taxa baixa significa que a unidade tem tempo ocioso e sua capacidade é subutilizada.
+~
+U_STOCK
+Estoque na Unidade
+O estoque mantido na unidade atual.
+~
+U_WORKER
+Trabalhadores na Unidade
+Trabalhadores novatos usam uniformes vermelhos, enquanto trabalhadores experientes usam uniformes azuis. Quando todos os trabalhadores de uma unidade se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isto).
+~
+LO_IN_E1
+Clique aqui para selecionar esta unidade funcional. Clicar duas vezes para mudá-lo
+`
+~
+LO_IN_E2
+Clique duas vezes aqui para adicionar uma unidade funcional
+`
+~
+LO_IN_E3
+Tecla de atalho: Pressione a primeira letra do nome de uma unidade funcional para adicioná-la instantaneamente.
+`
+~
+IFT_PBI
+Indicador de marca do produto
+A cor mostrada aqui diz qual empresa é a produtora deste produto. As cores cinzas significam importações de portos marítimos.
+~
+JU_001
+Parar a ligação atual
+`
+~
+JU_002
+Link para uma nova empresa de mídia para publicidade
+`
+~
+JU_003
+Cultivo de cultura
+`
+~
+JU_004
+Criar gado
+`
+~
+JU_005
+Selecione o produto
+`
+~
+JU_006
+Estoques vazios
+`
+~
+JU_007
+Atualizar a tecnologia de produção
+Atualize esta unidade de fabricação para usar a mais recente tecnologia de produção que sua empresa possui.
+~
+JU_008
+Definir produção
+Mais de um tipo de produto pode ser produzido usando as entradas existentes. Clique aqui para selecionar o tipo de produção de sua preferência.
+~
+JU_009
+Link para um novo fornecedor
+`
+~
+JU_010
+Mostrar o fornecedor atual
+`
+~
+JU_011
+Interromper a compra do fornecedor atual
+`
+~
+JU_012
+Limpar todo o estoque existente
+`
+~
+JU_013
+Pesquisa e desenvolvimento de novo software
+`
+~
+JU_014
+Iniciar um projeto de P&D para uma nova invenção de produto.
+`
+~
+JU_015
+Inicie um projeto de P&D para melhorar a tecnologia de produção.
+`
+~
+J_RADRD
+Lance um projeto de radical de pesquisa e desenvolvimento para melhorar a tecnologia de produção.
+`
+~
+J_RADRDX
+Projeto radical de P&D não é possível.
+A habilidade de P&D do gerente desta empresa de P&D deve ser de pelo menos 20 para iniciar um projeto radical de P&D.
+~
+JU_016
+Aplique a mais recente tecnologia de produção à unidade de fabricação atual.
+`
+~
+JU_017
+Encerrar suprimentos para clientes existentes.
+`
+~
+JU_018
+Limpe o estoque existente deste produto.
+`
+~
+JU_019
+Limpe o estoque existente deste produto.
+`
+~
+JU_020
+Ativar vendas internas.
+Quando #Venda interna# estiver ativada, os concorrentes não poderão comprar este produto. Se você quiser ativar #Venda interna# por padrão, você pode abrir o menu #Opção# (Tecla de atalho: 'O') e definir #Venda interna padrão# para #Ativado#.
+~
+JU_021
+Ver Clientes
+Veja a lista de clientes que estão comprando este produto.
+`
+~
+VM_001
+Visão da informação
+`
+~
+VM_002
+Vista exterior
+`
+~
+VM_003
+Vista interior
+`
+~
+PD_S_GRP
+Ativar ou desativar o gráfico de venda do produto
+`
+~
+CDR_P_01
+Mostrar produtos que sua empresa produz ou vende no setor de varejo
+`
+~
+CDR_P_02
+Mostrar produtos que sua empresa produz
+`
+~
+CDR_P_03
+Mostrar produtos que sua empresa vende no setor de varejo
+`
+~
+CDR_T_01
+Mostrar todas as tecnologias.
+`
+~
+CDR_T_02
+Mostre aqui se o nível tecnológico de sua empresa >= 30.
+`
+~
+CDR_T_03
+Mostrar apenas todos os produtos que sua empresa está produzindo atualmente.
+`
+~
+CDR_T_04
+Mostrar apenas tecnologias que sua empresa está pesquisando atualmente.
+`
+~
+CDR_T_GO
+Ir para o centro de P&D responsável
+Ir ao seu centro de P&D responsável pela pesquisa da tecnologia selecionada. Você também pode clicar duas vezes em um registro de P&D para fazer o mesmo.
+~
+CDR_D_01
+Mostrar todas as indústrias e classes de produtos
+`
+~
+CDR_D_02
+Mostrar apenas indústrias e classes de produtos em que sua empresa tem participação no mercado
+`
+~
+CDR_D_03
+Mostrar apenas as indústrias e classes de produtos que sua empresa domina
+`
+~
+MFT_IN
+Para localizar uma entrada específica, digite a primeira letra de seu nome.
+`
+~
+MFT_OUT
+Para localizar uma saída específica, digite a primeira letra de seu nome.
+`
+~
+PLAN_1
+Ir para o próximo plano de layout encontrado.
+`
+~
+PLAN_2
+Adicionar o layout atual da empresa à biblioteca de planos
+`
+~
+PLAN_3
+Apagar este plano de layout
+`
+~
+PLAN_4
+Substituir este plano de layout com o layout atual da empresa.
+`
+~
+PLAN_5
+Ordene os planos de layout desta biblioteca por suas descrições.
+`
+~
+PLAN_6
+Use este plano de layout nesta empresa atual.
+`
+~
+PLAN_7
+Sair da biblioteca do plano de layout
+`
+~
+PLAN_8
+Suprimentos disponíveis
+`
+~
+CH_CHAT
+Clique neste ícone ou pressione ENTER para digitar uma mensagem de chat.
+`
+~
+CH_ALL
+Selecione isto e a mensagem será enviada a todos os jogadores
+`
+~
+CH_COLOR
+Selecione uma cor e a mensagem só será enviada para o jogador com essa cor
+`
+~
+CH_CLOSE
+Feche esta janela de bate-papo
+`
+~
+CH_LOG
+Abrir o registro do bate-papo
+`
+~
+RENTFIXA
+Fixar o aluguel deste apartamento à taxa de mercado.
+Se isto for ativado, o computador ajustará automaticamente o aluguel do apartamento com base na tarifa de mercado. Você também pode colocar um modificador no topo da taxa de mercado. Por exemplo, você pode definir que o aluguel de seu apartamento seja sempre 10% mais alto do que a taxa do mercado.
+~
+RENTFIXC
+Fixar o aluguel deste edifício comercial à taxa de mercado.
+Se isso for ativado, o computador ajustará automaticamente o aluguel do edifício comercial com base na tarifa de mercado. Você também pode colocar um modificador no topo da taxa de mercado. Por exemplo, você pode definir que o aluguel de seu edifício comercial seja sempre 10% mais alto do que a taxa do mercado.
+~
+BUYFIRMA
+Este apartamento está à venda. Clique aqui para comprá-lo.
+`
+~
+BUYFIRMC
+Este edifício comercial está à venda. Clique aqui para comprá-lo.
+`
+~
+FORSALEA
+Clique aqui para colocar este apartamento à venda. Clique novamente para cancelá-lo.
+`
+~
+FORSALEC
+Clique aqui para colocar este edifício comercial à venda. Clique novamente para cancelá-lo.
+`
+~
+DEMOLISA
+Demolir este apartamento.
+`
+~
+DEMOLISC
+Demolir este edifício comercial.
+`
+~
+AR_COMM
+Instalações Comunitárias
+Aumente esta classificação construindo mais instalações comunitárias próximas a este apartamento.
+~
+AR_SHOP
+Shopping de Conveniência
+Aumente esta classificação construindo mais lojas de varejo perto de apartamentos.
+~
+AR_GREEN
+Ranking Ambiental e Esportivo
+Manter uma distância entre este apartamento e outros prédios, especialmente fábricas e minas. As instalações esportivas e os parques também ajudarão.
+~
+AR_RENT
+Atratividade de aluguel
+Aumente esta classificação diminuindo o aluguel que você está pedindo.
+~
+AR_OVERA
+Classificação geral
+A classificação geral é uma combinação das classificações acima.
+~
+CR_DIST
+Distância para o Distrito Central de Negócios(DCN)
+Quanto menor a distância para o Distrito Central de Negócios(DCN), maior é a classificação.
+~
+CR_COMMU
+Conveniência de viagem
+Uma alta taxa de conforto significa que há edifícios residenciais nas proximidades e a distância de viagem é curta.
+~
+F_OSALE
+Está à Venda
+Clique aqui para colocar esta empresa à venda. Clique novamente para cancelá-lo.
+~
+F_AISALE
+Comprar Empresa
+Esta empresa está à venda. Clique no botão [Comprar Empresa] abaixo para comprá-lo.
+~
+F_BUY
+Clique para comprar esta empresa
+`
+~
+F_MOVDEM
+Realocar ou Demolir esta empresa (Tecla de atalho: Ctrl-X)
+Você pode realocar esta empresa na mesma cidade, ou demoli-la.
+~
+F_DEMOLI
+Demolir esta empresa
+`
+~
+ASSIGN_M
+Clique aqui para definir o gerente desta empresa (Tecla de atalho: 'z').
+`
+~
+F_GRAPH
+Clique aqui para alternar entre os modos de exibição
+`
+~
+P_SEARCH
+Busca de um produto específico (Tecla de atalho: Tab)
+`
+~
+P_PREV
+Produto anterior (Tecla de atalho: 'u')
+`
+~
+P_NEXT
+Próximo produto (Tecla de atalho: 'x')
+`
+~
+P_GO
+Ir para a empresa que vende ou produz este produto (Tecla de atalho: Enter)
+`
+~
+CS_LOGO
+Clique aqui para ir para a página de Detalhes Corporativos.
+`
+~
+CS_PERS
+Clique aqui para ir para a página de Pessoas.
+`
+~
+CS_PROF
+Clique aqui para ir para a página de Finanças.
+`
+~
+CS_STOCK
+Clique aqui para ir para a Bolsa de Valores.
+`
+~
+I_CSUM
+Tecla de atalho: 'C'
+`
+~
+I_CDET
+Tecla de atalho: 'D' ou F10
+`
+~
+I_PSUM
+Atalho: 'P'
+`
+~
+I_PDET
+Atalho: 'R'
+`
+~
+I_FIRM
+Atalho: 'F'
+`
+~
+I_FINAN
+Atalho: 'I'
+`
+~
+I_PERSON
+Atalho: 'E'
+`
+~
+I_GOAL
+Atalho: 'G'
+`
+~
+I_SCORE
+Atalho: F7
+`
+~
+I_MFT
+Atalho: F1
+`
+~
+I_FARM
+Atalho: F2
+`
+~
+I_MANAG
+Atalho: F3
+`
+~
+I_CITY
+Atalho: 'T'
+`
+~
+I_NATION
+Atalho: 'Y'
+`
+~
+I_ECO
+Atalho: 'Y'
+`
+~
+I_FINACT
+Atalho: F11
+`
+~
+I_STOCK
+Atalho: F4
+`
+~
+CTRAFFIC
+Índice de tráfego de clientes nesta área
+Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta loja varejista.
+~
+FIRM_REP
+Atalho para o resumo da Empresa
+Clique aqui para acessar o relatório Resumo da Empresa
+~
+SUBSONLY
+Mostre apenas sua corporação e subsidiárias
+Clique aqui para ativar e desativar este filtro.
+~
+SHOWNP
+Exibir notícias em pop-up
+Ativar ou desativar a possibilidade de exibir janelas de informação para notícias importantes.
+~
+T_PGROW
+Crescimento populacional da cidade
+O crescimento populacional de uma cidade é sustentado por 1) #uma baixa taxa de desemprego#, 2) #alta qualidade de vida#, e 3) #abastecimento habitacional suficiente#. A taxa de crescimento populacional é o resultado da comparação da população da cidade no início deste ano com o mesmo período do ano passado.
+~
+T_POP
+População da Cidade
+Isso mostra que a população da cidade muda com o tempo.
+~
+T_IMMIG
+Imigrantes Anuais
+O número de pessoas que imigram para a cidade anualmente. 
+~
+T_EMIG
+Emigrantes anuais
+O número de pessoas que emigram da cidade anualmente.
+~
+T_QLIVE
+Qualidade de vida da cidade.
+As pessoas desfrutam melhor de suas vidas quando moram em apartamentos com bom acesso a instalações comunitárias e esportivas, um ambiente verde e boas compras, além de um salário real mais alto.
+~
+T_JOBOPE
+O número de vagas de emprego na cidade
+Geralmente, quando há um grande número de vagas disponíveis na cidade, a cidade pode se dar ao luxo de aceitar imigrantes em um ritmo mais rápido.
+~
+T_HOUSE
+Índice de oferta e demanda de moradias
+Um valor positivo significa que a oferta de moradias é maior que a demanda de moradias e vice-versa.
+~
+T_OFFICE
+Índice de demanda e oferta de escritórios
+Um valor positivo significa que a oferta de espaço para escritório é maior que a demanda de espaço para escritório e vice-versa.
+~
+E_GDP
+Crescimento do Produto Interno Bruto (PIB)
+O crescimento do PIB é afetado pelos gastos dos consumidores, investimentos privados, gastos do governo e exportações líquidas.
+~
+E_GDPPC
+Produto Interno Bruto (PIB) per capita
+Este valor indica o valor aproximado dos bens produzidos por pessoa na cidade. Equivale ao PIB total dividido pelo número total de pessoas na cidade.
+~
+E_GDPTOT
+Produto Interno Bruto Total (PIB)
+O PIB total é a soma do consumo, do investimento privado, dos gastos do governo e das exportações líquidas.
+~
+E_UNEMP
+Taxa de Desemprego
+A taxa de desemprego tende a cair quando o crescimento do PIB é saudável e as empresas privadas se expandem e criam novos empregos.
+~
+E_RWAGE
+Taxa Salarial Real
+O salário real refere-se aos salários que foram ajustados pela inflação. Uma taxa salarial real crescente significa que as pessoas estão ganhando mais dinheiro, mesmo depois de serem ajustadas pela inflação.
+~
+E_WAGE
+Taxa salarial 
+Uma taxa salarial crescente significa que as pessoas estão ganhando mais dinheiro.
+~
+E_INFLAT
+Taxa de Inflação
+A taxa de inflação é afetada pela taxa de desemprego (as pessoas gastam menos quando estão desempregadas) e pela demanda e oferta de dinheiro (uma maior oferta de dinheiro promove gastos).
+~
+E_IRATE
+Taxa de juros de Empréstimo
+A taxa de juros é definida pelo banco central. Quando a taxa de juros é alta, a oferta de dinheiro também é apertada.
+~
+E_CPI
+Índice de Preços ao Consumidor (IPCI)
+O IPC informa os efeitos acumulados da inflação ao longo dos anos. Ele começa com um valor base de 100 e aumenta durante os tempos de inflação e diminui durante os tempos de deflação.
+~
+NOWAIT1
+Cancelar a espera
+Você usou um plano de layout para esta empresa e o computador está procurando um fornecedor baseado no plano. Clique aqui para cancelá-lo e manuseá-lo manualmente.
+~
+NOWAIT2
+Cancelar a espera
+Você usou um plano de layout para esta empresa e agora está esperando os insumos necessários para fabricar este produto. Clique aqui para cancelar a espera e lidar com ela manualmente.
+~
+ISSUE1
+Emissão de novas ações
+`
+~
+ISSUE0
+Não se pode emitir novas ações para o público com demasiada freqüência.
+Você pode tentar novamente algumas semanas mais tarde.
+~
+WH_ONLY
+Determina se a lista de fornecedores deve mostrar apenas os armazéns.
+`
+~
+BATCH_J
+Mudança de fornecedor em Lote
+Aplique a mesma mudança de fornecedor a outras empresas suas. Vá até o Relatório da empresa e selecione empresas para aplicar a mudança.
+~
+BATCH_F
+Mudança de fornecedor em Lote
+Aplique a mesma alteração de fornecedor que você acabou de fazer a outras empresas. Use Filtros na parte superior desta tela para selecionar empresas para aplicar a alteração.
+~
+RENTMODI
+Defina seu aluguel para uma porcentagem acima ou abaixo do preço atual de mercado.
+`
+~
+RESGOAL
+Redefina todos os objetivos.
+`
+~
+PLANSRC1
+Selecione a pasta que contém planos de layout predefinidos.
+`
+~
+PLANSRC2
+Selecione a pasta que contém planos de layout definidos pelo usuário.
+`
+~
+PLANSRC3
+Selecione a pasta que contém os planos genéricos.
+Os planos de layout Genericos são para fábricas e podem ser usados para produzir quaisquer produtos com o mesmo número de entradas.
+~
+FIRMDES0
+Descrição desta empresa - clique aqui para editar. (Atalho: Enter)
+`
+~
+FIRMDES1
+Clique aqui para terminar de editar a descrição desta firma. (Atalho: Enter)
+`
+~
+PLANDES0
+Descrição deste plano de layout - clique aqui para editar.
+`
+~
+PLANDES1
+Clique aqui para terminar de editar a descrição deste plano de layout.
+`
+~
+CHASORT1
+Ordenar por título de jogo de desafio.
+`
+~
+CHASORT2
+Ordenar por data de início do Concurso.
+`
+~
+CHARANK1
+Inicie um navegador da web e abra a página do Public Challenge Game Rankings.
+`
+~
+CHARANK2
+Inicie um navegador da web e abra a página do Private Challenge Game Rankings.
+`
+~
+SPEEDNO
+Velocidade do jogo (desativado)
+Desculpe, você não pode mudar a velocidade do jogo atual, uma vez que ele é corrigido por um roteiro do jogo.
+~
+U_FUND
+Financiamento adicional para a área de destino.
+Este financiamento ajudará a melhorar a competitividade da cidade na área de destino.
+~
+PRICE_PM
+Maximizar as margens de lucro elevando os preços em detrimento das quotas de mercado e das taxas de utilização de capacidade.
+`
+~
+PRICE_MS
+Preços mais baixos para ganhar quotas de mercado às custas das margens de lucro.
+`
+~
+PRICE_BL
+Equilibrar quotas de mercado e margens de lucro e estabelecer preços de forma sensata.
+`
+~
+FRECON_L
+Ao selecionar um fornecedor, o custo do frete não é um fator importante a ser considerado.
+`
+~
+FRECON_H
+Ao selecionar um fornecedor, o custo do frete é um fator muito importante a ser considerado.
+`
+~
+MYSTAFF
+Limite a lista apenas aos executivos de sua empresa.
+`
+~
+MYGROUP
+Limite a lista para mostrar apenas as pessoas de seu grupo.
+`
+~
+M_SHARE
+Quotas do mercado varejista deste produto
+`
+~
+GETNUM
+Clique aqui para digitar um número exato (Atalho: '=')
+`
+~
+S_OWNED
+Permite exibir apenas as empresas nas quais você possui ações.
+`
+~
+S_ANY
+Exibir todos os tipos de ação.
+`
+~
+S_INDEX
+Exibir apenas o índice de ações.
+`
+~
+S_TECH
+Mostrar apenas as ações de tecnologia.
+`
+~
+S_ESTATE
+Mostrar apenas as ações das imobiliárias.
+`
+~
+S_MEDIA
+Mostrar apenas as ações da mídia.
+`
+~
+S_INVEST
+Ações financeiras
+Mostrar apenas empresas financeiras, incluindo empresas cujas principais atividades comerciais estão investindo em outras empresas.
+~
+S_CONSUM
+Mostrar apenas as empresas que vendem produtos de consumo.
+`
+~
+IS_PRIV
+Esta é uma empresa privada.
+Clique aqui para abrir o Relatório Detalhado da Corporação
+~
+IS_PUBL
+Esta é uma empresa pública
+Clique aqui para acessar o mercado de ações.
+~
+IS_SUBS
+Esta empresa é a subsidiária de sua corporação.
+`
+~
+IS_SHARE
+Você possui ações nesta empresa diretamente ou através de empresas Holding.
+`
+~
+LOADMOD
+Use este MOD.
+`
+~
+RESETMOD
+Redefinir a configuração MOD e usar os recursos padrão do jogo.
+`
+~
+MAYOR_MV
+Realocar esta empresa como parte do planejamento de sua cidade.
+Realocar esta empresa e compensar o proprietário pela diferença no preço do terreno, se houver alguma.
+~
+ZONE_ANY
+Ferramenta de Zoneamento - Qualquer Finalidade
+Use esta ferramenta para remover restrições de uso da terra nos lotes selecionados.
+~
+ZONE_RES
+Ferramenta de zoneamento residencial
+Use esta ferramenta para definir terrenos selecionados para zonas residenciais.
+~
+ZONE_COM
+Ferramenta de Zoneamento Comercial
+Use esta ferramenta para definir terrenos selecionados para zonas comerciais.
+~
+ZONE_RC
+Ferramenta de Zoneamento Residencial-Comercial Misto
+Use esta ferramenta para definir lotes de terreno selecionados para zonas mistas de residenciais e comerciais.
+~
+ZONE_IND
+Ferramenta de Zoneamento Industrial
+Use esta ferramenta para definir parcelas de terreno selecionadas para zonas industriais.
+~
+ZONE_FAR
+Ferramenta de Zoneamento Agrícola
+Use esta ferramenta para definir parcelas de terra selecionadas para zonas agrícolas. O custo da terra nas zonas agrícolas é significativamente mais baixo do que em outras zonas.
+~
+ZONE_NOT
+Ferramenta de Zoneamento - Não está à venda
+Os terrenos marcados por esta ferramenta não estarão à venda.
+~
+Z_SETALL
+Alterna entre os menus para aplicar um uso específico do solo a toda a cidade.
+Escolha uma atribuição de terras e a aplique a toda a cidade.
+~
+ZALL_ANY
+Aplicar a todos - todos os usos 
+Remover as restrições de uso do solo em qualquer parcela de terra de propriedade do governo.
+~
+ZALL_RES
+Aplicar tudo - Zonas Residenciais
+Ajustar os terrenos de toda a cidade atualmente propriedade do governo para zonas residenciais.
+~
+ZALL_COM
+Aplicar Tudo - Zonas Comerciais
+Ajustar as parcelas de terreno da cidade inteira atualmente propriedade do governo para zonas comerciais.
+~
+ZALL_RC
+Aplicar Tudo - Zonas Mistas Residencial-Comercial
+Ajustar todos os terrenos da cidade atualmente propriedade do governo para zonas mistas de residenciais e comerciais.
+~
+ZALL_IND
+Aplicar tudo - Zonas mistas industriais-agrícolas
+Coloca todos os lotes de terra da cidade, atualmente propriedade do governo, em zonas mistas industriais-agrícolas.
+~
+ZALL_NOT
+Aplicar tudo - Não está à venda
+Todos os terrenos de propriedade do governo não estarão à venda.
+~
+OSUSPEND
+Operação suspensa
+A operação deste estabelecimento público está suspensa devido à falta de financiamento do governo.
+~
+QOL_HOUS
+Habitação e Instalações Comunitárias
+Esta classificação é determinada pelo fornecimento de moradias da cidade e pela classificação geral média dos apartamentos existentes.
+~
+QOL_JOBS
+Empregos e Renda
+Essa classificação é determinada pelo nível salarial da cidade, a taxa de desemprego e a taxa individual de imposto de renda.
+~
+QOL_EDU
+Educação
+Esta classificação é determinada pelos índices de satisfação geral das escolas e universidades da cidade (detalhes podem ser vistos na página "Instalações Públicas") e os níveis educacionais dos cidadãos (informações podem ser vistas na janela de detalhes de uma escola ou universidade).
+~
+QOL_HEAL
+Saúde
+Esta classificação é determinada pelos índices de satisfação geral dos Hospitais da cidade (detalhes podem ser vistos na página "Instalações Públicas").
+~
+QOL_SOCI
+Seguridade Social
+Esta classificação é determinada pela taxa de remuneração média dos Benefícios de Desemprego como uma porcentagem do salário de referência nos últimos 3 anos.
+~
+QOL_SAFE
+Segurança
+Esta classificação é determinada pelas classificações de Satisfação geral das delegacias de polícia e bombeiros da cidade (os detalhes podem ser vistos na página "Instalações públicas").
+~
+QOL_FOOD
+Disponibilidade de alimentos no varejo
+A variedade e o fornecimento de alimentos disponíveis no varejo.
+~
+QOL_PROD
+Disponibilidade de produtos no varejo
+A variedade e o fornecimento de produtos de consumo disponíveis no varejo.
+~
+QOL_ENV
+Meio Ambiente
+Esta classificação é determinada pelo nível de poluição da cidade. (Selecione o modo Poluição no mini mapa para ver o nível populacional da cidade).
+~
+QOL_SPOR
+Esportes
+Esta classificação é determinada pelos índices de satisfação geral das instalações esportivas na cidade (detalhes podem ser vistos na página "Instalações Públicas").
+~
+QOL_CULT
+Cultura
+Esta classificação é determinada pelas classificações de satisfação geral da Biblioteca, Museus e Prefeituras da cidade (detalhes podem ser vistos na página "Instalações Públicas").
+~
+P_OPERAT
+Definição do Nível Operacional
+Quando este edifício cívico não está em pleno funcionamento, seu custo operacional é menor. Aconselhamos que você defina isto com base no índice #Oferta/Demanda# exibido na parte inferior desta janela de informações. (Se a demanda for alta, defina a capacidade operacional para um valor maior).
+~
+P_TRAIN
+Use o controle deslizante para definir o orçamento de treinamento do pessoal para este edifício cívico.
+`
+~
+P_TRAIN0
+O orçamento de treinamento de pessoal para este edifício cívico.
+`
+~
+P_FACIUP
+Use o controle deslizante para definir o orçamento para melhorar as instalações deste edifício cívico.
+`
+~
+P_FACIU0
+O orçamento para a modernização das instalações deste edifício cívico.
+`
+~
+P_SKILL
+Nível de habilidade do pessoal
+O nível de habilidade do pessoal é determinado por 1) o nível de educação das pessoas nesta cidade e 2) o orçamento de treinamento do pessoal para este edifício cívico.
+~
+P_FACILI
+Qualidade das instalações
+Um orçamento maior de atualização das instalações leva a uma maior qualidade das instalações.
+~
+P_QUALIT
+Qualidade do serviço
+A qualidade do serviço prestado por este edifício cívico é determinada por 1) a habilidade de seu pessoal e 2) a qualidade de suas instalações.
+~
+P_DEMAND
+Índice de Oferta/Demanda para os serviços prestados por este edifício cívico
+Este índice informa se você tem edifícios cívicos suficientes na cidade para atender as demandas dos cidadãos pelos serviços. Um valor inferior a 100 significa que não consegue acompanhar a demanda atual e você deve construir mais edifícios deste tipo.
+~
+P_COVERP
+Cobertura geográfica da polícia
+Um alto valor significa que diferentes regiões da cidade têm uma boa cobertura policial. Por outro lado, um valor baixo indica que algumas regiões da cidade não têm cobertura policial adequada.
+~
+P_COVERF
+Cobertura geográfica dos serviços do Bombeiro
+Um alto valor significa que diferentes regiões da cidade têm uma boa cobertura dos serviços do Bombeiro. Por outro lado, um valor baixo indica que algumas regiões da cidade não têm cobertura adequada dos serviços de incêndio.
+~
+P_CONVEN
+Conveniência do local
+Um alto valor significa que as pessoas que vivem em diferentes regiões da cidade são bem servidas. Por outro lado, um valor baixo indica que as pessoas em algumas regiões da cidade não têm um bom acesso aos serviços.
+~
+P_OVERAL
+A satisfação geral dos cidadãos com os serviços
+Este é um produto dos três valores acima e, em última análise, diz se o prefeito está fazendo um bom trabalho fornecendo serviços deste tipo para os cidadãos.
+~
+PO_IMMIG
+Limite anual para imigrantes
+Quando uma cidade não tem oportunidades de emprego suficientes para novos imigrantes, ou quando suas instalações públicas não conseguem acompanhar a demanda de sua crescente população, é provável que a cidade aperte sua política de imigração.
+~
+PO_S_TAX
+Taxas de impostos ao consumidor
+Os impostos ao consumidor são cobrados sempre que o consumidor gasta dinheiro em mercadorias. (Imposto = Preço do produto X Taxa de imposto ao consumidor). Quando a taxa de imposto de consumo de uma cidade é muito alta, os gastos dos consumidores diminuirão. Os fracos gastos dos consumidores, por sua vez, afetarão negativamente o setor empresarial.
+~
+PO_I_TAX
+Taxa de Imposto de Renda de Pessoa Física
+Quando a taxa de imposto de renda individual de uma cidade é muito alta, isso terá um efeito negativo sobre os gastos dos consumidores. Além disso, a categoria "Emprego e renda" do índice de Qualidade de Vida também sofrerá uma queda.
+~
+PO_P_TAX
+Taxa de imposto sobre o lucro corporativo
+Uma alta taxa de imposto sobre o lucro corporativo traz maior receita fiscal para a cidade, enquanto um imposto sobre o lucro corporativo baixo atrai investimentos comerciais.
+~
+PO_UNEMP
+Taxa de Pagamento de Benefícios de Desemprego
+A taxa de remuneração do subsídio de desemprego como porcentagem do salário de referência.
+~
+PO_AUTOM
+Gerenciar empresas de mídia automaticamente
+Quando isso está ativado, o computador gerencia  automaticamente todas as empresas de mídia da cidade.
+~
+PO_AUTOA
+Gestão automática de apartamentos
+Quando isso for ativado, o computador gerenciará automaticamente todos os apartamentos da cidade existentes para você. Ele definirá os aluguéis dos apartamentos com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.
+~
+PO_AUTOC
+Gerenciamento automático de edifícios comerciais
+Quando isto for ativado, o computador gerenciará automaticamente todos os edifícios comerciais existentes da cidade para você. Ele definirá os aluguéis dos edifícios comerciais com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.
+~
+EMIGRATI
+Pessoas que emigram da cidade.
+O baixo valor deste aspecto da qualidade de vida fez com que algumas pessoas emigrassem desta cidade para outras cidades.
+~
+MAPPUBLIC
+Mini mapa - Modo de serviço público
+O mini mapa mostra atualmente a cobertura geográfica deste tipo de construção cívica. Clique aqui para selecionar outro tipo de edifício cívico.
+~
+MAPPUBNIL
+Mini mapa - Modo de serviço público
+Clique aqui para selecionar um tipo de edifício cívico para o mini mapa para exibir a cobertura geográfica de seus serviços.
+~
+MODE_GOV
+Modo Governo (Atalho: Tab)
+Mudar para o Modo Governo para dar ordens em nome do governo.
+~
+MODE_BUS
+Modo de Negócios  (Atalho: Tab)
+Mudar para o Modo de Negócios para dar ordens em nome da corporação.
+~
+APPROVAL
+Classificação da Aprovação do Prefeito
+A atual taxa de aprovação do prefeito da cidade. Para mais detalhes, consulte a página Cidades no Centro de Informações. Clique aqui para abrir o relatório do prefeito.
+~
+GOALACHI
+Progresso no alcance das metas
+Ele indica seu progresso na realização dos objetivos. Clique aqui para abrir o relatório dos objetivos. (Atalho: G)
+~
+ECO_MAX
+Mostrar a janela de Informações Econômicas
+`
+~
+ECO_MIN
+Ocultar a janela de informações econômicas
+`
+~
+ECO2_MAX
+Estender a janela de Informações Econômicas para exibir informações adicionais.
+`
+~
+ECO2_MIN
+Ocultar a seção ampliada da janela de Informações Econômicas.
+`
+~
+PS_FIND
+Para pesquisar um produto, basta digitar a primeira letra do nome do produto.
+`
+~
+PS_CITY
+Selecione a cidade onde os fornecedores estão localizados.
+`
+~
+PS_SUPP
+Teclas de atalho: Use F1, F2 e F3 para selecionar todos os fornecedores, portos marítimos e suas próprias empresas, respectivamente.
+`
+~
+PS_PROD
+Pressione [Enter] a qualquer momento para abrir a lista de filtros do produto.
+Para localizar o produto que você deseja, digite a primeira letra do nome do produto
+~
+CONFIRMP
+Confirmar a mudança de preço (Atalho: '*' ou ']')
+`
+~
+PLAN_PS
+Use a tecla Space para mostrar ou ocultar esta lista suspensa de filtros de produtos.
+O texto vermelho denota que os planos de layout ou insumos não estão disponíveis para o produto.
+~
+PLANPREV
+Atalho: Tecla de seta à esquerda para ir para o plano de layout anterior.
+`
+~
+PLANNEXT
+Atalho: Tecla de seta para a direita para ir para o próximo plano de layout.
+`
+~
+G_MINE
+Construir uma mina para extração de minerais.
+`
+~
+G_OIL
+Construir um poço de petróleo para extração de óleo.
+`
+~
+G_FOREST
+Construir um campo de extração para o processamento de toras em madeira.
+`
+~
+G_BCITY0
+Construção de uma nova cidade (tamanho: 200x200) (desativada)
+Para construir uma nova cidade, primeiro selecione no mapa uma região vazia que tenha massa de terra suficiente.
+~
+G_BCITY1
+Construa uma nova cidade (tamanho: 200x200).
+`
+~
+STK_PRIC
+O preço atual das ações.
+`
+~
+STK_TQTY
+O número total de ações atualmente detidas por todos os seus acionistas.
+`
+~
+STK_CAP
+A capitalização de mercado de uma empresa.
+É igual ao preço das ações multiplicado pelo número total de ações em circulação. Em outras palavras, é o valor total de mercado da empresa no mercado de ações.
+~
+STK_EARN
+Lucro por ação
+O Lucro por ação é o lucro operacional de uma empresa nos últimos 365 dias dividido pelo número total de ações em circulação. Quando uma empresa emite novas ações, o Lucro por ação será diluído, pois o lucro da empresa será dividido por um número maior de ações.
+~
+STK_EQUI
+VPA
+VPA é Valor patrimonial por ação.É o patrimônio líquido da empresa (que você pode visualizar no balanço patrimonial) dividido pelo número total de ações em circulação.
+~
+STK_PE
+Relação preço/lucro ou Preço sobre Valor Patrimonial
+É um múltiplo de avaliação patrimonial, definido como o preço das ações dividido pelo Lucro por Ação. Uma alta relação P/E geralmente significa que as ações são caras, pois as pessoas estão comprando preços altos para comprar as ações, possivelmente movidas pela confiança dos investidores nas perspectivas de crescimento da empresa.
+~
+STK_PB
+Indice VPA ,ou Valor Patrimonial por Ação
+Ele é calculado dividindo o preço atual das ações pelo valor patrimonial por ação. Uma relação VPA inferior a 1,0 significa que a ação está sendo negociada atualmente a um preço inferior ao valor líquido da ação
+~
+STK_DIVI
+Rendimento de Dividendos
+Esta é uma porcentagem calculada dividindo o último dividendo pago pelo preço da ação. Quanto maior o rendimento dos dividendos, mais dinheiro é devolvido a cada investidor quando o dividendo é pago a cada ano.
+~
+STK_RETA
+Retorno total ao acionista (anual)
+Esse percentual é calculado dividindo-se o retorno total aos investidores (que é a soma dos dividendos pagos e ganhos de capital provenientes dos aumentos dos preços das ações nos últimos 365 dias) pelo preço das ações.
+~
+STK_RETL
+Retorno total dos acionistas (Tempo de vida)
+Este percentual é calculado dividindo o retorno total aos investidores (que é a soma de todos os dividendos pagos e ganhos de capital vitalícios decorrentes do aumento do preço das ações), pelo preço das ações.
+~
+PLANALL
+Mostrar todos os planos de layout (F1)
+`
+~
+PLANINPU
+Mostrar apenas planos de layout com todas as entradas disponíveis (F2)
+`
+~
+MOD_DISP
+Mudando o modo de exibição
+Alternar entre o modo de exibição Banner e o modo de exibição Info. (No modo de exibição de banner, se um MOD não tiver um banner, suas informações serão exibidas em seu lugar).
+~
+MOD_DL
+Baixar MODs
+Acesse o fórum MOD do Capitalism Lab para baixar os MODs criados pelo usuário.
+~
+DIVPAYO
+Relação de Pagamento de Dividendos
+É a porcentagem dos ganhos pagos aos acionistas em dividendos. (O Índice de Pagamento de Dividendos é calculado com base no lucro por ação, enquanto o Rendimento do Dividendo é calculado com base no preço das ações.)
+~
+DIVYIELD
+Rendimento real de dividendos
+Esta é uma porcentagem calculada dividindo o último dividendo pago pelo preço da ação. Quanto maior o rendimento dos dividendos, mais dinheiro é devolvido a cada investidor quando o dividendo é pago a cada ano.
+~
+REDIRECT
+Links de fornecimento redirecionado
+Se alguma de suas outras empresas tiver #links de fornecimento quebrados# que exijam o #mesmo item# que #esta unidade de vendas# está vendendo, você pode usar este botão para #redirecionar todos os links de fornecimento afetados# para #esta unidade de vendas#. Por exemplo, a reserva de sua mina #esgotou#, e você acabou de #construir uma nova mina#, então você pode usar este botão para #criar todos os links de fornecimento afetados# para a #nova mina#.
+~
+CUSTMOD
+Usando a pasta MOD
+Atualmente, um MOD está em uso. As imagens personalizadas do produto serão acessadas a partir da pasta "MOD\<nome do mod>\Products" ao invés da pasta "Meus Jogos\Capitalism Lab\Products.
+~
+CUSTOPEN
+Abra a pasta de arquivos onde são armazenadas as imagens de produtos personalizados.
+Para adicionar novas imagens de produtos personalizados ao jogo, salve arquivos de imagem PNG (120x120 pixels) na pasta."
+~
+RDDESIGN
+Abra a interface para adicionar imagens de produtos com design personalizado ao jogo.
+`
+~
+CUSTSORT
+Classificar as imagens de produtos personalizados de acordo com seus níveis tecnológicos requeridos.
+`
+~
+CUSTUSE1
+Adicione o projeto do produto personalizado selecionado em sua biblioteca.
+Você pode então utilizar o projeto do produto em suas unidades de fabricação em suas fábricas.
+~
+CUSTUSE0
+Não é possível adicioná-lo.
+Você já adicionou o projeto do produto personalizado selecionado em sua biblioteca.
+~
+CUSTUSE2
+Não é possível acrescentar este projeto de produto
+Porque você já atingiu o número máximo de projetos de produtos que você pode adicionar à sua biblioteca. Para aumentar o limite, primeiro aumente o nível tecnológico do produto.
+~
+CUSTEXIT
+Saia desta janela (Atalho: ESC)
+`
+~
+CUSTTECH
+Customização de produtos
+Você pode associar imagens personalizadas a seus produtos e atribuir um nível tecnológico a cada imagem de produto personalizado. Quando seu nível técnico tiver atingido o nível designado, a imagem personalizada será exibida. Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível tecnológico de 300. Quando sua tecnologia Smart Phone chegar a 300, esta imagem personalizada será exibida.
+~
+CUSTHIGH
+Projeto do produto adicionado
+O fundo verde indica que este projeto de produto já foi adicionado à sua biblioteca.
+~
+CITY_C
+O Índice de Competitividade da indústria da cidade.
+Quanto mais alta a classificação de competitividade da cidade, maior é o número de pessoas empregadas na indústria local. Quando a competitividade da cidade for fraca, ela terá que importar grandes volumes de mercadorias, prejudicando o emprego no setor de manufatura.
+~
+GLOBAL_C
+A Classificação de Competitividade Global do setor.
+Quando a classificação de competitividade da cidade exceder a classificação de competitividade global, a cidade estará em condições de exportar seus produtos para o mercado mundial.
+~
+EXPORT
+O volume de exportação da indústria da cidade.
+Haverá exportação quando a classificação de competitividade da cidade exceder a classificação de competitividade global. Uma forte exportação melhorará significativamente o emprego na cidade.
+~
+MFTSHOW
+Mostrar classes de produtos deficientes ou não.
+Clique aqui para alternar se as classes de produtos deficientes devem ser mostradas nesta lista.
+~
+I_PARTY
+Atalho: '!'
+`
+~
+MFT_CUST
+Personalização do produto (Atalho: 'z')
+Clique para abrir o Editor de Personalização de Produto para definir imagens personalizadas para o tipo de produto atual. Um sinal de seleção indica que existem imagens personalizadas definidas para o tipo de produto.
+~
+INSALE_GR
+O Grupo Supera a Venda Interna
+Se isto for permitido, qualquer empresa em sua Corporação e #subsidiárias# poderão sempre comprar produtos uma da outra, independentemente do ajuste #Venda Interna#.
+~
+JMFTCUST
+Personalizar o nível de tecnologia de produção para esta unidade de fabricação.
+Se desejar, você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.
+~
+CUSTRESE
+Redefinir o projeto personalizado.
+Revertê-lo de volta à sua imagem original do produto.
+~
+CUSTTEC2
+Personalizar o nível da tecnologia de produção.
+Você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente. O nível Tecnologico é exibido abaixo de cada imagem do produto.
+~
+CUSTCHG
+Mudar a tecnologia de produção
+Mudar a tecnologia de produção da unidade de produção atual para o nível selecionado. Isto associará o produto com a imagem selecionada.
+~
+CUSTCHGA
+Mudar a tecnologia de produção de toda a empresa
+Mudar as tecnologias de produção de todas as unidades de produção da empresa atual para o nível selecionado. Isto associará o produto com a imagem selecionada.
+~
+FIRM_OPT
+Relocar, Demolir ou Transferir esta empresa (Atalho: Ctrl-X)
+Você pode realocar esta empresa na mesma cidade, ou demoli-la. Alternativamente, você também pode transferi-la para outra empresa sob seu controle.
+~
+APAR_OPT
+Transferir ou Demolir este apartamento
+Você pode transferir este apartamento para outra empresa sob seu controle, ou demoli-lo.
+~
+COMM_OPT
+Transferir ou Demolir este edifício comercial
+Você pode transferir este edifício comercial para outra empresa sob seu controle, ou demoli-lo.
+~
+BACK_INT
+Integração reversa
+Isso determina se o CEO pode construir fábricas, fazendas e firmas de recursos naturais para fornecer matérias-primas e semiprodutos às fábricas existentes que precisam deles. Quanto maior o valor do controle deslizante, maior a tendência de criação de empresas para integração com integração reversa.
+~
+CITEMNAM
+Clique aqui para nomear a imagem atual personalizada do produto.
+`
+~
+ICRTECH1
+Nível tecnológico necessário para esta imagem de produto personalizada
+Você pode associar imagens personalizadas a seus produtos e atribuir um nível tecnológico a cada imagem de produto personalizado. Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível tecnológico de 300. Quando sua tecnologia Smart Phone chegar a 300, esta imagem personalizada será exibida. Use os botões [+] [-] para definir o nível tecnológico para esta imagem personalizada.
+~
+ICRTECH2
+Nível tecnológico necessário para esta imagem de produto personalizada
+Quando seu nível tecnológico atingir esse nível, a imagem personalizada atual será exibida. Por exemplo, você definiu uma imagem personalizada de Smart Phone com um nível tecnológico de 300. Quando sua tecnologia Smart Phone chegar a 300, esta imagem personalizada será exibida.
+~
+CEOPrice
+Política de preços do CEO
+Marque a caixa para usar uma política de preços específica para este produto em particular. Limpe a caixa de seleção para usar a política geral de preços definida na página Políticas de Gestão do CEO (em Pessoas).
+~
+COOPrice
+Política de preços do COO
+Marque a caixa para usar uma política de preços específica para este produto em particular. Desmarque a caixa para usar a política geral de preços definida na página Políticas de Gerenciamento de COO (sob o relatório Pessoas).
+~
+SHOWLAUN
+Alternar pop-up de notícias sobre lançamento de produto
+Ative ou desative a opção de exibir janelas de notícias sobre lançamentos de produtos personalizados.
+~
+CEOISSUE
+Política do CEO sobre emissão de novas ações
+Se isso estiver desativado, o CEO nunca emitirá novas ações para expandir os negócios. Mas se a empresa estiver sem dinheiro, o CEO terá que emitir novas ações para arrecadar fundos para a sobrevivência da empresa, independentemente dessa configuração.
+~
+E_PPOWER
+Poder de compra
+Poder de compra é a quantidade de bens ou serviços que se pode comprar com uma unidade monetária. A inflação corrói o poder de compra.
+~
+E_CONSUM
+PIB - Consumo
+O PIB é a soma do consumo, dos investimentos, dos gastos governamentais e das exportações líquidas. O consumo é o valor dos bens e serviços comprados pelas pessoas.
+~
+E_INVEST
+PIB - Investimento
+O PIB é a soma do consumo, dos investimentos, dos gastos governamentais e das exportações líquidas. O investimento é o investimento total das empresas.
+~
+E_GOVSP
+PIB - Gastos do Governo
+O PIB é a soma do consumo, dos investimentos, dos gastos governamentais e das exportações líquidas. Gastos do governo é o gasto total feito pelo governo.
+~
+E_NETEXP
+PIB - Exportações líquidas
+O PIB é a soma do consumo, dos investimentos, dos gastos governamentais e das exportações líquidas. Exportações líquidas igual a exportações menos importações.
+~
+E_EXPORT
+Exportações totais
+O valor total das exportações. É utilizado para o cálculo do componente de Exportações Líquidas do PIB.
+~
+E_IMPORT
+Importação total
+O valor total das importações. É utilizado para o cálculo do componente Importações Líquidas do PIB.
+~
+G_CASH
+Fundo da cidade
+A quantidade de dinheiro em espécie atualmente no fundo da cidade.
+~
+G_SURPLU
+Excedente
+A quantidade de excedente que a cidade atual registrou durante os últimos 12 meses.
+~
+G_DEFICI
+Déficit
+A quantidade de déficit que a cidade atual registrou durante os últimos 12 meses.
+~
+PUBFINAN
+Relatório financeiro (Atalho: F6)
+Alternar a exibição do relatório financeiro para esta instalação pública.
+~
+LOWSUPTO
+Baixo Nível de Tolerância de Fornecimento
+Se o valor for definido como baixo, a IA tem menor tolerância a baixa oferta e tem maior tendência a procurar novas ofertas.
+~
+SHOWSUPP
+Mostrar o fornecedor atual (Atalho: W ou U)
+`
+~
+TARBRAND
+Avaliação da marca-alvo
+Quanto maior o valor do controle deslizante, maior será a classificação da marca que o CMO terá como meta alcançar pela publicidade.
+~
+MMAPBRZ
+Plano de Uso do Solo e Relação Comercial.
+Mude para este modo para mostrar o Plano de Uso do Solo e o Modo de Relação Comercial - com uma empresa selecionada, este modo exibirá linhas de ligação com empresas em negócios diretos com a empresa selecionada.
+~
+LANDPRIC
+Índice de preços de terrenos
+Este índice determina os preços que o governo vende suas terras e sítios de recursos naturais a corporações.
+~
+MFACTORY
+Monte sua fábrica para fabricar este produto.
+`
+~
+DEVCITY
+Se há uma cidade desenvolvida no início ou não. O jogo é mais desafiador se você tiver que começar do zero sem uma cidade desenvolvida.
+`
+~
+I_SOFT
+Atalho: F3
+`
+~
+I_SGUIDE
+Atalho: Ctrl-I
+`
+~
+SC_INFLUE
+Componente de pontuação: Influência política atual
+Para cada cidade onde você ou um membro de seu partido político é o prefeito, a população da cidade, o PIB per capita e o índice de aprovação do prefeito determinarão a influência política. Se você é o líder do partido, o valor de influência de cada um de seus membros contribuirá em 50% para o seu.
+~
+SP_INFLUE
+Componente de pontuação: Influência política do passado
+Seu cálculo é semelhante à Influência Política Atual. É a acumulação de todos os valores de influência política do passado x 50%.
+~
+N_PGROW
+Crescimento da população
+O crescimento da população de uma nação é apoiado por 1) #uma baixa taxa de desemprego#, 2) #alta qualidade de vida#, e 3) #abastecimento habitacional suficiente#. A taxa de crescimento da população é resultado da comparação da população da nação no início deste ano com o mesmo período do ano passado.
+~
+N_POP
+População
+Isto mostra que a população da nação muda com o tempo.
+~
+SURVIVAL
+Modo de Sobrevivência
+Habilite o modo de sobrevivência se você gosta do desafio de construir uma nação a partir do zero. Quando o Modo de Sobrevivência estiver ativado, as opções disponíveis no menu Novas configurações de jogo serão diferentes para refletir o novo mecanismo de jogabilidade.
+~
+Floor1
+Selecione o 1º andar
+Você pode usar as teclas PageUp e PageDown para alternar entre andares.
+~
+Floor2
+Selecione o 2º andar
+Você pode usar as teclas PageUp e PageDown para alternar entre andares.
+~
+Floor3
+Selecione o 3º andar
+Você pode usar as teclas PageUp e PageDown para alternar entre andares.
+~
+NewFloor
+Montar um novo andar
+`
+~
+PUB_MOVE
+Realocar este edifício.
+`
+~
+PUB_DEL
+Demolir este edifício.
+`
+~
+MFTSUPP0
+O fornecimento deste item não está disponível no mercado.
+`
+~
+MFTSUPP1
+O fornecimento deste item está disponível no mercado.
+`
+~
+MFTFACT
+Use o Guia do fabricante para montar a fábrica de produção.
+Clique aqui para acessar a versão especial do Guia do Fabricante e usá-lo para configurar o layout de produção de sua fábrica instantaneamente.
+~
+POTENTIA
+Potencial
+A velocidade na qual a habilidade de um funcionário aumenta é afetada pelo potencial do funcionário e pelo orçamento de treinamento da empresa.
+~
+MMAPMMV2
+Modo Valor do Terreno
+Clique para alternar o modo de valor do terreno - cores mais escuras indicam valores de terreno altos
+O ponto vermelho indica o DCC (distrito comercial central).
+~
+PO_ACIV
+Níveis de operação de autoajuste de edifícios cívicos
+Quando isso for ativado, o computador ajustará automaticamente os níveis de operação de todas as instalações cívicas da cidade para você. Estabelecerá os níveis de operação com base nas exigências das instalações cívicas.
+~
+S_RETECH
+Tecnologia Requerida Realizada?
+Cada tipo de software depende de determinada tecnologia. Sua empresa deve possuir o nível técnico mínimo exigido para cada tecnologia a fim de criar o produto de software. Para ver os detalhes, abra o Guia do Software no Centro de Informações.
+~
+IPLIMIT
+Criação de IP 
+No jogo, cada jogador tem a capacidade de criar um IP a partir do zero. Você já criou um IP e, portanto, não pode criar mais IPs.
+~
+OM_RD_A
+Desativar notificações de conclusão de P&D
+Clique para desativar as notificações sobre a conclusão de projetos de P&D no Event Tracker.
+~
+OM_RD_B
+Habilitar notificações de conclusão de P&D
+Clique para habilitar notificações sobre a conclusão de projetos de P&D no Event Tracker.
+~
+F_SUPPLY
+Procure por melhores suprimentos
+Isto determina se o executivo de IA deve procurar melhores suprimentos em lojas, fábricas e armazéns de varejo. (#Melhor oferta significa produtos com classificações gerais mais altas sem falta de oferta.#) A IA NÃO mudará o tipo de produto quando se abastecer de novas fontes.
+~
+F_RETAIL
+Procurar produtos melhores para vender em lojas de varejo
+Isto determina se o executivo de IA deve procurar produtos melhores para vender somente em lojas de varejo. (#Melhor oferta significa produtos com classificações gerais mais altas, sem falta de oferta.#) A IA pode alterar os tipos de produtos à vontade.
+~
+NEWSOFT
+Novo produto de software
+Iniciar um projeto para desenvolver um novo produto de software com um novo nome de produto.
+~
+NEWVER
+Nova versão
+Iniciar um projeto de desenvolvimento de uma nova versão do produto de software que foi previamente concluída aqui.
+~
+PRICEAGR
+Você tem um acordo de preços com o fornecedor deste produto.
+Quando você vende um produto que é proveniente de um fornecedor externo, se o fornecedor também estiver vendendo o mesmo produto em sua própria loja de varejo, você terá que concordar com o preço de varejo estabelecido pelo fornecedor. Isto é para evitar que o fornecedor não seja prejudicado no mercado. (Clique aqui agora para ver o fornecedor).
+~
+LOYALTY
+Lealdade dos funcionários
+Você pode aumentar a lealdade dos funcionários das seguintes maneiras: 1) dar aumentos salariais 2) estabelecer um orçamento de treinamento mais elevado. Um funcionário com um nível de lealdade de 80 ou superior não será caçado pela concorrência.
+~
+IF_ADDS
+Montar esta fábrica para a produção de produtos de software.
+`
+~
+AUTOSOFT
+Desenvolver automaticamente novas versões
+Se isto for ativado, ele desenvolverá automaticamente as próximas versões do software quando uma tecnologia mais avançada tiver sido pesquisada.
+~
+HIREALL
+Contratar todos
+Contratar líderes de equipe para todas as unidades funcionais conectadas com a atual, escolhendo candidatos cujo salário solicitado seja semelhante ao do contratado.
+~
+PRIVONLY
+Mostrar somente empresas privadas
+Clique aqui para ativar e desativar este filtro.
+~
+G_BSCIT0
+Construir uma nova cidade (tamanho: 100X100) ( desativada)
+Para construir uma nova cidade, primeiro selecione no mapa uma região vazia que tenha massa de terra suficiente.
+~
+G_BSCIT1
+Construir uma nova cidade (tamanho: 100x100).
+`
+~
+G_BCMAX
+Construir uma nova cidade (desativada)
+O número máximo de cidades permitido em um jogo foi alcançado. Não se pode construir novos.
+~
+G_BCMAXS
+Construir uma nova cidade (desativada)
+Você pode construir um máximo de 15 cidades. O número máximo de cidades permitido em um jogo foi alcançado. Você não pode construir mais novas.
+~
+EC_ON
+Habilitar as vendas de comércio eletrônico
+Quando você habilitar as vendas de eCommerce para esta empresa, seus sites de eCommerce adicionarão todos os produtos de consumo desta empresa a seu catálogo.
+~
+EC_MARK
+Aumentos de preços para vendas on-line 
+Defina o preço de venda dos produtos desta empresa em seus sites de eCommerce. (Isto se aplica a todos os produtos desta firma).
+~
+EC_PCT
+Vendas de E-Commerce
+O percentual de vendas de produtos desta empresa que são contribuídos pelo comércio eletrônico. Observe que se a produção desta fábrica não atender às demandas de seus clientes comerciais, não haverá estoque disponível para vendas de comércio eletrônico.
+~
+AD_CPM
+Preço atual da publicidade
+O preço da publicidade é medido no custo por mil impressões.
+~
+REACH
+Reach %
+A porcentagem de usuários da Internet em todas as cidades que visitam esta web.
+~
+GOSOFTFM
+Ir para a empresa de software que desenvolve este software.
+`
+~
+ADV_LINK
+Substitua este link por um novo link para outra mídia.
+`
+~
+ADV_GO
+Ir para a mídia
+`
+~
+ADV_DEL
+Apagar este link de mídia.
+`
+~
+ADV_NEW
+Link para uma empresa de mídia
+Fazer publicidade para o site atual em outra empresa de mídia para aumentar o tráfego de visitantes do site atual.
+~
+SLOTIIMG
+Alternar o visor (Atalho: Ctrl-A)
+Alternar a exibição das imagens dos produtos na área de layout 3x3.
+~
+PS_FIND2
+Procure por fornecedores, digitando qualquer uma das seguintes opções:
+Tipos de produtos, classes de produtos, nomes de empresas, nomes de firmas, descrições de firmas e nomes de cidades. Exemplo: digite "Computador Relógio Londres" para procurar por computadores e relógios de fornecedores em Londres. (É suportada a busca inexata).
+~
+ECOMM_GO
+Vá para sua empresa de comércio eletrônico.
+`
+~
+HIREONE
+Contrate
+Contratar um chefe de equipe para a unidade funcional atual.
+~
+HEADHUNT
+Headhunt
+Para recrutar alguém, você deve oferecer-lhe um salário mais alto e um bônus de registro. (Quanto mais leal for a pessoa ao seu atual empregador, maior será o salário que você deve oferecer).
+~
+EMPTRANS
+Transferir
+Transfira este funcionário de outra empresa do seu grupo para a empresa atual.
+~
+HEADSUBS
+Os alvos do Headhunt incluem filiais
+Se isto for permitido, a lista de alvos de headhunt incluirá funcionários de suas empresas subsidiárias.
+~
+WTFILTER
+Filtro de empresas de Internet
+Clique aqui para definir o filtro Empresa para "Todos" e o filtro Tipo de Negócio para "Empresa na Internet".  Use a lista abaixo para limitar a lista de empresas a um tipo específico de empresa de Internet. 
+~
+INET_PR
+Preço atual da Internet
+Esta é a taxa de assinatura mensal que a empresa cobra dos clientes pelos serviços de Internet fornecidos.
+~
+INET_PRX
+Preços do próximo mês da Internet
+Estabelecer uma nova taxa de assinatura mensal da Internet que entrará em vigor no próximo mês.
+~
+OSRATING
+Disponibilité des applications 
+Isto indica se há software de aplicação suficiente disponível para este sistema operacional. Esta classificação é calculada com base na variedade das aplicações de software disponíveis para este sistema operacional e suas classificações de qualidade. Ele contribui para a classificação geral do sistema operacional.
+~
+ESPMODE
+Escolha um modo para definir os preços do comércio eletrônico.
+Você pode estabelecer preços de comércio eletrônico individualmente ou estabelecer uma porcentagem de marcação de preço que se aplica a todos os produtos desta empresa. Clique neste botão para alternar o modo.
+~
+RAISESAL
+Aumentar o salário deste líder de equipe.
+Observe que o salário exibido aqui é o salário anual.
+~
+RAISEALL
+Aumente os salários de todos os líderes de equipe nesta empresa.
+Observe que o salário exibido aqui é o salário anual.
+~
+D_PC
+Usuários de computadores pessoais
+Mostra o número de usuários de computadores pessoais nesta cidade.
+~
+D_PCI
+Usuários de internet
+Ele mostra o número de usuários de computadores pessoais que têm acesso à Internet nesta cidade.
+~
+HIDEINAC
+Ocultar produtos de software inativos
+Não mostre produtos de software que não tenham vendas nos últimos 36 meses.
+~
+INF_BD
+Clique para definir o orçamento mensal para atualizar a infraestrutura.
+O número máximo de assinantes que sua telecom pode atender é limitado por sua capacidade de infraestrutura. Estabelecer aqui um orçamento para melhorar sua capacidade de infra-estrutura se a maior parte de sua capacidade já tiver sido utilizada.
+~
+LOCAL
+Competidores locais
+Há concorrentes locais em cada cidade. Embora suas empresas não sejam mostradas no mapa do jogo, elas competem diretamente com as corporações. A porção branca dos gráficos da torta representa a quota de mercado combinada de todos os concorrentes locais na cidade. Suas classificações de produtos são mostradas aqui.
+~
+CONCERNS
+Preocupações do consumidor
+Quando um consumidor compra um produto, o preço, a qualidade e a marca do produto são considerados. No entanto, a relativa preocupação dos consumidores com esses fatores varia de produto para produto. Um valor mais alto significa que os consumidores estão mais preocupados com esse aspecto ao tomar uma decisão de compra.
+~
+MFT_INPU
+Entrada
+Indica a quantidade de insumos necessários para a produção e o quanto ela contribui para a qualidade do produto acabado.
+~
+BRAND_ST
+Mudar a estratégia da marca
+Você pode mudar a estratégia de marca de sua corporação aqui, clicando em uma das estratégias de marca abaixo.
+~
+D_MOBIL
+Usuários de celulares
+Isto indica o número de usuários de telefones celulares nesta cidade.
+~
+IPONLY
+IP Necessário para a Produção
+Se esta opção for ativada, então as empresas só poderão produzir produtos nesta categoria de produto se forem proprietárias do IP ou tiverem acesso ao IP.
+~
+CITYTOT
+Total de vendas nesta cidade
+Os dados de venda incluem tanto as vendas no varejo quanto as vendas no comércio eletrônico.
+~
+ANALYSIS
+Modo de análise de alternância (Atalho: X)
+Alternar entre o modo de análise e o modo de layout padrão 3x3.
+~
+FA_LEVEL
+Nível de experiência geral da fábrica
+Isto é determinado pelos níveis de experiência de todas as unidades individuais em sua fábrica.
+~
+FA_UTIL
+Taxa de utilização da capacidade total da fábrica
+Uma alta taxa de utilização significa que sua fábrica está operando eficientemente. Uma taxa baixa significa que sua fábrica tem tempo ocioso e sua capacidade é subutilizada.
+~
+FA_STOCK
+Estoque na Fábrica
+O nível de estoque do produto acabado na fábrica.
+~
+FA_INPUT
+Qualidade dos itens de entrada
+A parte da qualidade do produto acabado que é contribuída pela qualidade de seus itens de entrada.
+~
+FA_TECH
+Tecnologia de Produção
+A parte da qualidade do produto acabado que é contribuída pela tecnologia de produção.
+~
+FA_OUTPU
+A qualidade do produto acabado.
+`
+~
+I_BOND
+Atalho: Ctrl-B
+`
+~
+SHOWSUPL
+Mostrar o fornecedor atual.
+`
+~
+IP_OS0
+Sistema operacional para seu IP
+Antes de começar a fabricar hardware usando este IP, você deve primeiro desenvolver um Sistema Operacional para o IP. Para desenvolver um sistema operacional, configure uma empresa de software.
+~
+IP_OS1
+Sistema operacional para seu IP
+Você já desenvolveu um Sistema Operacional para seu IP, agora você pode montar fábricas para fabricar o hardware usando o IP.
+~
+ECOMMVAR
+Qualidade e variedade de produtos
+Esta é uma classificação que varia de 0 a 100, indicando a qualidade e variedade de produtos disponíveis neste site de comércio eletrônico. Juntamente com a classificação de qualidade do site de comércio eletrônico, eles afetam a quantidade de visitantes deste site.
+~
+NEWGAME
+Projeto de um novo jogo
+Iniciar um projeto para desenvolver um novo produto de jogo
+~
+MFTIMOD1
+Mudando o modo de exibição das informações 
+`
+~
+MFTIMOD2
+Mudando o modo de exibição das informações 
+Para Smart Phone, o Classificação de qualidade é determinado por 1) Qualidade da matéria-prima 2) Tecnologia/ Qualidade da produção 3) Qualidade do software OS.
+~
+BANKSKIL
+Nível de Habilidade do Pessoal
+The staff's #skill level# affects the #quality of service# of this bank branch. Você pode definir o #orçamento de treinamento# para fornecer treinamento ao pessoal a fim de aumentar suas habilidades. Se o #City Economics Simulation DLC# estiver habilitado, ele também é afetado pelo #nível de instrução# das pessoas na cidade.
+~
+BANKWAIT
+Tempo de espera do cliente
+Um longo tempo de espera do cliente afeta negativamente a qualidade do #serviço# da filial. Para atender melhor seus clientes, você deve abrir novas agências sempre que o tempo de espera do cliente for assustadoramente longo.
+~
+BANKSERV
+Qualidade do serviço
+A qualidade do serviço desta agência bancária é determinada principalmente pelo #nível de qualificação do pessoal# e pelo #tempo de espera do cliente#. Quando o tempo de espera do #cliente# é superior a 30, começa a afetar negativamente a #qualidade do serviço#.
+~
+BANKBRAN
+Classificação da marca do banco
+A classificação da marca do banco nesta cidade. Para aumentá-la, selecione a aba #Marketing# e crie publicidade.
+~
+LOAN_DEF
+O montante de inadimplência dos empréstimos nos últimos 12 meses.
+`
+~
+BANKFINA
+Demonstrações financeiras
+Veja as demonstrações financeiras deste grupo empresarial, além das deste banco.
+~
+BTRAFFIC
+Índice de tráfego de clientes nesta área
+Quanto maior o índice de tráfego de clientes, maior será o número de clientes potenciais que visitarão esta agência bancária.
+~
+BKHQTRAI
+Orçamento médio de treinamento
+O orçamento médio de treinamento de todas as agências do banco. Se você alterar o orçamento de treinamento aqui, a alteração se aplicará a todas as agências do banco.
+~
+BKHQSKIL
+Nível Médio de Habilidade do Pessoal
+O nível médio de habilidade do pessoal de todas as agências do banco. Afeta a qualidade geral do #serviço# do banco. Se a Simulação Econômica da Cidade DLC# estiver habilitada, o nível de #qualificação# também é afetado pelo nível de #educação# das pessoas.
+~
+BKHQWAIT
+Tempo médio de espera do cliente
+O tempo médio de espera do cliente de todas as agências do banco. Afeta a qualidade geral do #serviço# do banco.
+~
+BKHQSERV
+Qualidade do serviço
+A qualidade média de serviço de todas as agências do banco. É determinado pelo #nível de habilidade do pessoal# e pelo #tempo de espera do cliente#.
+~
+BANKBRAN
+Classificação da marca do banco
+A classificação da marca do banco nesta cidade. Para aumentá-la, selecione a página #Marketing# e crie publicidade.
+~
+LOANALL
+Todos os Empréstimos
+Selecione isto para mostrar todos os empréstimos que foram feitos a empresas e corporações locais. Os empréstimos são agrupados sob diferentes classificações de crédito e o valor total de cada grupo é mostrado.
+~
+LOANGRP
+Empréstimos a Corporações
+Selecione isto para mostrar uma lista de empréstimos que foram feitos a corporações. Note que esses empréstimos, juntamente com os empréstimos a empresas locais, constituem os totais dos empréstimos mostrados na página [Todos os empréstimos].
+~
+DEFALL
+Todos os Defaults
+Selecione esta opção para mostrar todos os empréstimos vencidos que foram inadimplentes.
+~
+DEFGRP
+Defaults por corporações
+Selecione isto para mostrar uma lista de empréstimos feitos a corporações que tenham sido inadimplidas. Observe que estes inadimplentes, juntamente com os inadimplentes de empresas locais, constituem os inadimplentes mostrados na página [Todos os inadimplentes].
+~
+DEPOBRAN
+Depósitos de todas as agências deste banco
+Selecione isto para mostrar todos os depósitos de clientes feitos através de todas as agências deste banco.
+~
+DEPOHQ
+Depósitos na sede
+Selecione isto para mostrar uma lista de depósitos feitos por corporações e pessoas do jogo através da sede do banco.
+~
+INSUFINA
+Demonstrações financeiras
+Veja as demonstrações financeiras deste grupo corporativo, além das da companhia de seguros.
+~
+ITRAFFIC
+Índice de tráfego de clientes nesta área
+Quanto maior o índice de tráfego de clientes, maior o número de clientes em potencial que visitarão esse escritório de seguros.
+~
+INHQTRAI
+Orçamento médio de treinamento
+O orçamento médio de treinamento de todos os escritórios da companhia de seguros. Se você alterar o #orçamento de treinamento# aqui, a alteração se aplicará a todos os front-office.
+~
+INHQSKIL
+Nível Médio de Habilidade do Pessoal
+O nível médio de habilidade do pessoal de todos os escritórios da companhia de seguros. Afeta a qualidade total do #serviço# da seguradora. Se o #City Economics Simulation DLC# estiver habilitado, o nível de habilidade também é afetado pelo #nível de instrução# das pessoas.
+~
+INHQWAIT
+Tempo médio de espera do cliente
+O tempo médio de espera do cliente de todos os front-office de seguros da seguradora. Afeta a qualidade total do #serviço# da seguradora.
+~
+INHQSERV
+Qualidade do serviço
+A qualidade média de serviço de todas as front-office de seguros da seguradora. É determinado pelo #nível de habilidade do pessoal# e pelo #tempo de espera do cliente#.
+~
+INBRAND
+Classificação das marcas de seguros
+A classificação da marca da companhia de seguros nesta cidade. Para aumentá-la, selecione a aba #Marketing# e crie publicidade.
+~
+INPRICE
+Nível de preço do prêmio
+O nível de preços dos prêmios de seguro. Vai de 80 a 120. 100 é normal.
+~
+INAVGPRI
+Prêmio Médio
+O valor médio do prêmio de seguro que esta empresa recebe anualmente por cliente.
+~
+INFINPER
+Desempenho financeiro
+O desempenho financeiro desta seguradora nos últimos 12 meses.
+~
+INPREMIU
+Prémios de seguros
+Rendimentos de prêmios de seguros nos últimos 365 dias
+~
+INPREMI1
+Prêmios das Novas Apólices de Seguros
+Esses são os prêmios de seguro obtidos com novos contratos de seguro nos últimos 365 dias. #As apólices de seguro de vida#, que se supõe que durarão em média 30 anos neste jogo, gerarão receitas de prêmios para a companhia de seguros em uma base anual até o amadurecimento das apólices.
+~
+INPREMI2
+Prêmios de apólices de seguro existentes
+As apólices de seguro de vida existentes fornecem um fluxo confiável de renda de prêmios para a companhia de seguros. Esta figura mostra o valor das receitas de prêmios de seguro das apólices de seguro existentes nos últimos 365 dias.
+~
+INPREMI3
+Total de prêmios de seguro
+Rendas totais dos prêmios de seguro nos últimos 365 dias.
+~
+INCLAIM
+Reclamações
+Total de reclamações pagas aos clientes nos últimos 365 dias.
+~
+OM_WSAD
+Teclas WSAD
+Você pode atribuir as teclas 'W', 'S', 'A' e 'D' como teclas de atalho sensíveis ao contexto ou usá-las para percorrer o mapa da cidade.
+~
+B_ANY
+Mostrar todos os tipos de títulos.
+`
+~
+B_GROUP
+Mostrar somente títulos corporativos.
+`
+~
+B_TOWN
+Mostrar apenas os títulos municipais emitidos pelos governos municipais.
+`
+~
+B_OWNED
+Mostrar apenas os títulos que você possui.
+`
+~
+MFT_SOFT
+Configure esta unidade de fabricação para produzir produtos de software.
+`
+~
+MMFILBLD
+Mostrar somente empresas filtradas (Atalho: Ctrl-F)
+Quando ativado, somente as empresas que corresponderem aos critérios do filtro serão mostradas na vista da cidade; outros edifícios serão ocultos.
+~
+U_FUND2
+Financiamento adicional para a área de destino.
+O financiamento aumentará a competitividade da cidade na área focada e melhorará as habilidades e a oferta de talentos especializados na área focada.
+~
+I_CDET2
+Atalho: Ctrl-D ou F10
+`
+~
+AINPCOST
+Custo do insumo
+Observe que este preço de custo pode ser diferente do preço de custo mostrado na Unidade de Compra, pois leva em conta a quantidade do insumo necessário para a produção. Em outras palavras: <este preço de custo> = <preço de custo na unidade de compra> X <Quantidade do insumo> / <Quantidade do produto acabado> mostrado no Guia do fabricante.
+~
+NECEINDX
+Índice de necessidades
+Um alto valor de índice indica que o produto é necessário para as pessoas em sua vida diária. A demanda por bens necessários é bastante constante, pois as pessoas devem comprá-los mesmo que o preço oferecido não seja atraente.
+~
+DEPOSBRA
+Depósitos de clientes
+A figura mostra o total de depósitos de clientes e a taxa de crescimento ano a ano. O gráfico mostra os depósitos nos últimos 36 meses.
+~
+DEPOSHQ
+Depósitos de clientes de todas as agências deste banco
+A figura mostra o total de depósitos de clientes de todas as agências deste banco e a taxa de crescimento de um ano para o outro. O gráfico mostra os depósitos nos últimos 36 meses.
+~
+ADVERT
+Propaganda
+Clique aqui para ver as configurações do anúncio.
+~
+RINCCAP1
+Aumentar a capacidade de varejo
+Aloque espaço de varejo e contrate funcionários para vender o mesmo produto.
+~
+RINCCAP0
+Não é possível aumentar a capacidade de varejo
+Desculpe, você não pode expandir ainda mais sua capacidade, pois não há mais espaço na loja de varejo.
+~
+RDECCAP1
+Reduzir a capacidade de varejo
+Diminua o espaço de varejo e reduza o tamanho da equipe para vender este produto.
+~
+RDECCAP0
+Não é possível reduzir a capacidade de varejo
+Desculpe, você não pode reduzir ainda mais sua capacidade, pois ela já está com a capacidade mínima.
+~
+RREMOVE
+Remover o Produto
+Retirar este produto da loja de varejo.
+~
+RSUPPLY
+Este produto é proveniente de múltiplos fornecedores.
+Use estes botões para selecionar quais informações do fornecedor a serem exibidas.
+~
+FARMSET1
+Instalar uma nova produção na fazenda atual.
+`
+~
+FARMSET0
+A fazenda não tem espaço suficiente para a instalação de uma nova produção.
+`
+~
+STKSPLIT
+
+Divisão de ações
+Um desdobramento de ações aumenta o número total de ações em uma corporação e diminui o preço das ações. É permitido quando o preço das ações for superior a $ 100.
+~
+DIVIDMAX
+Dividendo Especial Máximo
+O montante máximo de dividendos especiais que você pode pagar é o menor de 1) o #dinheiro# da empresa e 2) seus #lucros acumulados# (visíveis em seu #balanço#).
+~
+DIVIDEAR
+Lucros acumulados
+Os lucros acumulados são os lucros líquidos acumulados de uma empresa. Você pode vê-lo na tela #Folha de Balanço# na tela #Detalhes Corporativos#.
+~
+DIVIDPAY
+Pagar um Dividendo Especial
+Você pode providenciar um pagamento especial de dividendos de #sua empresa# ou #uma subsidiária# com uma participação de controle de pelo menos 75%.
+~
+PININPUT
+Fixe a entrada
+Fixe a entrada atual. Então você pode navegar por produções que utilizam a entrada atual.
+~
+PINPREV
+Produção anterior
+Mostrar a produção anterior que utiliza a entrada fixada.
+~
+PINNEXT
+Próxima produção
+Exiba a próxima produção que usa a entrada fixada.
+~
+BANKBRFI
+Relatório de Despesas Operacionais
+Veja as despesas operacionais desta agência bancária.
+~
+INSUBRFI
+Relatório de Despesas Operacionais
+Veja as despesas operacionais deste escritório de seguros.
+~
+LOANIIAN
+Renda total anual projetada dos juros dos empréstimos
+Esse valor é projetado pela multiplicação das últimas receitas mensais dos juros do empréstimo por 12 meses. O mesmo para as outras 2 figuras abaixo. Para ver a receita líquida total de juros histórica real, consulte o relatório Financeiro.
+~
+LOANCRED
+Rating de crédito de empréstimo
+Os empréstimos são classificados com base nas classificações de crédito dos mutuários, que indicam a saúde financeira dos mutuários. AAA é a melhor classificação de crédito. C é a classificação de crédito mais baixa.
+~
+LOANINT
+Taxa de juros de Empréstimo
+Mutuários com boas classificações de crédito podem obter empréstimos com taxas de juros mais baixas. Por outro lado, os tomadores de empréstimos com classificações de crédito ruins apresentam riscos de inadimplência mais altos, portanto o banco cobra taxas de juros mais altas para justificar os riscos.
+~
+LOANALLO
+Alocação de novos empréstimos
+No cenário inicial, um banco empresta dinheiro igualmente a mutuários de diferentes classificações de crédito (20% cada). Quando você aumenta a alocação para tomadores de empréstimos com classificações de crédito mais baixas, o banco recebe uma receita de juros mais alta, mas a taxa de inadimplência do empréstimo também aumenta como resultado.
+~
+LOANAII
+Renda anual projetada de juros
+O banco cobra pagamentos de juros de tomadores de empréstimos. Os juros dos empréstimos são os principais rendimentos do banco.
+~
+LOANIITO
+Renda total anual projetada dos juros dos empréstimos
+Esse valor é projetado pela multiplicação das últimas receitas mensais dos juros do empréstimo por 12 meses. O mesmo para as outras 2 figuras abaixo. Para ver a receita líquida total de juros histórica real, consulte o relatório Financeiro.
+~
+REALGDPG
+Crescimento real do PIB
+O crescimento real do PIB anualmente é a taxa de crescimento nominal do PIB ajustada pela inflação.
+~
+REGLOBAL
+Configurações globais de aluguel
+Atualmente, ele usa as configurações globais de aluguel do departamento de imóveis da sede. Clique para alternar para usar as configurações locais.
+~
+RELOCAL
+Configurações de aluguel local
+O aluguel é definido localmente. Clique para alternar para usar as configurações globais do departamento de imóveis da sede.
+~
+HQ_AUTOA
+Gestão automática de apartamentos
+Quando isso está ativado, o computador gerencia automaticamente todos os apartamentos existentes da empresa. Ele definirá os aluguéis dos apartamentos com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.
+~
+HQ_AUTOC
+Gerenciamento automático de edifícios comerciais
+Quando isso está ativado, o computador gerencia automaticamente todos os edifícios comerciais existentes da corporação. Ele definirá os aluguéis dos edifícios comerciais com base em sua preferência, que você poderá personalizar com a configuração "Aluguel" abaixo.
+~
+TRANCASH
+Dinheiro transferível
+A quantia máxima em dinheiro que você tem permissão para transferir do banco para sua Corporação. Em seu balanço, o patrimônio líquido do banco deve ser maior que o capital bancário exigido. O requisito de capital definido pelo banco central.
+~
+TRANMODE
+Modo de transferência
+Você pode alterar o modo de transferência - seja para transferir fundos do banco para a empresa controladora ou vice-versa, clicando no ícone Seta.
+~
+MARKETSH
+Janela de Participação no Mercado
+Clique aqui para mostrar / ocultar a janela que mostra a participação de mercado do produto atual.
+~
+DEPOSCAP
+Depósito
+
+A # quantia máxima de depósito # é restringida pelo limite de depósito #. De acordo com o regulamento, os depósitos não devem ser concentrados em um pequeno número de grandes depositantes. Existe um limite que #limita a quantidade máxima de depósitos que cada depositante pode fazer.
+~
+BANKINCO
+Demonstração Consolidada dos Resultados Bancários
+Consolida os dados financeiros da sede do banco e de todas as suas agências bancárias.
+~
+BANKASSE
+Ativos bancários
+Um banco possui seu próprio balanço patrimonial e seus ativos são separados dos ativos da controladora.
+~
+BFUNDTRA
+Transferência de fundos
+Você pode transferir fundos da controladora para o balanço do banco ou vice-versa.
+~
+INSUINCO
+Demonstração de Resultado Consolidada da Seguradora
+Consolida os dados financeiros da sede e de todos os seus escritórios.
+~
+INSUASSE
+Ativos da companhia de seguros
+Uma companhia de seguros possui seu próprio balanço patrimonial e seus ativos são separados dos da controladora.
+~
+IFUNDTRA
+Transferência de fundos
+Você pode transferir fundos da controladora para o balanço da companhia de seguros ou vice-versa.
+~
+PREMRESE
+Reservas de Sinistro
+As reservas de sinistros representam o dinheiro que deve ser retido pela companhia de seguros para poder atender a todos os sinistros futuros decorrentes de apólices escritas no passado
+~
+UWPROFIT
+Lucro em subscrição
+O lucro da subscrição de apólices de seguro. É igual à quantidade de prêmios recebidos, menos sinistro de seguro e despesas operacionais.
+~
+IVPROFIT
+Lucro do investimento
+Os lucros de investimentos em ações, títulos e depósitos bancários.
+~
+STOPDEPO
+Parar depósitos bancários
+Pare de aceitar novos depósitos bancários. Faça isso somente quando pretender encerrar os depósitos do banco e, eventualmente, fechá-lo.
+~
+STOPLOAN
+Interromper empréstimos bancários
+Pare de aprovar novos empréstimos.
+~
+RESUDEPO
+Retomar depósitos bancários
+O banco parou de aceitar novos depósitos bancários. Clique aqui para retomar a aceitação de novos depósitos bancários.
+~
+RESULOAN
+Retomar empréstimos bancários
+O banco parou de aprovar novos empréstimos. Clique aqui para retomar a aprovação de novos empréstimos.
+~
+BCAPRAT1
+Índice de Capital Bancário
+A relação #Capital bancario# é a relação entre o #Capital próprio# de um banco e seu total #Empréstimos a Clientes#. Um banco deve manter uma relação de capital que atenda aos requisitos do banco central.
+~
+BCAPRAT2
+Relação do capital necessário do banco
+O banco central exige que os bancos tenham reservado capital suficiente para cobrir perdas inesperadas e se manterem solventes em uma crise.
+~
+LOANDEPP
+Relação Máxima entre Empréstimos e Ativos
+O montante máximo de empréstimos que o banco pode emprestar é limitado por esta relação. Uma proporção maior aumenta a renda proveniente dos juros dos empréstimos, mas também aumenta os riscos de liquidez do banco.
+~
+INT_MARG
+Margem de juros líquidos
+A # margem de juros líquida# é uma medida da diferença entre a # receita de juros de empréstimos# do banco e o montante de # juros de depósito pagos a seus clientes#, em relação ao montante de seus # ativos que rendem juros#.
+~
+BFACEVAL
+Valor Facial
+Quando o modo Inflação é ajustado para #Inversa Inflação#, o #Valor facial# de um título pode diminuir com o tempo devido à inflação.
+~
+BCOUPONR
+Taxa de cupom
+Isto lhe informa o valor da obrigação quando ela é emitida. O valor dos juros auferidos sobre o título a cada ano pode ser calculado multiplicando o valor nominal do título por sua taxa de cupom.
+~
+BYIELD
+Rendimento (também chamado de Rendimento até o vencimento)
+O Rendimento de um título leva em consideração o preço atual de mercado do título e informa o que você realmente ganhará anualmente, quando comprar o título pelo seu preço atual de mercado.
+~
+RESETSRH
+Redefinir histórico de retorno da ação
+`
+~
+STOPBANK
+Interromper depósitos e empréstimos bancários
+Acesse a interface para interromper novos depósitos bancários e / ou empréstimos. Faça isso somente quando pretender desacelerar o banco.
+~
+AVGINTER
+Taxa Média de Juros
+É a taxa de juros média de todos os depósitos sob esse prazo, incluindo depósitos a prazo mais antigos, configurados com taxas de juros diferentes da taxa de juros atual.
+~
+WTOTTECH
+Tecnologia Total
+O valor Tecnologia Total é calculado pela soma dos valores de cada tecnologia, ajustados por seus pesos atribuídos (indicados pelas barras amarelas). Uma tecnologia com um peso maior significa que ela é mais importante.
+~
+WTOPTECH
+Tecnologia de última geração
+O valor da tecnologia avançada representa o maior valor tecnológico total já alcançado por uma empresa, seja ela ou um concorrente, para este tipo de atividade na Internet.
+~
+WTECHQUA
+qualidade tecnológica
+A qualidade tecnológica é calculada dividindo o total da tecnologia atual pela tecnologia de última geração e depois multiplicando o resultado por 100. (100 x tecnologia total / tecnologia avançada.) Representa a força relativa desta empresa de Internet na tecnologia.
+~
+WREQTECH
+Tecnologia requerida
+Esta empresa de Internet ainda não possui a tecnologia necessária para iniciar a operação, já que a atual Qualidade Tecnológica ainda é menor do que a Tecnologia Requerida.
+~
+CLOANDEP
+Relação Empréstimos atuais para os ativos
+A relação Empréstimos/ativos é calculada dividindo o montante total de empréstimos do banco por seu montante total de ativos. Quando for maior que a Relação Máxima de Empréstimos por Ativos, o banco deixará de conceder novos empréstimos.
+~
+BUSIACTI
+Índice de Atividade Comercial
+É um índice que mede a atividade comercial na cidade. Quando a cidade tiver um alto nível de atividade empresarial, mais empregos serão criados, diminuindo a taxa de desemprego.
+~
+TAXOFFSE
+Imposto sobre o lucro
+O lucro desta empresa é compensado com perdas em outras empresas desta corporação, resultando em uma redução em seu imposto sobre os lucros.
+~
+STKBNDAC
+Retorno de Ações e Títulos
+Passe o mouse sobre os valores financeiros nesta linha para ver os valores detalhados.
+~
+HOUSGRAP
+Modo gráfico da moradia
+Clique aqui para mudar o gráfico da caixa para exibir um dos seguintes: oferta, demanda ou oferta versus demanda.
+~
+OFFIGRAP
+Modo gráfico do espaço de escritório
+Clique aqui para mudar o gráfico do espaço de escritório para exibir um dos seguintes: oferta, demanda ou oferta versus demanda.
+~
+PARENTCR
+Classificação de crédito da empresa Matriz
+A classificação de crédito de uma empresa subsidiária nunca excederia a classificação de crédito de sua matriz.
+~
+CAPRATIO
+A relação de capital do banco é muito baixa
+O índice de capital do banco é muito baixo e deixou de emitir novos empréstimos. Para retomar a emissão do empréstimo, acesse o banco, selecione [Financeiro] e [Transferência de fundo]. Em seguida, injete capital no banco.
+~
+BCRMODE0
+Opções para lidar com a insuficiência da relação de capital bancário
+Quando o índice de capital do banco cai abaixo da exigência, há 3 maneiras possíveis de lidar com isso.
+~
+BCRMODE1
+Deve agir
+Quando a taxa de capital do banco for muito baixa, o jogo abrirá uma janela forçando o jogador a agir.
+~
+BCRMODE2
+Notificação apenas
+Quando a taxa de capital do banco for muito baixa, o jogo deixará de emitir empréstimos e notificará você através do Event Tracker.
+~
+BCRMODE3
+Nenhuma notificação
+Quando a taxa de capital do banco for muito baixa, o jogo deixará de emitir empréstimos. Ele não o notificará.
+~
+ITRANCAS
+Dinheiro transferível
+A quantia máxima de dinheiro que você está autorizado a transferir da companhia de seguros para sua corporação.
+~
+ITRANMOD
+Modo de transferência
+Você pode mudar o modo de transferência - se é para transferir fundos da companhia de seguros para sua matriz, ou o contrário, clicando no ícone da seta.
+~
+BANKROE
+Retorno sobre o patrimônio líquido
+O retorno sobre o patrimônio líquido (ROE) é calculado dividindo o lucro líquido do banco por seu capital social. O ROE é considerado uma medida da eficácia com que o banco está utilizando seu capital para gerar lucros. (A mudança de 12 meses atrás é exibida entre parênteses.)
+~
+INSUROE
+Retorno sobre o patrimônio líquido
+O retorno sobre o patrimônio líquido (ROE) é calculado dividindo o lucro líquido da seguradora pelo seu capital social. É limitado a uma faixa de -50% a 50% para fins de cálculo do ROE médio.
+~
+SWITMODE
+Alternar visualização (Atalho: 'A')
+Clique aqui para alternar entre a visualização padrão e a visualização Desempenho Cumulativo.
+~
+INBRSKIL
+Nível de Habilidade do Pessoal
+O nível de habilidade do pessoal afeta a qualidade do serviço deste escritório de seguros. Você pode definir o #orçamento de treinamento# para fornecer treinamento ao pessoal a fim de aumentar suas habilidades. Se o City Economics Simulation DLC estiver habilitado, ele também é afetado pelo nível de educação das pessoas na cidade.
+~
+INBRWAIT
+Tempo de espera do cliente
+Um longo tempo de espera do cliente afeta negativamente a qualidade do serviço deste front office de seguros. Para atender melhor seus clientes, você deve abrir novos escritórios de atendimento sempre que o tempo de espera do cliente for longo.
+~
+INBRSERV
+Qualidade do serviço
+A qualidade do serviço deste front office de seguros é determinada principalmente pelo Nível de Habilidade do Pessoal. Quando o Tempo de Espera do Cliente é superior a 30, ele começa a afetar negativamente a Qualidade do Serviço.
+~
+INBRBRAN
+Classificação da marca da companhia de seguros
+A classificação da marca da companhia de seguros nesta cidade. Para aumentá-la, selecione a aba "Marketing" e crie publicidade.
+~
+INT1YEAR
+Taxa de juros
+A taxa de juros por 1 ano de Depósito a Prazo.
+~
+BKABRAND
+Classificação média da marca
+A classificação média da marca do banco em todas as cidades.
+~
+INABRAND
+Classificação média da marca
+A classificação média da marca da companhia de seguros em todas as cidades.
+~
+DEPOALL
+Todos os depósitos
+Selecione isto para mostrar um resumo dos depósitos de clientes feitos através de agências bancárias e depósitos feitos por corporações e pessoas do jogo através da sede do banco.
+~
+UR_PROD
+Pesquisa universitária em produtos
+A pesquisa universitária em indústrias específicas leva a #uma maior competitividade#. 1) As empresas locais da cidade se beneficiam do aumento da competitividade e #exportação#, contratando assim mais trabalhadores e diminuindo a taxa de #desemprego# da cidade. 2) #Unidades de fabricação# nas fábricas têm #Bônus de qualidade da cidade# adicionado à classificação de seus produtos #Qualidade do produto#.
+~
+UR_TECH
+Pesquisa Universitária em Tecnologia
+A pesquisa universitária em campos específicos de tecnologia leva a um aumento dos níveis de qualificação dos pesquisadores e engenheiros de software nesses campos (sob o sistema Talent).
+~
+BATCHTRA
+Transferência de empresa em lotes 
+Transfira as empresas selecionadas para outra empresa sob seu controle.
+~
+MANAPOLI
+Políticas de gestão
+Abrir a interface de Políticas de Gestão para esta empresa.
+~
+RENAMESU
+Renomear Subsidiária
+Renomear esta empresa subsidiária.
+~
+MERGECOM
+Fusão de empresas
+Fundir esta empresa em sua empresa. (Sua empresa é a acionista majoritária desta empresa).
+~
+MERGECO2
+Fusão de empresas
+Fundir esta empresa em sua empresa subsidiária. (Sua empresa subsidiária é a acionista majoritária desta empresa).
+~
+TRANFIRM
+Transferência de empresas
+Transferir um grupo de empresas selecionadas desta empresa para outra empresa sob seu controle.
+~
+SELALLFI
+Selecione Todos
+Selecione todas as empresas da lista atual.
+~
+UNSELALL
+Desselecionar todos
+Desselecione todas as empresas da lista atual.
+~
+LOCSTOCK
+Mercado de ações local
+`
+~
+GLOSTOCK
+Mercado de ações global (Atalho: Ctrl-G)
+`
+~
+DISCORD
+Junte-se ao canal Discord do Capitalism Lab.
+`
+~
+FACEBOOK
+Abra a página oficial do Capitalism Lab no Facebook.
+`
+~
+FORUM
+Acesse o Fórum oficial do Capitalism Lab.
+`
+~
+INSUSTK
+Companhia de seguros
+Ordenar à seguradora que compre ou venda ações.
+~
+INSUBOND
+Companhia de seguros
+Ordene a esta companhia de seguros que compre ou venda títulos.
+~
+FREIGHTC
+Preocupação com o frete
+Se isto for definido para um valor alto, o executivo de AI estará mais preocupado com os custos de frete e tenderá a escolher fornecedores de distâncias mais próximas.
+~
+CINTSALE
+Venda Interna
+Esta opção especifica se você deseja que o executivo IA mude as configurações dos produtos #Venda Interna# para você. Quando #Venda Interna# é habilitada para um produto, é somente para venda interna e os concorrentes não estão autorizados a comprá-lo.
+~
+INTSALEC
+Venda de produtos da fábrica #Venda interna# ao custo
+Para aqueles produtos marcados para #Venda Interna# nas fábricas, a IA sempre os venderá ao custo.
+~
+COOCHG
+Change
+Estas opções especificam se você deseja que o executivo de IA mude os orçamentos de treinamento, projetos de P&D e orçamentos publicitários para você.
+~
+CTOCHGRD
+Mudança de projetos de P&D
+Esta opção especifica se você deseja que o CTO gerencie e mude os projetos de P&D para você.
+~
+CTOCHGTR
+Alterar orçamento de treinamento
+Esta opção especifica se você deseja que o CTO altere os Orçamentos de Treinamento nas instalações de pesquisa para você.
+~
+CURPRICE
+O preço de venda
+`
+~
+NEWPRICE
+Ele mostra o preço atual. Use [+][-] para estabelecer um Novo Preço.
+`
+~
+COSTFREI
+Custo + Frete
+`
+~
+COSTONLY
+Custo
+`
+~
+FREIGHT
+Frete
+`
+~
+ZEROUTIL
+Taxa de utilização da capacidade reduzida a zero
+Advertência: A taxa de utilização da capacidade desta unidade é zero. Os trabalhadores estão ociosos.
+~
+PRICSYN0
+Desativando a sincronização de preços
+A sincronização de preços está desativada.
+~
+PRICSYN1
+Sincronização de preços habilitada somente para lojas de varejo
+Quando você estabelece um novo preço, o novo preço será aplicado a todas as suas #Lojas de varejo# vendendo o mesmo produto na mesma cidade.
+~
+PRICSYN2
+Sincronização de preços ativada para todas as empresas
+Quando você estabelece um novo preço, o novo preço será aplicado a #todas as suas empresas# do mesmo tipo que vendem o mesmo produto na mesma cidade.
+~
+SINCELVR
+O número de anos desde o lançamento da última versão
+A demanda por um produto de software aumenta durante o lançamento de uma nova versão e depois diminui com o tempo, já que mais usuários já possuem a nova versão. Portanto, é importante lançar regularmente novas versões para gerar nova demanda.
+~
+B_NATION
+Títulos Soberanos
+Mostrar apenas títulos soberanos.
+~
+PREBUILD
+Construção para a preparação deste produto
+Este produto deve ser preparado neste edifício específico usando unidades #[Preparar].
+~
+MLAYOUT
+Estabeleça um layout em sua empresa para a preparação deste produto.
+`
+~
+PLANSRC4
+Selecione a pasta que contém os planos genéricos.
+Os layouts de wildcard são usados para estabelecer um layout com #[Preparar] unidades# e podem ser usados para preparar qualquer produto com o mesmo número de entradas.
+~
+TOTALCF
+Custo + Frete
+`
+~
+QUALITY
+Classificação de qualidade
+`
+~
+OVERALLR
+Classificação geral
+A classificação geral é determinada pelo # Preço #, pela # Qualidade # e pela # Marca #.
+~
+HEADQUAL
+A seção Qualidade
+Passe o mouse sobre qualquer uma das linhas de texto abaixo para ver a ajuda sensível ao contexto.
+~
+PRODQUA1
+Qualidade do produto
+#Qualidade do produto# é a soma total de #Qualidade da matéria-prima# e #Qualidade da produção.
+~
+RAWQUAL
+Qualidade das matérias primas
+A qualidade agregada de todas as matérias primas e semi-produtos necessários para a fabricação deste produto. Para mais detalhes, pressione F1 para abrir o guia e ver os detalhes de produção.
+~
+PRODQUA2
+Qualidade da Produção
+#A Qualidade da Produção# é determinada pela #Tecnologia do Produto# da empresa produtora. Equivale a #Qualidade Máxima de Produção# X #Tecnologia de Propriedade# / #Top Tech# (veja abaixo)
+~
+CITYQUAB
+Bônus de qualidade da cidade
+A "classificação de qualidade" é reforçada pela "classificação de competitividade da cidade" nesta categoria de produtos. Para ver o #Ranking de Competitividade da Cidade#, abra o #Relatório da cidade# e selecione a página #Industria#.
+~
+OWNTECH
+Tecnologia própria
+A tecnologia de produção da empresa produtora neste produto, que pode ser melhorada nos centros de pesquisa e desenvolvimento.
+~
+TOPTECH
+Tecnologia de ponta
+A melhor tecnologia do mundo #Tecnologia de produção# neste produto. Quanto mais próxima a #Tecnologia própria# está desta #Alta tecnologia#, mais alta é a #Qualidade# do produto.
+~
+HEADBRAN
+A seção Marca
+Passe o mouse sobre qualquer uma das linhas de texto abaixo para ver a ajuda sensível ao contexto.
+~
+BRANDSTR
+Estratégia de marca
+A estratégia da marca de uma empresa pode ser visualizada na página #Detalhes da empresa# do relatório #Marca#.
+~
+BRANDRAT
+Classificação da marca
+A #Classificação da marca# de um produto é a soma de sua #Conhecimento da marca# e #Lealdade à marca#.
+~
+BRANDAWA
+Conhecimento da marca
+O conhecimento da marca mede o conhecimento dos consumidores de que uma determinada marca existe. Pode ser aumentada através de publicidade.
+~
+BRANDLOY
+Lealdade à marca
+A fidelidade à marca mede o apego que um cliente tem a uma marca. Se um cliente está satisfeito após utilizar um produto (#boa qualidade do produto#), a fidelidade à marca #aumenta#.  Por outro lado, uma experiência ruim com o produto (#pobre qualidade do produto#) levará a uma #diminuição# da fidelidade à marca.
+~
+ADVSPEND
+Despesas de Publicidade
+As despesas mensais de publicidade deste produto.
+~
+HEADPRIC
+A seção de Preços
+Mostra o custo e o preço deste produto.
+~
+BRANDCOR
+Marca Corporativa
+Quando uma empresa utiliza uma única marca guarda-chuva para todos os seus produtos, os produtos recém-lançados serão beneficiados pela marca corporativa existente.
+~
+BRANDRAN
+Conjunto de marcas
+Sob essa estratégia, os produtos na # mesma classe de produto # são rotulados com uma única marca de intervalo.
+~
+BRANDUNI
+Marca Única
+Sob essa estratégia, cada produto tem uma marca única. A vantagem é que a marca de um produto não será afetada pelos problemas de qualidade de outras linhas de produtos.
+~
+APREMIUM
+Nível médio de preço Prêmio
+O nível médio do preço do prêmio do seguro #Vida#, #Casa# e seguro de #Carro#. Você pode ver o nível de preços de cada tipo de seguro na página #Seguros#.
+~
+ICAPRAT1
+Taxa de capital da companhia de seguros
+A #Taxa de capital# é a relação entre o #Capital próprio# de uma companhia de seguros e seus #Ativos totais#. Uma companhia de seguros deve manter uma relação positiva de capital.
+~
+TALICLAS
+Mostrar talentos especializados em Produtos.
+`
+~
+TALTECH
+Mostrar talentos especializados em Tecnologia.
+`
+~
+VIEWTAL
+Ver Talentos
+Veja os talentos disponíveis em diferentes cidades.
+~
+PRODQUAC
+Qualidade do produto
+#Qualidade do produto# é a soma total de #Qualidade da matéria-prima#, #Qualidade da produção# e #Bônus de qualidade da cidade#.
+~
+ASERVICE
+Clique aqui para configurar o layout (Atalho: A)
+`
+~
+OVERALL2
+Classificação geral
+A classificação geral é determinada pelo #Preço# e pela classificação #Qualidade#.
+~
+IMPORT1
+Importar um novo item.
+`
+~
+IMPORT0
+A capacidade desta empresa de importação está plena.
+`
+~
+IMP_DEL
+Excluir Item
+`
+~
+IMP_CLI
+Mostrar os clientes que estão comprando este item.
+`
+~
+IMP_CAPA
+Capacidade de importação
+Mostra o #número de itens sendo importados# e o #número máximo de itens# que esta Empresa de Importação pode importar.
+~
+IMPORTA
+Disponível via Importação
+Este item pode ser importado através de uma empresa de importação.
+~
+LOANDEMA
+Demanda de empréstimo
+Isto indica o nível de #demanda para empréstimos bancários# que está correlacionado com o PIB total das cidades.
+~
+STOPCDEP
+Limite para parar de aceitar depósitos corporativos
+Se isto for permitido, o banco #parará de aceitar novos depósitos# de #clientes corporados# quando o #Caixa# do banco como porcentagem de seu #total de ativos# exceder o limite especificado.
+~
+MYNATPOP
+A população de sua nação
+Equivale à população total de todas as suas cidades. No modo #Survival#, seu objetivo é desenvolver a economia de sua nação para apoiar o rápido crescimento populacional.
+~
+CONATPOP
+População da Nação Concorrente
+No modo #Survival#, uma maneira de medir seu desempenho é comparar o crescimento populacional de sua nação com o da nação concorrente.
+~
+PUBINVMO
+O dinheiro dos investidores públicos disponíveis para sua empresa
+#Fornecimento realístico de dinheiro# está habilitado neste jogo. É mais difícil para as empresas de IA e player #criar fundos# a partir de IPO, emitindo novas ações e títulos, pois há uma oferta limitada de #Dinheiro do Investidor Público#. A taxa na qual o dinheiro dos investidores públicos aumenta é baseada no PIB nacional.
+~
+PO_BCIVI
+Edifícios Cívicos Auto-Construídos
+Quando isso for ativado, a IA construirá automaticamente edifícios cívicos quando houver demanda não atendida.
+~
+PO_BAPAR
+Auto Construir Apartamentos
+Quando isto for ativado, a IA construirá automaticamente apartamentos quando houver demanda não atendida.
+~

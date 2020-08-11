@@ -1,0 +1,16 @@
+[LNGD]%2j{Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro} %1d, %3,4d
+[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d
+[MON1]Janeiro
+[MON2]Fevereiro
+[MON3]Março
+[MON4]Abril
+[MON5]Maio
+[MON6]Junho
+[MON7]Julho
+[MON8]Agosto
+[MON9]Setembro
+[MONA]Outubro
+[MONB]Novembro
+[MONC]Dezembro
+[BOX1]Ok
+[BOX2]Cancelar

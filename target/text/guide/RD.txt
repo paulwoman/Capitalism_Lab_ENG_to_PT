@@ -1,0 +1,7 @@
+[Product Research and Development Unit]
+~Product Name~
+O nome do produto que está sendo pesquisado.^
+~R&D Duration~
+A duração da pesquisa.^
+~Progress Indicator~
+O progresso do projeto de pesquisa atual.

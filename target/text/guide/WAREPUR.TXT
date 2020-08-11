@@ -1,0 +1,10 @@
+[Purchasing Unit]
+~Product Name~
+O produto que está sendo estocado no armazém.^ 
+~Product Stock~
+Esta área indica o estoque do produto na unidade. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product. For some expensive products, such as cars, one cargo can hold only a few units of the product. For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product. This makes the total value of all cargoes of all types of products about the same.^
+~Supply and Demand Bar~
+A barra amarela indica o fornecimento. A barra laranja indica a demanda pela firma atual.^
+~Utilization Bar~
+A barra marrom mostra a utilização de cada unidade. If this bar reaches its full length, the unit has reached its full capacity.
+
