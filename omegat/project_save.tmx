@@ -9318,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004412Z" creationid="RAFAEL" creationdate="20200811T004408Z">
+        <seg>Boa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goods Supply rating=90</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012535Z" creationid="Olivier" creationdate="20200802T012535Z">
@@ -13931,6 +13939,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212102Z" creationid="RAFAEL" creationdate="20200802T212102Z">
         <seg>Clique no botão esquerdo do mouse para aumentar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004505Z" creationid="RAFAEL" creationdate="20200811T004505Z">
+        <seg>Vamos explorar. ^^ Está vendo a barra de ferramentas na parte inferior da tela?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27214,6 +27230,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035217Z" creationid="RAFAEL" creationdate="20200806T035217Z">
         <seg>Advertência: A taxa de utilização da capacidade desta unidade é zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004423Z" creationid="RAFAEL" creationdate="20200811T004423Z">
+        <seg>Estamos agora na vista da cidade.</seg>
       </tuv>
     </tu>
     <tu>
