@@ -12335,6 +12335,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010142Z" creationid="RAFAEL" creationdate="20200811T010142Z">
+        <seg>Neste modo, os edifícios representados por ~pontos verdes são lucrativos~ enquanto os edifícios representados por ~pontos vermelhos estão perdendo dinheiro~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase the Retail Capacity</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022032Z" creationid="RAFAEL" creationdate="20200806T022032Z">
@@ -15569,8 +15577,16 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005413Z" creationid="RAFAEL" creationdate="20200811T005244Z">
-        <seg>Agora clique no ícone ~Valor da Terra~ para mudar para este modo.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005505Z" creationid="RAFAEL" creationdate="20200811T005244Z">
+        <seg>Agora clique no ícone ~Valor do Terreno~ para mudar para este modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Profit~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005526Z" creationid="RAFAEL" creationdate="20200811T005526Z">
+        <seg>Agora clique no ícone ~Lucro~ para mudar para esse modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45502,6 +45518,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195505Z" creationid="Olivier" creationdate="20200730T195505Z">
         <seg>~Pts. audiência~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005453Z" creationid="RAFAEL" creationdate="20200811T005453Z">
+        <seg>~Quanto mais escura for a cor, mais valioso será o terreno.~ Construir em áreas claras pode ser caro, mas pode fornecer às suas lojas uma clientela mais rica disposta a pagar preços mais altos.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
