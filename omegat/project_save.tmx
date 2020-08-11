@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004335Z" creationid="RAFAEL" creationdate="20200811T004335Z">
+        <seg>Ao invés de clicar no botão ~ Selecionar ~, você pode simplesmente ~duplo clique~ em um produto na lista para selecioná-lo.^^ Quando estiver pronto para prosseguir, ~Clique com o botão direito em qualquer lugar~ da tela para sair da loja e voltar para a vista da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bond Credit Standard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012415Z" creationid="RAFAEL" creationdate="20200808T012415Z">
@@ -13627,6 +13635,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015222Z" creationid="RAFAEL" creationdate="20200804T015222Z">
         <seg>Manter uma distância entre este apartamento e outros prédios, especialmente fábricas e minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003926Z" creationid="RAFAEL" creationdate="20200811T003926Z">
+        <seg>Continue a adicionar mais produtos à sua loja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27206,6 +27222,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003723Z" creationid="RAFAEL" creationdate="20200805T003723Z">
         <seg>Os fracos gastos dos consumidores, por sua vez, afetarão negativamente o setor empresarial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003917Z" creationid="RAFAEL" creationdate="20200811T003917Z">
+        <seg>Muito bem!</seg>
       </tuv>
     </tu>
     <tu>
