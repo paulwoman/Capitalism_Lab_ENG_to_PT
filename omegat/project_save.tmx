@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But for now keep it active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010649Z" creationid="RAFAEL" creationdate="20200811T010649Z">
+        <seg>Mas por enquanto mantenha-a ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But if the company is out of cash, the CEO will have to issue new shares to raise funds for the company's survival regardless of this setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021452Z" creationid="RAFAEL" creationdate="20200805T021452Z">
@@ -6722,6 +6730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012201Z" creationid="RAFAEL" creationdate="20200808T012201Z">
         <seg>Cidade desenvolvida no início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did you wonder which seaports are supplying products to your department store?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010741Z" creationid="RAFAEL" creationdate="20200811T010741Z">
+        <seg>Você se perguntava quais portos marítimos estão fornecendo produtos para sua loja de departamentos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15623,10 +15639,18 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010858Z" creationid="RAFAEL" creationdate="20200811T010858Z">
+        <seg>Agora o display está atualizado para mostrar de quais portos marítimos sua loja de departamentos está recebendo os produtos que você está vendendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010512Z" creationid="RAFAEL" creationdate="20200811T010512Z">
-        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firm~, ~Corp.~, ~This City~, ~My Firms~ e ~Product~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010718Z" creationid="RAFAEL" creationdate="20200811T010512Z">
+        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firm~, ~Corp.~, ~This City~, ~Minhas Empresas~ e ~Product~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27410,6 +27434,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well now it is your chance to find that out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010807Z" creationid="RAFAEL" creationdate="20200811T010803Z">
+        <seg>Bem, agora é sua chance de descobrir isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When #Internal Sale# is enabled for a product, it is for internal sale only and competitors are not allowed to buy it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034752Z" creationid="RAFAEL" creationdate="20200806T034752Z">
@@ -27842,6 +27874,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011150Z" creationid="RAFAEL" creationdate="20200811T011150Z">
+        <seg>Enquanto explorávamos as interfaces, sua loja de departamentos já estava gerando receita. ^^ Dê uma olhada na barra de ferramentas ~ Caixa e Lucro ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
@@ -27902,6 +27942,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012453Z" creationid="RAFAEL" creationdate="20200808T012453Z">
         <seg>Com um # padrão de avaliação de crédito livre #, todas as corporações receberão # melhores avaliações de crédito # e se beneficiarão de # menores despesas com juros de títulos #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010836Z" creationid="RAFAEL" creationdate="20200811T010836Z">
+        <seg>Com o visor ainda mostrando apenas sua loja de departamentos (como um quadrado colorido), clique no ícone do modo ~Relacionamento comercial~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28014,6 +28062,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025210Z" creationid="RAFAEL" creationdate="20200805T025210Z">
         <seg>Você pode construir um máximo de 15 cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010638Z" creationid="RAFAEL" creationdate="20200811T010638Z">
+        <seg>Você pode cancelar este modo clicando novamente no botão ~Minhas Empresas~.</seg>
       </tuv>
     </tu>
     <tu>
