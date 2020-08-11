@@ -15721,8 +15721,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010718Z" creationid="RAFAEL" creationdate="20200811T010512Z">
-        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firm~, ~Corp.~, ~This City~, ~Minhas Empresas~ e ~Product~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013212Z" creationid="RAFAEL" creationdate="20200811T010512Z">
+        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firma~, ~Corp.~, ~Cidades~, ~Possuo~ e ~Produto~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
       </tuv>
     </tu>
     <tu>
