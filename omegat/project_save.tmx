@@ -13255,6 +13255,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004535Z" creationid="RAFAEL" creationdate="20200811T004535Z">
+        <seg>Mostra a quantidade de dinheiro que sua empresa possui atualmente e seu lucro operacional nos últimos 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the average ratings of this product in the current city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
@@ -13939,6 +13947,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T212102Z" creationid="RAFAEL" creationdate="20200802T212102Z">
         <seg>Clique no botão esquerdo do mouse para aumentar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's click on the ~Mini Map~ icon now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004748Z" creationid="RAFAEL" creationdate="20200811T004748Z">
+        <seg>Vamos clicar no ícone ~Minimapa~ agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25018,6 +25034,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004733Z" creationid="RAFAEL" creationdate="20200811T004733Z">
+        <seg>Há uma linha de ícones na barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001246Z" creationid="RAFAEL" creationdate="20200808T001246Z">
@@ -27878,6 +27902,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215917Z" creationid="RAFAEL" creationdate="20200802T215917Z">
         <seg>Você só pode negociar ações uma vez por dia em um Challenge Game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004711Z" creationid="RAFAEL" creationdate="20200811T004711Z">
+        <seg>Você pode ver a data do jogo atual aqui. ^^ Observe que o jogo é executado em tempo real. Você pode alterar a velocidade do jogo usando as teclas de atalho ~ '1' (mais lento) para '5' (mais rápido) ~. ^^ Você pode também pausar o jogo pressionando a ~tecla '0' ~.</seg>
       </tuv>
     </tu>
     <tu>
