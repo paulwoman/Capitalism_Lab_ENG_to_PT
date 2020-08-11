@@ -9406,6 +9406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T015217Z" creationid="RAFAEL" creationdate="20200811T015217Z">
+        <seg>Descrição do Objetivo=Alcançar uma receita anual de US$ 20 milhões para completar este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
