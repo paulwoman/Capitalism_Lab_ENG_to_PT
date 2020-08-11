@@ -5048,8 +5048,8 @@
       <tuv lang="en-US">
         <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010558Z" creationid="RAFAEL" creationdate="20200811T010558Z">
-        <seg>Clique no botão ~Minhas Empresas~ e a exibição do mini mapa muda para mostrar apenas os edifícios ambientais e as empresas que você possui.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013245Z" creationid="RAFAEL" creationdate="20200811T010558Z">
+        <seg>Clique no botão ~Possuo~ e a exibição do mini mapa muda para mostrar apenas os edifícios ambientais e as empresas que você possui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28164,8 +28164,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010638Z" creationid="RAFAEL" creationdate="20200811T010638Z">
-        <seg>Você pode cancelar este modo clicando novamente no botão ~Minhas Empresas~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013312Z" creationid="RAFAEL" creationdate="20200811T010638Z">
+        <seg>Você pode cancelar este modo clicando novamente no botão ~Possuo~.</seg>
       </tuv>
     </tu>
     <tu>
