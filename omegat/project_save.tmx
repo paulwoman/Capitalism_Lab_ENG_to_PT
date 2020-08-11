@@ -12311,6 +12311,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003743Z" creationid="RAFAEL" creationdate="20200811T003743Z">
+        <seg>Aumente a variedade de produtos em sua loja e faça uso dos slots disponíveis.^^Repetir o que você acabou de fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase this rating by building more community facilities close to this apartment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T014147Z" creationid="RAFAEL" creationdate="20200804T014147Z">
