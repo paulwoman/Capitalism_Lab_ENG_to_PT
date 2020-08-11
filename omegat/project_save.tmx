@@ -15607,6 +15607,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010512Z" creationid="RAFAEL" creationdate="20200811T010512Z">
+        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firm~, ~Corp.~, ~This City~, ~My Firms~ e ~Product~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Companies Focused on Banking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011444Z" creationid="RAFAEL" creationdate="20200808T011444Z">
@@ -24105,6 +24113,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The darker the color, the greater the profit or loss.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010156Z" creationid="RAFAEL" creationdate="20200811T010156Z">
+        <seg>Quanto mais escura a cor, maior é o lucro ou prejuízo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default setting of #Auto Apply R&amp;D Results# is #Disabled#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195630Z" creationid="RAFAEL" creationdate="20200802T195630Z">
@@ -25006,6 +25022,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002124Z" creationid="RAFAEL" creationdate="20200805T002124Z">
         <seg>A variedade e o fornecimento de alimentos disponíveis no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010209Z" creationid="RAFAEL" creationdate="20200811T010209Z">
+        <seg>Os edifícios de cor branca em exposição são de propriedade do governo e, como tal, não apresentam lucro ou prejuízo.</seg>
       </tuv>
     </tu>
     <tu>
