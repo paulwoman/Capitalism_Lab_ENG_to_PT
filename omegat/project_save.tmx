@@ -15567,6 +15567,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005413Z" creationid="RAFAEL" creationdate="20200811T005244Z">
+        <seg>Agora clique no ícone ~Valor da Terra~ para mudar para este modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222406Z" creationid="RAFAEL" creationdate="20200810T222406Z">
@@ -24453,6 +24461,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004241Z" creationid="RAFAEL" creationdate="20200805T004241Z">
         <seg>O mini mapa mostra atualmente a cobertura geográfica deste tipo de construção cívica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini map display changes to show Land Value data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005328Z" creationid="RAFAEL" creationdate="20200811T005328Z">
+        <seg>O mini-mapa muda para mostrar os dados do valor do terreno.</seg>
       </tuv>
     </tu>
     <tu>
