@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T014606Z" creationid="RAFAEL" creationdate="20200811T014606Z">
+        <seg>Empreendedor iniciante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Menu (hotkey: B)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223901Z" creationid="RAFAEL" creationdate="20200801T223901Z">
@@ -6754,6 +6762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015524Z" creationid="RAFAEL" creationdate="20200806T015432Z">
         <seg>Depósitos na sede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T014711Z" creationid="RAFAEL" creationdate="20200811T014711Z">
+        <seg>Descrição=Neste tutorial, você será apresentado aos conceitos básicos da interface do jogo.</seg>
       </tuv>
     </tu>
     <tu>
