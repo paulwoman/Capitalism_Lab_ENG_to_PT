@@ -5038,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Goal~ option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011724Z" creationid="RAFAEL" creationdate="20200811T011724Z">
+        <seg>Clique na opção ~Meta~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010558Z" creationid="RAFAEL" creationdate="20200811T010558Z">
@@ -5810,6 +5818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005325Z" creationid="RAFAEL" creationdate="20200805T005325Z">
         <seg>Confirmar a mudança de preço (Atalho: '*' ou ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011550Z" creationid="RAFAEL" creationdate="20200811T011550Z">
+        <seg>Parabéns!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15667,6 +15683,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005526Z" creationid="RAFAEL" creationdate="20200811T005526Z">
         <seg>Agora clique no ícone ~Lucro~ para mudar para esse modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now go and add products to your new department store and grow your business!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011759Z" creationid="RAFAEL" creationdate="20200811T011759Z">
+        <seg>Agora vá e adicione produtos à sua nova loja de departamentos e faça seu negócio crescer!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26106,6 +26130,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011706Z" creationid="RAFAEL" creationdate="20200811T011706Z">
+        <seg>Para ver o ~relatório de metas~, clique no ícone ~Centro de Informações~ na barra de menus na parte inferior da tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To serve your customers better, you should open new branches whenever the customer waiting time is alarmingly long.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013528Z" creationid="RAFAEL" creationdate="20200806T013528Z">
@@ -26118,6 +26150,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033521Z" creationid="RAFAEL" creationdate="20200806T033521Z">
         <seg>Para atender melhor seus clientes, você deve abrir novos escritórios de atendimento sempre que o tempo de espera do cliente for longo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011619Z" creationid="RAFAEL" creationdate="20200811T011619Z">
+        <seg>Para isso, basta repetir as etapas que você acabou de fazer para configurar sua primeira loja de departamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28250,6 +28290,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have completed this tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011735Z" creationid="RAFAEL" creationdate="20200811T011735Z">
+        <seg>Você concluiu este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have done an excellent job as the mayor of|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005322Z" creationid="User" creationdate="20200802T005322Z">
@@ -28262,6 +28310,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222321Z" creationid="RAFAEL" creationdate="20200810T222321Z">
         <seg>Você se formou com um MBA de em uma escola renomada de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just expanded your business!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011558Z" creationid="RAFAEL" creationdate="20200811T011558Z">
+        <seg>Você acabou de expandir seus negócios!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,6 +28570,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must apply what you have just learned into running your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011745Z" creationid="RAFAEL" creationdate="20200811T011745Z">
+        <seg>Você deve aplicar o que acabou de aprender para administrar sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must confirm this before sending this Challenge Game to other players.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003019Z" creationid="RAFAEL" creationdate="20200808T003019Z">
@@ -28530,10 +28594,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You now have to set up products in your new department store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011609Z" creationid="RAFAEL" creationdate="20200811T011609Z">
+        <seg>Agora você deve configurar produtos em sua nova loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You own shares in this company directly or via holding companies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031638Z" creationid="RAFAEL" creationdate="20200804T031638Z">
         <seg>Você possui ações nesta empresa diretamente ou através de empresas Holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this game when your company's annual revenue reaches $20 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011642Z" creationid="RAFAEL" creationdate="20200811T011642Z">
+        <seg>Você ganha este jogo quando a receita anual da sua empresa atingir US $ 20 milhões.</seg>
       </tuv>
     </tu>
     <tu>
