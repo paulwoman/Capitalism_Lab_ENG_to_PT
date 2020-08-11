@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010628Z" creationid="RAFAEL" creationdate="20200811T010628Z">
+        <seg>Como sua corporação atualmente tem apenas uma empresa - sua loja de departamento, apenas um ponto em sua cor corporativa é mostrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024015Z" creationid="RAFAEL" creationdate="20200806T024015Z">
@@ -4994,6 +5002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003842Z" creationid="RAFAEL" creationdate="20200811T003842Z">
         <seg>Clique no ícone ~Adicionar Produto~, depois escolha ~Porto Marítimo~ da lista de fornecedores e selecione um produto para adicionar à sua loja.^^ Desta vez, certifique-se de selecionar um produto diferente daquele que já está à venda em sua loja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010558Z" creationid="RAFAEL" creationdate="20200811T010558Z">
+        <seg>Clique no botão ~Minhas Empresas~ e a exibição do mini mapa muda para mostrar apenas os edifícios ambientais e as empresas que você possui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25870,6 +25886,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013827Z" creationid="RAFAEL" creationdate="20200805T013827Z">
         <seg>Para adicionar novas imagens de produtos personalizados ao jogo, salve arquivos de imagem PNG (120x120 pixels) na pasta."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To browse the firms within the filter, use the up and down buttons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010532Z" creationid="RAFAEL" creationdate="20200811T010532Z">
+        <seg>Para navegar pelas empresas dentro do filtro, use os botões para cima e para baixo.</seg>
       </tuv>
     </tu>
     <tu>
