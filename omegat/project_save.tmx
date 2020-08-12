@@ -15847,6 +15847,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012148Z" creationid="RAFAEL" creationdate="20200812T012148Z">
+        <seg>Agora vincule a ~Unidade de compra~ e a ~Unidade de vendas~ clicando na linha de ligação entre elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010457Z" creationid="RAFAEL" creationdate="20200812T010457Z">
@@ -21611,6 +21619,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014024Z" creationid="RAFAEL" creationdate="20200806T014024Z">
         <seg>Selecione isto para mostrar todos os empréstimos que foram feitos a empresas e corporações locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012013Z" creationid="RAFAEL" creationdate="20200812T012013Z">
+        <seg>Selecione ~ Unidade de compra ~ na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012115Z" creationid="RAFAEL" creationdate="20200812T012115Z">
+        <seg>Selecione ~ Unidade de vendas ~ na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29046,6 +29070,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224241Z" creationid="RAFAEL" creationdate="20200810T224241Z">
         <seg>Sua loja compra automaticamente o produto que você selecionou no porto e o disponibiliza para venda aos seus clientes. ^^ Observe à esquerda da imagem do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012037Z" creationid="RAFAEL" creationdate="20200812T012037Z">
+        <seg>Sua loja agora tem uma nova ~Unidade de compra~. ^^ Continue para adicionar uma ~Unidade de vendas~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46062,6 +46094,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010234Z" creationid="RAFAEL" creationdate="20200812T010234Z">
         <seg>~Megaestores de desconto~ podem vender qualquer coisa, o que os torna muito versáteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012102Z" creationid="RAFAEL" creationdate="20200812T012102Z">
+        <seg>~Clique duas vezes~ em uma unidade vazia ao lado da Unidade de Compra que você acabou de configurar.</seg>
       </tuv>
     </tu>
     <tu>
