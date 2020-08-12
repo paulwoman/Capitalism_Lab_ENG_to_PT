@@ -9566,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015025Z" creationid="RAFAEL" creationdate="20200812T015025Z">
+        <seg>Goal Title=Objetivo do tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004412Z" creationid="RAFAEL" creationdate="20200811T004408Z">
