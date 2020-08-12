@@ -9718,6 +9718,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013018Z" creationid="RAFAEL" creationdate="20200812T013018Z">
+        <seg>Aqui, ele mostra os níveis de ~qualidade~ e ~marca~ do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012908Z" creationid="RAFAEL" creationdate="20200812T012908Z">
+        <seg>Aqui ele mostra o ~ custo de compra ~ do produto e seu ~ custo de frete ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Inactive Software Products</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011736Z" creationid="RAFAEL" creationdate="20200806T011736Z">
@@ -12059,6 +12075,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033444Z" creationid="RAFAEL" creationdate="20200806T033444Z">
         <seg>Se o City Economics Simulation DLC estiver habilitado, ele também é afetado pelo nível de educação das pessoas na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012854Z" creationid="RAFAEL" creationdate="20200812T012854Z">
+        <seg>Se o fornecedor for uma empresa, a cor mostrada aqui é a ~cor corporativa~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24697,6 +24721,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013029Z" creationid="RAFAEL" creationdate="20200812T013029Z">
+        <seg>Quanto maior for a qualidade do seu produto, mais atraente ele será para os consumidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The green background indicates that this product design has already been added to your library.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014154Z" creationid="RAFAEL" creationdate="20200805T014154Z">
@@ -25662,6 +25694,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214211Z" creationid="Olivier" creationdate="20200730T214211Z">
         <seg>A barra marrom mostra a utilização de cada unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012836Z" creationid="RAFAEL" creationdate="20200812T012836Z">
+        <seg>Essa cor é ~cinza se o produto for importado por meio de um porto marítimo~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46142,6 +46182,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T003610Z" creationid="Olivier" creationdate="20200802T003610Z">
         <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013055Z" creationid="RAFAEL" creationdate="20200812T013055Z">
+        <seg>~Marcas~ pode ser um fator muito importante para as decisões de compra dos consumidores, especialmente para produtos de luxo e moda.</seg>
       </tuv>
     </tu>
     <tu>
