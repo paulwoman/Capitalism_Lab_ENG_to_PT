@@ -7662,6 +7662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012200Z" creationid="RAFAEL" creationdate="20200812T012200Z">
+        <seg>Excelente!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020851Z" creationid="RAFAEL" creationdate="20200806T020851Z">
@@ -14179,6 +14187,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004505Z" creationid="RAFAEL" creationdate="20200811T004505Z">
         <seg>Vamos explorar. ^^ Está vendo a barra de ferramentas na parte inferior da tela?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012253Z" creationid="RAFAEL" creationdate="20200812T012253Z">
+        <seg>Vamos fazer com que a nova Unidade de Compra funcione, informando de qual fornecedor você deseja fazer o pedido. ^^ Clique em ~Unidade de Compra~ para selecioná-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25253,6 +25269,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021921Z" creationid="RAFAEL" creationdate="20200805T021921Z">
         <seg>O valor total das importações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012210Z" creationid="RAFAEL" creationdate="20200812T012210Z">
+        <seg>As duas unidades agora estão conectadas e vão funcionar uma com a outra.</seg>
       </tuv>
     </tu>
     <tu>
