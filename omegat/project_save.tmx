@@ -8720,8 +8720,8 @@
       <tuv lang="en-US">
         <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013739Z" creationid="RAFAEL" creationdate="20200812T013739Z">
-        <seg>Nas opções de menu no canto superior direito da tela, selecione ~Visão geral da empresa~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023054Z" creationid="RAFAEL" creationdate="20200812T013739Z">
+        <seg>Nas opções de menu no canto superior direito da tela, selecione ~Visão da Firma~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25709,8 +25709,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013807Z" creationid="RAFAEL" creationdate="20200812T013807Z">
-        <seg>A tela ~Visão geral da empresa~ exibe um resumo das empresas da corporação. ^^Agora selecione ~Relação comercial~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023229Z" creationid="RAFAEL" creationdate="20200812T013807Z">
+        <seg>A tela ~Visão da Firma~ exibe um resumo das empresas da corporação. ^^Agora selecione ~Relações de Negócios~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26477,8 +26477,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013843Z" creationid="RAFAEL" creationdate="20200812T013843Z">
-        <seg>Esta tela mostra quais empresas estão negociando com as suas. ^^ Agora selecione ~Visão Geral Financeira~ para retornar à primeira tela.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023312Z" creationid="RAFAEL" creationdate="20200812T013843Z">
+        <seg>Esta tela mostra quais empresas estão negociando com as suas.^^Agora selecione ~Visão Financeira~ para retornar à primeira tela.</seg>
       </tuv>
     </tu>
     <tu>
