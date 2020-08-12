@@ -12039,6 +12039,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011606Z" creationid="RAFAEL" creationdate="20200812T011606Z">
+        <seg>Se a escassez de abastecimento for persistente, você deve considerar mudar para um fornecedor melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022327Z" creationid="RAFAEL" creationdate="20200805T022327Z">
@@ -20679,6 +20687,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011805Z" creationid="RAFAEL" creationdate="20200812T011805Z">
+        <seg>No momento, como a unidade é nova, o nível é 1. ^^ Com o tempo e o treinamento, o nível aumentará e a unidade se tornará mais eficiente, sendo capaz de lidar com maiores quantidades de estoque e atender a níveis de demanda mais elevados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to decrease at a higher rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223626Z" creationid="RAFAEL" creationdate="20200802T223626Z">
@@ -24505,6 +24521,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011744Z" creationid="RAFAEL" creationdate="20200812T011744Z">
+        <seg>A figura no canto superior direito da unidade é o ~nível da unidade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021842Z" creationid="RAFAEL" creationdate="20200806T021842Z">
@@ -25378,6 +25402,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011623Z" creationid="RAFAEL" creationdate="20200812T011623Z">
+        <seg>A ~barra marrom~ representa o nível de utilização da unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224614Z" creationid="RAFAEL" creationdate="20200810T224614Z">
@@ -25906,6 +25938,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011718Z" creationid="RAFAEL" creationdate="20200812T011718Z">
+        <seg>Esse pode ser um dos motivos pelos quais sua loja não está tendo tanto lucro quanto deveria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010208Z" creationid="RAFAEL" creationdate="20200808T010208Z">
@@ -26118,6 +26158,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010857Z" creationid="RAFAEL" creationdate="20200808T010857Z">
         <seg>Este controle deslizante modifica a taxa de poupança pessoal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012000Z" creationid="RAFAEL" creationdate="20200812T012000Z">
+        <seg>Desta vez, você vai fazer o que um gerente de varejo experiente faria -- configurar manualmente um par de ~Unidades de Compra e Venda~ para sua loja de varejo.^^~Clique duas vezes~ um espaço vazio na grade de layout agora e selecione ~Unidade de Compra~ a partir da lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28006,6 +28054,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025113Z" creationid="RAFAEL" creationdate="20200804T025113Z">
         <seg>Quando a taxa de juros é alta, a oferta de dinheiro também é apertada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011702Z" creationid="RAFAEL" creationdate="20200812T011702Z">
+        <seg>Quando esta barra atinge seu comprimento total, significa que a unidade atingiu sua capacidade total e não pode processar mais mercadorias, mesmo que haja oferta e demanda adicionais. ^^ Por outro lado, se a unidade for subutilizada, suas instalações e recursos não serão usados efetivamente.</seg>
       </tuv>
     </tu>
     <tu>
