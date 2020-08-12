@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013135Z" creationid="RAFAEL" creationdate="20200812T013135Z">
+        <seg>A ~classificação geral~ de um produto é calculada com base no preço, na qualidade e na classificação da marca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223647Z" creationid="RAFAEL" creationdate="20200801T223647Z">
@@ -8582,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013113Z" creationid="RAFAEL" creationdate="20200812T013113Z">
+        <seg>Por exemplo, quando se trata de comprar jeans, os consumidores geralmente prestam mais atenção à marca do que à qualidade real do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232802Z" creationid="RAFAEL" creationdate="20200802T232802Z">
@@ -8618,6 +8634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004603Z" creationid="RAFAEL" creationdate="20200805T004603Z">
         <seg>Para mais detalhes, consulte a página Cidades no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013256Z" creationid="RAFAEL" creationdate="20200812T013256Z">
+        <seg>Por enquanto, continue comprando o produto atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12523,6 +12547,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012208Z" creationid="RAFAEL" creationdate="20200808T012208Z">
         <seg>No modo de sobrevivência, há apenas uma cidade no início do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013204Z" creationid="RAFAEL" creationdate="20200812T013204Z">
+        <seg>Resumindo, ~um preço baixo, alta qualidade e uma alta classificação da marca~ contribuem para ~uma alta classificação geral~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25105,6 +25137,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013355Z" creationid="RAFAEL" creationdate="20200812T013355Z">
+        <seg>Os produtos que sua unidade de compra solicitou já devem ter sido entregues em sua loja, e sua Unidade de compra deve ter começado a trabalhar com sua Unidade de vendas, fornecendo estoque para ela. ^^ Vamos dar uma olhada em sua ~Unidade de vendas~ selecionando-a agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The profit from underwriting insurance policies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025351Z" creationid="RAFAEL" creationdate="20200806T025351Z">
@@ -25510,6 +25550,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214818Z" creationid="Olivier" creationdate="20200730T214818Z">
         <seg>A barra amarela indica o fornecimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013238Z" creationid="RAFAEL" creationdate="20200812T013238Z">
+        <seg>O botão ~ Parar compra ~ fará exatamente isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013223Z" creationid="RAFAEL" creationdate="20200812T013223Z">
+        <seg>O botão ~Fornecedor~ exibe informações sobre o fornecedor existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29150,6 +29206,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
         <seg>Seus objetivos neste jogo são atingir uma receita anual de $ 50.000.000 e um lucro anual de $ 5.000.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013248Z" creationid="RAFAEL" creationdate="20200812T013248Z">
+        <seg>Sua unidade de compra deixará de comprar o produto atual.</seg>
       </tuv>
     </tu>
     <tu>
