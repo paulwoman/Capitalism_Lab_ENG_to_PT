@@ -5078,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012620Z" creationid="RAFAEL" creationdate="20200812T012620Z">
+        <seg>Clique no botão ~Link~ e selecione um produto para solicitar na lista de fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013245Z" creationid="RAFAEL" creationdate="20200811T010558Z">
@@ -9514,6 +9522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230636Z" creationid="RAFAEL" creationdate="20200802T230636Z">
         <seg>As cores cinzas significam importações de portos marítimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012650Z" creationid="RAFAEL" creationdate="20200812T012650Z">
+        <seg>Bom trabalho!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21495,6 +21511,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012639Z" creationid="RAFAEL" creationdate="20200812T012639Z">
+        <seg>Selecione um produto para solicitar na lista de fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select all firms in the current list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034303Z" creationid="RAFAEL" creationdate="20200806T034303Z">
@@ -24797,6 +24821,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004222Z" creationid="RAFAEL" creationdate="20200805T004222Z">
         <seg>O baixo valor deste aspecto da qualidade de vida fez com que algumas pessoas emigrassem desta cidade para outras cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012808Z" creationid="RAFAEL" creationdate="20200812T012808Z">
+        <seg>O canto inferior esquerdo da tela agora exibe detalhes sobre sua unidade de compra e o produto que ela transporta. ^^ Abaixo da imagem do produto, você pode ver a identidade da cor do fornecedor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28678,6 +28710,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200540Z" creationid="User" creationdate="20200802T200540Z">
         <seg>Você adquiriu com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012708Z" creationid="RAFAEL" creationdate="20200812T012708Z">
+        <seg>Você atualizou com sucesso a logística de sua loja e adicionou um novo produto a ela. ^^ A seguir, vamos dar uma olhada nas informações disponíveis para você sobre os produtos que sua loja está vendendo.</seg>
       </tuv>
     </tu>
     <tu>
