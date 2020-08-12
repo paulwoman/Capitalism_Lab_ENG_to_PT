@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010405Z" creationid="RAFAEL" creationdate="20200812T010405Z">
+        <seg>Uma loja especializada é mais atraente para os clientes interessados ​​em tais produtos. ^^ Por exemplo, uma loja de informática que vende computadores deve vender mais que uma loja de departamentos adjacente que vende o mesmo produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022643Z" creationid="RAFAEL" creationdate="20200806T022643Z">
@@ -6806,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Differences in quality, price and brand may even things out but that's for a later tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010419Z" creationid="RAFAEL" creationdate="20200812T010419Z">
+        <seg>Diferenças em qualidade, preço e marca podem equilibrar as coisas, mas isso é para um tutorial posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Level for Banking and Finance DLC</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014010Z" creationid="RAFAEL" creationdate="20200808T014010Z">
@@ -10099,6 +10115,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003052Z" creationid="RAFAEL" creationdate="20200808T003052Z">
         <seg>Página de instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, specialty stores do have advantages over general stores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010344Z" creationid="RAFAEL" creationdate="20200812T010344Z">
+        <seg>No entanto, as lojas especializadas têm vantagens sobre as lojas em geral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15711,6 +15735,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010514Z" creationid="RAFAEL" creationdate="20200812T010514Z">
+        <seg>Notou algo diferente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notification Only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033022Z" creationid="RAFAEL" creationdate="20200806T033022Z">
@@ -15771,6 +15803,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222659Z" creationid="RAFAEL" creationdate="20200810T222659Z">
         <seg>Agora clique com o botão esquerdo do mouse para ver seus detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010457Z" creationid="RAFAEL" creationdate="20200812T010457Z">
+        <seg>Agora selecione ~Desconto na Megastore~ ​​no menu e escolha um local para construir sua megastore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16539,6 +16579,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T123112Z" creationid="Olivier" creationdate="20200805T123112Z">
         <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, enough of the theory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010431Z" creationid="RAFAEL" creationdate="20200812T010431Z">
+        <seg>Ok, chega de teoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27598,6 +27646,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004423Z" creationid="RAFAEL" creationdate="20200811T004423Z">
         <seg>Estamos agora na vista da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010843Z" creationid="RAFAEL" creationdate="20200812T010843Z">
+        <seg>Agora podemos ver o ~ Layout ~ de sua loja, que é uma grade 3x3 quadrados.</seg>
       </tuv>
     </tu>
     <tu>
