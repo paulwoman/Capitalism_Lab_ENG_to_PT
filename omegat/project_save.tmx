@@ -16615,6 +16615,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011311Z" creationid="RAFAEL" creationdate="20200812T011311Z">
+        <seg>Um é denominado ~Compra~ e está conectado a uma unidade de ~Vendas~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only choose this if you have won in easier games.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220538Z" creationid="User" creationdate="20200803T220538Z">
@@ -21339,6 +21347,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030007Z" creationid="RAFAEL" creationdate="20200805T030007Z">
         <seg>Procure por fornecedores, digitando qualquer uma das seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011227Z" creationid="RAFAEL" creationdate="20200812T011227Z">
+        <seg>Está vendo as duas unidades que apareceram em sua grade de layout?</seg>
       </tuv>
     </tu>
     <tu>
