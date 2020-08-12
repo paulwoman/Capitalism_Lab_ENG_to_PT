@@ -8712,8 +8712,8 @@
       <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013711Z" creationid="RAFAEL" creationdate="20200812T013711Z">
-        <seg>A partir daqui, você pode visualizar detalhes sobre sua empresa e empresas rivais. ^^ Para cada empresa exibida, você pode ver imediatamente os números de caixa, receita e lucro e as barras que a acompanham, bem como um gráfico do lucro operacional.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023014Z" creationid="RAFAEL" creationdate="20200812T013711Z">
+        <seg>A partir daqui, você pode visualizar detalhes sobre sua empresa e empresas rivais. ^^Para cada empresa exibida, você pode ver imediatamente os números de caixa, receita e lucro e as barras que a acompanham, bem como um gráfico do lucro operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26245,8 +26245,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This is the ~Corporate Summary Report~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013645Z" creationid="RAFAEL" creationdate="20200812T013645Z">
-        <seg>Este é o ~Relatório de resumo corporativo~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023006Z" creationid="RAFAEL" creationdate="20200812T013645Z">
+        <seg>Este é o ~Corporação~.</seg>
       </tuv>
     </tu>
     <tu>
