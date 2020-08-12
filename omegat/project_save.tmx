@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014620Z" creationid="RAFAEL" creationdate="20200812T014620Z">
+        <seg>Embora você tenha um começo humilde, com as novas habilidades que adquiriu neste tutorial, atingir o objetivo não deve ser difícil! ^^ Boa sorte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024722Z" creationid="RAFAEL" creationdate="20200805T024722Z">
