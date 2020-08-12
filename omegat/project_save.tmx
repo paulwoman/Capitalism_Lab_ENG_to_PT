@@ -12495,6 +12495,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010909Z" creationid="RAFAEL" creationdate="20200812T010909Z">
+        <seg>No tutorial anterior, você só tinha que clicar no ícone ~Adicionar Produto~ e selecionar um produto da lista de fornecedores, e o produto selecionado aparecia automaticamente em sua loja.^^ O que você não viu foi as ~Unidades de Compra e Venda~ em sua loja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010142Z" creationid="RAFAEL" creationdate="20200811T010142Z">
@@ -25426,6 +25434,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010918Z" creationid="RAFAEL" creationdate="20200812T010918Z">
+        <seg>Estas unidades realmente fazem o verdadeiro trabalho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032220Z" creationid="RAFAEL" creationdate="20200806T032220Z">
@@ -26294,6 +26310,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011619Z" creationid="RAFAEL" creationdate="20200811T011619Z">
         <seg>Para isso, basta repetir as etapas que você acabou de fazer para configurar sua primeira loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010943Z" creationid="RAFAEL" creationdate="20200812T010943Z">
+        <seg>Para entender isto melhor, basta adicionar um produto à loja usando o método antigo que você está familiarizado.^^ Agora clique no ícone ~Adicionar Produto~ e escolha um produto da lista de fornecimento.</seg>
       </tuv>
     </tu>
     <tu>
