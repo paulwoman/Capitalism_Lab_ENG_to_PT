@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011417Z" creationid="RAFAEL" creationdate="20200812T011417Z">
+        <seg>Uma ~Unidade de compra~ faz exatamente isso - ela compra o produto que você selecionou do fornecedor. ^^ Após a entrega, a ~Unidade de compra~ passa o estoque para a ~Unidade de vendas~ que oferece o produto aos clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AAA is the best credit rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023845Z" creationid="RAFAEL" creationdate="20200806T023845Z">
@@ -14167,6 +14175,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's have a closer look at each unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011438Z" creationid="RAFAEL" creationdate="20200812T011438Z">
+        <seg>Vamos dar uma olhada em cada unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011001Z" creationid="Olivier" creationdate="20200802T011001Z">
@@ -15627,6 +15643,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023606Z" creationid="RAFAEL" creationdate="20200806T023606Z">
         <seg>Próxima produção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011554Z" creationid="RAFAEL" creationdate="20200812T011554Z">
+        <seg>Em seguida, você verá a barra de suprimento amarela e a barra de demanda laranja. ^^ A ~barra de suprimento amarela~ indica a quantidade de suprimento do fornecedor e a ~barra de demanda laranja~ mede a demanda do consumidor pelo produto. ^^ Se a barra de abastecimento é mais curta do que a barra de demanda, há uma escassez de oferta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22031,6 +22055,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simple eh?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011427Z" creationid="RAFAEL" creationdate="20200812T011427Z">
+        <seg>Simples hein?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single-click here to select this functional unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230430Z" creationid="RAFAEL" creationdate="20200802T230430Z">
@@ -24513,6 +24545,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011508Z" creationid="RAFAEL" creationdate="20200812T011508Z">
+        <seg>O primeiro indicador, uma linha azul de retângulos pontilhados, indica o nível de estoque do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030558Z" creationid="RAFAEL" creationdate="20200804T030558Z">
@@ -25386,6 +25426,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011456Z" creationid="RAFAEL" creationdate="20200812T011456Z">
+        <seg>Existem vários indicadores na ~Unidade de compra~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a cap that #limits the maximum amount# of deposit each depositor can make.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024924Z" creationid="RAFAEL" creationdate="20200806T024924Z">
@@ -25814,6 +25862,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024628Z" creationid="RAFAEL" creationdate="20200805T024628Z">
         <seg>Isto é para evitar que o fornecedor não seja prejudicado no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011328Z" creationid="RAFAEL" creationdate="20200812T011328Z">
+        <seg>Este é o seu agrupamento básico de unidades de comércio. ^^ Nenhuma das unidades tem muito efeito por si só, mas vinculadas permitem que sua loja funcione.</seg>
       </tuv>
     </tu>
     <tu>
