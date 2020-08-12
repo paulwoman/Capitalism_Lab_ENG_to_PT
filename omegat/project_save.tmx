@@ -9790,6 +9790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014448Z" creationid="RAFAEL" creationdate="20200812T014448Z">
+        <seg>Aqui está um lembrete de sua meta para este jogo tutorial: alcançar ~uma receita anual de $ 50 milhões~ e ~um lucro anual de $ 5 milhões~. ^^O ~Relatório de metas~ fornece um resumo do status de sua meta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Inactive Software Products</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011736Z" creationid="RAFAEL" creationdate="20200806T011736Z">
@@ -12423,6 +12431,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014325Z" creationid="RAFAEL" creationdate="20200812T014325Z">
+        <seg>Se você clicar duas vezes no nome de outra cidade, essa cidade será identificada no mapa mundial e a visualização da cidade na tela principal será atualizada para mostrar essa cidade. ^^ Feche a visualização do mapa mundial clicando no X no canto superior direito de sua janela ou clicando no ícone do Mapa do Mundo na barra de ferramentas inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T002337Z" creationid="RAFAEL" creationdate="20200808T002337Z">
@@ -13707,6 +13723,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023711Z" creationid="RAFAEL" creationdate="20200805T023711Z">
         <seg>Estabelecerá os níveis de operação com base nas exigências das instalações cívicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's time to expand your business empire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014410Z" creationid="RAFAEL" creationdate="20200812T014410Z">
+        <seg>É hora de expandir seu império de negócios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,6 +16019,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010100Z" creationid="RAFAEL" creationdate="20200812T010100Z">
         <seg>Agora selecione ~ Loja de varejo ~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014401Z" creationid="RAFAEL" creationdate="20200812T014401Z">
+        <seg>Agora que você aprendeu como construir lojas de varejo de diferentes tipos, bem como como navegar entre as cidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24745,6 +24777,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014246Z" creationid="RAFAEL" creationdate="20200812T014246Z">
+        <seg>A primeira maneira é abrir o ~Mapa do Mundo~ clicando em seu ícone na barra de ferramentas inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030558Z" creationid="RAFAEL" creationdate="20200804T030558Z">
@@ -25321,6 +25361,15 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014345Z" creationid="RAFAEL" creationdate="20200812T014345Z">
+        <seg>A segunda maneira de visualizar outra cidade é usando a interface de seleção de cidades no ~Minimapa~, conforme explicado no tutorial anterior.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015713Z" creationid="RAFAEL" creationdate="20200804T015713Z">
@@ -25710,6 +25759,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011456Z" creationid="RAFAEL" creationdate="20200812T011456Z">
         <seg>Existem vários indicadores na ~Unidade de compra~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two ways to view another city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014230Z" creationid="RAFAEL" creationdate="20200812T014230Z">
+        <seg>Existem duas maneiras de ver outra cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29042,6 +29099,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014529Z" creationid="RAFAEL" creationdate="20200812T014529Z">
+        <seg>Você pode abri-lo a qualquer momento abrindo o ~Centro de Informações~ e selecionando ~Relatório de metas~ ou pressionando a ~tecla de atalho 'G'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may relocate this firm in the same city, or demolish it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021453Z" creationid="RAFAEL" creationdate="20200804T021453Z">
@@ -29334,6 +29399,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
         <seg>Seus objetivos neste jogo são atingir uma receita anual de $ 50.000.000 e um lucro anual de $ 5.000.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014258Z" creationid="RAFAEL" creationdate="20200812T014258Z">
+        <seg>Sua cidade atual será destacada no mapa quando ele for aberto pela primeira vez.</seg>
       </tuv>
     </tu>
     <tu>
