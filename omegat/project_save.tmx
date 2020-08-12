@@ -15751,6 +15751,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now waste no time and get started working towards this goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005854Z" creationid="RAFAEL" creationdate="20200812T005854Z">
+        <seg>Agora não perca tempo e comece a trabalhar para atingir esse objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013212Z" creationid="RAFAEL" creationdate="20200811T010512Z">
@@ -26034,6 +26042,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To build your first store, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005924Z" creationid="RAFAEL" creationdate="20200812T005924Z">
+        <seg>Para construir sua primeira loja, clique no ícone ~Construção~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To develop an OS, set up a Software Company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013007Z" creationid="RAFAEL" creationdate="20200806T013007Z">
@@ -28750,6 +28766,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122129Z" creationid="Olivier" creationdate="20200805T122129Z">
         <seg>Your factory sells product class=Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
+        <seg>Seus objetivos neste jogo são atingir uma receita anual de $ 50.000.000 e um lucro anual de $ 5.000.000.</seg>
       </tuv>
     </tu>
     <tu>
