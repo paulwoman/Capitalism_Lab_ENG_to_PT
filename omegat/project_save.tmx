@@ -8182,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013722Z" creationid="RAFAEL" creationdate="20200812T013722Z">
+        <seg>Finalmente, o logotipo corporativo, a cor corporativa e o retrato do CEO são exibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial Performance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020552Z" creationid="RAFAEL" creationdate="20200806T020552Z">
@@ -8690,6 +8698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013711Z" creationid="RAFAEL" creationdate="20200812T013711Z">
         <seg>A partir daqui, você pode visualizar detalhes sobre sua empresa e empresas rivais. ^^ Para cada empresa exibida, você pode ver imediatamente os números de caixa, receita e lucro e as barras que a acompanham, bem como um gráfico do lucro operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013739Z" creationid="RAFAEL" creationdate="20200812T013739Z">
+        <seg>Nas opções de menu no canto superior direito da tela, selecione ~Visão geral da empresa~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15923,6 +15939,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005526Z" creationid="RAFAEL" creationdate="20200811T005526Z">
         <seg>Agora clique no ícone ~Lucro~ para mudar para esse modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013857Z" creationid="RAFAEL" creationdate="20200812T013857Z">
+        <seg>Agora clique no logotipo da sua empresa para ver mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25586,6 +25610,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013924Z" creationid="RAFAEL" creationdate="20200812T013924Z">
+        <seg>O ~Relatório de detalhes corporativos~ contém muitas informações úteis sobre sua empresa. ^^Por meio das extensas opções de menu, você pode obter informações detalhadas sobre sua própria empresa e qualquer empresa rival que selecionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013807Z" creationid="RAFAEL" creationdate="20200812T013807Z">
+        <seg>A tela ~Visão geral da empresa~ exibe um resumo das empresas da corporação. ^^Agora selecione ~Relação comercial~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013413Z" creationid="RAFAEL" creationdate="20200812T013413Z">
@@ -25694,6 +25734,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004733Z" creationid="RAFAEL" creationdate="20200811T004733Z">
         <seg>Há uma linha de ícones na barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013935Z" creationid="RAFAEL" creationdate="20200812T013935Z">
+        <seg>Há mais de uma cidade neste tutorial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26326,6 +26374,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001525Z" creationid="RAFAEL" creationdate="20200805T001525Z">
         <seg>Essa classificação é determinada pelo nível salarial da cidade, a taxa de desemprego e a taxa individual de imposto de renda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013843Z" creationid="RAFAEL" creationdate="20200812T013843Z">
+        <seg>Esta tela mostra quais empresas estão negociando com as suas. ^^ Agora selecione ~Visão Geral Financeira~ para retornar à primeira tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29150,6 +29206,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031638Z" creationid="RAFAEL" creationdate="20200804T031638Z">
         <seg>Você possui ações nesta empresa diretamente ou através de empresas Holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014008Z" creationid="RAFAEL" creationdate="20200812T014008Z">
+        <seg>Você deve pensar em expandir seus negócios para outras cidades, para aproveitar a disponibilidade de diferentes produtos ou talvez a ausência de um forte concorrência.</seg>
       </tuv>
     </tu>
     <tu>
