@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014804Z" creationid="RAFAEL" creationdate="20200812T014804Z">
+        <seg>Description=Neste tutorial, você aprenderá habilidades avançadas de gerenciamento para administrar uma loja de varejo e expandir sua rede de varejo expandindo para outras cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201411Z" creationid="RAFAEL" creationdate="20200802T201411Z">
@@ -9530,6 +9538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T021117Z" creationid="RAFAEL" creationdate="20200811T015217Z">
         <seg>Goal Description=Alcançar uma receita anual de US$ 20 milhões para completar este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014929Z" creationid="RAFAEL" creationdate="20200812T014929Z">
+        <seg>Goal Description=Obtenha uma receita anual de $ 50 milhões e um lucro anual de $ 5 milhões para concluir este tutorial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20731,6 +20747,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015630Z" creationid="Olivier" creationdate="20200802T015630Z">
         <seg>Retail Focused Companies=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Management</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014736Z" creationid="RAFAEL" creationdate="20200812T014724Z">
+        <seg>Gestão do Varejo</seg>
       </tuv>
     </tu>
     <tu>
