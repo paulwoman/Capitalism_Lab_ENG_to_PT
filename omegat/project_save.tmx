@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013657Z" creationid="Olivier" creationdate="20200802T013657Z">
         <seg>// This will change your corporation's technology level of the specified product type when you have achieved the goal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170340Z" creationid="Olivier" creationdate="20200812T170340Z">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9542,6 +9550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170426Z" creationid="Olivier" creationdate="20200812T170426Z">
+        <seg>Goal Description=Alcançar uma receita anual de US$ 30 milhões e um lucro anual de US$ 3 milhões para completar este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014929Z" creationid="RAFAEL" creationdate="20200812T014929Z">
@@ -12935,6 +12951,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center, Farmer Guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170341Z" creationid="Olivier" creationdate="20200812T170341Z">
+        <seg>Information Center, Farmer Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Farmer¡¯s Guide</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015347Z" creationid="Olivier" creationdate="20200802T015347Z">
@@ -12967,10 +12991,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center, Manager Guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170351Z" creationid="Olivier" creationdate="20200812T170351Z">
+        <seg>Information Center, Manager Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Manager¡¯s Guide</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015347Z" creationid="Olivier" creationdate="20200802T015347Z">
         <seg>Information Center, Manager¡¯s Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Manufacturer Guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170341Z" creationid="Olivier" creationdate="20200812T170341Z">
+        <seg>Information Center, Manufacturer Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -24157,6 +24197,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032426Z" creationid="RAFAEL" creationdate="20200806T032426Z">
         <seg>A relação Empréstimos/ativos é calculada dividindo o montante total de empréstimos do banco por seu montante total de ativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170459Z" creationid="Olivier" creationdate="20200812T170459Z">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
     </tu>
     <tu>
