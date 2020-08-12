@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010127Z" creationid="RAFAEL" creationdate="20200812T010127Z">
+        <seg>Como você tem mais experiência em varejo, agora pode escolher entre uma variedade de tipos de lojas de varejo para construir, incluindo lojas de departamentos, lojas de conveniência, supermercados, megastore com descontos e vários tipos de lojas especializadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010628Z" creationid="RAFAEL" creationdate="20200811T010628Z">
@@ -8526,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, a furniture store can only sell furniture.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010314Z" creationid="RAFAEL" creationdate="20200812T010314Z">
+        <seg>Por exemplo, uma loja de móveis só pode vender móveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232802Z" creationid="RAFAEL" creationdate="20200802T232802Z">
@@ -11903,6 +11919,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010330Z" creationid="RAFAEL" creationdate="20200812T010330Z">
+        <seg>Se ocorrer um problema de abastecimento, você pode não ser capaz de resolvê-lo facilmente devido aos tipos limitados de produtos que uma loja especializada pode vender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013307Z" creationid="RAFAEL" creationdate="20200805T013307Z">
@@ -12307,6 +12331,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014745Z" creationid="RAFAEL" creationdate="20200805T014745Z">
         <seg>Se desejar, você pode reverter sua tecnologia de produção para um nível inferior e associá-la a uma imagem de produto personalizada diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010306Z" creationid="RAFAEL" creationdate="20200812T010306Z">
+        <seg>Se, por qualquer motivo, o fornecimento de um produto para a loja for interrompido, você pode substituí-lo facilmente por outro produto. ^^ Por outro lado, ~uma loja especializada~ só pode vender uma gama específica de produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15739,6 +15771,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222659Z" creationid="RAFAEL" creationdate="20200810T222659Z">
         <seg>Agora clique com o botão esquerdo do mouse para ver seus detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010100Z" creationid="RAFAEL" creationdate="20200812T010100Z">
+        <seg>Agora selecione ~ Loja de varejo ~ no menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45806,6 +45846,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213541Z" creationid="Olivier" creationdate="20200730T213541Z">
         <seg>~Nome da cultura~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010234Z" creationid="RAFAEL" creationdate="20200812T010234Z">
+        <seg>~Megaestores de desconto~ podem vender qualquer coisa, o que os torna muito versáteis.</seg>
       </tuv>
     </tu>
     <tu>
