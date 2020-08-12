@@ -4686,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013506Z" creationid="RAFAEL" creationdate="20200812T013506Z">
+        <seg>Limpar o estoque em vigor libera suas prateleiras de varejo para o novo produto imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click again to cancel it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T233003Z" creationid="RAFAEL" creationdate="20200802T233003Z">
@@ -8674,6 +8682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
         <seg>Ad.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013711Z" creationid="RAFAEL" creationdate="20200812T013711Z">
+        <seg>A partir daqui, você pode visualizar detalhes sobre sua empresa e empresas rivais. ^^ Para cada empresa exibida, você pode ver imediatamente os números de caixa, receita e lucro e as barras que a acompanham, bem como um gráfico do lucro operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15979,6 +15995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013212Z" creationid="RAFAEL" creationdate="20200811T010512Z">
         <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firma~, ~Corp.~, ~Cidades~, ~Possuo~ e ~Produto~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013549Z" creationid="RAFAEL" creationdate="20200812T013549Z">
+        <seg>Agora ~adicione mais um grupo~ de ~Unidades de compra e vendas~ para aumentar a variedade de produtos da sua loja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25554,6 +25578,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013438Z" creationid="RAFAEL" creationdate="20200812T013438Z">
+        <seg>O botão ~Limpar estoque~ aqui, como o nome sugere, é para limpar o estoque de produtos da unidade de vendas. ^^ Isso é útil se você localizou um suprimento melhor do mesmo tipo de produto e deseja vender o novo assim que possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013413Z" creationid="RAFAEL" creationdate="20200812T013413Z">
+        <seg>A ~Unidade de vendas~ basicamente mostra as mesmas informações que a unidade de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Stop Purchase~ button will do exactly that.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013238Z" creationid="RAFAEL" creationdate="20200812T013238Z">
@@ -26058,6 +26098,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013645Z" creationid="RAFAEL" creationdate="20200812T013645Z">
+        <seg>Este é o ~Relatório de resumo corporativo~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222856Z" creationid="RAFAEL" creationdate="20200810T222856Z">
@@ -26422,6 +26470,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013827Z" creationid="RAFAEL" creationdate="20200805T013827Z">
         <seg>Para adicionar novas imagens de produtos personalizados ao jogo, salve arquivos de imagem PNG (120x120 pixels) na pasta."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013627Z" creationid="RAFAEL" creationdate="20200812T013627Z">
+        <seg>Para se tornar um empresário competente, você também deve aprender a digerir as informações disponíveis sobre sua empresa e seus concorrentes. ^^ Clique no ícone ~Informações~ na barra de ferramentas inferior para abrir a tela do ~Centro de Informações~ agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28790,6 +28846,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011558Z" creationid="RAFAEL" creationdate="20200811T011558Z">
         <seg>Você acabou de expandir seus negócios!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013522Z" creationid="RAFAEL" creationdate="20200812T013522Z">
+        <seg>Você acabou de aprender as habilidades avançadas para gerenciamento de varejo e como solicitar os produtos certos que atraem fortemente seus clientes.</seg>
       </tuv>
     </tu>
     <tu>
