@@ -44821,8 +44821,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3083]&lt;FTRA&gt;When you transfer a R&amp;D center, its existing R&amp;D projects will be cancelled as they depend on the company's technological foundation.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T200143Z" creationid="User" creationdate="20200802T200143Z">
-        <seg>[3083]&lt;FTRA&gt;Quando você transfere um centro de P&amp;D, os projetos existentes de P&amp;D são cancelados, pois dependem da base tecnológica da empresa..</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T024411Z" creationid="User" creationdate="20200802T200143Z">
+        <seg>[3083]&lt;FTRA&gt;Quando você transfere um centro de P&amp;D, os projetos existentes de P&amp;D são cancelados, pois dependem da base tecnológica da empresa.</seg>
       </tuv>
     </tu>
     <tu>
