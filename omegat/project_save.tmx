@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45045,8 +45045,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3105]&lt;SUBS&gt;The new game options for the Subsidiary DLC are available on the [Environment], [Competitors] and [Products] pages.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T202916Z" creationid="User" creationdate="20200802T202916Z">
-        <seg>[3105]&lt;SUBS&gt;As novas opções de jogos para o DLC subsidiário estão disponíveis nas páginas [Ambiente], [Concorrentes] e [Produtos].|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200813T020919Z" creationid="User" creationdate="20200802T202916Z">
+        <seg>[3105]&lt;SUBS&gt;As novas opções de jogos para o DLC subsidiário estão disponíveis nas páginas [Ambiente], [Competidores] e [Produtos].|</seg>
       </tuv>
     </tu>
     <tu>
