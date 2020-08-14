@@ -43045,8 +43045,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2855]&lt;AK11&gt;Increase in Asset Value|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T001804Z" creationid="User" creationdate="20200802T001804Z">
-        <seg>[2855]&lt;AK11&gt;Aumento do Valor Patrimonial|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T004433Z" creationid="User" creationdate="20200802T001804Z">
+        <seg>[2855]&lt;AK11&gt;Aumento Valor Patrimonial|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43757,8 +43757,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T010107Z" creationid="User" creationdate="20200802T010107Z">
-        <seg>[2944]&lt;AK31&gt;Juros sobre empréstimos e títulos|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T004515Z" creationid="User" creationdate="20200802T010107Z">
+        <seg>[2944]&lt;AK31&gt;Juros s/ empréstimos e títulos|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43829,8 +43829,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T010706Z" creationid="User" creationdate="20200802T010706Z">
-        <seg>[2953]&lt;AK13&gt;Receita de Juros de Depósito|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T004346Z" creationid="User" creationdate="20200802T010706Z">
+        <seg>[2953]&lt;AK13&gt;Rec. de Juros de Depósito|</seg>
       </tuv>
     </tu>
     <tu>
