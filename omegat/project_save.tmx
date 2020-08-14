@@ -46557,8 +46557,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010234Z" creationid="RAFAEL" creationdate="20200812T010234Z">
-        <seg>~Megaestores de desconto~ podem vender qualquer coisa, o que os torna muito versáteis.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T002200Z" creationid="RAFAEL" creationdate="20200812T010234Z">
+        <seg>~Megaestores com desconto~ podem vender qualquer coisa, o que os torna muito versáteis.</seg>
       </tuv>
     </tu>
     <tu>
