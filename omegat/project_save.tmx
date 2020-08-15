@@ -34053,8 +34053,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0881]&lt;A302&gt;Unique Brand|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175402Z" creationid="Olivier" creationdate="20200728T085119Z">
-        <seg>[0881]&lt;A302&gt;única|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T192025Z" creationid="Olivier" creationdate="20200728T085119Z">
+        <seg>[0881]&lt;A302&gt;Marca Única|</seg>
       </tuv>
     </tu>
     <tu>
@@ -34445,8 +34445,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0936]&lt;0144&gt;Unique Brand|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085421Z" creationid="Olivier" creationdate="20200728T085421Z">
-        <seg>[0936]&lt;0144&gt;única|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T192048Z" creationid="Olivier" creationdate="20200728T085421Z">
+        <seg>[0936]&lt;0144&gt;Marca Única|</seg>
       </tuv>
     </tu>
     <tu>
