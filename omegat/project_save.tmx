@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before starting to advertise, you should first decide which brand strategy you want to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165227Z" creationid="RAFAEL" creationdate="20200815T165227Z">
+        <seg>Antes de começar a anunciar, você deve primeiro decidir qual estratégia de marca deseja usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you can start to manufacture hardware using this IP, you must first develop an Operating System for the IP.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012857Z" creationid="RAFAEL" creationdate="20200806T012857Z">
@@ -9862,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good work with your factory!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165143Z" creationid="RAFAEL" creationdate="20200815T165143Z">
+        <seg>Bom trabalho com sua fábrica!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143213Z" creationid="RAFAEL" creationdate="20200815T143213Z">
@@ -13011,6 +13027,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024125Z" creationid="RAFAEL" creationdate="20200805T024051Z">
         <seg>No jogo, cada jogador tem a capacidade de criar um IP a partir do zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165054Z" creationid="RAFAEL" creationdate="20200815T165054Z">
+        <seg>No tutorial anterior, você aprendeu como configurar as instalações de produção em uma fábrica manualmente.^^Desta vez, vamos clicar no ícone [+] para usar a ferramenta do fabricante para configurar as instalações de fábrica para você automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16627,6 +16651,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013212Z" creationid="RAFAEL" creationdate="20200811T010512Z">
         <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firma~, ~Corp.~, ~Cidades~, ~Possuo~ e ~Produto~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we will start dealing with branding and advertising.^^There are three different brand strategies available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165211Z" creationid="RAFAEL" creationdate="20200815T165211Z">
+        <seg>Agora, vamos começar a lidar com marca e publicidade.^^Existem três estratégias de marca diferentes disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22423,6 +22455,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select an Apparel product from the list and click the [SET UP FACTORY] button.^^This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165119Z" creationid="RAFAEL" creationdate="20200815T165119Z">
+        <seg>Selecione um produto de vestuário da lista e clique no botão [CONFIGURAR FÁBRICA].^^Este tutorial continuará quando sua fábrica começar a produzir produtos de vestuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select city and update main city view</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202617Z" creationid="RAFAEL" creationdate="20200802T202617Z">
@@ -22563,6 +22603,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145050Z" creationid="RAFAEL" creationdate="20200815T145050Z">
         <seg>Selecione a unidade de fabricação do seu Taco de Golfe clicando nela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Brand~ from the menu list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165327Z" creationid="RAFAEL" creationdate="20200815T165327Z">
+        <seg>Selecione ~Marca~ na lista do menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27435,6 +27483,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165132Z" creationid="RAFAEL" creationdate="20200815T165132Z">
+        <seg>Este tutorial continuará quando sua fábrica começar a produzir produtos de vestuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value indicates the approximate value of goods produced per person in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024321Z" creationid="RAFAEL" creationdate="20200804T024321Z">
@@ -27511,6 +27567,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165308Z" creationid="RAFAEL" creationdate="20200815T165308Z">
+        <seg>Para acessar a tela ~Estratégia da marca~, abra o relatório ~Detalhe Corp~ pressionando a tecla de atalho ~D~ agora.</seg>
       </tuv>
     </tu>
     <tu>
