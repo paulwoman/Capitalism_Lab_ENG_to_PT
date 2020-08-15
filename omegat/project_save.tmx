@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144214Z" creationid="RAFAEL" creationdate="20200815T144214Z">
+        <seg>Assim que sua fábrica receber Madeira do fornecedor, a Unidade de Fabricação passa a produzir Cama.^^Em seguida, a Unidade de Fabricação enviará os produtos acabados para a Unidade de Venda e sua Cama estará disponível para venda no mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000827Z" creationid="RAFAEL" creationdate="20200808T000827Z">
@@ -26307,6 +26315,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then choose a supplier that sells timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144136Z" creationid="RAFAEL" creationdate="20200815T144136Z">
+        <seg>Em seguida, escolha um fornecedor que venda madeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then inject capital into the bank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
@@ -26399,6 +26415,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014320Z" creationid="RAFAEL" creationdate="20200805T014320Z">
         <seg>Haverá exportação quando a classificação de competitividade da cidade exceder a classificação de competitividade global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144332Z" creationid="RAFAEL" creationdate="20200815T144332Z">
+        <seg>Há muito espaço não utilizado em sua fábrica - seis unidades vazias para ser exato - então vamos utilizá-los.^^Na linha de unidades vazias imediatamente abaixo de suas unidades existentes ~adicione~ outro conjunto de ~Unidade de compra, unidade de fabricação e unidade de vendas~ da esquerda para a direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28375,6 +28399,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002849Z" creationid="RAFAEL" creationdate="20200805T002849Z">
         <seg>Use o controle deslizante para definir o orçamento de treinamento do pessoal para este edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the ~Product~ filter to select ~Timber~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144124Z" creationid="RAFAEL" creationdate="20200815T144124Z">
+        <seg>Use o filtro ~Produto~ para selecionar ~Madeira~.</seg>
       </tuv>
     </tu>
     <tu>
