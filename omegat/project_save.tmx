@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184510Z" creationid="RAFAEL" creationdate="20200815T184510Z">
+        <seg>Um conselho de estratégia para você: concentre-se nos produtos que você já fabrica, construa novas lojas de varejo e, por fim, domine o mercado!^^E quando você estiver pronto para expandir seus negócios para outras cidades, lembre-se de usar o ~Minimapa~ para alternar entre cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tech with a bigger weight means that it is more important.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031431Z" creationid="RAFAEL" creationdate="20200806T031431Z">
@@ -30663,6 +30671,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T171003Z" creationid="RAFAEL" creationdate="20200815T171003Z">
         <seg>Agora você deve adicionar uma nova unidade à sua loja de departamentos: a ~Unidade de publicidade~ e vinculá-la à sua unidade de vendas.^^Muitas vezes, é uma boa ideia colocar a ~unidade de publicidade~ no quadrado central de seu layout para que ele possa se vincular a qualquer unidade de venda.^^~Clique duas vezes no quadrado central~ e selecione ~Unidade de publicidade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184719Z" creationid="RAFAEL" creationdate="20200815T184719Z">
+        <seg>Você concluirá este tutorial quando ~dominar o mercado de vestuário~ enquanto atinge ~um lucro anual~ não inferior a ~$ 2 milhões~.</seg>
       </tuv>
     </tu>
     <tu>
