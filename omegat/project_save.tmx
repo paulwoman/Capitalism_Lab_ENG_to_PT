@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141043Z" creationid="RAFAEL" creationdate="20200815T141043Z">
+        <seg>No momento, o valor máximo que você pode emprestar é de $ 30.000.000.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224003Z" creationid="RAFAEL" creationdate="20200810T224003Z">
@@ -5170,6 +5178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224112Z" creationid="RAFAEL" creationdate="20200810T224112Z">
         <seg>Clique no botão ~SELECIONAR~ agora.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141303Z" creationid="RAFAEL" creationdate="20200815T141303Z">
+        <seg>Clique no botão ~[+]~ próximo ao botão ~Empréstimo~.^^Quando você aumentar a quantia para $ 20.000.000 ou mais, clique no botão ~Empréstimo~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22103,6 +22119,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140958Z" creationid="RAFAEL" creationdate="20200815T140958Z">
+        <seg>Selecione ~Ações financeiras~ no Centro de Informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012013Z" creationid="RAFAEL" creationdate="20200812T012013Z">
@@ -29751,6 +29775,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023816Z" creationid="RAFAEL" creationdate="20200805T023816Z">
         <seg>Sua empresa deve possuir o nível técnico mínimo exigido para cada tecnologia a fim de criar o produto de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141025Z" creationid="RAFAEL" creationdate="20200815T141025Z">
+        <seg>O limite de crédito da sua empresa varia ao longo do jogo, dependendo do estado da sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
