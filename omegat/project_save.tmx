@@ -16463,6 +16463,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163035Z" creationid="RAFAEL" creationdate="20200815T163035Z">
+        <seg>Agora que você sabe como encontrar fornecedores, fabricar e vender produtos, é hora de olhar para ~publicidade~ de seus produtos.^^A sua corporação estará competindo contra outras corporações que vendem os mesmos tipos de produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145707Z" creationid="RAFAEL" creationdate="20200815T145707Z">
@@ -29035,6 +29043,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163223Z" creationid="RAFAEL" creationdate="20200815T163223Z">
+        <seg>Quando um consumidor compra um produto, ele considera o ~preço~, a ~qualidade~ e a ~marca~ do produto.^^Para a ~qualidade~, ele é afetado pelas qualidades das matérias-primas utilizadas e pela tecnologia de produção, o que você já aprendeu no tutorial anterior.^^Para o ~preço~, é muito simples - um preço mais baixo torna um produto mais competitivo no mercado.^^A ~marca~ é um nome distintivo destinado a identificar e diferenciar os produtos de um vendedor dos produtos da concorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a consumer buys a product, the product's price, quality, and brand are considered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012036Z" creationid="RAFAEL" creationdate="20200806T012036Z">
@@ -30127,6 +30143,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014212Z" creationid="RAFAEL" creationdate="20200812T014008Z">
         <seg>Você deve pensar em expandir seus negócios para outras cidades, para aproveitar a disponibilidade de diferentes produtos ou talvez a ausência de forte concorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163102Z" creationid="RAFAEL" creationdate="20200815T163102Z">
+        <seg>Você vai precisar de uma boa campanha publicitária se quiser que seu negócio seja bem sucedido.^^Vamos aprender alguns conceitos básicos de marca e publicidade agora.</seg>
       </tuv>
     </tu>
     <tu>
