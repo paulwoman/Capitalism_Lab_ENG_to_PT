@@ -16719,6 +16719,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T182910Z" creationid="RAFAEL" creationdate="20200815T182910Z">
+        <seg>Agora a seção de detalhes de sua unidade de publicidade exibe a empresa de mídia que você acabou de selecionar.^^Você pode ajustar o controle deslizante ~Gastos mensais por produto~ mas, por enquanto, deixe-o ajustado em $100.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now waste no time and get started working towards this goal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005854Z" creationid="RAFAEL" creationdate="20200812T005854Z">
