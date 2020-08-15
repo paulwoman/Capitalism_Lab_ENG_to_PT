@@ -10030,6 +10030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145353Z" creationid="RAFAEL" creationdate="20200815T145353Z">
+        <seg>Aqui ele mostra a ~qualificação do seu Taco de Golfe~, e os fatores que contribuem para esta classificação de qualidade, que incluem ~qualidades da materia prima~, e sua ~tecnologia de produção~ para este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012908Z" creationid="RAFAEL" creationdate="20200812T012908Z">
@@ -16351,6 +16359,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145024Z" creationid="RAFAEL" creationdate="20200815T145024Z">
+        <seg>Agora vamos dar uma olhada mais de perto na própria ~unidade de fabricação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144649Z" creationid="RAFAEL" creationdate="20200815T144649Z">
@@ -22323,6 +22339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014024Z" creationid="RAFAEL" creationdate="20200806T014024Z">
         <seg>Selecione isto para mostrar todos os empréstimos que foram feitos a empresas e corporações locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145050Z" creationid="RAFAEL" creationdate="20200815T145050Z">
+        <seg>Selecione a unidade de fabricação do seu Taco de Golfe clicando nela.</seg>
       </tuv>
     </tu>
     <tu>
