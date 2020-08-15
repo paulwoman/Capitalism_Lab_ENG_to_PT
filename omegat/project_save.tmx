@@ -16351,6 +16351,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144649Z" creationid="RAFAEL" creationdate="20200815T144649Z">
+        <seg>Agora vincule a primeira ~Unidade de compra~ à nova ~Unidade de fabricação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012148Z" creationid="RAFAEL" creationdate="20200812T012148Z">
@@ -27183,6 +27191,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005924Z" creationid="User" creationdate="20200802T005924Z">
         <seg>Isso pulará o tutorial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144855Z" creationid="RAFAEL" creationdate="20200815T144855Z">
+        <seg>Esta ~Unidade de fabricação~ produzirá agora o ~Taco de Golfe~.^^Veja como utilizamos uma ~Unidade de compra~ existente fornecendo ~Madeira~ e em conjunto com uma nova unidade de compra de ~Aço~, para fabricar um produto diferente.</seg>
       </tuv>
     </tu>
     <tu>
