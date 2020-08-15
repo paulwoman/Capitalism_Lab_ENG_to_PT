@@ -16415,6 +16415,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145707Z" creationid="RAFAEL" creationdate="20200815T145707Z">
+        <seg>Agora que sua fábrica está em operação, seus produtos já podem ser adquiridos por outras empresas para venda em suas lojas.^^Para expandir seu negócio, você é aconselhado a construir lojas de varejo para vender seus próprios produtos, e montar mais fábricas para produzir produtos adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010858Z" creationid="RAFAEL" creationdate="20200811T010858Z">
@@ -27323,6 +27331,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145735Z" creationid="RAFAEL" creationdate="20200815T145735Z">
+        <seg>Para completar seus objetivos neste jogo, você precisa atingir ~uma receita anual de $30 milhões~ e ~um lucro anual de $3 milhões~.^^Mas lembre-se que você ainda deve dinheiro ao banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To develop an OS, set up a Software Company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013007Z" creationid="RAFAEL" creationdate="20200806T013007Z">
@@ -28871,6 +28887,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141651Z" creationid="RAFAEL" creationdate="20200815T141651Z">
         <seg>Queremos descobrir quais produtos podem ser feitos de ~Madeira~, então clique no botão ~INPUT~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will cover this in a later tutorial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145618Z" creationid="RAFAEL" creationdate="20200815T145618Z">
+        <seg>Abordaremos isto em um tutorial posterior.</seg>
       </tuv>
     </tu>
     <tu>
