@@ -110,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183330Z" creationid="RAFAEL" creationdate="20200815T183258Z">
+        <seg>(Dica: Se você já fabrica e vende jeans, opte por jaqueta de couro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183231Z" creationid="RAFAEL" creationdate="20200815T183231Z">
+        <seg>(Dica: se você já está fabricando e vendendo jeans, escolha uma jaqueta de couro).^^Este tutorial continuará quando você produzir e vender um novo produto de ~ vestuário ~ em sua loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002837Z" creationid="RAFAEL" creationdate="20200805T002837Z">
@@ -3114,6 +3130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005500Z" creationid="RAFAEL" creationdate="20200805T005500Z">
         <seg>Construir um poço de petróleo para extração de óleo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build another factory to produce a different ~apparel~ product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183202Z" creationid="RAFAEL" creationdate="20200815T183202Z">
+        <seg>Construa outra fábrica para produzir um produto diferente de ~vestuário~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27595,6 +27619,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183418Z" creationid="RAFAEL" creationdate="20200815T183418Z">
+        <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ele já está coberto pela sua marca ~classe de produto de vestuário~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012000Z" creationid="RAFAEL" creationdate="20200812T012000Z">
@@ -27607,6 +27639,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170724Z" creationid="RAFAEL" creationdate="20200815T170724Z">
         <seg>Este tutorial continuará quando você tiver feito isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183353Z" creationid="RAFAEL" creationdate="20200815T183353Z">
+        <seg>Este tutorial continuará quando você produzir e vender um novo produto de ~vestuário~ em sua loja de departamentos.</seg>
       </tuv>
     </tu>
     <tu>
