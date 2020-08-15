@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T180533Z" creationid="RAFAEL" creationdate="20200815T180533Z">
+        <seg>No entanto, tenha cuidado para não escolher uma empresa que cobra muito caro.^^Depois de decidir em qual empresa de mídia anunciar, ~duplo clique~ para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013959Z" creationid="RAFAEL" creationdate="20200805T013959Z">
@@ -16651,6 +16659,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012148Z" creationid="RAFAEL" creationdate="20200812T012148Z">
         <seg>Agora vincule a ~Unidade de compra~ e a ~Unidade de vendas~ clicando na linha de ligação entre elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now link your ~Advertising~ unit and your ~Sale~ unit by ~clicking the linkage line~ between them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T182717Z" creationid="RAFAEL" creationdate="20200815T182717Z">
+        <seg>Agora vincule sua unidade de ~Publicidade~ e sua unidade de ~Venda~clicando na linha de vinculação~ entre eles.</seg>
       </tuv>
     </tu>
     <tu>
