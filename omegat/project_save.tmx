@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164931Z" creationid="RAFAEL" creationdate="20200815T164931Z">
+        <seg>Os produtos de vestuário incluem ~Blazer~, ~Jeans~, ~Jaqueta de couro~ e ~Suéter~ e cada um exigirá diferentes matérias-primas.^^Antes de decidir qual produto de vestuário fabricar, você deve verificar quais ~suprimentos de matéria-prima~ estão disponíveis nos ~portos marítimos~ e estude o ~Guia do Produtor~ para ver quais produtos você pode fabricar com os suprimentos disponíveis.^^Agora volte para a visualização da cidade clicando com o botão direito em qualquer lugar da tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T223822Z" creationid="RAFAEL" creationdate="20200802T223822Z">
@@ -12423,6 +12431,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165022Z" creationid="RAFAEL" creationdate="20200815T165022Z">
+        <seg>Se a qualquer momento você se perder e quiser reiniciar o tutorial, você pode ~pressionar a tecla ESC e selecionar Reiniciar tutorial~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000622Z" creationid="RAFAEL" creationdate="20200808T000622Z">
@@ -14155,6 +14171,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014410Z" creationid="RAFAEL" creationdate="20200812T014410Z">
         <seg>É hora de expandir seu império de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164802Z" creationid="RAFAEL" creationdate="20200815T164802Z">
+        <seg>É hora de colocá-los em uso!^^ Vamos construir uma fábrica para fabricar ~produtos de vestuário~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16475,6 +16499,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013857Z" creationid="RAFAEL" creationdate="20200812T013857Z">
         <seg>Agora clique no logotipo da sua empresa para ver mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164949Z" creationid="RAFAEL" creationdate="20200815T164949Z">
+        <seg>Agora vá em frente e construa uma fábrica.^^Este tutorial continuará quando você tiver construído uma fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29951,6 +29983,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011558Z" creationid="RAFAEL" creationdate="20200811T011558Z">
         <seg>Você acabou de expandir seus negócios!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned concepts about brands.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164723Z" creationid="RAFAEL" creationdate="20200815T164723Z">
+        <seg>Você acabou de aprender conceitos sobre marcas.</seg>
       </tuv>
     </tu>
     <tu>
