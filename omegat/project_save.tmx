@@ -8486,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find a media firm with a high rating points score to maximize your advertising coverage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T180453Z" creationid="RAFAEL" creationdate="20200815T180453Z">
+        <seg>Encontre uma empresa de mídia com uma pontuação alta de classificação para maximizar a cobertura de sua publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm Build Count=Department Store, 2</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121540Z" creationid="Olivier" creationdate="20200805T121540Z">
