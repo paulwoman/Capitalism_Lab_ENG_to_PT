@@ -23672,6 +23672,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142008Z" creationid="RAFAEL" creationdate="20200815T142008Z">
+        <seg>Dê uma olhada de perto nas informações mostradas aqui.^^Diz que ~120 Und. de madeira~ são necessárias para fazer ~1 unid. de cama~.^^Nota que a madeira tem uma influência de ~ 50%~ na qualidade, o que significa que a qualidade do produto acabado é 50% afetada pela qualidade da madeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Talent System</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010543Z" creationid="RAFAEL" creationdate="20200808T010543Z">
@@ -26111,6 +26119,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011623Z" creationid="RAFAEL" creationdate="20200812T011623Z">
         <seg>A ~barra marrom~ representa o nível de utilização da unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142739Z" creationid="RAFAEL" creationdate="20200815T142739Z">
+        <seg>A ~qualidade da cama~ é determinada por dois fatores: ~Tecnologia de Produção~ e ~Qualidade da Matéria-Prima~.^^As ~matérias-primas~, como acaba de ser dito, representam ~50%~ da qualidade da Cama e os ~50%~ restantes são determinados pela ~tecnologia de produção do fabricante~.</seg>
       </tuv>
     </tu>
     <tu>
