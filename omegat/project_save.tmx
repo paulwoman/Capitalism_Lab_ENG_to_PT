@@ -29587,6 +29587,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T150337Z" creationid="RAFAEL" creationdate="20200815T150337Z">
+        <seg>Você pode reembolsar parte ou a totalidade de seu empréstimo acessando a tela ~Ações financeiras~ do ~Centro de Informações~ e usando a seção ~Reembolsar~ da tela.^^Boa sorte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004711Z" creationid="RAFAEL" creationdate="20200811T004711Z">
