@@ -120,8 +120,8 @@
       <tuv lang="en-US">
         <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183231Z" creationid="RAFAEL" creationdate="20200815T183231Z">
-        <seg>(Dica: se você já está fabricando e vendendo jeans, escolha uma jaqueta de couro).^^Este tutorial continuará quando você produzir e vender um novo produto de ~ vestuário ~ em sua loja de departamentos.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183501Z" creationid="RAFAEL" creationdate="20200815T183231Z">
+        <seg>(Dica: se você já está fabricando e vendendo jeans, escolha uma jaqueta de couro).^^Este tutorial continuará quando você produzir e vender um novo produto de ~vestuário~ em sua loja de departamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29935,6 +29935,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012453Z" creationid="RAFAEL" creationdate="20200808T012453Z">
         <seg>Com um # padrão de avaliação de crédito livre #, todas as corporações receberão # melhores avaliações de crédito # e se beneficiarão de # menores despesas com juros de títulos #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183827Z" creationid="RAFAEL" creationdate="20200815T183827Z">
+        <seg>Com a publicidade produzindo seu efeito, as ~classificações da marca ~ de seus produtos continuarão a aumentar, o que, por sua vez, aumentará as ~classificações gerais~ dos seus produtos e, assim, aumentará suas vendas.^^Enquanto tudo isso está acontecendo, vamos abrir o ~Detalhes da Corp~ tecla de atalho ~ 'D' ~ para acessar algumas informações úteis de mercado.</seg>
       </tuv>
     </tu>
     <tu>
