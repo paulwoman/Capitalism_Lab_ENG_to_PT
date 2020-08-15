@@ -8934,6 +8934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170541Z" creationid="RAFAEL" creationdate="20200815T170541Z">
+        <seg>Para o propósito deste tutorial, você adotará a estratégia de marca de ~marca de gama~.^^Click ~marca de gama~ para definir a estratégia de marca de sua empresa para a estratégia de marca de gama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For those products marked for #Internal Sale# in factories, the AI will always sell them at cost.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034835Z" creationid="RAFAEL" creationdate="20200806T034835Z">
@@ -25573,6 +25581,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T192856Z" creationid="RAFAEL" creationdate="20200802T192856Z">
         <seg>A configuração padrão de #Venda interna# é #Ativada#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170044Z" creationid="RAFAEL" creationdate="20200815T170044Z">
+        <seg>A estratégia padrão é ~Estratégia única de marca~ na qual cada produto tem uma marca única.^^Custará mais para promover cada produto individual, mas pode valer a pena porque você nunca terá que se preocupar com marcas existentes sendo danificadas por produtos novos, mas de baixa qualidade.</seg>
       </tuv>
     </tu>
     <tu>
