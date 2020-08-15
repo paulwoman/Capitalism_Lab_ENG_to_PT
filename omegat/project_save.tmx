@@ -13951,6 +13951,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170616Z" creationid="RAFAEL" creationdate="20200815T170616Z">
+        <seg>É importante decidir sobre a estratégia de sua marca no início de um jogo, pois há um custo pesado para mudar a estratégia de sua marca - ela redefine todas as classificações de marca existentes para zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is more difficult for player and AI companies to #raise funds# from IPO, issuing new shares and bonds as there is a limited supply of #Public Investors' Money#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001418Z" creationid="RAFAEL" creationdate="20200807T001418Z">
@@ -16587,6 +16595,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145024Z" creationid="RAFAEL" creationdate="20200815T145024Z">
         <seg>Agora vamos dar uma olhada mais de perto na própria ~unidade de fabricação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170713Z" creationid="RAFAEL" creationdate="20200815T170713Z">
+        <seg>Agora, vamos lançar seus produtos no mercado e colocar sua estratégia de marca em movimento.^^~Construa uma loja de departamentos~ e ~faça com que ela compre produtos de sua fábrica~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy the apparel products from your factory~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170842Z" creationid="RAFAEL" creationdate="20200815T170842Z">
+        <seg>Agora, vamos lançar seus produtos no mercado e colocar em ação sua estratégia de marca de gama.^^~Construa uma loja de departamentos~ e ~faça com que ela compre os produtos de vestuário de sua fábrica~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27511,6 +27535,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012000Z" creationid="RAFAEL" creationdate="20200812T012000Z">
         <seg>Desta vez, você vai fazer o que um gerente de varejo experiente faria -- configurar manualmente um par de ~Unidades de Compra e Venda~ para sua loja de varejo.^^~Clique duas vezes~ um espaço vazio na grade de layout agora e selecione ~Unidade de Compra~ a partir da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when you have done so.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170724Z" creationid="RAFAEL" creationdate="20200815T170724Z">
+        <seg>Este tutorial continuará quando você tiver feito isso.</seg>
       </tuv>
     </tu>
     <tu>
