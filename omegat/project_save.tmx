@@ -16295,6 +16295,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144550Z" creationid="RAFAEL" creationdate="20200815T144550Z">
+        <seg>Agora clique na nova ~Unidade de compra~ e clique no botão ~Link~ para abrir a Lista de fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005505Z" creationid="RAFAEL" creationdate="20200811T005244Z">
@@ -21011,6 +21019,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015123Z" creationid="RAFAEL" creationdate="20200805T015123Z">
         <seg>Relocar, Demolir ou Transferir esta empresa (Atalho: Ctrl-X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to ~link~ the three new units as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144417Z" creationid="RAFAEL" creationdate="20200815T144417Z">
+        <seg>Lembre-se de ~Ligar~ as três novas unidades também.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26327,6 +26343,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T194850Z" creationid="User" creationdate="20200802T194850Z">
         <seg>Em seguida, injete capital no banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select ~Steel~ from the supplier list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144612Z" creationid="RAFAEL" creationdate="20200815T144612Z">
+        <seg>Em seguida, selecione ~Aço~ na lista de fornecedores.</seg>
       </tuv>
     </tu>
     <tu>
