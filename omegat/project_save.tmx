@@ -32509,8 +32509,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0632]&lt;DI27&gt;Advertising Cost (CPM)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T173945Z" creationid="Olivier" creationdate="20200728T083218Z">
-        <seg>[0632]&lt;DI27&gt;Custo de publicidade (CPM)|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T195106Z" creationid="Olivier" creationdate="20200728T083218Z">
+        <seg>[0632]&lt;DI27&gt;Custo de public. (CPM)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38797,8 +38797,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1980]&lt;0925&gt;Advertising cost (CPM)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T195237Z" creationid="Olivier" creationdate="20200730T103106Z">
-        <seg>[1980]&lt;0925&gt;Custo de publicidadde (CPM)|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T195049Z" creationid="Olivier" creationdate="20200730T103106Z">
+        <seg>[1980]&lt;0925&gt;Custo de public. (CPM)|</seg>
       </tuv>
     </tu>
     <tu>
