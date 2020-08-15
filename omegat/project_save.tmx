@@ -10256,8 +10256,8 @@
       <tuv lang="en-US">
         <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163351Z" creationid="RAFAEL" creationdate="20200815T163351Z">
-        <seg>Aqui você pode ver as classificações para ~Preço~, ~Qualidade~, ~Brand~ e a ~Valorização geral~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T185511Z" creationid="RAFAEL" creationdate="20200815T163351Z">
+        <seg>Aqui você pode ver as classificações para ~Preço~, ~Qualidade~, ~Marca~ e a ~Geral~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16433,8 +16433,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Next to them you will see the ~Concern~ column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163531Z" creationid="RAFAEL" creationdate="20200815T163531Z">
-        <seg>Ao lado deles, você verá a coluna ~consciência~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T185705Z" creationid="RAFAEL" creationdate="20200815T163531Z">
+        <seg>Ao lado deles, você verá a coluna ~Peso~.</seg>
       </tuv>
     </tu>
     <tu>
