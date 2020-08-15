@@ -8174,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fairly obvious eh?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141846Z" creationid="RAFAEL" creationdate="20200815T141846Z">
+        <seg>Bastante óbvio, né?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Farming</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011820Z" creationid="Olivier" creationdate="20200802T011820Z">
@@ -13775,6 +13783,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141829Z" creationid="RAFAEL" creationdate="20200815T141801Z">
+        <seg>Ele mostra que ~Madeira~ pode ser usada para produzir ~Cama~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the #number of items being imported# and the #maximum number of items# that this Import Company can import.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000836Z" creationid="RAFAEL" creationdate="20200807T000836Z">
@@ -14691,6 +14707,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024226Z" creationid="RAFAEL" creationdate="20200805T024226Z">
         <seg>Procure por melhores suprimentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for ~Timber~ in the list and double-click it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141738Z" creationid="RAFAEL" creationdate="20200815T141738Z">
+        <seg>Procure por ~Madeira~ na lista e clique duas vezes nele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28535,6 +28559,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010843Z" creationid="RAFAEL" creationdate="20200812T010843Z">
         <seg>Agora podemos ver o ~ Layout ~ de sua loja, que é uma grade 3x3 quadrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141651Z" creationid="RAFAEL" creationdate="20200815T141651Z">
+        <seg>Queremos descobrir quais produtos podem ser feitos de ~Madeira~, então clique no botão ~INPUT~.</seg>
       </tuv>
     </tu>
     <tu>
