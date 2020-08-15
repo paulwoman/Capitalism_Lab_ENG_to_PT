@@ -5158,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Build icon~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143358Z" creationid="RAFAEL" creationdate="20200815T143358Z">
+        <seg>Clique no ícone ~Construção~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Goal~ option.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011724Z" creationid="RAFAEL" creationdate="20200811T011724Z">
@@ -9714,6 +9722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015025Z" creationid="RAFAEL" creationdate="20200812T015025Z">
         <seg>Goal Title=Objetivo do tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143213Z" creationid="RAFAEL" creationdate="20200815T143213Z">
+        <seg>Boa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,6 +14583,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143257Z" creationid="RAFAEL" creationdate="20200815T143257Z">
+        <seg>Vamos prosseguir com a configuração de suas instalações de produção.^^Clique com o botão direito em qualquer lugar da tela para voltar para a vista da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011001Z" creationid="Olivier" creationdate="20200802T011001Z">
@@ -16299,6 +16323,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140309Z" creationid="RAFAEL" creationdate="20200815T140309Z">
         <seg>Agora você tem a chance de realmente fabricar produtos em sua própria fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you must build a factory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143308Z" creationid="RAFAEL" creationdate="20200815T143308Z">
+        <seg>Agora você deve construir uma fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29563,6 +29595,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143200Z" creationid="RAFAEL" creationdate="20200815T143200Z">
+        <seg>Você pode clicar no botão ~MAIS~ abaixo da imagem da Madeira novamente para ver mais produtos que podem ser feitos com Madeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011800Z" creationid="RAFAEL" creationdate="20200808T011800Z">
@@ -29799,6 +29839,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011642Z" creationid="RAFAEL" creationdate="20200811T011642Z">
         <seg>Você ganha este jogo quando a receita anual da sua empresa atingir US $ 20 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've got a basic understanding about manufacturing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143222Z" creationid="RAFAEL" creationdate="20200815T143222Z">
+        <seg>Você tem um conhecimento básico sobre fabricação.</seg>
       </tuv>
     </tu>
     <tu>
