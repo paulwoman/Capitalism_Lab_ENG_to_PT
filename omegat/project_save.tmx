@@ -7294,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143701Z" creationid="RAFAEL" creationdate="20200815T143701Z">
+        <seg>Duplo Clique no espaço da unidade superior esquerdo na grade de layout e construa uma ~Unidade de Compra~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click here to add a functional unit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230515Z" creationid="RAFAEL" creationdate="20200802T230515Z">
@@ -12807,6 +12815,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143530Z" creationid="RAFAEL" creationdate="20200815T143530Z">
+        <seg>Para que sua fábrica fabrique e venda mercadorias, são necessários três tipos de unidades vinculados à grade de layout.^^Você já conhece ~Unidades de compra e venda~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In other words, it is the total market value of the company in the stock market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010104Z" creationid="RAFAEL" creationdate="20200805T010104Z">
@@ -14571,6 +14587,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012253Z" creationid="RAFAEL" creationdate="20200812T012253Z">
         <seg>Vamos fazer com que a nova Unidade de Compra funcione, informando de qual fornecedor você deseja fazer o pedido. ^^ Clique em ~Unidade de Compra~ para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get your factory producing something.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143613Z" creationid="RAFAEL" creationdate="20200815T143613Z">
+        <seg>Vamos começar a produzir algo em sua fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22215,6 +22239,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143434Z" creationid="RAFAEL" creationdate="20200815T143434Z">
+        <seg>Selecione ~Fábrica~ no menu e encontre um local para construí-la.^^É uma boa ideia construir sua fábrica na área rural, pois o terreno é mais barato lá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Financial Actions~ from the Information Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140958Z" creationid="RAFAEL" creationdate="20200815T140958Z">
@@ -25918,6 +25950,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014851Z" creationid="RAFAEL" creationdate="20200805T014838Z">
         <seg>O nível Tecnologico é exibido abaixo de cada imagem do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The third type you require is the ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143602Z" creationid="RAFAEL" creationdate="20200815T143602Z">
+        <seg>O terceiro tipo de que você precisa é a ~Unidade de Fabricação~.</seg>
       </tuv>
     </tu>
     <tu>
