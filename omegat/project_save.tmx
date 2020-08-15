@@ -30315,6 +30315,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184347Z" creationid="RAFAEL" creationdate="20200815T184347Z">
+        <seg>Você aprendeu rápido e teve um ótimo começo construindo marcas para seus produtos.^^Para levar isso ao próximo nível, você deve expandir sua presença no varejo para outras cidades e tornar suas marcas globais!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully acquired and merged|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200433Z" creationid="User" creationdate="20200802T200433Z">
@@ -47847,6 +47855,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T003610Z" creationid="Olivier" creationdate="20200802T003610Z">
         <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184233Z" creationid="RAFAEL" creationdate="20200815T184233Z">
+        <seg>~Consciência da marca~ é simplesmente uma medida do conhecimento dos consumidores sobre a marca.^^Além de impulsionado pela publicidade, também aumenta automaticamente com o tempo, se os produtos que apresentam a marca forem amplamente distribuídos e desfrutam de exposição constante no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184320Z" creationid="RAFAEL" creationdate="20200815T184320Z">
+        <seg>~Fidelidade à marca~ é uma medida do apego dos consumidores a uma marca.^^Se você permitir que a qualidade de seus produtos flutue, a fidelidade à marca será prejudicada, pois os consumidores podem facilmente perder a fé em produtos com qualidade inconsistente.</seg>
       </tuv>
     </tu>
     <tu>
