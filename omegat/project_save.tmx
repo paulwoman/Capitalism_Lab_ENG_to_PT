@@ -22967,6 +22967,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Starting your own corporation takes money - and lot's of it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140903Z" creationid="RAFAEL" creationdate="20200815T140903Z">
+        <seg>Começar sua própria empresa exige dinheiro - e muito dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Focused Companies=2</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011857Z" creationid="Olivier" creationdate="20200802T011857Z">
@@ -26159,6 +26167,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014320Z" creationid="RAFAEL" creationdate="20200805T014320Z">
         <seg>Haverá exportação quando a classificação de competitividade da cidade exceder a classificação de competitividade global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140812Z" creationid="RAFAEL" creationdate="20200815T140812Z">
+        <seg>Há madeira de alta qualidade disponível para importação, a partir da qual você pode fabricar uma variedade de produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29603,6 +29619,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140939Z" creationid="RAFAEL" creationdate="20200815T140939Z">
+        <seg>Você deve primeiro obter um empréstimo para financiar seus grandes planos. ^^ Clique no ícone do ~Centro de Informações~ na barra de ferramentas inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must select suppliers manually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193354Z" creationid="RAFAEL" creationdate="20200802T193354Z">
@@ -29647,6 +29671,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011642Z" creationid="RAFAEL" creationdate="20200811T011642Z">
         <seg>Você ganha este jogo quando a receita anual da sua empresa atingir US $ 20 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've spotted an opportunity in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140732Z" creationid="RAFAEL" creationdate="20200815T140732Z">
+        <seg>Você encontrou uma oportunidade no mercado.</seg>
       </tuv>
     </tu>
     <tu>
