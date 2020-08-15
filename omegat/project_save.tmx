@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143748Z" creationid="RAFAEL" creationdate="20200815T143748Z">
+        <seg>E à direita da Unidade de Fabricação, construa uma ~Unidade de Vendas~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -5182,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link~ button to open the ~Select a Supplier~ interface.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144034Z" creationid="RAFAEL" creationdate="20200815T143932Z">
+        <seg>Clique no botão ~Link~ para abrir a interface ~Selecionar Fornecedor~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~MORE~ button below the image of the Timber.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142915Z" creationid="RAFAEL" creationdate="20200815T142915Z">
@@ -5678,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click your ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143907Z" creationid="RAFAEL" creationdate="20200815T143907Z">
+        <seg>Clique em sua ~Unidade de compra~ para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141506Z" creationid="RAFAEL" creationdate="20200815T141506Z">
@@ -5986,6 +6010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011550Z" creationid="RAFAEL" creationdate="20200811T011550Z">
         <seg>Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect these units as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143819Z" creationid="RAFAEL" creationdate="20200815T143819Z">
+        <seg>Conecte essas unidades também.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9778,6 +9810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230636Z" creationid="RAFAEL" creationdate="20200802T230636Z">
         <seg>As cores cinzas significam importações de portos marítimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great Job!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143833Z" creationid="RAFAEL" creationdate="20200815T143833Z">
+        <seg>Bom trabalho!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16239,6 +16279,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143807Z" creationid="RAFAEL" creationdate="20200815T143807Z">
+        <seg>Agora clique no link entre as unidades para conectá-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005505Z" creationid="RAFAEL" creationdate="20200811T005244Z">
@@ -16355,6 +16403,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143308Z" creationid="RAFAEL" creationdate="20200815T143308Z">
         <seg>Agora você deve construir uma fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to purchase raw materials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143846Z" creationid="RAFAEL" creationdate="20200815T143846Z">
+        <seg>Agora você precisa comprar matéria-prima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27311,6 +27367,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011619Z" creationid="RAFAEL" creationdate="20200811T011619Z">
         <seg>Para isso, basta repetir as etapas que você acabou de fazer para configurar sua primeira loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143725Z" creationid="RAFAEL" creationdate="20200815T143725Z">
+        <seg>À direita da unidade de compra, construa uma ~Unidade de fabricação~.</seg>
       </tuv>
     </tu>
     <tu>
