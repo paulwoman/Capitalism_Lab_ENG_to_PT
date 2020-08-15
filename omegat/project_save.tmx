@@ -10246,6 +10246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184103Z" creationid="RAFAEL" creationdate="20200815T184103Z">
+        <seg>Aqui você verá que a publicidade está aumentando lentamente as avaliações da marca para seus produtos.^^Observe que a ~classificação da marca~ é igual à soma de ~Conhecimento da marca~ e ~Fidelidade à marca~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014448Z" creationid="RAFAEL" creationdate="20200812T014448Z">
@@ -22663,6 +22671,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184023Z" creationid="RAFAEL" creationdate="20200815T184023Z">
+        <seg>Selecione a opção de menu ~Marca~ para ver as avaliações atuais da marca de seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183855Z" creationid="RAFAEL" creationdate="20200815T183855Z">
+        <seg>Selecione a opção ~Dominância~ para ver como sua empresa está se saindo em relação à concorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this and the message will be sent to all players</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232607Z" creationid="RAFAEL" creationdate="20200802T232607Z">
@@ -26369,6 +26393,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183919Z" creationid="RAFAEL" creationdate="20200815T183919Z">
+        <seg>O relatório exibe ~domínio do mercado por indústria~ bem como ~por classe de produto~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The retained earnings are the accumulative net earnings of a company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023209Z" creationid="RAFAEL" creationdate="20200806T023209Z">
@@ -29523,6 +29555,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it reads "1st", it means your corporation has achieved market dominance for the respective product class.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184005Z" creationid="RAFAEL" creationdate="20200815T184005Z">
+        <seg>Quando lê "1º", significa que sua empresa alcançou o domínio do mercado para a respectiva classe de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selecting a supplier, the freight cost is a very important factor to consider.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030740Z" creationid="RAFAEL" creationdate="20200804T030740Z">
@@ -30111,6 +30151,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000415Z" creationid="RAFAEL" creationdate="20200807T000415Z">
         <seg>Você pode ver o nível de preços de cada tipo de seguro na página #Seguros#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183949Z" creationid="RAFAEL" creationdate="20200815T183949Z">
+        <seg>Você pode ver as participações de mercado de sua empresa para cada produto que está vendendo no momento.^^As colunas ~rank~ indicam a classificação de vendas de sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
