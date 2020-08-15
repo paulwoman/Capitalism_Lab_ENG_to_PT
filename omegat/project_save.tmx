@@ -6974,6 +6974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153816Z" creationid="RAFAEL" creationdate="20200815T153816Z">
+        <seg>Description=Com seu negócio de varejo prosperando, sua próxima meta é fabricar seus próprios produtos e vendê-los até sua própria marca.^^ Este tutorial irá guiá-lo através do processo de configuração de fábricas, obtenção de matérias-primas e funcionamento das instalações de manufatura para produzir produtos para venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T201411Z" creationid="RAFAEL" creationdate="20200802T201411Z">
@@ -15523,6 +15531,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121905Z" creationid="Olivier" creationdate="20200805T121905Z">
         <seg>Manufacturer Guide=Sofa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153902Z" creationid="RAFAEL" creationdate="20200815T153902Z">
+        <seg>Manufatura</seg>
       </tuv>
     </tu>
     <tu>
