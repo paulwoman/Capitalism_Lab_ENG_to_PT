@@ -29283,6 +29283,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have decided to leave your family-owned business and branch out on your own.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140707Z" creationid="RAFAEL" creationdate="20200815T140707Z">
+        <seg>Você decidiu deixar sua empresa familiar e agora quer se expandir por conta própria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have done an excellent job as the mayor of|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005322Z" creationid="User" creationdate="20200802T005322Z">
