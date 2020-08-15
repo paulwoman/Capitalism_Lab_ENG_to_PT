@@ -28885,8 +28885,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141651Z" creationid="RAFAEL" creationdate="20200815T141651Z">
-        <seg>Queremos descobrir quais produtos podem ser feitos de ~Madeira~, então clique no botão ~INPUT~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T151527Z" creationid="RAFAEL" creationdate="20200815T141651Z">
+        <seg>Queremos descobrir quais produtos podem ser feitos de ~Madeira~, então clique no botão ~ENTRADA~.</seg>
       </tuv>
     </tu>
     <tu>
