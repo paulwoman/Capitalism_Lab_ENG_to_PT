@@ -8910,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163645Z" creationid="RAFAEL" creationdate="20200815T163645Z">
+        <seg>Para ~Jeans~, as considerações são as seguintes: ~Preço~ 27%, ~Qualidade~ 29% e ~Brand~ 44%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freight</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035135Z" creationid="RAFAEL" creationdate="20200806T035135Z">
@@ -13895,6 +13903,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164257Z" creationid="RAFAEL" creationdate="20200815T164257Z">
+        <seg>É verdade que diferentes tipos de produtos requerem diferentes estratégias de marketing.^^Como regra, quanto maior a ~ocupação da marca~ do produto que você está vendendo, mais agressivamente você deve gastar em sua propaganda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is used for calculating the Net Exports component of GDP.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021904Z" creationid="RAFAEL" creationdate="20200805T021904Z">
@@ -17323,6 +17339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005118Z" creationid="RAFAEL" creationdate="20200811T005118Z">
         <seg>No minimapa, as áreas brancas representam os edifícios da cidade que não são de propriedade de empresas, como casas e parques. ^^ As áreas coloridas representam edifícios de propriedade de empresas e são mostradas na cor corporativa. ^^ ~Portos marítimos~ são representados pela letra 'C' ou 'I' - ~'C' para produtos de consumo~ (como televisores ou jeans) e ~'I' para produtos industriais~ (como carvão ou aço).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163801Z" creationid="RAFAEL" creationdate="20200815T163801Z">
+        <seg>Por outro lado, para alguns produtos como ~carne congelada~, os consumidores estão menos preocupados com ~marcas~, e mais com ~qualidade~ e ~preços~.^^Para tais produtos, a publicidade deve ser limitada e o foco deve ser a otimização de suas operações comerciais para oferecer aos consumidores produtos de menor preço e maior qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25481,6 +25505,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163606Z" creationid="RAFAEL" creationdate="20200815T163606Z">
+        <seg>Os números nesta coluna indicam os fatores que um consumidor considerará ao selecionar um produto a ser comprado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The financial performance of this insurance company in the past 12 months.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020606Z" creationid="RAFAEL" creationdate="20200806T020606Z">
@@ -27063,6 +27095,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011213Z" creationid="RAFAEL" creationdate="20200808T011213Z">
         <seg>Isso significa que mais prédios comerciais precisam ser construídos e o negócio imobiliário será mais lucrativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163730Z" creationid="RAFAEL" creationdate="20200815T163730Z">
+        <seg>Isto significa que a ~marca~ é um fator significativamente mais importante para o jeans.^^Então se você planeja iniciar um negócio de venda de jeans, é fundamental que você gaste agressivamente na publicidade de seu jeans, desde que seu orçamento permita.</seg>
       </tuv>
     </tu>
     <tu>
