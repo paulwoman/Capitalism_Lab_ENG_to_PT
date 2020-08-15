@@ -9958,6 +9958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184730Z" creationid="RAFAEL" creationdate="20200815T184730Z">
+        <seg>Boa sorte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good work with your factory!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165143Z" creationid="RAFAEL" creationdate="20200815T165143Z">
