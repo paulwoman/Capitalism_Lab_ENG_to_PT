@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141506Z" creationid="RAFAEL" creationdate="20200815T141506Z">
+        <seg>Clique em ~Guia do fabricante~ à esquerda da tela para continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021828Z" creationid="RAFAEL" creationdate="20200806T021828Z">
@@ -29655,6 +29663,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193354Z" creationid="RAFAEL" creationdate="20200802T193354Z">
         <seg>Você deve selecionar fornecedores manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141439Z" creationid="RAFAEL" creationdate="20200815T141426Z">
+        <seg>Agora você tem os fundos para abrir sua empresa. ^^A próxima etapa é entender o processo de fabricação.</seg>
       </tuv>
     </tu>
     <tu>
