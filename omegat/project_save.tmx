@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All available media firms in the current city are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T171045Z" creationid="RAFAEL" creationdate="20200815T171045Z">
+        <seg>Todas as empresas de mídia disponíveis na cidade atual são exibidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000738Z" creationid="RAFAEL" creationdate="20200808T000738Z">
@@ -5226,6 +5234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011724Z" creationid="RAFAEL" creationdate="20200811T011724Z">
         <seg>Clique na opção ~Meta~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Link Media~ button to link your ~advertising unit~ to a media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T171033Z" creationid="RAFAEL" creationdate="20200815T171033Z">
+        <seg>Clique no botão ~Ligar mídia~ para vincular sua ~unidade de publicidade~ a uma mídia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29387,6 +29403,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T171152Z" creationid="RAFAEL" creationdate="20200815T171152Z">
+        <seg>Quando se trata de escolher uma mídia para anunciar, você deve considerar os ~Pontos de classificação~ e o ~Custo de publicidade~ de cada mídia.^^Quanto mais altos os ~pontos de classificação~, maior será a ~participação do público~.^^O ~custo de publicidade~ é simplesmente o custo para seu anúncio ser ~visto mil vezes~ por clientes em potencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032439Z" creationid="RAFAEL" creationdate="20200806T032439Z">
@@ -30463,6 +30487,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014212Z" creationid="RAFAEL" creationdate="20200812T014008Z">
         <seg>Você deve pensar em expandir seus negócios para outras cidades, para aproveitar a disponibilidade de diferentes produtos ou talvez a ausência de forte concorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T171003Z" creationid="RAFAEL" creationdate="20200815T171003Z">
+        <seg>Agora você deve adicionar uma nova unidade à sua loja de departamentos: a ~Unidade de publicidade~ e vinculá-la à sua unidade de vendas.^^Muitas vezes, é uma boa ideia colocar a ~unidade de publicidade~ no quadrado central de seu layout para que ele possa se vincular a qualquer unidade de venda.^^~Clique duas vezes no quadrado central~ e selecione ~Unidade de publicidade~.</seg>
       </tuv>
     </tu>
     <tu>
