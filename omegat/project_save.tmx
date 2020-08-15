@@ -5774,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click your ~Sales~ unit now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T182930Z" creationid="RAFAEL" creationdate="20200815T182930Z">
+        <seg>Clique em sua unidade ~Vendas~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153357Z" creationid="RAFAEL" creationdate="20200815T141506Z">
@@ -6634,6 +6642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013420Z" creationid="RAFAEL" creationdate="20200805T013420Z">
         <seg>Atualmente, um MOD está em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently it is zero but with the advertising, it should be increasing soon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183016Z" creationid="RAFAEL" creationdate="20200815T183016Z">
+        <seg>Atualmente é zero, mas com a publicidade, deve estar aumentando em breve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27795,6 +27811,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183126Z" creationid="RAFAEL" creationdate="20200815T183126Z">
+        <seg>Para alavancar o efeito da estratégia da ~Marca de Gama~, você deve adicionar outro produto de uma das classes de produtos que você já está vendendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To locate an specific input, type the first letter of its name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232300Z" creationid="RAFAEL" creationdate="20200802T232300Z">
@@ -30039,6 +30063,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000415Z" creationid="RAFAEL" creationdate="20200807T000415Z">
         <seg>Você pode ver o nível de preços de cada tipo de seguro na página #Seguros#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your product's ~brand rating~ on the ~Sales unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T182954Z" creationid="RAFAEL" creationdate="20200815T182954Z">
+        <seg>Você pode ver a ~avaliação da marca de seu produto~ na ~unidade de venda~.</seg>
       </tuv>
     </tu>
     <tu>
