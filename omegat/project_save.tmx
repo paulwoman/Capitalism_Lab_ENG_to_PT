@@ -8910,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145456Z" creationid="RAFAEL" creationdate="20200815T145456Z">
+        <seg>A partir dele, você verá que a qualidade geral do Taco de Golf foi ~45% afetada pelas qualidades de suas matérias-primas~ e ~55% afetada pela tecnologia de produção~.^^Isso corresponde à exibição de ~Qualidade de produção~ e ~Qualidade da matéria-prima~ nesta tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023054Z" creationid="RAFAEL" creationdate="20200812T013739Z">
@@ -21047,6 +21055,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember the ~Manufacturer's Guide~ you looked at a moment ago?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145409Z" creationid="RAFAEL" creationdate="20200815T145409Z">
+        <seg>Lembra-se do ~Guia do fabricante~ que você observou há pouco?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember to ~link~ the three new units as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144417Z" creationid="RAFAEL" creationdate="20200815T144417Z">
@@ -26303,6 +26319,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023229Z" creationid="RAFAEL" creationdate="20200812T013807Z">
         <seg>A tela ~Visão da Firma~ exibe um resumo das empresas da corporação. ^^Agora selecione ~Relações de Negócios~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145544Z" creationid="RAFAEL" creationdate="20200815T145544Z">
+        <seg>A ~Qualidade da matéria-prima~ pode ser aumentada através do fornecimento de matérias-primas de maior qualidade.^^A ~Qualidade da produção~ pode ser aumentada através da criação de centros de P&amp;D (centros de pesquisa e desenvolvimento) para desenvolver melhor tecnologia.</seg>
       </tuv>
     </tu>
     <tu>
