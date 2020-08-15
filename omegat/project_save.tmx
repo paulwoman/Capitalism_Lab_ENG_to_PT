@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another important piece of information you can see here is the ~Necessity Index~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164353Z" creationid="RAFAEL" creationdate="20200815T164353Z">
+        <seg>Outra informação importante que você pode ver aqui é o ~Índice de Necessidade~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apartment Capacity Modifier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011002Z" creationid="RAFAEL" creationdate="20200808T011002Z">
@@ -8914,6 +8922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163645Z" creationid="RAFAEL" creationdate="20200815T163645Z">
         <seg>Para ~Jeans~, as considerações são as seguintes: ~Preço~ 27%, ~Qualidade~ 29% e ~Brand~ 44%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164406Z" creationid="RAFAEL" creationdate="20200815T164406Z">
+        <seg>Para ~cameras~, é 20%, o que significa que não é um item de necessidade diária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16419,6 +16435,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005526Z" creationid="RAFAEL" creationdate="20200811T005526Z">
         <seg>Agora clique no ícone ~Lucro~ para mudar para esse modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Camera~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164317Z" creationid="RAFAEL" creationdate="20200815T164317Z">
+        <seg>Agora clique no botão ~Procurar produto~ e selecione ~Câmera~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29303,6 +29327,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
         <seg>Quando a barra de demanda (laranja) é mais longa que a barra de oferta (amarela), significa que você não tem oferta suficiente para atender à demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164418Z" creationid="RAFAEL" creationdate="20200815T164418Z">
+        <seg>Quando a economia está em crise, os consumidores reduzirão os gastos com produtos de baixo índice de necessidade.</seg>
       </tuv>
     </tu>
     <tu>
