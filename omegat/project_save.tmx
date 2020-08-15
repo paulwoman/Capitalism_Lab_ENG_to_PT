@@ -5726,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Product Detail Report~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163321Z" creationid="RAFAEL" creationdate="20200815T163321Z">
+        <seg>Clique ~Relatório Detalhado do Produto~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021828Z" creationid="RAFAEL" creationdate="20200806T021828Z">
@@ -10082,6 +10090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012908Z" creationid="RAFAEL" creationdate="20200812T012908Z">
         <seg>Aqui ele mostra o ~ custo de compra ~ do produto e seu ~ custo de frete ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163351Z" creationid="RAFAEL" creationdate="20200815T163351Z">
+        <seg>Aqui você pode ver as classificações para ~Preço~, ~Qualidade~, ~Brand~ e a ~Valorização geral~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16199,6 +16215,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next to them you will see the ~Concern~ column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163531Z" creationid="RAFAEL" creationdate="20200815T163531Z">
+        <seg>Ao lado deles, você verá a coluna ~consciência~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011554Z" creationid="RAFAEL" creationdate="20200812T011554Z">
@@ -16379,6 +16403,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005526Z" creationid="RAFAEL" creationdate="20200811T005526Z">
         <seg>Agora clique no ícone ~Lucro~ para mudar para esse modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163334Z" creationid="RAFAEL" creationdate="20200815T163334Z">
+        <seg>Agora clique no botão ~Procurar produto~ e selecione ~Jeans~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26611,6 +26643,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163430Z" creationid="RAFAEL" creationdate="20200815T163430Z">
+        <seg>Elas estão divididas em duas colunas.^^A coluna ~Local~ mostra as classificações dos concorrentes locais - estas são pequenas empresas locais que você não vê na lista de empresas.^^A coluna ~Média~ combina as classificações dos concorrentes locais e corporativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032220Z" creationid="RAFAEL" creationdate="20200806T032220Z">
@@ -27399,6 +27439,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013007Z" creationid="RAFAEL" creationdate="20200806T013007Z">
         <seg>Para desenvolver um sistema operacional, configure uma empresa de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163300Z" creationid="RAFAEL" creationdate="20200815T163300Z">
+        <seg>Para entender melhor como as marcas funcionam, vamos abrir o ~Relatório detalhado de produtos~.^^Clique agora no ícone do ~Centro de informações~.</seg>
       </tuv>
     </tu>
     <tu>
