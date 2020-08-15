@@ -12879,6 +12879,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165614Z" creationid="RAFAEL" creationdate="20200815T165340Z">
+        <seg>Se você deseja ter uma única marca cobrindo todos os produtos que você vende, então você deve escolher a ~Estratégia de marca corporativa~.^^A ~vantagem~ desta abordagem é que qualquer novo produto que você lançar irá se beneficiar instantaneamente do reconhecimento da marca corporativa existente.^^A ~desvantagem~ é que a lealdade à marca será prejudicada se algum de seus produtos não corresponder às expectativas de qualidade dos consumidores em relação à marca corporativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015917Z" creationid="RAFAEL" creationdate="20200812T010306Z">
@@ -26253,6 +26261,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023733Z" creationid="RAFAEL" creationdate="20200806T023733Z">
         <seg>O mesmo para as outras 2 figuras abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165943Z" creationid="RAFAEL" creationdate="20200815T165943Z">
+        <seg>A segunda estratégia, ~Estratégia de marca de gama~ é semelhante à marca corporativa, mas sua cobertura é limitada às classes de produtos.^^Por exemplo ~bolsas de couro~ e ~mala de couro~ caem na classe de produtos ~bens de couro~.^^Se você decidisse vender pastas de couro e loções de banho para acompanhar as bolsas de couro que você já vende, você herdaria imediatamente a classificação da marca de suas bolsas de couro (mesma classe de produto), mas suas loções de banho não.</seg>
       </tuv>
     </tu>
     <tu>
