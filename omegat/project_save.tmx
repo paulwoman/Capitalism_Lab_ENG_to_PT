@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Otherwise they'd all be smelly wouldn't they?)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164706Z" creationid="RAFAEL" creationdate="20200815T164706Z">
+        <seg>(Caso contrário, todos eles seriam fedorentos, não é verdade?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Select Pollution mode on the mini map to see the city's population level.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002217Z" creationid="RAFAEL" creationdate="20200805T002217Z">
@@ -9910,6 +9918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164715Z" creationid="RAFAEL" creationdate="20200815T164715Z">
+        <seg>Ótimo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green and Sports Rating</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015152Z" creationid="RAFAEL" creationdate="20200804T015152Z">
@@ -16483,6 +16499,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222659Z" creationid="RAFAEL" creationdate="20200810T222659Z">
         <seg>Agora clique com o botão esquerdo do mouse para ver seus detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164440Z" creationid="RAFAEL" creationdate="20200815T164440Z">
+        <seg>Agora vamos verificar o ~Índice de Necessidade~ para ~Loção de Banho~.^^Clique novamente no botão ~Procurar Produto~ e desta vez selecione ~Loção de Banho~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26471,6 +26495,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023229Z" creationid="RAFAEL" creationdate="20200812T013807Z">
         <seg>A tela ~Visão da Firma~ exibe um resumo das empresas da corporação. ^^Agora selecione ~Relações de Negócios~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164654Z" creationid="RAFAEL" creationdate="20200815T164654Z">
+        <seg>O ~Índice de Necessidade~ de ~Loção Banho~ é 80% e significa que é um item de necessidade diária.^^Mesmo se a economia estiver em recessão, as pessoas ainda comprarão loções de banho.</seg>
       </tuv>
     </tu>
     <tu>
