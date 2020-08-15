@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143131Z" creationid="RAFAEL" creationdate="20200815T143131Z">
+        <seg>Entre esses 60%, ~Madeira~ contribui com 40%; O ~ algodão~ contribui com 10%; e ~Linen~ contribui com os 10% restantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024722Z" creationid="RAFAEL" creationdate="20200805T024722Z">
@@ -5162,6 +5170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012620Z" creationid="RAFAEL" creationdate="20200812T012620Z">
         <seg>Clique no botão ~Link~ e selecione um produto para solicitar na lista de fornecedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~MORE~ button below the image of the Timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142915Z" creationid="RAFAEL" creationdate="20200815T142915Z">
+        <seg>Clique no botão ~MAIS~ abaixo da imagem da madeira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13791,6 +13807,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143029Z" creationid="RAFAEL" creationdate="20200815T143029Z">
+        <seg>Isso mostra que ~Madeira~ também pode ser combinada com ~Algodão~ e ~Linho~ para produzir ~Cadeira~.^^A qualidade de ~Cadeira~ é 60% influenciada pelas matérias-primas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the #number of items being imported# and the #maximum number of items# that this Import Company can import.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000836Z" creationid="RAFAEL" creationdate="20200807T000836Z">
@@ -14507,6 +14531,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004748Z" creationid="RAFAEL" creationdate="20200811T004748Z">
         <seg>Vamos clicar no ícone ~Minimapa~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's explore more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142810Z" creationid="RAFAEL" creationdate="20200815T142810Z">
+        <seg>Vamos explorar mais produtos que podem ser feitos com madeira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28583,6 +28615,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141651Z" creationid="RAFAEL" creationdate="20200815T141651Z">
         <seg>Queremos descobrir quais produtos podem ser feitos de ~Madeira~, então clique no botão ~INPUT~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will discuss production technology later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T142754Z" creationid="RAFAEL" creationdate="20200815T142754Z">
+        <seg>Discutiremos a tecnologia de produção mais tarde.</seg>
       </tuv>
     </tu>
     <tu>
