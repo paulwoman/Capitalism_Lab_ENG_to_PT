@@ -14097,8 +14097,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164257Z" creationid="RAFAEL" creationdate="20200815T164257Z">
-        <seg>É verdade que diferentes tipos de produtos requerem diferentes estratégias de marketing.^^Como regra, quanto maior a ~ocupação da marca~ do produto que você está vendendo, mais agressivamente você deve gastar em sua propaganda.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T212815Z" creationid="RAFAEL" creationdate="20200815T164257Z">
+        <seg>É verdade que diferentes tipos de produtos requerem diferentes estratégias de marketing.^^Como regra, quanto maior o ~Peso na Marca~ do produto que você está vendendo, mais agressivamente você deve gastar em sua propaganda.</seg>
       </tuv>
     </tu>
     <tu>
