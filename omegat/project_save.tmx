@@ -28334,8 +28334,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Training</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222413Z" creationid="RAFAEL" creationdate="20200802T222413Z">
-        <seg>Treinamento</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T001649Z" creationid="RAFAEL" creationdate="20200802T222413Z">
+        <seg>Treinar</seg>
       </tuv>
     </tu>
     <tu>
