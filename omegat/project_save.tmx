@@ -27685,8 +27685,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183418Z" creationid="RAFAEL" creationdate="20200815T183418Z">
-        <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ele já está coberto pela sua marca ~classe de produto de vestuário~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T230534Z" creationid="RAFAEL" creationdate="20200815T183418Z">
+        <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ela já está coberto pela sua marca ~classe de produto de vestuário~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30189,8 +30189,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183949Z" creationid="RAFAEL" creationdate="20200815T183949Z">
-        <seg>Você pode ver as participações de mercado de sua empresa para cada produto que está vendendo no momento.^^As colunas ~rank~ indicam a classificação de vendas de sua empresa.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T230737Z" creationid="RAFAEL" creationdate="20200815T183949Z">
+        <seg>Você pode ver as participações de mercado de sua empresa para cada produto que está vendendo no momento.^^As colunas ~Posição~ indicam a classificação de vendas de sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
