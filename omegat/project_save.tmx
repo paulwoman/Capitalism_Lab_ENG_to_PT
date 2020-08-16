@@ -38501,8 +38501,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1875]&lt;AN05&gt;GAME SETTINGS (F9)|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102147Z" creationid="Olivier" creationdate="20200730T102147Z">
-        <seg>[1875]&lt;AN05&gt;CONFIGURAÇÕES DE JOGO (F9)|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T224034Z" creationid="Olivier" creationdate="20200730T102147Z">
+        <seg>[1875]&lt;AN05&gt;CONFIG. DE JOGO (F9)|</seg>
       </tuv>
     </tu>
     <tu>
