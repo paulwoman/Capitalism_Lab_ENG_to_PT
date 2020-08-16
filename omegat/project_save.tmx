@@ -10264,8 +10264,8 @@
       <tuv lang="en-US">
         <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T214113Z" creationid="RAFAEL" creationdate="20200815T184103Z">
-        <seg>Aqui você verá que a publicidade está aumentando lentamente as avaliações da marca para seus produtos.^^Observe que a ~Pontuação da marca~ é igual à soma de ~Reconhecimento da marca~ e ~Fidelidade à marca~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T230927Z" creationid="RAFAEL" creationdate="20200815T184103Z">
+        <seg>Aqui você verá que a publicidade está aumentando lentamente as avaliações da marca para seus produtos.^^Observe que a ~Pontuação da marca~ é igual à soma de ~Reconhecimento~ e ~Lealdade à marca~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47869,16 +47869,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184233Z" creationid="RAFAEL" creationdate="20200815T184233Z">
-        <seg>~Consciência da marca~ é simplesmente uma medida do conhecimento dos consumidores sobre a marca.^^Além de impulsionado pela publicidade, também aumenta automaticamente com o tempo, se os produtos que apresentam a marca forem amplamente distribuídos e desfrutam de exposição constante no varejo.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T231014Z" creationid="RAFAEL" creationdate="20200815T184233Z">
+        <seg>~Reconhecimento da marca~ é simplesmente uma medida do conhecimento dos consumidores sobre a marca.^^Além de impulsionado pela publicidade, também aumenta automaticamente com o tempo, se os produtos que apresentam a marca forem amplamente distribuídos e desfrutam de exposição constante no varejo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184320Z" creationid="RAFAEL" creationdate="20200815T184320Z">
-        <seg>~Fidelidade à marca~ é uma medida do apego dos consumidores a uma marca.^^Se você permitir que a qualidade de seus produtos flutue, a fidelidade à marca será prejudicada, pois os consumidores podem facilmente perder a fé em produtos com qualidade inconsistente.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T231037Z" creationid="RAFAEL" creationdate="20200815T184320Z">
+        <seg>~Lealdade à marca~ é uma medida do apego dos consumidores a uma marca.^^Se você permitir que a qualidade de seus produtos flutue, a fidelidade à marca será prejudicada, pois os consumidores podem facilmente perder a fé em produtos com qualidade inconsistente.</seg>
       </tuv>
     </tu>
     <tu>
