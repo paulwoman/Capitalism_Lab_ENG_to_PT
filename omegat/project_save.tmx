@@ -27917,8 +27917,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>To locate an specific input, type the first letter of its name.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232300Z" creationid="RAFAEL" creationdate="20200802T232300Z">
-        <seg>Para localizar uma entrada específica, digite a primeira letra de seu nome.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T202821Z" creationid="RAFAEL" creationdate="20200802T232300Z">
+        <seg>Para localizar uma entrada, digite a primeira letra de seu nome.</seg>
       </tuv>
     </tu>
     <tu>
