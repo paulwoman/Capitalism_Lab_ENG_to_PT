@@ -27925,8 +27925,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>To locate an specific output, type the first letter of its name.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232312Z" creationid="RAFAEL" creationdate="20200802T232312Z">
-        <seg>Para localizar uma saída específica, digite a primeira letra de seu nome.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T202857Z" creationid="RAFAEL" creationdate="20200802T232312Z">
+        <seg>Para localizar uma saída, digite a primeira letra de seu nome.</seg>
       </tuv>
     </tu>
     <tu>
