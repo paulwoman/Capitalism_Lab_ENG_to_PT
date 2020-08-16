@@ -26725,8 +26725,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The white portion of the pie charts represents the combined market share of all local competitors in the city.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012002Z" creationid="RAFAEL" creationdate="20200806T012002Z">
-        <seg>A porção branca dos gráficos da torta representa a quota de mercado combinada de todos os concorrentes locais na cidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T220745Z" creationid="RAFAEL" creationdate="20200806T012002Z">
+        <seg>A porção branca dos gráficos da torta representa o Market Share combinada de todos os concorrentes locais na cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38567,14 +38567,6 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T102349Z" creationid="Olivier" creationdate="20200730T102340Z">
         <seg>[1917]&lt;0866&gt;Classe produto|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1923]&lt;0872&gt;Market Share|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T194608Z" creationid="Olivier" creationdate="20200730T181320Z">
-        <seg>[1923]&lt;0872&gt;quota de mercado|</seg>
       </tuv>
     </tu>
     <tu>
