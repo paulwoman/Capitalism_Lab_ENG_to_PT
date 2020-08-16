@@ -33243,14 +33243,6 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[0748]&lt;FAT9&gt;Market Share|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T174342Z" creationid="Olivier" creationdate="20200728T084348Z">
-        <seg>[0748]&lt;FAT9&gt;Quota de mercado|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[0749]&lt;FA10&gt;Price|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084352Z" creationid="Olivier" creationdate="20200728T084352Z">
@@ -33983,14 +33975,6 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085054Z" creationid="Olivier" creationdate="20200728T085054Z">
         <seg>[0869]&lt;0084&gt;Preço unit.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[0870]&lt;0085&gt;Market Share |</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T175801Z" creationid="Olivier" creationdate="20200728T085057Z">
-        <seg>[0870]&lt;0085&gt;Quota de mercado |</seg>
       </tuv>
     </tu>
     <tu>
