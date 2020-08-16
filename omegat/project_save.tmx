@@ -30197,8 +30197,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You can see your product's ~brand rating~ on the ~Sales unit~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T182954Z" creationid="RAFAEL" creationdate="20200815T182954Z">
-        <seg>Você pode ver a ~avaliação da marca de seu produto~ na ~unidade de venda~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T230302Z" creationid="RAFAEL" creationdate="20200815T182954Z">
+        <seg>Você pode ver a ~pontuação da marca de seu produto~ na ~unidade de venda~.</seg>
       </tuv>
     </tu>
     <tu>
