@@ -12993,8 +12993,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015917Z" creationid="RAFAEL" creationdate="20200812T010306Z">
-        <seg>Se, por qualquer motivo, o fornecimento de um produto para a loja for interrompido, você pode substituí-lo facilmente por outro produto. ^^Por outro lado, ~uma loja especializada~ só pode vender uma gama específica de produtos.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000447Z" creationid="RAFAEL" creationdate="20200812T010306Z">
+        <seg>Se, por qualquer motivo, o fornecimento de um produto para a loja for interrompido, você pode substituí-lo facilmente por outro produto. ^^Por outro lado, ~uma loja especializada~ só pode vender uma classe específica de produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26444,8 +26444,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165943Z" creationid="RAFAEL" creationdate="20200815T165943Z">
-        <seg>A segunda estratégia, ~Estratégia de marca de gama~ é semelhante à marca corporativa, mas sua cobertura é limitada às classes de produtos.^^Por exemplo ~bolsas de couro~ e ~mala de couro~ caem na classe de produtos ~bens de couro~.^^Se você decidisse vender pastas de couro e loções de banho para acompanhar as bolsas de couro que você já vende, você herdaria imediatamente a classificação da marca de suas bolsas de couro (mesma classe de produto), mas suas loções de banho não.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000509Z" creationid="RAFAEL" creationdate="20200815T165943Z">
+        <seg>A segunda estratégia, ~Estratégia de marca de classe~ é semelhante à marca corporativa, mas sua cobertura é limitada às classes de produtos.^^Por exemplo ~bolsas de couro~ e ~mala de couro~ caem na classe de produtos ~bens de couro~.^^Se você decidisse vender pastas de couro e loções de banho para acompanhar as bolsas de couro que você já vende, você herdaria imediatamente a classificação da marca de suas bolsas de couro (mesma classe de produto), mas suas loções de banho não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33614,8 +33614,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0804]&lt;0024&gt;Range Band|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084752Z" creationid="Olivier" creationdate="20200728T084752Z">
-        <seg>[0804]&lt;0024&gt;Marca de amplitude|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000316Z" creationid="Olivier" creationdate="20200728T084752Z">
+        <seg>[0804]&lt;0024&gt;Marca de Classe|</seg>
       </tuv>
     </tu>
     <tu>
@@ -34046,8 +34046,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0880]&lt;A301&gt;Range Brand|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085109Z" creationid="Olivier" creationdate="20200728T085109Z">
-        <seg>[0880]&lt;A301&gt;amplitude|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000333Z" creationid="Olivier" creationdate="20200728T085109Z">
+        <seg>[0880]&lt;A301&gt;Marca de Classe|</seg>
       </tuv>
     </tu>
     <tu>
@@ -34438,8 +34438,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0935]&lt;0143&gt;Range Brand|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085420Z" creationid="Olivier" creationdate="20200728T085420Z">
-        <seg>[0935]&lt;0143&gt;de amplitude|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000357Z" creationid="Olivier" creationdate="20200728T085420Z">
+        <seg>[0935]&lt;0143&gt;Marca de Classe|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46974,8 +46974,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3178]&lt;RDB2&gt;-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200803T220225Z" creationid="User" creationdate="20200803T220225Z">
-        <seg>[3178]&lt;RDB2&gt;-Uma loja especializada focada em uma gama específica de produtos é mais atraente para os clientes interessados ​​em tais produtos.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000434Z" creationid="User" creationdate="20200803T220225Z">
+        <seg>[3178]&lt;RDB2&gt;-Uma loja especializada focada em uma classe específica de produtos é mais atraente para os clientes interessados ​​em tais produtos.|</seg>
       </tuv>
     </tu>
     <tu>
