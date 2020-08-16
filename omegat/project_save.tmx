@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19819,6 +19819,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083821Z" creationid="Olivier" creationdate="20200814T083821Z">
         <seg>Pointer=55,120,165,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=55,262,128,282</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200816T204809Z" creationid="Olivier" creationdate="20200816T204809Z">
+        <seg>Pointer=55,262,128,282</seg>
       </tuv>
     </tu>
     <tu>
