@@ -2968,8 +2968,8 @@
       <tuv lang="en-US">
         <seg>Brand Awareness</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235434Z" creationid="RAFAEL" creationdate="20200806T235342Z">
-        <seg>Conhecimento da marca</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T213909Z" creationid="RAFAEL" creationdate="20200806T235342Z">
+        <seg>Reconhecimento da marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,8 +3000,8 @@
       <tuv lang="en-US">
         <seg>Brand awareness measures consumers' knowledge that a particular brand exists.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235355Z" creationid="RAFAEL" creationdate="20200806T235355Z">
-        <seg>O conhecimento da marca mede o conhecimento dos consumidores de que uma determinada marca existe.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T213949Z" creationid="RAFAEL" creationdate="20200806T235355Z">
+        <seg>O Reconhecimento da marca mede o reconhecimento dos consumidores de que uma determinada marca existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10264,8 +10264,8 @@
       <tuv lang="en-US">
         <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184103Z" creationid="RAFAEL" creationdate="20200815T184103Z">
-        <seg>Aqui você verá que a publicidade está aumentando lentamente as avaliações da marca para seus produtos.^^Observe que a ~classificação da marca~ é igual à soma de ~Conhecimento da marca~ e ~Fidelidade à marca~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T214113Z" creationid="RAFAEL" creationdate="20200815T184103Z">
+        <seg>Aqui você verá que a publicidade está aumentando lentamente as avaliações da marca para seus produtos.^^Observe que a ~Pontuação da marca~ é igual à soma de ~Reconhecimento da marca~ e ~Fidelidade à marca~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38917,8 +38917,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2015]&lt;0960&gt;Brand Awareness|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T104111Z" creationid="Olivier" creationdate="20200730T104111Z">
-        <seg>[2015]&lt;0960&gt;Conhecimento da marca|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T214004Z" creationid="Olivier" creationdate="20200730T104111Z">
+        <seg>[2015]&lt;0960&gt;Reconhecimento da marca|</seg>
       </tuv>
     </tu>
     <tu>
