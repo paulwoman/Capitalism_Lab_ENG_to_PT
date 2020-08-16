@@ -47117,8 +47117,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3198]&lt;MSHA&gt;Market Share of|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200803T220922Z" creationid="User" creationdate="20200803T220922Z">
-        <seg>[3198]&lt;MSHA&gt;Participação no mercado de|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T221254Z" creationid="User" creationdate="20200803T220922Z">
+        <seg>[3198]&lt;MSHA&gt;Participação de|</seg>
       </tuv>
     </tu>
     <tu>
