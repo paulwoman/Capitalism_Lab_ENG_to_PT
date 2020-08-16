@@ -920,8 +920,8 @@
       <tuv lang="en-US">
         <seg>A product's #Brand Rating# is the sum of its #Brand Awareness# and #Brand Loyalty#.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235423Z" creationid="RAFAEL" creationdate="20200806T235333Z">
-        <seg>A #Classificação da marca# de um produto é a soma de sua #Conhecimento da marca# e #Lealdade à marca#.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T213802Z" creationid="RAFAEL" creationdate="20200806T235333Z">
+        <seg>A #Pontuação da marca# de um produto é a soma de sua #Reconhecimento da marca# e #Lealdade à marca#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33613,8 +33613,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0802]&lt;0022&gt;Brand Awareness|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084748Z" creationid="Olivier" creationdate="20200728T084748Z">
-        <seg>[0802]&lt;0022&gt;Conhecimento da marca|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T213856Z" creationid="Olivier" creationdate="20200728T084748Z">
+        <seg>[0802]&lt;0022&gt;Reconhecimento da marca|</seg>
       </tuv>
     </tu>
     <tu>
