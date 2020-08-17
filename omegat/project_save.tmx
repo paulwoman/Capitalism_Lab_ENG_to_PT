@@ -1680,9 +1680,8 @@
       <tuv lang="en-US">
         <seg>Advertising unit is linked=5</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200817T074114Z" creationid="Olivier" creationdate="20200805T122208Z">
-        <seg>Unit Linked=Sales, Advertising, 3, 5
-Advertising unit is linked=5</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200817T074628Z" creationid="Olivier" creationdate="20200805T122208Z">
+        <seg>Advertising unit is linked=5</seg>
       </tuv>
     </tu>
     <tu>
