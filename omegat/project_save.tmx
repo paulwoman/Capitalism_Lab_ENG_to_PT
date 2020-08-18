@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023707Z" creationid="RAFAEL" creationdate="20200818T023707Z">
+        <seg>Abaixo do ~preço das ações~ e do ~número total de ações~, você verá a ~valor de mercado~, ou a capitalização de mercado de uma empresa, que é igual ao ~preço das ações~ vezes o ~número total de ações em circulação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004335Z" creationid="RAFAEL" creationdate="20200811T004335Z">
@@ -8802,6 +8810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003845Z" creationid="RAFAEL" creationdate="20200808T003845Z">
         <seg>Nível de caixa da primeira cidade (DLC de simulação econômica da cidade)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First of all, you will have to learn how to read a company's financial data, which are displayed on the top right of the Stock Exchange screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023508Z" creationid="RAFAEL" creationdate="20200818T023508Z">
+        <seg>Em primeiro lugar, você terá que aprender a ler os dados financeiros de uma empresa, que são exibidos no canto superior direito da tela da Bolsa de Valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18931,6 +18947,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015244Z" creationid="Olivier" creationdate="20200802T015244Z">
         <seg>Personal cash change=1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Picking the right stocks to invest is a skill that takes time to develop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023455Z" creationid="RAFAEL" creationdate="20200818T023455Z">
+        <seg>Escolher as ações certas para investir é uma habilidade que leva tempo para ser desenvolvida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29647,6 +29671,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021504Z" creationid="RAFAEL" creationdate="20200818T021504Z">
         <seg>Bom, vejamos agora o estado atual do mercado acionário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, it follows exactly the same principle.^^Let's select the second stock on the list and take a closer look at its financial data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023439Z" creationid="RAFAEL" creationdate="20200818T023439Z">
+        <seg>Bem, segue exatamente o mesmo princípio.^^Vamos selecionar a segunda ação da lista e examinar mais de perto seus dados financeiros.</seg>
       </tuv>
     </tu>
     <tu>
