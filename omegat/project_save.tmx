@@ -16863,6 +16863,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now it's time for you to use the recently raised fund to grow your business empire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030747Z" creationid="RAFAEL" creationdate="20200818T030747Z">
+        <seg>Agora é hora de você usar o fundo recentemente levantado para expandir seu império de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now left click it to view its detail.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222659Z" creationid="RAFAEL" creationdate="20200810T222659Z">
@@ -26321,6 +26329,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The investors are expecting you to deliver a good return to their investment.^^You win this game when ~your company's stock price~ increases to ~$100~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030838Z" creationid="RAFAEL" creationdate="20200818T030838Z">
+        <seg>Os investidores esperam que você ofereça um bom retorno ao investimento.^^Você ganha este jogo quando ~o preço das ações de sua empresa~ aumentar para ~$ 100~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The land cost in agricultural zones are significantly lower than other zones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032204Z" creationid="RAFAEL" creationdate="20200804T032204Z">
@@ -30679,6 +30695,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140707Z" creationid="RAFAEL" creationdate="20200815T140707Z">
         <seg>Você decidiu deixar sua empresa familiar e agora quer se expandir por conta própria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have done a great job familiarizing yourself with the stock market!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030734Z" creationid="RAFAEL" creationdate="20200818T030734Z">
+        <seg>Você fez um ótimo trabalho se familiarizando com o mercado de ações!</seg>
       </tuv>
     </tu>
     <tu>
