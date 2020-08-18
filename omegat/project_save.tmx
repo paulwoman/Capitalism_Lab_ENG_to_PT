@@ -13167,6 +13167,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other words, it is the total market value of a corporation in the stock market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023722Z" creationid="RAFAEL" creationdate="20200818T023722Z">
+        <seg>Em outras palavras, é o valor total de mercado de uma corporação no mercado de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In other words, it is the total market value of the company in the stock market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010104Z" creationid="RAFAEL" creationdate="20200805T010104Z">
@@ -14195,6 +14203,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022009Z" creationid="RAFAEL" creationdate="20200805T022009Z">
         <seg>É utilizado para o cálculo do componente Importações Líquidas do PIB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It led to an increase in the ~total number of outstanding shares~ and a decrease in ~Earning per Share~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023906Z" creationid="RAFAEL" creationdate="20200818T023906Z">
+        <seg>Isso levou a um aumento no ~número total de ações em circulação~ e a uma diminuição no ~Lucro por ação~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21595,6 +21611,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015123Z" creationid="RAFAEL" creationdate="20200805T015123Z">
         <seg>Relocar, Demolir ou Transferir esta empresa (Atalho: Ctrl-X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember that your corporation has just issued some shares?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023835Z" creationid="RAFAEL" creationdate="20200818T023835Z">
+        <seg>Lembra que sua empresa acaba de emitir algumas ações?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31079,6 +31103,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141025Z" creationid="RAFAEL" creationdate="20200815T141025Z">
         <seg>O limite de crédito da sua empresa varia ao longo do jogo, dependendo do estado da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's stock price can only go up in the long run if its ~Earning Per Share~ also goes up.^^Thus, for the fund that you have raised with issuing new shares, you should use them to invest into new business to generate more profits for your shareholders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023959Z" creationid="RAFAEL" creationdate="20200818T023959Z">
+        <seg>O preço das ações de sua empresa só pode subir no longo prazo se seu ~Lucro por ação~ também subir.^^Assim, para o fundo que você levantou com a emissão de novas ações, você deve usá-los para investir em novos negócios para gerar mais lucros para seus acionistas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48183,6 +48215,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012102Z" creationid="RAFAEL" creationdate="20200812T012102Z">
         <seg>~Clique duas vezes~ em uma unidade vazia ao lado da Unidade de Compra que você acabou de configurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Earning Per Share~ is a company's operating profit over the past 365 days divided by the ~total number of outstanding shares~.^^When a company issues new shares, the ~Earning Per Share~ will be diluted as the company's profit will be divided by a larger number of shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023822Z" creationid="RAFAEL" creationdate="20200818T023822Z">
+        <seg>~Lucro por ação~ é o lucro operacional da empresa nos últimos 365 dias dividido pelo ~número total de ações em circulação~.^^Quando uma empresa emite novas ações, o ~Lucro por ação~ será diluído, conforme o lucro da empresa será dividido por um número maior de ações.</seg>
       </tuv>
     </tu>
     <tu>
