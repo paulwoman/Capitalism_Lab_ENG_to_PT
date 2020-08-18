@@ -14209,8 +14209,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122410Z" creationid="Olivier" creationdate="20200805T122410Z">
-        <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022920Z" creationid="Olivier" creationdate="20200805T122410Z">
+        <seg>Isso mostra que você tem $ 1.000.000 em dinheiro pessoal no momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,6 +14955,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004748Z" creationid="RAFAEL" creationdate="20200811T004748Z">
         <seg>Vamos clicar no ícone ~Minimapa~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's do some stock investment with your personal money now.^^Simply ~click your name~ now to select yourself as the active investor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022947Z" creationid="RAFAEL" creationdate="20200818T022947Z">
+        <seg>Vamos fazer alguns investimentos em ações com seu dinheiro pessoal agora.^^Basta ~clicar em seu nome~ agora para se selecionar como o investidor ativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16795,6 +16803,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T200550Z" creationid="RAFAEL" creationdate="20200815T233622Z">
         <seg>Agora vincule sua unidade de ~ Publicidade ~ e sua unidade de ~ Venda ~ clicando na linha de vinculação entre eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now look at the ~Buy/Sell shares section~ below.^^Using this interface, you may purchase up to 5% of the total number of shares of a listed company in a single transaction, so long as you have the cash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023028Z" creationid="RAFAEL" creationdate="20200818T023028Z">
+        <seg>Agora veja a seção ~Comprar/Vender ações~ abaixo.^^Usando essa interface, você pode comprar até 5% do número total de ações de uma empresa listada em uma única transação, desde que tenha o dinheiro.</seg>
       </tuv>
     </tu>
     <tu>
