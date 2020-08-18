@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides buying stocks as an individual, you can also buy stocks on behalf of your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025630Z" creationid="RAFAEL" creationdate="20200818T025630Z">
+        <seg>Além de comprar ações como um indivíduo, você também pode comprar ações em nome de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004335Z" creationid="RAFAEL" creationdate="20200811T004335Z">
@@ -16991,6 +16999,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025828Z" creationid="RAFAEL" creationdate="20200818T025828Z">
+        <seg>Agora você pode usar o dinheiro da sua empresa para comprar ações de outras empresas listadas publicamente como um investimento.^^Para fazer isso, basta selecionar uma empresa da lista no topo da tela e clicar no botão ~Comprar~ para comprar suas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you must build a factory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143308Z" creationid="RAFAEL" creationdate="20200815T143308Z">
@@ -22983,6 +22999,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select your company on the ~Who section~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025646Z" creationid="RAFAEL" creationdate="20200818T025646Z">
+        <seg>Selecione sua empresa na seção ~Quem~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Brand~ from the menu list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165327Z" creationid="RAFAEL" creationdate="20200815T165327Z">
@@ -27535,6 +27559,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012245Z" creationid="RAFAEL" creationdate="20200805T012245Z">
         <seg>Esta é uma porcentagem calculada dividindo o último dividendo pago pelo preço da ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025613Z" creationid="RAFAEL" creationdate="20200818T025613Z">
+        <seg>Essa é uma porcentagem calculada dividindo-se o último dividendo pago pelo preço da ação.^^Simplificando, quanto maior o rendimento do dividendo, mais dinheiro é devolvido a cada investidor quando o dividendo é pago a cada ano.</seg>
       </tuv>
     </tu>
     <tu>
