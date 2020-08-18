@@ -13175,6 +13175,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021420Z" creationid="RAFAEL" creationdate="20200818T021420Z">
+        <seg>Neste tutorial, será apresentado o mercado de ações e você aprenderá como utilizá-lo para atender às necessidades financeiras de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005741Z" creationid="RAFAEL" creationdate="20200812T005741Z">
@@ -17859,6 +17867,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034451Z" creationid="RAFAEL" creationdate="20200806T034451Z">
         <seg>Abra a página oficial do Capitalism Lab no Facebook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the ~Information Center~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021515Z" creationid="RAFAEL" creationdate="20200818T021515Z">
+        <seg>Abra o ~Centro de Informações~ agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29479,6 +29495,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010807Z" creationid="RAFAEL" creationdate="20200811T010803Z">
         <seg>Bem, agora é sua chance de descobrir isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well now, let's look at the current state of the stock market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021504Z" creationid="RAFAEL" creationdate="20200818T021504Z">
+        <seg>Bom, vejamos agora o estado atual do mercado acionário.</seg>
       </tuv>
     </tu>
     <tu>
