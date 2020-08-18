@@ -9166,6 +9166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025851Z" creationid="RAFAEL" creationdate="20200818T025851Z">
+        <seg>Deste ponto em diante, você deve ficar de olho no desempenho das ações, pois as mudanças no preço das ações também afetarão o balanço da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fund Transfer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025022Z" creationid="RAFAEL" creationdate="20200806T025022Z">
@@ -13067,6 +13075,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165614Z" creationid="RAFAEL" creationdate="20200815T165340Z">
         <seg>Se você deseja ter uma única marca cobrindo todos os produtos que você vende, então você deve escolher a ~Estratégia de marca corporativa~.^^A ~vantagem~ desta abordagem é que qualquer novo produto que você lançar irá se beneficiar instantaneamente do reconhecimento da marca corporativa existente.^^A ~desvantagem~ é que a lealdade à marca será prejudicada se algum de seus produtos não corresponder às expectativas de qualidade dos consumidores em relação à marca corporativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025937Z" creationid="RAFAEL" creationdate="20200818T025937Z">
+        <seg>Se sua empresa possui mais de ~50%~ de outra empresa, ela será adicionado à seção ~Quem~, onde você poderá selecioná-lo e negociar ações em nome dessa empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30215,6 +30231,15 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014132Z" creationid="RAFAEL" creationdate="20200805T014132Z">
         <seg>Quando sua tecnologia Smart Phone chegar a 300, esta imagem personalizada será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030216Z" creationid="RAFAEL" creationdate="20200818T030216Z">
+        <seg>Quando sua empresa possuir mais de ~75%~ de outra empresa, você será capaz de executar uma fusão que irá mesclar todas as suas operações de negócios em sua empresa, incluindo todo o seu know-how tecnológico.^^Isso torna as fusões uma forma altamente  maneira eficaz de expandir seu império de negócios rapidamente.
+</seg>
       </tuv>
     </tu>
     <tu>
