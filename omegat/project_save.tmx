@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022435Z" creationid="RAFAEL" creationdate="20200818T022435Z">
+        <seg>Na seção ~Detalhes da propriedade~, mostra que agora você possui apenas menos de 50% de sua corporação e o restante é de propriedade de ~Acionistas públicos~, pessoas IA e corporações IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141043Z" creationid="RAFAEL" creationdate="20200815T141043Z">
@@ -16783,6 +16791,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now return to the stock market to view your latest stock holdings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022341Z" creationid="RAFAEL" creationdate="20200818T022341Z">
+        <seg>Agora volte ao mercado acionário para ver suas últimas participações acionárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T002340Z" creationid="RAFAEL" creationdate="20200812T010457Z">
@@ -27775,6 +27791,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T230534Z" creationid="RAFAEL" creationdate="20200815T183418Z">
         <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ela já está coberto pela sua marca ~classe de produto de vestuário~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022356Z" creationid="RAFAEL" creationdate="20200818T022356Z">
+        <seg>Desta vez, vamos usar a tecla de atalho ~F4~ para ir para a Bolsa de Valores.</seg>
       </tuv>
     </tu>
     <tu>
