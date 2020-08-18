@@ -15167,6 +15167,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look at the ~Who section~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022703Z" creationid="RAFAEL" creationdate="20200818T022703Z">
+        <seg>Veja a seção ~Quem~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look for better products to sell in retail stores</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024346Z" creationid="RAFAEL" creationdate="20200805T024346Z">
@@ -29359,6 +29367,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200153Z" creationid="RAFAEL" creationdate="20200802T200153Z">
         <seg>Muito lento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022824Z" creationid="RAFAEL" creationdate="20200818T022824Z">
+        <seg>Por meio dessa interface, você pode comprar ações em nome de sua empresa ou investir como pessoa física.^^Observe que os nomes podem ser reduzido se não houver espaço suficiente para exibi-los por extenso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47847,6 +47863,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165016Z" creationid="Olivier" creationdate="20200730T165016Z">
         <seg>\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^The floating shares may be purchased at stock price by any corporations or individual investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022628Z" creationid="RAFAEL" creationdate="20200818T022628Z">
+        <seg>^^As ações flutuantes podem ser compradas ao preço das ações por qualquer corporação ou investidor individual.</seg>
       </tuv>
     </tu>
     <tu>
