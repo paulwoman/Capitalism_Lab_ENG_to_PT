@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023203Z" creationid="RAFAEL" creationdate="20200818T023203Z">
+        <seg>Recapitulando, para comprar ações, você deve:^^1) Selecionar as ações que deseja comprar.^^2) Selecionar se sua empresa ou você mesmo vai comprar as ações.^^3) Definir o valor da compra.^^4) Clique no botão ~Comprar~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As people embrace the Internet, they will spend more time online and less time on the traditional media.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T015146Z" creationid="RAFAEL" creationdate="20200808T015146Z">
@@ -25208,6 +25216,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That would be an excellent long-term investment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023325Z" creationid="RAFAEL" creationdate="20200818T023325Z">
+        <seg>Isso seria um excelente investimento de longo prazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030508Z" creationid="RAFAEL" creationdate="20200806T030029Z">
@@ -30795,6 +30811,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may wonder how you can buy shares of other corporations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023407Z" creationid="RAFAEL" creationdate="20200818T023407Z">
+        <seg>Você pode se perguntar como você pode comprar ações de outras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must apply R&amp;D results to your factories manually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T195641Z" creationid="RAFAEL" creationdate="20200802T195641Z">
@@ -30923,10 +30947,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You've just used your idle personal cash to increase your shareholding of your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023314Z" creationid="RAFAEL" creationdate="20200818T023314Z">
+        <seg>Você acabou de usar seu dinheiro pessoal ocioso para aumentar sua participação acionária em sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You've spotted an opportunity in the market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140732Z" creationid="RAFAEL" creationdate="20200815T140732Z">
         <seg>Você encontrou uma oportunidade no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You, as an individual, may either buy more shares of your own corporation or invest in other corporations.^^Currently your corporation is selected on the stock list situated at the top of the screen, and you may now click the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023257Z" creationid="RAFAEL" creationdate="20200818T023257Z">
+        <seg>Você, como indivíduo, pode comprar mais ações de sua própria empresa ou investir em outras empresas.^^Atualmente, sua empresa está selecionada na lista de ações situada no topo da tela e você pode clicar no botão ~Comprar~ para comprar suas ações.</seg>
       </tuv>
     </tu>
     <tu>
