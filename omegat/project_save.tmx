@@ -8790,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firstly, take a look at the ~Issuing Price~, which should always be lower than the ~Current Stock Price~, in order to attract new investors to buy your company's shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021948Z" creationid="RAFAEL" creationdate="20200818T021948Z">
+        <seg>Em primeiro lugar, observe o ~Preço de Emissão~, que deve ser sempre inferior ao ~Preço Atual da Ação~, a fim de atrair novos investidores para comprar as ações da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fix this apartment's rent to the market rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232658Z" creationid="RAFAEL" creationdate="20200802T232658Z">
@@ -16783,10 +16791,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now select ~Issue New Shares to the Public~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021905Z" creationid="RAFAEL" creationdate="20200818T021905Z">
+        <seg>Agora selecione ~Sacionar Novas Ações ao Público~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Retail Store~ from the menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010100Z" creationid="RAFAEL" creationdate="20200812T010100Z">
         <seg>Agora selecione ~ Loja de varejo ~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now set the ~Number of New Shares~ you want to issue, and click the ~Issue Now~ button to issue new shares to raise money.^^As a rule, the larger the quantity of new shares you wish to issue, the higher the discount in share prices you must offer, in order to attract enough investors to subscribe the new shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022035Z" creationid="RAFAEL" creationdate="20200818T022035Z">
+        <seg>Agora defina o ~Número de novas ações~ que deseja emitir e clique no botão ~Emitir agora~ para emitir novas ações e levantar dinheiro.^^Como regra, quanto maior a quantidade de novas ações que deseja emitir, maior o desconto no preço das ações que você deve oferecer, a fim de atrair investidores suficientes para subscrever as novas ações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27931,6 +27955,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do this, select ~Financial Actions~ from the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021847Z" creationid="RAFAEL" creationdate="20200818T021847Z">
+        <seg>Para fazer isso, selecione ~Ações Financeiras~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To expand your business, you would need to raise some cash.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021708Z" creationid="RAFAEL" creationdate="20200818T021708Z">
@@ -30447,6 +30479,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200540Z" creationid="User" creationdate="20200802T200540Z">
         <seg>Você adquiriu com sucesso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022248Z" creationid="RAFAEL" creationdate="20200818T022248Z">
+        <seg>Você conseguiu obter o dinheiro necessário para o crescimento de seu negócio.^^No entanto, isso veio com um preço - a emissão de novas ações diluiu um pouco a propriedade de sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
