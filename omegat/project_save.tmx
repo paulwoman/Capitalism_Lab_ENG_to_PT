@@ -2942,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030336Z" creationid="RAFAEL" creationdate="20200818T030336Z">
+        <seg>Além de comprar ações de outras empresas, sua empresa também pode ~comprar de volta suas próprias ações~.^^As ações compradas são retiradas de circulação, diminuindo assim o número de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004335Z" creationid="RAFAEL" creationdate="20200811T004335Z">
@@ -27339,6 +27347,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030401Z" creationid="RAFAEL" creationdate="20200818T030401Z">
+        <seg>Isto pode ter um efeito positivo nos ganhos por ação, o que por sua vez pode ter ~um efeito positivo~ no preço das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This color is ~gray if the product is imported via a seaport~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012836Z" creationid="RAFAEL" creationdate="20200812T012836Z">
@@ -30237,9 +30253,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030216Z" creationid="RAFAEL" creationdate="20200818T030216Z">
-        <seg>Quando sua empresa possuir mais de ~75%~ de outra empresa, você será capaz de executar uma fusão que irá mesclar todas as suas operações de negócios em sua empresa, incluindo todo o seu know-how tecnológico.^^Isso torna as fusões uma forma altamente  maneira eficaz de expandir seu império de negócios rapidamente.
-</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030304Z" creationid="RAFAEL" creationdate="20200818T030216Z">
+        <seg>Quando sua empresa possuir mais de ~75%~ de outra empresa, você será capaz de executar uma fusão que irá mesclar todas as suas operações de negócios em sua empresa, incluindo todo o seu know-how tecnológico.^^Isso torna as fusões uma forma altamente eficaz de expandir seu império de negócios rapidamente.</seg>
       </tuv>
     </tu>
     <tu>
