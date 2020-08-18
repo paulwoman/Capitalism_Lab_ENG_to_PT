@@ -5830,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Stock Exchange~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021539Z" creationid="RAFAEL" creationdate="20200818T021539Z">
+        <seg>Clique em ~ Bolsa de Valores ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021828Z" creationid="RAFAEL" creationdate="20200806T021828Z">
@@ -13131,6 +13139,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021549Z" creationid="RAFAEL" creationdate="20200806T021549Z">
         <seg>Em outras palavras: &lt;este preço de custo&gt; = &lt;preço de custo na unidade de compra&gt; X &lt;Quantidade do insumo&gt; / &lt;Quantidade do produto acabado&gt; mostrado no Guia do fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In previous tutorials you've already seen how to raise cash by taking out a loan.^^This time you'll use the expectations of investors to raise the much needed money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021805Z" creationid="RAFAEL" creationdate="20200818T021805Z">
+        <seg>Em tutoriais anteriores, você já viu como levantar dinheiro fazendo um empréstimo.^^Desta vez, você usará as expectativas dos investidores para levantar o dinheiro necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25409,6 +25425,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The area below shows the shareholders of the selected public company.^^You hold 50% shares of your company and the rest of the shares are held by public shareholders, AI persons and AI companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021654Z" creationid="RAFAEL" creationdate="20200818T021654Z">
+        <seg>A área abaixo mostra os acionistas da empresa pública selecionada.^^Você detém 50% das ações de sua empresa e o restante das ações são detidas por acionistas públicos, pessoas da IA e empresas da IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average amount of insurance premium this company has received per customer annually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020543Z" creationid="RAFAEL" creationdate="20200806T020543Z">
@@ -26582,6 +26606,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143602Z" creationid="RAFAEL" creationdate="20200815T143602Z">
         <seg>O terceiro tipo de que você precisa é a ~Unidade de Fabricação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The top area shows the public companies currently listed in the stock exchange.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021556Z" creationid="RAFAEL" creationdate="20200818T021556Z">
+        <seg>A área superior mostra as empresas públicas atualmente listadas na bolsa de valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27895,6 +27927,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013007Z" creationid="RAFAEL" creationdate="20200806T013007Z">
         <seg>Para desenvolver um sistema operacional, configure uma empresa de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To expand your business, you would need to raise some cash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021708Z" creationid="RAFAEL" creationdate="20200818T021708Z">
+        <seg>Para expandir seus negócios, você precisaria levantar algum dinheiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30739,6 +30779,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should now offer to issue new shares to the public.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021833Z" creationid="RAFAEL" creationdate="20200818T021833Z">
+        <seg>Agora você deve se oferecer para emitir novas ações ao público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184719Z" creationid="RAFAEL" creationdate="20200815T184719Z">
@@ -30863,6 +30911,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141025Z" creationid="RAFAEL" creationdate="20200815T141025Z">
         <seg>O limite de crédito da sua empresa varia ao longo do jogo, dependendo do estado da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation is the first one on the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021606Z" creationid="RAFAEL" creationdate="20200818T021606Z">
+        <seg>Sua empresa é a primeira da lista.</seg>
       </tuv>
     </tu>
     <tu>
