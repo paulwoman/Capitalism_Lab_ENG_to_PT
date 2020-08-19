@@ -30773,8 +30773,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022248Z" creationid="RAFAEL" creationdate="20200818T022248Z">
-        <seg>Você conseguiu obter o dinheiro necessário para o crescimento de seu negócio.^^No entanto, isso veio com um preço - a emissão de novas ações diluiu um pouco a propriedade de sua empresa.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T002002Z" creationid="RAFAEL" creationdate="20200818T022248Z">
+        <seg>Você conseguiu obter o dinheiro necessário para o crescimento de seu negócio.^^No entanto, isso veio com um preço - a emissão de novas ações diluiu um pouco a sua participação em sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
