@@ -35485,8 +35485,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1081]&lt;0237&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091546Z" creationid="Olivier" creationdate="20200728T091546Z">
-        <seg>[1081]&lt;0237&gt;retorno dividendo|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T011343Z" creationid="Olivier" creationdate="20200728T091546Z">
+        <seg>[1081]&lt;0237&gt;Retorno dividendo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -35709,8 +35709,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1113]&lt;0268&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091724Z" creationid="Olivier" creationdate="20200728T091724Z">
-        <seg>[1113]&lt;0268&gt;retorno dividendo|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T011456Z" creationid="Olivier" creationdate="20200728T091724Z">
+        <seg>[1113]&lt;0268&gt;Retorno dividendo|</seg>
       </tuv>
     </tu>
     <tu>
