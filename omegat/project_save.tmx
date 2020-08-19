@@ -1792,8 +1792,8 @@
       <tuv lang="en-US">
         <seg>Alternative Stock Sim</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000146Z" creationid="RAFAEL" creationdate="20200808T000146Z">
-        <seg>Mercado de ações alternativo</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T004138Z" creationid="RAFAEL" creationdate="20200808T000146Z">
+        <seg>Bolsa de Valores alternativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -26836,8 +26836,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The stock market allows for stock trading.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235045Z" creationid="RAFAEL" creationdate="20200807T235045Z">
-        <seg>O mercado de ações permite a negociação de ações.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003915Z" creationid="RAFAEL" creationdate="20200807T235045Z">
+        <seg>A Bolsa de Valores permite a negociação de ações.</seg>
       </tuv>
     </tu>
     <tu>
