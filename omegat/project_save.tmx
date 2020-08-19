@@ -35693,8 +35693,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1111]&lt;0266&gt;Earnings Per Share|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091722Z" creationid="Olivier" creationdate="20200728T091722Z">
-        <seg>[1111]&lt;0266&gt;Ganhos por ação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T010622Z" creationid="Olivier" creationdate="20200728T091722Z">
+        <seg>[1111]&lt;0266&gt;Lucro por ação|</seg>
       </tuv>
     </tu>
     <tu>
