@@ -35733,8 +35733,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1117]&lt;0272&gt;Buy Stock|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T000047Z" creationid="Olivier" creationdate="20200728T091728Z">
-        <seg>[1117]&lt;0272&gt;Comp. ação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T000244Z" creationid="Olivier" creationdate="20200728T091728Z">
+        <seg>[1117]&lt;0272&gt;Comprar ação|</seg>
       </tuv>
     </tu>
     <tu>
