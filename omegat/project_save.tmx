@@ -4952,8 +4952,8 @@
       <tuv lang="en-US">
         <seg>Click here to access the stock market.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031548Z" creationid="RAFAEL" creationdate="20200804T031548Z">
-        <seg>Clique aqui para acessar o mercado de ações.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003448Z" creationid="RAFAEL" creationdate="20200804T031548Z">
+        <seg>Clique aqui para acessar a Bolsa de Valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13257,8 +13257,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>In other words, it is the total market value of the company in the stock market.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T010104Z" creationid="RAFAEL" creationdate="20200805T010104Z">
-        <seg>Em outras palavras, é o valor total de mercado da empresa no mercado de ações.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003526Z" creationid="RAFAEL" creationdate="20200805T010104Z">
+        <seg>Em outras palavras, é o valor total de mercado da empresa na Bolsa de Valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18049,8 +18049,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Open the Stock Market screen</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T135903Z" creationid="RAFAEL" creationdate="20200802T135903Z">
-        <seg>Abra a tela do mercado de ações</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003425Z" creationid="RAFAEL" creationdate="20200802T135903Z">
+        <seg>Abra a tela da Bolsa de Valores</seg>
       </tuv>
     </tu>
     <tu>
@@ -23969,8 +23969,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Stock Market</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T235412Z" creationid="RAFAEL" creationdate="20200802T135849Z">
-        <seg>Mercado de ações</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003316Z" creationid="RAFAEL" creationdate="20200802T135849Z">
+        <seg>Bolsa de Valores</seg>
       </tuv>
     </tu>
     <tu>
