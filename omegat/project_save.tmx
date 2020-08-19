@@ -35613,8 +35613,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1099]&lt;0255&gt;P/E Ratio|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091707Z" creationid="Olivier" creationdate="20200728T091707Z">
-        <seg>[1099]&lt;0255&gt;Razão P/L|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T021309Z" creationid="Olivier" creationdate="20200728T091707Z">
+        <seg>[1099]&lt;0255&gt;Indice P/L|</seg>
       </tuv>
     </tu>
     <tu>
@@ -35701,8 +35701,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1112]&lt;0267&gt;P/E Ratio|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091723Z" creationid="Olivier" creationdate="20200728T091723Z">
-        <seg>[1112]&lt;0267&gt;Razão P/L|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T021353Z" creationid="Olivier" creationdate="20200728T091723Z">
+        <seg>[1112]&lt;0267&gt;Indice P/L|</seg>
       </tuv>
     </tu>
     <tu>
