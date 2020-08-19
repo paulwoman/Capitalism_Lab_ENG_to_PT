@@ -35677,8 +35677,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T010115Z" creationid="Olivier" creationdate="20200728T091719Z">
-        <seg>[1109]&lt;0264&gt;N° Total de ações|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T015546Z" creationid="Olivier" creationdate="20200728T091719Z">
+        <seg>[1109]&lt;0264&gt;N° Total d Ações|</seg>
       </tuv>
     </tu>
     <tu>
