@@ -31181,8 +31181,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You, as an individual, may either buy more shares of your own corporation or invest in other corporations.^^Currently your corporation is selected on the stock list situated at the top of the screen, and you may now click the ~Buy~ button to buy its shares.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023257Z" creationid="RAFAEL" creationdate="20200818T023257Z">
-        <seg>Você, como indivíduo, pode comprar mais ações de sua própria empresa ou investir em outras empresas.^^Atualmente, sua empresa está selecionada na lista de ações situada no topo da tela e você pode clicar no botão ~Comprar~ para comprar suas ações.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T002517Z" creationid="RAFAEL" creationdate="20200818T023257Z">
+        <seg>Você, como indivíduo, pode comprar mais ações de sua própria empresa ou investir em outras empresas.^^Atualmente, sua empresa está selecionada na lista de ações, situada no topo da tela e você pode clicar no botão ~Comprar~ para comprar suas ações.</seg>
       </tuv>
     </tu>
     <tu>
