@@ -10046,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You win this tutorial game when your company's stock price increases to $100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014837Z" creationid="RAFAEL" creationdate="20200820T014837Z">
+        <seg>Goal Description=Você ganha este jogo tutorial quando o preço das ações da sua empresa valer $ 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
