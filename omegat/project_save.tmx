@@ -33053,8 +33053,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0639]&lt;FAT3&gt;Large|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083229Z" creationid="Olivier" creationdate="20200728T083229Z">
-        <seg>[0639]&lt;FAT3&gt;Largo|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T020754Z" creationid="Olivier" creationdate="20200728T083229Z">
+        <seg>[0639]&lt;FAT3&gt;Grande|</seg>
       </tuv>
     </tu>
     <tu>
