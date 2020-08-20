@@ -13231,6 +13231,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Capitalism, a farm can produce meat, milk, eggs, leather and a variety of crops.^^To build your first farm, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025757Z" creationid="RAFAEL" creationdate="20200820T025757Z">
+        <seg>No capitalismo, uma fazenda pode produzir carne, leite, ovos, couro e uma variedade de safras.^^Para construir sua primeira fazenda, clique no ícone ~Construir~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Survival mode, there is only one city in the beginning of the game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012208Z" creationid="RAFAEL" creationdate="20200808T012208Z">
@@ -13331,6 +13339,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010142Z" creationid="RAFAEL" creationdate="20200811T010142Z">
         <seg>Neste modo, os edifícios representados por ~pontos verdes são lucrativos~ enquanto os edifícios representados por ~pontos vermelhos estão perdendo dinheiro~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025643Z" creationid="RAFAEL" creationdate="20200820T025643Z">
+        <seg>Neste tutorial, você configurará uma fazenda para abastecer seus supermercados com seus próprios produtos agrícolas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23103,6 +23119,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Farm - Medium~ from the menu and choose a location in a rural area to build your farm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025903Z" creationid="RAFAEL" creationdate="20200820T025903Z">
+        <seg>Selecione ~Fazenda - Média~ no menu e escolha um local em uma área rural para construir sua fazenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Farm~ from the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025830Z" creationid="RAFAEL" creationdate="20200820T025830Z">
+        <seg>Selecione ~Fazenda~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Financial Actions~ from the Information Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140958Z" creationid="RAFAEL" creationdate="20200815T140958Z">
@@ -24308,6 +24340,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012852Z" creationid="Olivier" creationdate="20200802T012852Z">
         <seg>Subsidiary Net Worth=1000,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Such backward integration will create a more reliable supply chain and increase your profit margins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025722Z" creationid="RAFAEL" creationdate="20200820T025722Z">
+        <seg>Essa integração reversa criará uma cadeia de suprimentos mais confiável e aumentará suas margens de lucro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26177,6 +26217,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025950Z" creationid="RAFAEL" creationdate="20200820T025950Z">
+        <seg>A primeira coisa que vamos fazer é criar alguns animais.^^~Clique duas vezes no slot superior esquerdo~ e construa uma unidade de ~Unidade de Criação de Animais~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014246Z" creationid="RAFAEL" creationdate="20200812T014246Z">
@@ -27255,6 +27303,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011456Z" creationid="RAFAEL" creationdate="20200812T011456Z">
         <seg>Existem vários indicadores na ~Unidade de compra~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two sizes of farms available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025841Z" creationid="RAFAEL" creationdate="20200820T025841Z">
+        <seg>Existem dois tamanhos de fazendas disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
