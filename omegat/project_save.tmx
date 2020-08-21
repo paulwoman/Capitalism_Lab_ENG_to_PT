@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093630Z" creationid="Olivier" creationdate="20200820T093630Z">
+        <seg>// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011212Z" creationid="Olivier" creationdate="20200802T011212Z">
@@ -1102,10 +1110,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094621Z" creationid="Olivier" creationdate="20200820T094621Z">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expertise Level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001541Z" creationid="RAFAEL" creationdate="20200808T001433Z">
         <seg>Nível de experiência da IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094621Z" creationid="Olivier" creationdate="20200820T094621Z">
+        <seg>AI Expertise Level=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094621Z" creationid="Olivier" creationdate="20200820T094621Z">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Product Expertise=Apparel, 3</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013432Z" creationid="Olivier" creationdate="20200802T013432Z">
@@ -1218,6 +1250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014925Z" creationid="RAFAEL" creationdate="20200808T014925Z">
         <seg>IA na vanguarda da tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Tech Head Start=None</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094621Z" creationid="Olivier" creationdate="20200820T094621Z">
+        <seg>AI Tech Head Start=None</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Barcelona</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094619Z" creationid="Olivier" creationdate="20200820T094619Z">
+        <seg>City=Barcelona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Beijing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011158Z" creationid="Olivier" creationdate="20200802T011158Z">
@@ -4674,6 +4722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011803Z" creationid="Olivier" creationdate="20200802T011803Z">
         <seg>City=London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Los Angeles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094615Z" creationid="Olivier" creationdate="20200820T094615Z">
+        <seg>City=Los Angeles</seg>
       </tuv>
     </tu>
     <tu>
@@ -5896,8 +5952,8 @@
       <tuv lang="en-US">
         <seg>Click ~Stock Exchange~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021539Z" creationid="RAFAEL" creationdate="20200818T021539Z">
-        <seg>Clique em ~ Bolsa de Valores ~.</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T094326Z" creationid="RAFAEL" creationdate="20200818T021539Z">
+        <seg>Clique em ~Bolsa de Valores~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19623,6 +19679,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=170,467,376,591</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093620Z" creationid="Olivier" creationdate="20200820T093620Z">
+        <seg>Pointer=170,467,376,591</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=170,53,560,270</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093527Z" creationid="Olivier" creationdate="20200820T093527Z">
+        <seg>Pointer=170,53,560,270</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=170,600,766,647</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122500Z" creationid="Olivier" creationdate="20200805T122500Z">
@@ -25048,6 +25120,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=200,10,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093605Z" creationid="Olivier" creationdate="20200820T093605Z">
+        <seg>Text Box=200,10,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=200,250,500,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122818Z" creationid="Olivier" creationdate="20200805T122818Z">
@@ -25072,10 +25152,34 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=200,280,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093619Z" creationid="Olivier" creationdate="20200820T093619Z">
+        <seg>Text Box=200,280,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,300,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093527Z" creationid="Olivier" creationdate="20200820T093527Z">
+        <seg>Text Box=200,300,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=200,340,400,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122330Z" creationid="Olivier" creationdate="20200805T122330Z">
         <seg>Text Box=200,340,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,370,500,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200820T093608Z" creationid="Olivier" creationdate="20200820T093608Z">
+        <seg>Text Box=200,370,500,0</seg>
       </tuv>
     </tu>
     <tu>
