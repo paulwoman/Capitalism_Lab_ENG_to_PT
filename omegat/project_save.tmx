@@ -47867,14 +47867,6 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[Inventory Unit]</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195915Z" creationid="Olivier" creationdate="20200730T195915Z">
-        <seg>[Inventory Unit]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T054706Z" creationid="Olivier" creationdate="20200728T054706Z">
