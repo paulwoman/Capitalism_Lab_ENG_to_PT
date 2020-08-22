@@ -9326,6 +9326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, ~A~ means Aluminum.^^You can always click on the mini-map to bring the city view's focus to a resource site, where you will be able to see details of the resource site by hovering your mouse over it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201233Z" creationid="RAFAEL" creationdate="20200822T201233Z">
+        <seg>Por exemplo, ~A~ significa Alumínio.^^Você pode sempre clicar no mini-mapa para trazer o foco da visão da cidade para um local de recurso, onde você poderá ver detalhes do local de recurso ao passar o mouse sobre ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more details, press F1 to open the guide to see the production details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234256Z" creationid="RAFAEL" creationdate="20200806T234256Z">
@@ -17227,6 +17235,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015822Z" creationid="RAFAEL" creationdate="20200822T015822Z">
         <seg>Agora clique em ~SAÍDA~ e selecione ~Ar condicionado~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now exit your Headquarters and return to the city view.^^~Right click anywhere~ on the screen to do so.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200846Z" creationid="RAFAEL" creationdate="20200822T200846Z">
+        <seg>Agora saia da sua sede e volte para a vista da cidade.^^~Clique com o botão direito em qualquer lugar~ da tela para fazer isso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26977,6 +26993,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The letters on the mini-map indicate the types of natural resources available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201059Z" creationid="RAFAEL" creationdate="20200822T201059Z">
+        <seg>As letras no minimapa indicam os tipos de recursos naturais disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The loans are grouped under different credit ratings and the total amount of each group is shown.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T014033Z" creationid="RAFAEL" creationdate="20200806T014033Z">
@@ -27927,6 +27951,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011905Z" creationid="RAFAEL" creationdate="20200808T011905Z">
         <seg>Existe um limite que limita o valor máximo de depósito que cada depositante pode fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a handy tool at the mini map that enables you to find natural resource sites easily.^^Click the ~Resource Mode~ icon and all natural resources sites currently available will be shown on the mini map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201045Z" creationid="RAFAEL" creationdate="20200822T201045Z">
+        <seg>Há uma ferramenta útil no mini mapa que permite encontrar facilmente locais de recursos naturais.^^Clique no ícone ~Modo recurso~ e todos os locais de recursos naturais atualmente disponíveis serão mostrados no mini mapa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31163,6 +31195,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With all the skills and experiences you have acquired, you are well equipped to realize your ambition of building a business empire that the world would admire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200906Z" creationid="RAFAEL" creationdate="20200822T200906Z">
+        <seg>Com todas as habilidades e experiências que adquiriu, você está bem equipado para realizar sua ambição de construir um império de negócios que o mundo admiraria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T183827Z" creationid="RAFAEL" creationdate="20200815T183827Z">
@@ -31367,6 +31407,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012230Z" creationid="RAFAEL" creationdate="20200806T012230Z">
         <seg>Você pode mudar a estratégia de marca de sua corporação aqui, clicando em uma das estratégias de marca abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can take vertical integration to a new level by setting up your ~own mining operations~ to supply ~your factories~ with the ~raw materials~ they need.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201019Z" creationid="RAFAEL" creationdate="20200822T201019Z">
+        <seg>Você pode levar a integração vertical a um novo patamar, criando suas ~próprias operações de mineração~ para suprir ~as suas fábricas~ com as ~matéria primas~ de que necessitam.</seg>
       </tuv>
     </tu>
     <tu>
