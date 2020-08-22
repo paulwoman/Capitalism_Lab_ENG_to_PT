@@ -36101,16 +36101,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1063]&lt;0220&gt;Top Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181300Z" creationid="Olivier" creationdate="20200728T091350Z">
-        <seg>[1063]&lt;0220&gt;Melhor Tecn.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T184819Z" creationid="Olivier" creationdate="20200728T091350Z">
+        <seg>[1063]&lt;0220&gt;Tecn. Top|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1064]&lt;0221&gt;Target Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181308Z" creationid="Olivier" creationdate="20200728T091351Z">
-        <seg>[1064]&lt;0221&gt;Tecn. alvo|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T184829Z" creationid="Olivier" creationdate="20200728T091351Z">
+        <seg>[1064]&lt;0221&gt;Tecn. Alvo|</seg>
       </tuv>
     </tu>
     <tu>
