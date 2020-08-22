@@ -15287,10 +15287,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's build an ~R&amp;D Center~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020333Z" creationid="RAFAEL" creationdate="20200822T020333Z">
+        <seg>Vamos construir um ~Centro de P&amp;D~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's click on the ~Mini Map~ icon now.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004748Z" creationid="RAFAEL" creationdate="20200811T004748Z">
         <seg>Vamos clicar no ícone ~Minimapa~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's create an R&amp;D team with ~3 R&amp;D units~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020557Z" creationid="RAFAEL" creationdate="20200822T020557Z">
+        <seg>Vamos criar uma equipe de P&amp;D com ~3 unidades de P&amp;D~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20831,6 +20847,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020356Z" creationid="RAFAEL" creationdate="20200822T020356Z">
+        <seg>Pressione a tecla de atalho ~B~ para abrir o menu Construção agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the shortcut key ~F1~ to open it now.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015757Z" creationid="RAFAEL" creationdate="20200822T015757Z">
@@ -23403,6 +23427,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012013Z" creationid="RAFAEL" creationdate="20200812T012013Z">
         <seg>Selecione ~ Unidade de compra ~ na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~R&amp;D Center~ from the menu and find a location to build it.^^It's a good idea to build your R&amp;D Center on the outskirts of the city as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020422Z" creationid="RAFAEL" creationdate="20200822T020422Z">
+        <seg>Selecione ~Centro de P&amp;D~ no menu e encontre um local para construí-lo.^^É uma boa ideia construir seu Centro de P&amp;D nos arredores da cidade, pois o terreno é mais barato lá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27643,6 +27675,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is only one type of functional unit to build in an R&amp;D Center, which is the ~R&amp;D unit~.^^You can set up a maximum of ~nine~ R&amp;D units in an R&amp;D center.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020507Z" creationid="RAFAEL" creationdate="20200822T020507Z">
+        <seg>Existe apenas um tipo de unidade funcional a ser construída em um Centro de P&amp;D, que é a unidade de P&amp;D.^^Você pode configurar no máximo ~nove~ unidades de P&amp;D em um centro de P&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001246Z" creationid="RAFAEL" creationdate="20200808T001246Z">
@@ -31287,6 +31327,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010936Z" creationid="RAFAEL" creationdate="20200808T010936Z">
         <seg>Você pode fazer com que o jogo duplique os dados de talentos para aumentar a oferta de talentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may have them work independently as ~nine separate teams~ or link them into ~a large, single team~ for increased performance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020534Z" creationid="RAFAEL" creationdate="20200822T020534Z">
+        <seg>Você pode fazer com que trabalhem de forma independente como ~nove equipes separadas~ ou uni-los em ~uma grande equipe única~ para aumentar o desempenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48783,6 +48831,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012102Z" creationid="RAFAEL" creationdate="20200812T012102Z">
         <seg>~Clique duas vezes~ em uma unidade vazia ao lado da Unidade de Compra que você acabou de configurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double-click~ here to set up the first R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020627Z" creationid="RAFAEL" creationdate="20200822T020627Z">
+        <seg>~Duplo clique~ aqui para configurar a primeira unidade de P&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
