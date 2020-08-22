@@ -14775,6 +14775,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its progress can be viewed in the unit detail section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021555Z" creationid="RAFAEL" creationdate="20200822T021555Z">
+        <seg>Seu progresso pode ser visto na seção de detalhes da unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JMFTCUST</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005910Z" creationid="Olivier" creationdate="20200802T005910Z">
@@ -28555,6 +28563,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021720Z" creationid="RAFAEL" creationdate="20200822T021720Z">
+        <seg>Este tutorial continuará quando ~sua fábrica começar a produzir e vender ar condicionado~.^^Se a qualquer momento você se perder e quiser reiniciar o tutorial, pode ~pressionar a tecla ESC e selecionar Reiniciar tutorial~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value indicates the approximate value of goods produced per person in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024321Z" creationid="RAFAEL" creationdate="20200804T024321Z">
@@ -30851,6 +30867,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While waiting for the R&amp;D project to complete, let's go ahead and ~set up a factory~ to manufacture ~Air Conditioners~.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021626Z" creationid="RAFAEL" creationdate="20200822T021626Z">
+        <seg>Enquanto esperamos a conclusão do projeto de P&amp;D, vamos prosseguir e ~montar uma fábrica~ para fabricar ~Ar Condicionado~.^^Clique com o botão direito em qualquer lugar da tela para voltar para a vista da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011150Z" creationid="RAFAEL" creationdate="20200811T011150Z">
@@ -31023,6 +31047,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224219Z" creationid="RAFAEL" creationdate="20200810T224219Z">
         <seg>Agora você está de volta à sua loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are now in the business of selling air conditioners!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021745Z" creationid="RAFAEL" creationdate="20200822T021745Z">
+        <seg>Você agora está no negócio de venda de aparelhos de ar condicionado!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31775,6 +31807,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T001111Z" creationid="RAFAEL" creationdate="20200807T001111Z">
         <seg>A população de sua nação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your R&amp;D project has commenced.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021544Z" creationid="RAFAEL" creationdate="20200822T021544Z">
+        <seg>Seu projeto de P&amp;D começou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48711,6 +48751,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022628Z" creationid="RAFAEL" creationdate="20200818T022628Z">
         <seg>^^As ações flutuantes podem ser compradas ao preço das ações por qualquer corporação ou investidor individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021859Z" creationid="RAFAEL" creationdate="20200822T021859Z">
+        <seg>^^ Para ver o efeito de P&amp;D em suas operações de manufatura, pressione a ~tecla de atalho '5~ para definir a velocidade do jogo para ~o mais rápido~.</seg>
       </tuv>
     </tu>
     <tu>
