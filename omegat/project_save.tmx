@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000849Z" creationid="RAFAEL" creationdate="20200822T000849Z">
+        <seg>Os bens agrícolas são essenciais para a fabricação de uma grande quantidade de produtos e você encontrará a agricultura um negócio indispensável para sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Cities Or Current City filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205926Z" creationid="RAFAEL" creationdate="20200802T205926Z">
@@ -10290,6 +10298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230904Z" creationid="RAFAEL" creationdate="20200802T230904Z">
         <seg>Cultivo de cultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000831Z" creationid="RAFAEL" creationdate="20200822T000831Z">
+        <seg>O cultivo é um processo demorado e tem que passar por semeadura, cultivo e colheita antes de você ver os produtos saindo da unidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28635,6 +28651,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001026Z" creationid="RAFAEL" creationdate="20200822T001026Z">
+        <seg>Para ganhar este jogo, sua empresa deve fazer pelo menos ~20 tipos de produtos~ para demonstrar sua capacidade de produzir uma ampla gama de produtos.^^Ao mesmo tempo, você deve atingir ~uma receita anual de $ 100 milhões~ e ~um lucro de $ 10 milhões~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Together with the e-commerce site quality rating, they affect the amount of visitors to this site.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013109Z" creationid="RAFAEL" creationdate="20200806T013109Z">
@@ -31047,6 +31071,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232206Z" creationid="RAFAEL" creationdate="20200802T232206Z">
         <seg>Você também pode clicar duas vezes em um registro de P&amp;D para fazer o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also grow crops in farms by using ~Crop Growing Units~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000812Z" creationid="RAFAEL" creationdate="20200822T000812Z">
+        <seg>Você também pode fazer plantações em fazendas usando ~Unidades de cultivo~.</seg>
       </tuv>
     </tu>
     <tu>
