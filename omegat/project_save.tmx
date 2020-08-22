@@ -38165,8 +38165,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1481]&lt;0546&gt;Production Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T181510Z" creationid="Olivier" creationdate="20200728T181510Z">
-        <seg>[1481]&lt;0546&gt;tec. de produção|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183931Z" creationid="Olivier" creationdate="20200728T181510Z">
+        <seg>[1481]&lt;0546&gt;Tec. de produção|</seg>
       </tuv>
     </tu>
     <tu>
@@ -41461,8 +41461,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131834Z" creationid="Olivier" creationdate="20200730T131834Z">
-        <seg>[2250]&lt;1171&gt;'s tec. de produção.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183952Z" creationid="Olivier" creationdate="20200730T131834Z">
+        <seg>[2250]&lt;1171&gt;'s Tec. de Produção.|</seg>
       </tuv>
     </tu>
     <tu>
