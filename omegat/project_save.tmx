@@ -9198,6 +9198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For R&amp;D units, training improves their R&amp;D efficiency.^^For ~manufacturing units~, training increases their productivity and capacities.^^For ~livestock raising units~ and ~crop growing units~, training improves the quality of their output as well as their capacities.^^For ~purchasing units~ and ~sale units~, training increases their efficiency and capacities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022631Z" creationid="RAFAEL" creationdate="20200822T022631Z">
+        <seg>Para unidades de P&amp;D, o treinamento melhora sua eficiência em P&amp;D.^^Para ~unidades de manufatura~, o treinamento aumenta sua produtividade e capacidades.^^Para ~unidades de criação de animais~ e ~unidades de cultivo~, o treinamento melhora a qualidade de sua produção, bem como suas capacidades.^^Para ~unidades de compra~ e ~unidades de venda~, o treinamento aumenta sua eficiência e capacidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Sale</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021027Z" creationid="RAFAEL" creationdate="20200804T021012Z">
@@ -27675,6 +27683,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~training bar~ is situated at the lower center of the firm detail window.^^You may adjust the amount of training the current firm receives by clicking a point on the training bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022707Z" creationid="RAFAEL" creationdate="20200822T022707Z">
+        <seg>A ~barra de treinamento~ está localizada na parte central inferior da janela de detalhes da empresa.^^Você pode ajustar a quantidade de treinamento que a empresa atual recebe clicando em um ponto na barra de treinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224614Z" creationid="RAFAEL" creationdate="20200810T224614Z">
@@ -30631,6 +30647,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033120Z" creationid="RAFAEL" creationdate="20200806T033120Z">
         <seg>Quando a taxa de capital do banco for muito baixa, o jogo deixará de emitir empréstimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bar is set to full, it means you have allocated the maximum possible training budget to it.^^Try it now by setting the training for the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022733Z" creationid="RAFAEL" creationdate="20200822T022733Z">
+        <seg>Quando a barra está definida como cheia, significa que você alocou o orçamento de treinamento máximo possível para ela.^^Experimente agora, definindo o treinamento para a empresa atual.</seg>
       </tuv>
     </tu>
     <tu>
