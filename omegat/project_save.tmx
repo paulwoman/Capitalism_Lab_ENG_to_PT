@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Asides from mines, you may also build ~Oil Wells~ for extracting ~Crude Oil~ (represented by letter ~O~ on the mini-map), and ~Logging Camps~ for processing ~Timber~ (represented by letter ~T~ on the mini-map).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202103Z" creationid="RAFAEL" creationdate="20200822T202103Z">
+        <seg>Além das minas, você também pode construir ~Poços de petróleo~ para extrair ~Petróleo bruto~ (representado pela letra ~O~ no minimapa) e ~Campos de extração de madeira~ para processamento ~Madeira~ (representado pela letra ~T~ no mini-mapa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030721Z" creationid="RAFAEL" creationdate="20200818T030721Z">
@@ -31015,6 +31023,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025248Z" creationid="RAFAEL" creationdate="20200805T025248Z">
         <seg>Quando você habilitar as vendas de eCommerce para esta empresa, seus sites de eCommerce adicionarão todos os produtos de consumo desta empresa a seu catálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201940Z" creationid="RAFAEL" creationdate="20200822T201940Z">
+        <seg>Quando você tiver encontrado um local de recurso natural que pretende comprar, você pode ir em frente e selecionar ~Mina~ no menu construir e construir uma mina no local do recurso.</seg>
       </tuv>
     </tu>
     <tu>
