@@ -5072,8 +5072,8 @@
       <tuv lang="en-US">
         <seg>Click here to access the special version of Manufacturer's Guide and use it to set up your factory's production layout instantly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023402Z" creationid="RAFAEL" creationdate="20200805T023402Z">
-        <seg>Clique aqui para acessar a versão especial do Guia do Fabricante e usá-lo para configurar o layout de produção de sua fábrica instantaneamente.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183822Z" creationid="RAFAEL" creationdate="20200805T023402Z">
+        <seg>Clique aqui para acessar a versão especial do Guia do Produtor e usá-lo para configurar o layout de produção de sua fábrica instantaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13161,8 +13161,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235605Z" creationid="RAFAEL" creationdate="20200807T235117Z">
-        <seg>Se estiver definido como Ligado, você encontrará a ferramenta de Costumização do Produto no Guia do Fabricante.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183749Z" creationid="RAFAEL" creationdate="20200807T235117Z">
+        <seg>Se estiver definido como Ligado, você encontrará a ferramenta de Costumização do Produto no Guia do Produtor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13505,8 +13505,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>In other words: &lt;this cost price&gt; = &lt;cost price at the Purchasing Unit&gt; X &lt;Quantity of the Input&gt; / &lt;Quantity of the Finished Product&gt; shown on the Manufacturer Guide.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021549Z" creationid="RAFAEL" creationdate="20200806T021549Z">
-        <seg>Em outras palavras: &lt;este preço de custo&gt; = &lt;preço de custo na unidade de compra&gt; X &lt;Quantidade do insumo&gt; / &lt;Quantidade do produto acabado&gt; mostrado no Guia do fabricante.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183833Z" creationid="RAFAEL" creationdate="20200806T021549Z">
+        <seg>Em outras palavras: &lt;este preço de custo&gt; = &lt;preço de custo na unidade de compra&gt; X &lt;Quantidade do insumo&gt; / &lt;Quantidade do produto acabado&gt; mostrado no Guia do Produtor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28797,8 +28797,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>To demonstrate how research works, we are going to set up a factory manufacturing ~Air Conditioners~.^^First, you should view the ~Manufacturer's Guide~ to see what materials are required.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015731Z" creationid="RAFAEL" creationdate="20200822T015731Z">
-        <seg>Para demonstrar como a pesquisa funciona, vamos montar uma fábrica de ~Ar Condicionado~.^^Primeiro, você deve ver o ~Guia do fabricante~ para ver quais materiais são necessários.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183723Z" creationid="RAFAEL" creationdate="20200822T015731Z">
+        <seg>Para demonstrar como a pesquisa funciona, vamos montar uma fábrica de ~Ar Condicionado~.^^Primeiro, você deve ver o ~Guia do Produtor~ para ver quais materiais são necessários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29973,8 +29973,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Use the Manufacturer's Guide to set up Factory Production.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023333Z" creationid="RAFAEL" creationdate="20200805T023333Z">
-        <seg>Use o Guia do fabricante para montar a fábrica de produção.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183804Z" creationid="RAFAEL" creationdate="20200805T023333Z">
+        <seg>Use o Guia do Produtor para montar a fábrica de produção.</seg>
       </tuv>
     </tu>
     <tu>
