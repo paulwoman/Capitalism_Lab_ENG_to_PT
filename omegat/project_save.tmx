@@ -5062,6 +5062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click an R&amp;D unit to see the details of the staff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022755Z" creationid="RAFAEL" creationdate="20200822T022755Z">
+        <seg>Clique em uma unidade de P&amp;D para ver os detalhes da equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to access the special version of Manufacturer's Guide and use it to set up your factory's production layout instantly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023402Z" creationid="RAFAEL" creationdate="20200805T023402Z">
@@ -17071,6 +17079,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now all the staff in the firm will receive training.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022744Z" creationid="RAFAEL" creationdate="20200822T022744Z">
+        <seg>Agora toda a equipe da empresa receberá treinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now choose ~Retail Store~ from the menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200816T204909Z" creationid="RAFAEL" creationdate="20200811T011417Z">
@@ -24063,6 +24079,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So feel free to set the training slider to maximum.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022920Z" creationid="RAFAEL" creationdate="20200822T022920Z">
+        <seg>Portanto, fique à vontade para definir o controle deslizante de treinamento para o máximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Social Security</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001807Z" creationid="RAFAEL" creationdate="20200805T001807Z">
@@ -27739,6 +27763,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in red overalls.^^During training, those who have been trained already will be shown wearing blue overalls.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022819Z" creationid="RAFAEL" creationdate="20200822T022819Z">
+        <seg>Há 12 funcionários em cada unidade de P&amp;D, representados por 12 figuras em macacões vermelhos.^^Durante o treinamento, aqueles que já foram treinados serão mostrados usando macacões azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are local competitors in each city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011934Z" creationid="RAFAEL" creationdate="20200806T011934Z">
@@ -29307,6 +29339,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training can be costly for a company with limited cash but the end results are worth the initial outlay of money.^^In this tutorial game, you are fortune to start with ample cash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022908Z" creationid="RAFAEL" creationdate="20200822T022908Z">
+        <seg>O treinamento pode ser caro para uma empresa com dinheiro limitado, mas os resultados finais valem o gasto inicial de dinheiro.^^Neste jogo tutorial, você tem sorte de começar com bastante dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014056Z" creationid="Olivier" creationdate="20200802T014056Z">
@@ -30699,6 +30739,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in blue overalls), the unit's experience level will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022845Z" creationid="RAFAEL" creationdate="20200822T022845Z">
+        <seg>Quando toda a equipe de uma unidade funcional tiver sido treinada (todos de macacão azul), o nível de experiência da unidade aumentará em um ponto e a cor geral da equipe voltará ao vermelho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the interest rate is high, the money supply is also tight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025113Z" creationid="RAFAEL" creationdate="20200804T025113Z">
@@ -31327,6 +31375,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003813Z" creationid="RAFAEL" creationdate="20200818T030734Z">
         <seg>Você fez um ótimo trabalho se familiarizando com a Bolsa de Valores!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have done a great job laying a solid foundation for your business to grow with sound R&amp;D facilities and familiarized yourself with the training interface.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022939Z" creationid="RAFAEL" creationdate="20200822T022939Z">
+        <seg>Você fez um ótimo trabalho, estabelecendo uma base sólida para o crescimento de sua empresa com instalações sólidas de P&amp;D e se familiarizou com a interface de treinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31971,6 +32027,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your efforts will pay off as you attempt to take your business to the next level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022951Z" creationid="RAFAEL" creationdate="20200822T022951Z">
+        <seg>Seus esforços serão recompensados ​​conforme você tenta levar seu negócio para o próximo nível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your factory sells product class=Apparel</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122129Z" creationid="Olivier" creationdate="20200805T122129Z">
@@ -31983,6 +32047,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T003535Z" creationid="RAFAEL" creationdate="20200822T000504Z">
         <seg>Sua fazenda começou a criar gado.^^À direita da ~Unidade de Criação de Gado~, construa uma ~Unidade de Processamento de animais~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your goal in this tutorial game is to grow your business from a humble manufacturer of Air Conditioners to a successful enterprise ~dominating the entire Home Appliances market~, and at the same time generating ~an annual profit of at least $20 million~.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T023039Z" creationid="RAFAEL" creationdate="20200822T023039Z">
+        <seg>Seu objetivo neste jogo tutorial é fazer seu negócio crescer de um fabricante humilde de ar condicionado para uma empresa de sucesso ~dominando todo o mercado de eletrodomésticos~ e, ao mesmo tempo, gerando ~um lucro anual de pelo menos $ 20 milhões~.^^Boa sorte!</seg>
       </tuv>
     </tu>
     <tu>
