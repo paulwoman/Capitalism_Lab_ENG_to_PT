@@ -6814,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Headquarters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202415Z" creationid="RAFAEL" creationdate="20200822T202415Z">
+        <seg>Sede da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Logo Selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014801Z" creationid="RAFAEL" creationdate="20200808T014801Z">
@@ -7402,6 +7410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
         <seg>Description=Você construiu um próspero império de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202447Z" creationid="RAFAEL" creationdate="20200822T202447Z">
+        <seg>Description=Você fez progressos impressionantes até agora e ganhou a reputação de ser uma das estrelas em ascensão no mundo dos negócios.^^Neste tutorial final, você aprenderá como construir sua sede corporativa e configurar vários departamentos para permitir que você gerencie seu império de negócios com ainda mais eficácia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014837Z" creationid="RAFAEL" creationdate="20200820T014837Z">
         <seg>Goal Description=Você ganha este jogo tutorial quando o preço das ações da sua empresa valer $ 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202613Z" creationid="RAFAEL" creationdate="20200822T202613Z">
+        <seg>Goal Description=Sua meta é fazer sua empresa crescer e se tornar uma grande corporação com ~1000 ou mais funcionários~ e atingir ~uma receita anual de $ 1 bilhão~ e ~um lucro anual de $ 100 milhões~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22275,6 +22299,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153414Z" creationid="RAFAEL" creationdate="20200815T145409Z">
         <seg>Lembra-se do ~Guia do Produtor~ que você observou há pouco?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to choose an apt brand strategy early on and invest wisely in advertising, R&amp;D and training.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202529Z" creationid="RAFAEL" creationdate="20200822T202529Z">
+        <seg>Lembre-se de escolher uma estratégia de marca adequada desde o início e investir com sabedoria em publicidade, P&amp;D e treinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49135,6 +49167,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021859Z" creationid="RAFAEL" creationdate="20200822T021859Z">
         <seg>^^ Para ver o efeito de P&amp;D em suas operações de manufatura, pressione a ~tecla de atalho '5~ para definir a velocidade do jogo para ~o mais rápido~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Try to apply what you have learned from previous tutorials into managing your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202509Z" creationid="RAFAEL" creationdate="20200822T202509Z">
+        <seg>^^Tente aplicar o que você aprendeu nos tutoriais anteriores para gerenciar sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
