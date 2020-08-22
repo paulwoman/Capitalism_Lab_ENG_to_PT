@@ -22119,6 +22119,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Research and Development, or R&amp;D, is aptly conducted in ~R&amp;D Centers~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020240Z" creationid="RAFAEL" creationdate="20200822T020240Z">
+        <seg>Pesquisa e Desenvolvimento, ou P&amp;D, são conduzidos apropriadamente em ~Centros de P&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -22131,6 +22139,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013731Z" creationid="Olivier" creationdate="20200802T013731Z">
         <seg>Research and Development=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research projects can take some time to complete, so it's a good idea to begin research as soon as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020313Z" creationid="RAFAEL" creationdate="20200822T020313Z">
+        <seg>Os projetos de pesquisa podem levar algum tempo para serem concluídos, então é uma boa idéia começar a pesquisar o mais rápido possível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31439,6 +31455,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140939Z" creationid="RAFAEL" creationdate="20200815T140939Z">
         <seg>Você deve primeiro obter um empréstimo para financiar seus grandes planos. ^^ Clique no ícone do ~Centro de Informações~ na barra de ferramentas inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must invest into technological development if you want your Air Conditioners to be competitive in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020130Z" creationid="RAFAEL" creationdate="20200822T020130Z">
+        <seg>Você deve investir no desenvolvimento tecnológico se quiser que seus aparelhos de ar condicionado sejam competitivos no mercado.</seg>
       </tuv>
     </tu>
     <tu>
