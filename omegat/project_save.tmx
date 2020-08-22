@@ -27003,8 +27003,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The next column ~Top Tech~ indicates the top technology level for each product type.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020957Z" creationid="RAFAEL" creationdate="20200822T020957Z">
-        <seg>A próxima coluna ~Top Tech~ indica o nível de tecnologia superior para cada tipo de produto.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T181556Z" creationid="RAFAEL" creationdate="20200822T020957Z">
+        <seg>A próxima coluna ~Tec. Top~ indica o nível de tecnologia superior para cada tipo de produto.</seg>
       </tuv>
     </tu>
     <tu>
