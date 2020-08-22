@@ -43117,8 +43117,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2505]&lt;1395&gt;Research on which product?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T171118Z" creationid="Olivier" creationdate="20200730T171118Z">
-        <seg>[2505]&lt;1395&gt;pesquisar qual produto?|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T181336Z" creationid="Olivier" creationdate="20200730T171118Z">
+        <seg>[2505]&lt;1395&gt;Pesquisar qual produto?|</seg>
       </tuv>
     </tu>
     <tu>
