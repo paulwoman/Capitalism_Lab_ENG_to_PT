@@ -80,8 +80,8 @@
       <tuv lang="en-US">
         <seg>(100 x Total Tech / Top Tech.) It represents this Internet firm's relative strength in the technology.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032055Z" creationid="RAFAEL" creationdate="20200806T032055Z">
-        <seg>(100 x tecnologia total / tecnologia avançada.) Representa a força relativa desta empresa de Internet na tecnologia.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T181851Z" creationid="RAFAEL" creationdate="20200806T032055Z">
+        <seg>(100 x Tecnologia Total / Tecnologia Top.) Representa a força relativa desta empresa de Internet na tecnologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25170,8 +25170,8 @@ Divisão de ações</seg>
       <tuv lang="en-US">
         <seg>Tech Quality is calculated by dividing the current Total Tech by Top Tech, then multiplied by 100.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031957Z" creationid="RAFAEL" creationdate="20200806T031917Z">
-        <seg>A qualidade tecnológica é calculada dividindo o total da tecnologia atual pela tecnologia de última geração e depois multiplicando o resultado por 100.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T181815Z" creationid="RAFAEL" creationdate="20200806T031917Z">
+        <seg>A qualidade tecnológica é calculada dividindo o total da tecnologia atual pela Tecnologia Top e depois multiplicando o resultado por 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26451,8 +26451,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The closer the #Owned Tech# is to this #Top Tech#, the higher the product's #Quality# is.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235127Z" creationid="RAFAEL" creationdate="20200806T235127Z">
-        <seg>Quanto mais próxima a #Tecnologia própria# está desta #Alta tecnologia#, mais alta é a #Qualidade# do produto.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T182038Z" creationid="RAFAEL" creationdate="20200806T235127Z">
+        <seg>Quanto mais próxima a #Tecnologia própria# está desta #Tec. Top#, mais alta é a #Qualidade# do produto.</seg>
       </tuv>
     </tu>
     <tu>
