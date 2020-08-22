@@ -18183,6 +18183,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once the ~Event Tracker~ icon (indicated by an ~'!'~ sign) appears, you can go ahead and click it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022005Z" creationid="RAFAEL" creationdate="20200822T022005Z">
+        <seg>Assim que o ícone do ~Controlador de eventos~ (indicado por um sinal ~'!'~) Aparecer, você pode clicar nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011311Z" creationid="RAFAEL" creationdate="20200812T011311Z">
@@ -26041,6 +26049,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your production technology level for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022122Z" creationid="RAFAEL" creationdate="20200822T022122Z">
+        <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu nível de tecnologia de produção de ar condicionado para 33.^^Todas as suas fábricas que produzem ar condicionado se beneficiarão do avanço tecnológico, permitindo-lhes produzir condicionadores de ar de maior qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advantage is that a product's brand will not be weighted down by quality issues from other product lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000208Z" creationid="RAFAEL" creationdate="20200807T000208Z">
@@ -30399,6 +30415,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011320Z" creationid="RAFAEL" creationdate="20200808T011320Z">
         <seg>Quando a personalização do produto está ativada, a tecnologia Disruptiva será automaticamente desativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a R&amp;D project of yours is finished, you will see a flashing ~Event Tracker~ icon at the bottom menu bar.^^Keep your eyes on this area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021931Z" creationid="RAFAEL" creationdate="20200822T021931Z">
+        <seg>Quando um projeto de P&amp;D seu for concluído, você verá um ícone piscando do ~Rastreador de Eventos~ na barra de menu inferior.^^Fique de olho nesta área.</seg>
       </tuv>
     </tu>
     <tu>
