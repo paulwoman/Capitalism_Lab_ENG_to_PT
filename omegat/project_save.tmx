@@ -16895,6 +16895,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next you must decide how long your research project will run.^^The list shows the ~R&amp;D time duration~ and the ~expected increase in the technology level~ for the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021446Z" creationid="RAFAEL" creationdate="20200822T021446Z">
+        <seg>Em seguida, você deve decidir por quanto tempo seu projeto de pesquisa será executado.^^A lista mostra a ~duração do tempo de P&amp;D~ e o ~aumento esperado no nível de tecnologia~ para o produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011554Z" creationid="RAFAEL" creationdate="20200812T011554Z">
@@ -17227,6 +17235,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022341Z" creationid="RAFAEL" creationdate="20200818T022341Z">
         <seg>Agora volte ao mercado acionário para ver suas últimas participações acionárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Air Conditioner~ from the list by double-clicking it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021410Z" creationid="RAFAEL" creationdate="20200822T021410Z">
+        <seg>Agora selecione ~Ar Condicionado~ da lista clicando duas vezes nele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27286,6 +27302,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003915Z" creationid="RAFAEL" creationdate="20200807T235045Z">
         <seg>A Bolsa de Valores permite a negociação de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tech increase is greater for projects with longer durations.^^Since this is your first R&amp;D project, let's select ~6 months~ for the time duration to get the result sooner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021532Z" creationid="RAFAEL" creationdate="20200822T021532Z">
+        <seg>O aumento de tecnologia é maior para projetos com durações mais longas.^^Como este é seu primeiro projeto de P&amp;D, vamos selecionar ~6 meses~ para obter o resultado mais cedo.</seg>
       </tuv>
     </tu>
     <tu>
