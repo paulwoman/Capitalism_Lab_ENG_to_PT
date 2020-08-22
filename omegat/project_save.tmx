@@ -5472,8 +5472,8 @@
       <tuv lang="en-US">
         <seg>Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000420Z" creationid="RAFAEL" creationdate="20200822T000420Z">
-        <seg>Clique no botão ~Criar gado~ e selecione ~Gado~ no menu pop-up.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T003526Z" creationid="RAFAEL" creationdate="20200822T000420Z">
+        <seg>Clique no botão ~Criar animais~ e selecione ~Gado~ no menu pop-up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31613,8 +31613,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000504Z" creationid="RAFAEL" creationdate="20200822T000504Z">
-        <seg>Sua fazenda começou a criar gado.^^À direita da ~Unidade de Criação de Gado~, construa uma ~Unidade de Processamento de Gado~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T003535Z" creationid="RAFAEL" creationdate="20200822T000504Z">
+        <seg>Sua fazenda começou a criar gado.^^À direita da ~Unidade de Criação de Gado~, construa uma ~Unidade de Processamento de animais~.</seg>
       </tuv>
     </tu>
     <tu>
