@@ -35037,8 +35037,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0795]&lt;0015&gt;PUBLIC RELATIONS DEPARTMENT|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084740Z" creationid="Olivier" creationdate="20200728T084740Z">
-        <seg>[0795]&lt;0015&gt;DEPARTAMENTO DE RELAÇÕES PÚBLICAS|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T204621Z" creationid="Olivier" creationdate="20200728T084740Z">
+        <seg>[0795]&lt;0015&gt;DEPART. DE RELAÇÕES PÚBLICAS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39877,16 +39877,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1863]&lt;AM02&gt;Public Relations Department|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101718Z" creationid="Olivier" creationdate="20200730T101718Z">
-        <seg>[1863]&lt;AM02&gt;Departamento de Relações públicas|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T204728Z" creationid="Olivier" creationdate="20200730T101718Z">
+        <seg>[1863]&lt;AM02&gt;Depart. de Relações Públicas|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1864]&lt;AM03&gt;Investor Relations Department|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T101731Z" creationid="Olivier" creationdate="20200730T101731Z">
-        <seg>[1864]&lt;AM03&gt;Departamento relações com investidores|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T204720Z" creationid="Olivier" creationdate="20200730T101731Z">
+        <seg>[1864]&lt;AM03&gt;Depart. Relações com Investidores|</seg>
       </tuv>
     </tu>
     <tu>
