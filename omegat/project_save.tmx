@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001415Z" creationid="RAFAEL" creationdate="20200822T001415Z">
+        <seg>Ao mesmo tempo, você deve atingir uma receita anual de $ 100 milhões e um lucro anual de $ 10 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T015254Z" creationid="RAFAEL" creationdate="20200818T022435Z">
