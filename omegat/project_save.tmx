@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you may recall, a product's rating is based on two factors: the company's production technology rating for the product and the raw material quality.^^Research advances your company's production technology and thus increases your products' quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015606Z" creationid="RAFAEL" creationdate="20200822T015606Z">
+        <seg>Como você deve se lembrar, a classificação de um produto é baseada em dois fatores: a classificação da tecnologia de produção da empresa para o produto e a qualidade da matéria-prima.^^A pesquisa avança a tecnologia de produção da sua empresa e, portanto, aumenta a qualidade dos seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010127Z" creationid="RAFAEL" creationdate="20200812T010127Z">
@@ -13491,6 +13499,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010142Z" creationid="RAFAEL" creationdate="20200811T010142Z">
         <seg>Neste modo, os edifícios representados por ~pontos verdes são lucrativos~ enquanto os edifícios representados por ~pontos vermelhos estão perdendo dinheiro~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015452Z" creationid="RAFAEL" creationdate="20200822T015452Z">
+        <seg>Neste tutorial você aprenderá como melhorar a qualidade de seus produtos conduzindo pesquisas em Centros de P&amp;D (Centros de Pesquisa e Desenvolvimento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28503,6 +28519,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145735Z" creationid="RAFAEL" creationdate="20200815T145735Z">
         <seg>Para completar seus objetivos neste jogo, você precisa atingir ~uma receita anual de $30 milhões~ e ~um lucro anual de $3 milhões~.^^Mas lembre-se que você ainda deve dinheiro ao banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To demonstrate how research works, we are going to set up a factory manufacturing ~Air Conditioners~.^^First, you should view the ~Manufacturer's Guide~ to see what materials are required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015731Z" creationid="RAFAEL" creationdate="20200822T015731Z">
+        <seg>Para demonstrar como a pesquisa funciona, vamos montar uma fábrica de ~Ar Condicionado~.^^Primeiro, você deve ver o ~Guia do fabricante~ para ver quais materiais são necessários.</seg>
       </tuv>
     </tu>
     <tu>
