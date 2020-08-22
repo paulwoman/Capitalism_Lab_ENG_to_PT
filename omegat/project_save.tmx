@@ -35253,8 +35253,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0825]&lt;0045&gt;CHIEF MARKETING OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084942Z" creationid="Olivier" creationdate="20200728T084942Z">
-        <seg>[0825]&lt;0045&gt;ESCRITÓRIO DO CHIEF MARKETING OFFICER|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T205144Z" creationid="Olivier" creationdate="20200728T084942Z">
+        <seg>[0825]&lt;0045&gt;ESCRITÓRIO DO CHEFE DE MARKETING |</seg>
       </tuv>
     </tu>
     <tu>
@@ -35277,8 +35277,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0829]&lt;0049&gt;CHIEF TECHNICAL OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T175708Z" creationid="Olivier" creationdate="20200728T084959Z">
-        <seg>[0829]&lt;0049&gt;ESCRITÓRIO DO DIRETOR TÉCNICO|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T205204Z" creationid="Olivier" creationdate="20200728T084959Z">
+        <seg>[0829]&lt;0049&gt;ESCRITÓRIO DO DIRETOR DE TECNOLOGIA|</seg>
       </tuv>
     </tu>
     <tu>
