@@ -31357,8 +31357,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Yellow bar = the Supply.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225918Z" creationid="RAFAEL" creationdate="20200802T225918Z">
-        <seg>Barra amarela = o fornecimento.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T204355Z" creationid="RAFAEL" creationdate="20200802T225918Z">
+        <seg>Barra amarela = a Oferta.</seg>
       </tuv>
     </tu>
     <tu>
