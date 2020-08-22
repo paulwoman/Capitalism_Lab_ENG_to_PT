@@ -34885,8 +34885,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0773]&lt;FH11&gt;FINANCE DEPARTMENT|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084526Z" creationid="Olivier" creationdate="20200728T084526Z">
-        <seg>[0773]&lt;FH11&gt;DEPARTMENTO DE FINANÇAS|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T204953Z" creationid="Olivier" creationdate="20200728T084526Z">
+        <seg>[0773]&lt;FH11&gt;DEPARTAMENTO DE FINANÇAS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -35213,8 +35213,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0820]&lt;0040&gt;CHIEF OPERATING OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084922Z" creationid="Olivier" creationdate="20200728T084922Z">
-        <seg>[0820]&lt;0040&gt;ESCRITÓRIO DO CHIEF OPERATING OFFICER|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T205058Z" creationid="Olivier" creationdate="20200728T084922Z">
+        <seg>[0820]&lt;0040&gt;ESCRITÓRIO DO CHEFE DE OPERAÇÕES|</seg>
       </tuv>
     </tu>
     <tu>
