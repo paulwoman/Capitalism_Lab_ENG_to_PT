@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All they need is your direction.^^Click the "leader" unit of your R&amp;D team, which is the one with connections to all other R&amp;D units in the team.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020827Z" creationid="RAFAEL" creationdate="20200822T020827Z">
+        <seg>Tudo o que eles precisam é da sua orientação.^^Clique na unidade "líder" de sua equipe de P&amp;D, que é aquela com conexões com todas as outras unidades de P&amp;D da equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allocate retail space and hire staff for selling the same product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022302Z" creationid="RAFAEL" creationdate="20200806T022302Z">
@@ -5506,6 +5514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224112Z" creationid="RAFAEL" creationdate="20200810T224112Z">
         <seg>Clique no botão ~SELECIONAR~ agora.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Start R&amp;D~ button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020857Z" creationid="RAFAEL" creationdate="20200822T020857Z">
+        <seg>Clique no botão ~Iniciar P&amp;D~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15407,6 +15423,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link it to the first one as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020744Z" creationid="RAFAEL" creationdate="20200822T020744Z">
+        <seg>Vincule-o ao primeiro também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link to a media firm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025851Z" creationid="RAFAEL" creationdate="20200805T025851Z">
@@ -17231,6 +17255,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now set up the third one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020731Z" creationid="RAFAEL" creationdate="20200822T020731Z">
+        <seg>Agora configure o terceiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014401Z" creationid="RAFAEL" creationdate="20200812T014401Z">
@@ -17331,6 +17363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000433Z" creationid="RAFAEL" creationdate="20200822T000433Z">
         <seg>Agora você precisa definir o tipo de animais a serem criados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now your R&amp;D team is ready to commence research.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020757Z" creationid="RAFAEL" creationdate="20200822T020757Z">
+        <seg>Agora sua equipe de P&amp;D está pronta para iniciar a pesquisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30715,6 +30755,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you start an R&amp;D project with more R&amp;D units linked together, you get a boost in R&amp;D performance and thus get a bigger tech gain.^^Now ~Double-click~ here to set up the second R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020710Z" creationid="RAFAEL" creationdate="20200822T020710Z">
+        <seg>Quando você inicia um projeto de P&amp;D com mais unidades de P&amp;D interligadas, você obtém um aumento no desempenho de P&amp;D e, portanto, um maior ganho de tecnologia.^^Agora ~clique duas vezes~ aqui para configurar a segunda unidade de P&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your Smart Phone tech has reached 300, this custom image will be displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014132Z" creationid="RAFAEL" creationdate="20200805T014132Z">
@@ -31567,6 +31615,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021833Z" creationid="RAFAEL" creationdate="20200818T021833Z">
         <seg>Agora você deve se oferecer para emitir novas ações ao público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You use this interface to select the type of product you want to conduct R&amp;D for.^^The column ~Current Tech~ indicates your current production technology level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020932Z" creationid="RAFAEL" creationdate="20200822T020932Z">
+        <seg>Você usa essa interface para selecionar o tipo de produto para o qual deseja conduzir P&amp;D.^^A coluna ~Tecnologia Atual~ indica seu nível de tecnologia de produção atual.</seg>
       </tuv>
     </tu>
     <tu>
