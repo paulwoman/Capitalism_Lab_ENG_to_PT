@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All the ~manufacturing units~ in your factories will get an instant boost in productivity thanks to the COO's expertise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200749Z" creationid="RAFAEL" creationdate="20200822T200749Z">
+        <seg>Todas as ~unidades de produção~ em suas fábricas obterão um aumento instantâneo na produtividade graças à experiência do COO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All they need is your direction.^^Click the "leader" unit of your R&amp;D team, which is the one with connections to all other R&amp;D units in the team.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020827Z" creationid="RAFAEL" creationdate="20200822T020827Z">
@@ -2170,6 +2178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000827Z" creationid="RAFAEL" creationdate="20200808T000827Z">
         <seg>Como tal, terá a inflação artificialmente reprimida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you are the CEO, that would be your office.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200817Z" creationid="RAFAEL" creationdate="20200822T200817Z">
+        <seg>Como você é o CEO, esse seria o seu escritório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,6 +8794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131954Z" creationid="Olivier" creationdate="20200730T131954Z">
         <seg>Campos estão destruidos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally you may set up an office for the ~Chief Executive Officer~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200804Z" creationid="RAFAEL" creationdate="20200822T200804Z">
+        <seg>Finalmente, você pode criar um escritório para o ~CEO~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31591,6 +31615,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000812Z" creationid="RAFAEL" creationdate="20200822T000812Z">
         <seg>Você também pode fazer plantações em fazendas usando ~Unidades de cultivo~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also hire a ~Chief Operating Officer (COO)~ and place him or her in charge of any of your firms.^^You could, for example, hire someone with ~expertise in manufacturing~ as your COO for managing all of your factories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200705Z" creationid="RAFAEL" creationdate="20200822T200705Z">
+        <seg>Você também pode contratar um ~Chefe de Operações (COO)~ e colocá-lo no comando de qualquer uma de suas empresas.^^Você poderia, por exemplo, contratar alguém com ~expertise em manufatura~ como seu COO para gerenciar todos as suas fábricas.</seg>
       </tuv>
     </tu>
     <tu>
