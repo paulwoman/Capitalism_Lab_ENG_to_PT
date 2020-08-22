@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
+        <seg>Description=Para se manter competitivo em um mercado em constante mudança, você deve investir constantemente na melhoria da qualidade de seus produtos.^^Neste tutorial, você vai estabelecer um Centro de Pesquisa e Desenvolvimento (P&amp;D) e iniciar projetos de P&amp;D para inventar tecnologias mais avançadas para seus produtos.^^A competição será acirrada, mas seu investimento em P&amp;D deve compensar e dar a você uma vantagem competitiva em relação a seus rivais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153816Z" creationid="RAFAEL" creationdate="20200815T153816Z">
@@ -10154,6 +10162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014929Z" creationid="RAFAEL" creationdate="20200812T014929Z">
         <seg>Goal Description=Obtenha uma receita anual de $ 50 milhões e um lucro anual de $ 5 milhões para concluir este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015403Z" creationid="RAFAEL" creationdate="20200822T015403Z">
+        <seg>Goal Description=Para ganhar este jogo, sua empresa deve atingir uma receita anual de $ 150 milhões e um lucro anual de $ 15 milhões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22043,6 +22059,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015504Z" creationid="RAFAEL" creationdate="20200805T015504Z">
         <seg>Nível tecnológico necessário para esta imagem de produto personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research and Development</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015230Z" creationid="RAFAEL" creationdate="20200822T015230Z">
+        <seg>Pesquisa e Desenvolvimento</seg>
       </tuv>
     </tu>
     <tu>
