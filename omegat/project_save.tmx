@@ -35581,8 +35581,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0926]&lt;0134&gt;Units|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T185501Z" creationid="Olivier" creationdate="20200728T085311Z">
-        <seg>[0926]&lt;0134&gt;Unid.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T185813Z" creationid="Olivier" creationdate="20200728T085311Z">
+        <seg>[0926]&lt;0134&gt;Unidades|</seg>
       </tuv>
     </tu>
     <tu>
@@ -36317,8 +36317,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1091]&lt;0247&gt;units|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091635Z" creationid="Olivier" creationdate="20200728T091635Z">
-        <seg>[1091]&lt;0247&gt;unidades|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T185836Z" creationid="Olivier" creationdate="20200728T091635Z">
+        <seg>[1091]&lt;0247&gt;unid.|</seg>
       </tuv>
     </tu>
     <tu>
