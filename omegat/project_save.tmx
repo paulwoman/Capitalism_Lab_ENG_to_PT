@@ -44781,16 +44781,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T191447Z" creationid="Olivier" creationdate="20200730T173808Z">
-        <seg>[2755]&lt;NSS5&gt;agrupamento de ações, que agrupa todos os|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T191518Z" creationid="Olivier" creationdate="20200730T173808Z">
+        <seg>[2755]&lt;NSS5&gt;agrupamento de ações, que agrupa todas as|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2756]&lt;NSS6&gt;shares into one share.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T173813Z" creationid="Olivier" creationdate="20200730T173813Z">
-        <seg>[2756]&lt;NSS6&gt;ações em ação.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T191456Z" creationid="Olivier" creationdate="20200730T173813Z">
+        <seg>[2756]&lt;NSS6&gt;ações em uma ação.|</seg>
       </tuv>
     </tu>
     <tu>
