@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000420Z" creationid="RAFAEL" creationdate="20200822T000420Z">
+        <seg>Clique no botão ~Criar gado~ e selecione ~Gado~ no menu pop-up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224112Z" creationid="RAFAEL" creationdate="20200810T224112Z">
@@ -17171,6 +17179,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143846Z" creationid="RAFAEL" creationdate="20200815T143846Z">
         <seg>Agora você precisa comprar matéria-prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to set the type of animals to be raised.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000433Z" creationid="RAFAEL" creationdate="20200822T000433Z">
+        <seg>Agora você precisa definir o tipo de animais a serem criados.</seg>
       </tuv>
     </tu>
     <tu>
