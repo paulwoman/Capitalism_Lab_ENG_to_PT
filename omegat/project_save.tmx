@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200305Z" creationid="RAFAEL" creationdate="20200822T200305Z">
+        <seg>Mas, ao contrário de outras unidades funcionais que você adicionou antes, as unidades em HQ não precisam ser vinculadas umas às outras, pois cada unidade representa um departamento que opera de forma independente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Firm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021251Z" creationid="RAFAEL" creationdate="20200804T021251Z">
@@ -7722,6 +7730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004540Z" creationid="RAFAEL" creationdate="20200808T004540Z">
         <seg>Doações para partidos políticos rivais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click the indicated empty slot and select ~Human Resources Department~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200333Z" creationid="RAFAEL" creationdate="20200822T200333Z">
+        <seg>Clique duas vezes no slot vazio indicado e selecione ~Departamento de Recursos Humanos~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14015,6 +14031,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inside your headquarters (HQ), you will see the usual 3x3 layout grid.^^There are functional units specifically for HQ.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200230Z" creationid="RAFAEL" creationdate="20200822T200230Z">
+        <seg>Dentro de sua sede (HQ), você verá a grade de layout 3x3 usual.^^Existem unidades funcionais especificamente para HQ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instant invention=Notebook Computer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014149Z" creationid="Olivier" creationdate="20200802T014149Z">
@@ -15435,6 +15459,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143257Z" creationid="RAFAEL" creationdate="20200815T143257Z">
         <seg>Vamos prosseguir com a configuração de suas instalações de produção.^^Clique com o botão direito em qualquer lugar da tela para voltar para a vista da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's set up a ~Human Resources Department~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200322Z" creationid="RAFAEL" creationdate="20200822T200322Z">
+        <seg>Vamos criar um ~Departamento de Recursos Humanos~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24792,6 +24824,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such a training program helps to ~improve the efficiency and productivity~ of your employees, thereby making your company more competitive as a whole.^^It is particularly useful when your corporation has grown to a large size with hundreds or even thousands of employees - it allows you to organize a corporate-wide training with a single interface without having to micromanage individual firms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200442Z" creationid="RAFAEL" creationdate="20200822T200442Z">
+        <seg>Esse programa de treinamento ajuda a ~melhorar a eficiência e a produtividade~ de seus funcionários, tornando sua empresa mais competitiva como um todo.^^É particularmente útil quando sua empresa cresceu e tem centenas ou mesmo milhares de funcionários - ele permite que você organize um treinamento para toda a empresa com uma única interface sem ter que microgerenciar empresas individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Such backward integration will create a more reliable supply chain and increase your profit margins.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025722Z" creationid="RAFAEL" creationdate="20200820T025722Z">
@@ -25997,6 +26037,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014242Z" creationid="RAFAEL" creationdate="20200805T014242Z">
         <seg>A Classificação de Competitividade Global do setor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Human Resources Department allows you to organize a ~corporate-wide intensive training program~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200353Z" creationid="RAFAEL" creationdate="20200822T200353Z">
+        <seg>O Departamento de Recursos Humanos permite que você organize um ~programa de treinamento intensivo em toda a empresa~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31555,6 +31603,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may also set up offices for your senior management executives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200456Z" creationid="RAFAEL" creationdate="20200822T200456Z">
+        <seg>Você também pode criar escritórios para os executivos da alta administração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may arrange a special dividend payment from #your company# or #a subsidiary# with a controlling interest of at least 75%.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023303Z" creationid="RAFAEL" creationdate="20200806T023303Z">
@@ -31623,6 +31679,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T174820Z" creationid="RAFAEL" creationdate="20200822T020534Z">
         <seg>Você pode fazer com que trabalhem de forma independente como ~nove equipes separadas~ ou unir elas em ~uma grande equipe única~ para aumentar o desempenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may hire a ~Chief Marketing Officer (CMO)~ to run advertising campaigns for your products, and a ~Chief Technical Officer (CTO)~ to oversee you research and development projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200539Z" creationid="RAFAEL" creationdate="20200822T200539Z">
+        <seg>Você pode contratar um ~Diretor de Marketing (CMO)~ para executar campanhas publicitárias para seus produtos, e um ~Diretor de Tecnologia (CTO)~ para supervisionar seus projetos de pesquisa e desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
