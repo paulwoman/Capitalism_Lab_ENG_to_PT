@@ -7270,6 +7270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on the type of the functional unit, training may increase its productivity and/or its capacity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022448Z" creationid="RAFAEL" creationdate="20200822T022448Z">
+        <seg>Dependendo do tipo de unidade funcional, o treinamento pode aumentar sua produtividade e/ou sua capacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deposit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024846Z" creationid="RAFAEL" creationdate="20200806T024846Z">
@@ -18183,6 +18191,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the ~Event Tracker~ window, you may click the ~Go~ button to access your R&amp;D center where the R&amp;D project is completed and decide if you want to continue to research better technology for the same product or direct your R&amp;D team to research on something else.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022315Z" creationid="RAFAEL" creationdate="20200822T022315Z">
+        <seg>Na janela ~Event Tracker~, você pode clicar no botão ~Ir~ para acessar seu centro de P&amp;D onde o projeto de P&amp;D foi concluído e decidir se deseja continuar a pesquisar uma tecnologia melhor para o mesmo produto ou direcionar sua equipe de P&amp;D para pesquisar sobre outro produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once the ~Event Tracker~ icon (indicated by an ~'!'~ sign) appears, you can go ahead and click it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022005Z" creationid="RAFAEL" creationdate="20200822T022005Z">
@@ -26051,8 +26067,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your production technology level for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022122Z" creationid="RAFAEL" creationdate="20200822T022122Z">
-        <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu nível de tecnologia de produção de ar condicionado para 33.^^Todas as suas fábricas que produzem ar condicionado se beneficiarão do avanço tecnológico, permitindo-lhes produzir condicionadores de ar de maior qualidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022200Z" creationid="RAFAEL" creationdate="20200822T022122Z">
+        <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu nível de tecnologia de produção de ar condicionado para 33.^^Todas as suas fábricas que produzem ar condicionado se beneficiarão do avanço tecnológico, permitindo-lhes produzir ar condicionado de maior qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31271,6 +31287,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140707Z" creationid="RAFAEL" creationdate="20200815T140707Z">
         <seg>Você decidiu deixar sua empresa familiar e agora quer se expandir por conta própria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have demonstrated your ability to manage R&amp;D projects and use them to boost your products' quality.^^Next we'll take a quick look at the managerial option of providing training to your employees, which is essential for improving the overall competitiveness of your company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022423Z" creationid="RAFAEL" creationdate="20200822T022423Z">
+        <seg>Você demonstrou sua capacidade de gerenciar projetos de P&amp;D e usá-los para aumentar a qualidade de seus produtos.^^A seguir, daremos uma olhada rápida na opção gerencial de fornecer treinamento para seus funcionários, o que é essencial para melhorar a competitividade geral de suas companhias.</seg>
       </tuv>
     </tu>
     <tu>
