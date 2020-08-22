@@ -14415,6 +14415,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is an important indicator as it tells how your company fare against the competition in technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021202Z" creationid="RAFAEL" creationdate="20200822T021202Z">
+        <seg>É um indicador importante, pois mostra como sua empresa se sai em relação à concorrência em tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is an index measuring business activity in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032455Z" creationid="RAFAEL" creationdate="20200806T032455Z">
@@ -26905,6 +26913,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The next column ~Top Tech~ indicates the top technology level for each product type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020957Z" creationid="RAFAEL" creationdate="20200822T020957Z">
+        <seg>A próxima coluna ~Top Tech~ indica o nível de tecnologia superior para cada tipo de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of immigrants to the city annually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023753Z" creationid="RAFAEL" creationdate="20200804T023753Z">
@@ -28519,6 +28535,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024321Z" creationid="RAFAEL" creationdate="20200804T024321Z">
         <seg>Este valor indica o valor aproximado dos bens produzidos por pessoa na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021347Z" creationid="RAFAEL" creationdate="20200822T021149Z">
+        <seg>Este valor será atualizado sempre que uma empresa atingir um nível de tecnologia superior ao atual nível top tech.</seg>
       </tuv>
     </tu>
     <tu>
