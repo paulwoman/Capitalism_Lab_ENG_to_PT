@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001135Z" creationid="RAFAEL" creationdate="20200822T001135Z">
+        <seg>Negócios Agrícolas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural Zoning Tool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T032136Z" creationid="RAFAEL" creationdate="20200804T032136Z">
@@ -3378,6 +3386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224803Z" creationid="RAFAEL" creationdate="20200801T224803Z">
         <seg>Comprar terrenos (Tecla de atalho: CTRL-L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By having your own agricultural production capability, you will further strengthen your company's competitiveness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001332Z" creationid="RAFAEL" creationdate="20200822T001332Z">
+        <seg>Por ter sua própria capacidade de produção agrícola, você fortalecerá ainda mais a competitividade de sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001244Z" creationid="RAFAEL" creationdate="20200822T001244Z">
+        <seg>Description=Como parte de seu esforço para transformar sua empresa em um grande conglomerado, você vai expandir seu negócio para o setor agrícola e criar suas próprias fazendas para fornecer produtos agrícolas e pecuários para suas lojas de varejo.^^Os produtos agrícolas desempenham papéis-chave na produção de um grande número de produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T020757Z" creationid="RAFAEL" creationdate="20200811T014711Z">
@@ -10122,6 +10146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014929Z" creationid="RAFAEL" creationdate="20200812T014929Z">
         <seg>Goal Description=Obtenha uma receita anual de $ 50 milhões e um lucro anual de $ 5 milhões para concluir este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=To win this game, your company must make at least 20 types of products to demonstrate its ability to produce a wide range of products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001400Z" creationid="RAFAEL" creationdate="20200822T001400Z">
+        <seg>Goal Description=Para ganhar este jogo, sua empresa deve fazer pelo menos 20 tipos de produtos para demonstrar sua capacidade de produzir uma ampla gama de produtos.</seg>
       </tuv>
     </tu>
     <tu>
