@@ -28661,8 +28661,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021347Z" creationid="RAFAEL" creationdate="20200822T021149Z">
-        <seg>Este valor será atualizado sempre que uma empresa atingir um nível de tecnologia superior ao atual nível top tech.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T182122Z" creationid="RAFAEL" creationdate="20200822T021149Z">
+        <seg>Este valor será atualizado sempre que uma empresa atingir um nível de tecnologia superior ao atual nível Tec. Top.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40333,8 +40333,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2073]&lt;1018&gt;Original Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111133Z" creationid="Olivier" creationdate="20200730T111133Z">
-        <seg>[2073]&lt;1018&gt;tec. original|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T182243Z" creationid="Olivier" creationdate="20200730T111133Z">
+        <seg>[2073]&lt;1018&gt;Tec. Original|</seg>
       </tuv>
     </tu>
     <tu>
