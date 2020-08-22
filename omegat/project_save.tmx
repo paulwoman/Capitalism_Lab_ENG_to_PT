@@ -33333,8 +33333,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0638]&lt;FAT2&gt;Medium|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T083228Z" creationid="Olivier" creationdate="20200728T083228Z">
-        <seg>[0638]&lt;FAT2&gt;Médio|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T002440Z" creationid="Olivier" creationdate="20200728T083228Z">
+        <seg>[0638]&lt;FAT2&gt;Média|</seg>
       </tuv>
     </tu>
     <tu>
