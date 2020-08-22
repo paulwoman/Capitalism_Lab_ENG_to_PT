@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Air conditioners are manufactured using ~Electronic Components~ and ~Steel~.^^Take a look at the percentage points that the ~Production Technology~ and the ~Raw Material Quality~ contribute to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015948Z" creationid="RAFAEL" creationdate="20200822T015948Z">
+        <seg>O ar condicionado são fabricados usando ~Componentes eletrônicos~ e ~Aço~.^^Dê uma olhada nos pontos percentuais que a ~Tecnologia de Produção~ e a ~Qualidade da matéria-prima~ contribuem para a ~Qualidade do Ar Condicionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Cities Or Current City filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205926Z" creationid="RAFAEL" creationdate="20200802T205926Z">
@@ -2162,6 +2170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015606Z" creationid="RAFAEL" creationdate="20200822T015606Z">
         <seg>Como você deve se lembrar, a classificação de um produto é baseada em dois fatores: a classificação da tecnologia de produção da empresa para o produto e a qualidade da matéria-prima.^^A pesquisa avança a tecnologia de produção da sua empresa e, portanto, aumenta a qualidade dos seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you see here, ~Technology~ contributes 80% to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020113Z" creationid="RAFAEL" creationdate="20200822T020113Z">
+        <seg>Como você pode ver aqui, ~Tecnologia~ contribui com 80% para a ~qualidade~ do ar condicionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17039,6 +17055,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click ~OUTPUT~ and select ~Air Conditioner~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015822Z" creationid="RAFAEL" creationdate="20200822T015822Z">
+        <seg>Agora clique em ~SAÍDA~ e selecione ~Ar condicionado~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164949Z" creationid="RAFAEL" creationdate="20200815T164949Z">
@@ -20803,6 +20827,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005247Z" creationid="RAFAEL" creationdate="20200805T005247Z">
         <seg>Pressione [Enter] a qualquer momento para abrir a lista de filtros do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the shortcut key ~F1~ to open it now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015757Z" creationid="RAFAEL" creationdate="20200822T015757Z">
+        <seg>Pressione a tecla de atalho ~F1~ para abrir agora.</seg>
       </tuv>
     </tu>
     <tu>
