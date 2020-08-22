@@ -6270,6 +6270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000755Z" creationid="RAFAEL" creationdate="20200822T000755Z">
+        <seg>Parabéns, agora você está vendendo carne bovina congelada criada em sua própria fazenda.^^Você pode configurar ~Unidades de processamento de gado~ adicionais para processar ~leite~ e ~couro~ do gado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connect these units as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143819Z" creationid="RAFAEL" creationdate="20200815T143819Z">
@@ -7930,6 +7938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023743Z" creationid="RAFAEL" creationdate="20200805T023743Z">
         <seg>Cada tipo de software depende de determinada tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000639Z" creationid="RAFAEL" creationdate="20200822T000639Z">
+        <seg>Cada ~Unidade de processamento de gado~ pode processar apenas um produto por vez.^^Agora clique em ~Selecionar produto~ e selecione ~Carne congelada~ a partir das opções disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21079,6 +21095,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Products of cattle include ~frozen beef~, ~milk~, and ~leather~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000559Z" creationid="RAFAEL" creationdate="20200822T000559Z">
+        <seg>Produtos de gado incluem ~carne congelada~, ~leite~ e ~couro~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profit Graph</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222806Z" creationid="RAFAEL" creationdate="20200802T222806Z">
@@ -31451,6 +31475,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000716Z" creationid="RAFAEL" creationdate="20200822T000716Z">
+        <seg>Seu gado agora será criado e processado como carne congelada.^^Adicione uma ~Unidade de vendas~ e vincule-a à ~Unidade de processamento de gado~ para que sua fazenda possa vender a carne congelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your company must possess the minimum tech level required for each tech in order to create the software product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023816Z" creationid="RAFAEL" creationdate="20200805T023816Z">
@@ -31503,6 +31535,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122129Z" creationid="Olivier" creationdate="20200805T122129Z">
         <seg>Your factory sells product class=Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000504Z" creationid="RAFAEL" creationdate="20200822T000504Z">
+        <seg>Sua fazenda começou a criar gado.^^À direita da ~Unidade de Criação de Gado~, construa uma ~Unidade de Processamento de Gado~.</seg>
       </tuv>
     </tu>
     <tu>
