@@ -26419,8 +26419,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T025950Z" creationid="RAFAEL" creationdate="20200820T025950Z">
-        <seg>A primeira coisa que vamos fazer é criar alguns animais.^^~Clique duas vezes no slot superior esquerdo~ e construa uma unidade de ~Unidade de Criação de Animais~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T011151Z" creationid="RAFAEL" creationdate="20200820T025950Z">
+        <seg>A primeira coisa que vamos fazer é criar alguns animais.^^~Clique duas vezes no slot superior esquerdo~ e construa uma unidade de ~Criação de Animais~.</seg>
       </tuv>
     </tu>
     <tu>
