@@ -35125,8 +35125,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0809]&lt;0029&gt;corporation's stock performance.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084758Z" creationid="Olivier" creationdate="20200728T084758Z">
-        <seg>[0809]&lt;0029&gt;Peformance das ações corporativas|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T011610Z" creationid="Olivier" creationdate="20200728T084758Z">
+        <seg>[0809]&lt;0029&gt;Desempenho das ações da corporação|</seg>
       </tuv>
     </tu>
     <tu>
