@@ -1864,8 +1864,8 @@
       <tuv lang="en-US">
         <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004919Z" creationid="RAFAEL" creationdate="20200811T004919Z">
-        <seg>Ao longo de sua borda superior, você verá o ~ícone de seleção da cidade~ (representado por uma seta para baixo), que mostra uma lista de cidades no jogo atual. ^^ Os ~ ícones de seta para a esquerda e para a direita ~ próximos ao nome da cidade permitem que você para percorrer a cidade anterior ou a próxima.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204156Z" creationid="RAFAEL" creationdate="20200811T004919Z">
+        <seg>Ao longo de sua borda superior, você verá o ~ícone de seleção da cidade~ (representado por uma seta para baixo), que mostra uma lista de cidades no jogo atual.^^Os ~ícones de seta para a esquerda e para a direita~ próximos ao nome da cidade permitem que você para percorrer a cidade anterior ou a próxima.</seg>
       </tuv>
     </tu>
     <tu>
