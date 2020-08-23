@@ -38205,8 +38205,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1403]&lt;0468&gt;Annual Salary|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180951Z" creationid="Olivier" creationdate="20200728T180951Z">
-        <seg>[1403]&lt;0468&gt;salário anual|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T013825Z" creationid="Olivier" creationdate="20200728T180951Z">
+        <seg>[1403]&lt;0468&gt;Salário anual|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44165,8 +44165,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2635]&lt;1515&gt;Annual Salary|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172246Z" creationid="Olivier" creationdate="20200730T172246Z">
-        <seg>[2635]&lt;1515&gt;salário anual|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T013816Z" creationid="Olivier" creationdate="20200730T172246Z">
+        <seg>[2635]&lt;1515&gt;Salário anual|</seg>
       </tuv>
     </tu>
     <tu>
