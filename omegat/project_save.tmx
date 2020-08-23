@@ -34925,16 +34925,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T174558Z" creationid="Olivier" creationdate="20200728T084610Z">
-        <seg>[0778]&lt;FH16&gt;total não.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T015041Z" creationid="Olivier" creationdate="20200728T084610Z">
+        <seg>[0778]&lt;FH16&gt;N° total</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0779]&lt;FH17&gt;Total no.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T174650Z" creationid="Olivier" creationdate="20200728T084717Z">
-        <seg>[0779]&lt;FH17&gt;total não.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T015100Z" creationid="Olivier" creationdate="20200728T084717Z">
+        <seg>[0779]&lt;FH17&gt;N° total</seg>
       </tuv>
     </tu>
     <tu>
