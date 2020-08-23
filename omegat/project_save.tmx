@@ -3104,8 +3104,8 @@
       <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004335Z" creationid="RAFAEL" creationdate="20200811T004335Z">
-        <seg>Ao invés de clicar no botão ~ Selecionar ~, você pode simplesmente ~duplo clique~ em um produto na lista para selecioná-lo.^^ Quando estiver pronto para prosseguir, ~Clique com o botão direito em qualquer lugar~ da tela para sair da loja e voltar para a vista da cidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204313Z" creationid="RAFAEL" creationdate="20200811T004335Z">
+        <seg>Ao invés de clicar no botão ~Selecionar~, você pode simplesmente ~duplo clique~ em um produto na lista para selecioná-lo.^^Quando estiver pronto para prosseguir, ~Clique com o botão direito em qualquer lugar~ da tela para sair da loja e voltar para a vista da cidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15513,8 +15513,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004505Z" creationid="RAFAEL" creationdate="20200811T004505Z">
-        <seg>Vamos explorar. ^^ Está vendo a barra de ferramentas na parte inferior da tela?</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204320Z" creationid="RAFAEL" creationdate="20200811T004505Z">
+        <seg>Vamos explorar.^^Está vendo a barra de ferramentas na parte inferior da tela?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17529,8 +17529,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T013212Z" creationid="RAFAEL" creationdate="20200811T010512Z">
-        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~. ^^ A interface do filtro possui cinco botões de seleção chamados ~Firma~, ~Corp.~, ~Cidades~, ~Possuo~ e ~Produto~. ^^ Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204215Z" creationid="RAFAEL" creationdate="20200811T010512Z">
+        <seg>Agora vamos dar uma olhada rápida na interface do ~Filtro de construção~.^^A interface do filtro possui cinco botões de seleção chamados ~Firma~, ~Corp.~, ~Cidades~, ~Possuo~ e ~Produto~.^^Quando qualquer um desses filtros está habilitado, apenas as empresas dentro do filtro serão mostradas no minimapa no modo ~Lucro~ ou ~Propriedade~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18353,8 +18353,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005118Z" creationid="RAFAEL" creationdate="20200811T005118Z">
-        <seg>No minimapa, as áreas brancas representam os edifícios da cidade que não são de propriedade de empresas, como casas e parques. ^^ As áreas coloridas representam edifícios de propriedade de empresas e são mostradas na cor corporativa. ^^ ~Portos marítimos~ são representados pela letra 'C' ou 'I' - ~'C' para produtos de consumo~ (como televisores ou jeans) e ~'I' para produtos industriais~ (como carvão ou aço).</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204414Z" creationid="RAFAEL" creationdate="20200811T005118Z">
+        <seg>No minimapa, as áreas brancas representam os edifícios da cidade que não são de propriedade de empresas, como casas e parques.^^As áreas coloridas representam edifícios de propriedade de empresas e são mostradas na cor corporativa.^^~Portos marítimos~ são representados pela letra 'C' ou 'I' - ~'C' para produtos de consumo~ (como televisores ou jeans) e ~'I' para produtos industriais~ (como carvão ou aço).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26851,8 +26851,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005012Z" creationid="RAFAEL" creationdate="20200811T005012Z">
-        <seg>O primeiro ícone, aquele que se parece com um edifício, alterna o modo ~ Propriedade ~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204358Z" creationid="RAFAEL" creationdate="20200811T005012Z">
+        <seg>O primeiro ícone, aquele que se parece com um edifício, alterna o modo ~Propriedade~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31205,8 +31205,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011150Z" creationid="RAFAEL" creationdate="20200811T011150Z">
-        <seg>Enquanto explorávamos as interfaces, sua loja de departamentos já estava gerando receita. ^^ Dê uma olhada na barra de ferramentas ~ Caixa e Lucro ~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204453Z" creationid="RAFAEL" creationdate="20200811T011150Z">
+        <seg>Enquanto explorávamos as interfaces, sua loja de departamentos já estava gerando receita.^^Dê uma olhada na barra de ferramentas ~Caixa e Lucro~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31453,8 +31453,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T004711Z" creationid="RAFAEL" creationdate="20200811T004711Z">
-        <seg>Você pode ver a data do jogo atual aqui. ^^ Observe que o jogo é executado em tempo real. Você pode alterar a velocidade do jogo usando as teclas de atalho ~ '1' (mais lento) para '5' (mais rápido) ~. ^^ Você pode também pausar o jogo pressionando a ~tecla '0' ~.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204343Z" creationid="RAFAEL" creationdate="20200811T004711Z">
+        <seg>Você pode ver a data do jogo atual aqui.^^Observe que o jogo é executado em tempo real. Você pode alterar a velocidade do jogo usando as teclas de atalho ~'1' (mais lento) para '5' (mais rápido)~.^^Você pode também pausar o jogo pressionando a ~tecla '0'~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32365,8 +32365,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224241Z" creationid="RAFAEL" creationdate="20200810T224241Z">
-        <seg>Sua loja compra automaticamente o produto que você selecionou no porto e o disponibiliza para venda aos seus clientes. ^^ Observe à esquerda da imagem do produto.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204253Z" creationid="RAFAEL" creationdate="20200810T224241Z">
+        <seg>Sua loja compra automaticamente o produto que você selecionou no porto e o disponibiliza para venda aos seus clientes.^^Observe à esquerda da imagem do produto.</seg>
       </tuv>
     </tu>
     <tu>
