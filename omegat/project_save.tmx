@@ -29645,8 +29645,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011537Z" creationid="RAFAEL" creationdate="20200811T011537Z">
-        <seg>Tente encontrar um local próximo a edifícios residenciais para se beneficiar do alto tráfego de clientes. ^^ Se o local estiver sombreado em ~amarelo~, significa que é um local válido para construir sua loja de departamentos. ^^ Quando você tiver escolhido um local, clique com o botão esquerdo e a loja de departamentos será construída.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204516Z" creationid="RAFAEL" creationdate="20200811T011537Z">
+        <seg>Tente encontrar um local próximo a edifícios residenciais para se beneficiar do alto tráfego de clientes.^^Se o local estiver sombreado em ~amarelo~, significa que é um local válido para construir sua loja de departamentos.^^Quando você tiver escolhido um local, clique com o botão esquerdo e a loja de departamentos será construída.</seg>
       </tuv>
     </tu>
     <tu>
