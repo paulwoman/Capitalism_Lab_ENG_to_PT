@@ -3248,8 +3248,8 @@
       <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083730Z" creationid="Olivier" creationdate="20200814T083730Z">
-        <seg>Build Firm=Department Store, My Department Store</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203400Z" creationid="Olivier" creationdate="20200814T083730Z">
+        <seg>Build Firm=Department Store, Loja de Departamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4384,8 +4384,8 @@
       <tuv lang="en-US">
         <seg>Center on firm=My Department Store</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083732Z" creationid="Olivier" creationdate="20200814T083732Z">
-        <seg>Center on firm=My Department Store</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203431Z" creationid="Olivier" creationdate="20200814T083732Z">
+        <seg>Center on firm=Loja de Departamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6928,8 +6928,8 @@
       <tuv lang="en-US">
         <seg>Current Firm=My Department Store</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121355Z" creationid="Olivier" creationdate="20200805T121355Z">
-        <seg>Current Firm=My Department Store</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203524Z" creationid="Olivier" creationdate="20200805T121355Z">
+        <seg>Current Firm=Loja de Departamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -20073,8 +20073,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Point at Firm=My Department Store</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083735Z" creationid="Olivier" creationdate="20200814T083735Z">
-        <seg>Point at Firm=My Department Store</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203510Z" creationid="Olivier" creationdate="20200814T083735Z">
+        <seg>Point at Firm=Loja de departamento</seg>
       </tuv>
     </tu>
     <tu>
