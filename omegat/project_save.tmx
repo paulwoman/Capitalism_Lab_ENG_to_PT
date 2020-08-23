@@ -34901,8 +34901,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0775]&lt;FH13&gt;New Dividend Payout Ratio:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084529Z" creationid="Olivier" creationdate="20200728T084529Z">
-        <seg>[0775]&lt;FH13&gt;Nova razão de pagamentos de dividendo:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T205649Z" creationid="Olivier" creationdate="20200728T084529Z">
+        <seg>[0775]&lt;FH13&gt;Nova Taxa de pagamento de dividendo:|</seg>
       </tuv>
     </tu>
     <tu>
