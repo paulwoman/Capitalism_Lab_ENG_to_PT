@@ -38885,8 +38885,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1605]&lt;0630&gt;Lifetime |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T185759Z" creationid="Olivier" creationdate="20200729T185759Z">
-        <seg>[1605]&lt;0630&gt;Tempo de vida |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200824T014411Z" creationid="Olivier" creationdate="20200729T185759Z">
+        <seg>[1605]&lt;0630&gt;Desde Inicio |</seg>
       </tuv>
     </tu>
     <tu>
