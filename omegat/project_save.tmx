@@ -16407,6 +16407,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturer Guide=Bed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200824T211751Z" creationid="Olivier" creationdate="20200824T211751Z">
+        <seg>Manufacturer Guide=Bed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturer Guide=Chair</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121853Z" creationid="Olivier" creationdate="20200805T121853Z">
