@@ -40317,8 +40317,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1994]&lt;0939&gt;Quality|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T201150Z" creationid="Olivier" creationdate="20200730T104021Z">
-        <seg>[1994]&lt;0939&gt;Qualidade.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200824T103326Z" creationid="Olivier" creationdate="20200730T104021Z">
+        <seg>[1994]&lt;0939&gt;Qualidade|</seg>
       </tuv>
     </tu>
     <tu>
@@ -40349,8 +40349,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2005]&lt;0950&gt;Clear Stock|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T201241Z" creationid="Olivier" creationdate="20200730T104106Z">
-        <seg>[2005]&lt;0950&gt;Limpar estoque.|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200824T103319Z" creationid="Olivier" creationdate="20200730T104106Z">
+        <seg>[2005]&lt;0950&gt;Limpar estoque|</seg>
       </tuv>
     </tu>
     <tu>
@@ -40459,6 +40459,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2037]&lt;0982&gt;Link|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200824T103452Z" creationid="Olivier" creationdate="20200824T103452Z">
+        <seg>[2037]&lt;0982&gt;Link|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2038]&lt;0983&gt;Supplier|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105550Z" creationid="Olivier" creationdate="20200730T105550Z">
@@ -40485,8 +40493,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2042]&lt;0987&gt;Cost+Freight|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T105631Z" creationid="Olivier" creationdate="20200730T105631Z">
-        <seg>[2042]&lt;0987&gt;custo+frete|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200824T103504Z" creationid="Olivier" creationdate="20200730T105631Z">
+        <seg>[2042]&lt;0987&gt;Custo+frete|</seg>
       </tuv>
     </tu>
     <tu>
