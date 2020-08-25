@@ -28659,6 +28659,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option can only be used in conjuction with #City Economic Simulation DLC#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T023421Z" creationid="RAFAEL" creationdate="20200825T023421Z">
+        <seg>Esta opção só pode ser usada em conjunto com #City Economic Simulation DLC#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010752Z" creationid="RAFAEL" creationdate="20200808T010752Z">
@@ -30879,6 +30887,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T194931Z" creationid="RAFAEL" creationdate="20200815T171152Z">
         <seg>Quando se trata de escolher uma mídia para anunciar, você deve considerar os ~Pontos de Audiência~ e o ~Custo de publicidade~ de cada mídia.^^Quanto mais altos os ~pontos de Audiência~, maior será a ~participação do público~.^^O ~custo de publicidade~ é simplesmente o custo para seu anúncio ser ~visto mil vezes~ por clientes em potencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it is enabled, money supply is more realistically simulated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T023437Z" creationid="RAFAEL" creationdate="20200825T023437Z">
+        <seg>Quando é habilitado, o fornecimento de dinheiro é simulado de forma mais realista.</seg>
       </tuv>
     </tu>
     <tu>
