@@ -9392,8 +9392,8 @@
       <tuv lang="en-US">
         <seg>For gameplay balance, when #Realistic Money Supply# is enabled, the game will automatically assign a minimum of #5 Venture Capitalists# to the game.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022403Z" creationid="RAFAEL" creationdate="20200825T022403Z">
-        <seg>Para equilíbrio do jogo, quando #Realistic Money Supply # está ativado, o jogo atribuirá automaticamente um mínimo de #5 Venture Capital# ao jogo.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022522Z" creationid="RAFAEL" creationdate="20200825T022403Z">
+        <seg>Para equilíbrio do jogo, quando #Fornecimento de dinheiro realista# está ativado, o jogo atribuirá automaticamente um mínimo de #5 Venture Capital# ao jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11171,6 +11171,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003052Z" creationid="RAFAEL" creationdate="20200808T003052Z">
         <seg>Página de instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if #Survival Mode# is enabled, then #Venture Capitalists# can be set to any number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022652Z" creationid="RAFAEL" creationdate="20200825T022652Z">
+        <seg>No entanto, se #Modo de Sobrevivência# estiver habilitado, #Venture Capital# pode ser definido para qualquer número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30391,6 +30399,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013412Z" creationid="RAFAEL" creationdate="20200805T013412Z">
         <seg>Usando a pasta MOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VC Capital Size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022736Z" creationid="RAFAEL" creationdate="20200825T022736Z">
+        <seg>VC tamanho do capital</seg>
       </tuv>
     </tu>
     <tu>
