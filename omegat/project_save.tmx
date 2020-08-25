@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Venture Capitalists# only invest in companies in #pre-IPO rounds#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022218Z" creationid="RAFAEL" creationdate="20200825T022218Z">
+        <seg>#Os Venture Capital# investem apenas em empresas nas #rodadas pré-IPO#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Venture Capitalists# with #billions of net worth# will join the game when this feature is enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022120Z" creationid="RAFAEL" creationdate="20200825T022120Z">
+        <seg>#Venture Capital# com #bilhões de patrimônio líquido# entrarão no jogo quando este recurso for ativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T235645Z" creationid="RAFAEL" creationdate="20200807T235544Z">
@@ -30399,6 +30415,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T005214Z" creationid="Olivier" creationdate="20200802T005214Z">
         <seg>VM_003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Venture Capitalists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T021948Z" creationid="RAFAEL" creationdate="20200825T021948Z">
+        <seg>Venture capital</seg>
       </tuv>
     </tu>
     <tu>
