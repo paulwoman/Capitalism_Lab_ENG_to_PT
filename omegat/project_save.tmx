@@ -14423,6 +14423,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment Diversification</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022830Z" creationid="RAFAEL" creationdate="20200825T022830Z">
+        <seg>Diversificação de Investimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment Profit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025423Z" creationid="RAFAEL" creationdate="20200806T025423Z">
@@ -26441,6 +26449,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average capital size of a venture capitalist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022814Z" creationid="RAFAEL" creationdate="20200825T022814Z">
+        <seg>O tamanho médio do capital de um Venture Capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average customer waiting time of all the bank's branches.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013927Z" creationid="RAFAEL" creationdate="20200806T013927Z">
@@ -28259,6 +28275,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines how #diversified# a venture capitalist's investment portfolio will be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022858Z" creationid="RAFAEL" creationdate="20200825T022858Z">
+        <seg>Isso determina o quão #diversificado# será a carteira de investimentos de um Venture Capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines how aggressive AI companies are in pursuing business expansions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001416Z" creationid="RAFAEL" creationdate="20200808T001416Z">
@@ -29727,6 +29751,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015555Z" creationid="Olivier" creationdate="20200802T015555Z">
         <seg>Tutorial=TUT04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typically a single investment, as a percentage of the VC's total #net worth#, will not exceed the percent specified here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T023347Z" creationid="RAFAEL" creationdate="20200825T023347Z">
+        <seg>Normalmente, um único investimento, como uma porcentagem do número total do VC #patrimônio líquido#,não excederá a porcentagem especificada aqui.</seg>
       </tuv>
     </tu>
     <tu>
