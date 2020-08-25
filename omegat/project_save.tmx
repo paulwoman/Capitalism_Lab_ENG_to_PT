@@ -2294,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T234323Z" creationid="RAFAEL" creationdate="20200825T234323Z">
+        <seg>Neste estágio, você não precisa se preocupar com os detalhes fornecidos com cada produto.^^(Informações como custos de frete, classificações, marca serão explicadas em um tutorial posterior.)^^Por enquanto, vamos comprar apenas o primeiro produto na lista para fazer as coisas andarem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224003Z" creationid="RAFAEL" creationdate="20200810T224003Z">
@@ -28983,6 +28991,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005924Z" creationid="User" creationdate="20200802T005924Z">
         <seg>Isso pulará o tutorial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T234233Z" creationid="RAFAEL" creationdate="20200825T234233Z">
+        <seg>Esta janela mostra todos os produtos disponíveis nos portos marítimos locais.</seg>
       </tuv>
     </tu>
     <tu>
