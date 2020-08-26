@@ -26449,6 +26449,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Number of Venture Capitalists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020429Z" creationid="RAFAEL" creationdate="20200826T020429Z">
+        <seg>Número de Venture Capital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Overall rating is determined by the #Price# and the #Quality# rating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000734Z" creationid="RAFAEL" creationdate="20200807T000734Z">
@@ -29107,6 +29115,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This sets the average capital size of a venture capitalist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020453Z" creationid="RAFAEL" creationdate="20200826T020453Z">
+        <seg>Isso define o tamanho médio do capital de um Venture Capital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This setting determines whether banks can be set up in the game or not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012659Z" creationid="RAFAEL" creationdate="20200808T012659Z">
@@ -31679,6 +31695,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121406Z" creationid="Olivier" creationdate="20200805T121406Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020402Z" creationid="RAFAEL" creationdate="20200826T020402Z">
+        <seg>Com um #padrão de avaliação de crédito livre#, todas as empresas receberão #melhores classificações de crédito# e se beneficiarão de #menores despesas com juros de títulos#.</seg>
       </tuv>
     </tu>
     <tu>
