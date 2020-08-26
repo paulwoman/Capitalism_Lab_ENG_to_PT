@@ -4478,6 +4478,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Capitalism Lab improves upon the award-winning Capitalism II with a host of new features and improvements, including new products, realistic simulation of inflation (the first of its kind), greatly enhanced macroeconomic simulation, the ability to build community, sport facilities, and media firms, as well as improved screen resolutions, interfaces, smarter AI, and many other improvements!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213948Z" creationid="RAFAEL" creationdate="20200826T213948Z">
+        <seg>Capitalism Lab aprimora o premiado Capitalism II com uma série de novos recursos e melhorias, incluindo novos produtos, simulação realista de inflação (a primeira de seu tipo), simulação macroeconômica bastante aprimorada, a capacidade de construir comunidades, instalações esportivas e empresas de mídia, bem como melhores resoluções de tela, interfaces, inteligência artificial mais inteligente e muitas outras melhorias!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214033Z" creationid="RAFAEL" creationdate="20200826T214033Z">
+        <seg>Capitalism Lab é uma expansão do Capitalism 2 com uma série de novos recursos e melhorias, para usuários experientes do Capitalism 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Center on firm=My Department Store</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203431Z" creationid="Olivier" creationdate="20200814T083732Z">
@@ -7510,6 +7526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Capitalism Lab is the latest version in the Capitalism business simulation game series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213830Z" creationid="RAFAEL" creationdate="20200826T213830Z">
+        <seg>Description=Capitalism Lab é a versão mais recente da série de jogos de simulação de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T020757Z" creationid="RAFAEL" creationdate="20200811T014711Z">
@@ -10510,6 +10534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your main goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214021Z" creationid="RAFAEL" creationdate="20200826T214021Z">
+        <seg>Goal Description=Este é o seu objetivo principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015403Z" creationid="RAFAEL" creationdate="20200822T015403Z">
@@ -10562,6 +10594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225327Z" creationid="RAFAEL" creationdate="20200801T225327Z">
         <seg>Relatório de objetivos (Tecla de atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Main Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
+        <seg>Goal Title=Objetivo principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -14915,6 +14955,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023906Z" creationid="RAFAEL" creationdate="20200818T023906Z">
         <seg>Isso levou a um aumento no ~número total de ações em circulação~ e a uma diminuição no ~Lucro por ação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lets you build the business empire of your dream.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213846Z" creationid="RAFAEL" creationdate="20200826T213846Z">
+        <seg>Ele permite que você construa o império de negócios dos seus sonhos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32055,6 +32103,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021745Z" creationid="RAFAEL" creationdate="20200822T021745Z">
         <seg>Você agora está no negócio de venda de aparelhos de ar condicionado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You become a corporate CEO and face real-world challenges as you build a sprawling business empire covering retailing, manufacturing, agricultural business, mining, real estate, media and stock trading!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213918Z" creationid="RAFAEL" creationdate="20200826T213918Z">
+        <seg>Você se torna um CEO corporativo e enfrenta desafios do mundo real enquanto constrói um império de negócios que abrange varejo, manufatura, negócios agrícolas, mineração, imóveis, mídia e Bolsa de valores!</seg>
       </tuv>
     </tu>
     <tu>
