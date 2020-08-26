@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015336Z" creationid="RAFAEL" creationdate="20200826T015331Z">
+        <seg>#Duplo clique# aqui para ver dicas para #melhorar a velocidade de execução do jogo#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222405Z" creationid="RAFAEL" creationdate="20200802T222405Z">
@@ -5278,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the #Goal report#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015449Z" creationid="RAFAEL" creationdate="20200826T015449Z">
+        <seg>Clique aqui para abrir o relatório #Objetivo#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporate Logo selection window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014811Z" creationid="RAFAEL" creationdate="20200808T014811Z">
@@ -5529,6 +5545,14 @@
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
+        <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the speed dial to change the game speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015300Z" creationid="RAFAEL" creationdate="20200826T015300Z">
         <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
       </tuv>
     </tu>
@@ -10102,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015240Z" creationid="RAFAEL" creationdate="20200826T015240Z">
+        <seg>Velocidade do jogo (Atalho: '0' para pausar, '1' a '5' para definir a velocidade)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Speed (hotkey: '1' to '5')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140304Z" creationid="RAFAEL" creationdate="20200802T140304Z">
@@ -11067,6 +11099,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022747Z" creationid="RAFAEL" creationdate="20200805T022747Z">
         <seg>Atalho: Ctrl-I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-M</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015346Z" creationid="RAFAEL" creationdate="20200826T015346Z">
+        <seg>Atalho: Ctrl-M</seg>
       </tuv>
     </tu>
     <tu>
