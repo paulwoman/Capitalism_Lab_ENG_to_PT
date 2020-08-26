@@ -10486,6 +10486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214224Z" creationid="RAFAEL" creationdate="20200826T214224Z">
+        <seg>Goal Achieved Text=Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004624Z" creationid="RAFAEL" creationdate="20200805T004624Z">
@@ -10530,6 +10538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014929Z" creationid="RAFAEL" creationdate="20200812T014929Z">
         <seg>Goal Description=Obtenha uma receita anual de $ 50 milhões e um lucro anual de $ 5 milhões para concluir este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=This is your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214257Z" creationid="RAFAEL" creationdate="20200826T214213Z">
+        <seg>Goal Description=Este é o seu primeiro Objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214319Z" creationid="RAFAEL" creationdate="20200826T214319Z">
+        <seg>Goal Failed Text=Desculpe, você falhou em seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
@@ -10594,6 +10618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225327Z" creationid="RAFAEL" creationdate="20200801T225327Z">
         <seg>Relatório de objetivos (Tecla de atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=First Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
+        <seg>Goal Title=Primeiro Objetivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13587,6 +13619,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012358Z" creationid="RAFAEL" creationdate="20200808T012358Z">
         <seg>Se você é um jogador experiente em busca de um desafio maior, você pode definir uma porcentagem do #capital inicial# de sua corporação para ser #financiado por uma emissão de títulos#, exigindo que você pague os juros dos títulos e pague o principal dos títulos no vencimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214047Z" creationid="RAFAEL" creationdate="20200826T214047Z">
+        <seg>Se você é novo na série Capitalismo, é recomendado que você coloque as mãos no Capitalismo 2 primeiro, que contém tutoriais bem elaborados para aprender o jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19067,6 +19107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200204Z" creationid="RAFAEL" creationdate="20200822T200204Z">
         <seg>Caso contrário, você pode simplesmente escolher um local menos caro e economizar dinheiro para futuras expansões de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our development team will implement experimental gameplay into it and communicate with the gaming community to get their feedback about the new features and improvements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214139Z" creationid="RAFAEL" creationdate="20200826T214139Z">
+        <seg>Nossa equipe de desenvolvimento implementará jogabilidade experimental nele e se comunicará com a comunidade de jogos para obter feedback sobre os novos recursos e melhorias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28347,6 +28395,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The word "Lab" implies that Capitalism Lab, after its initial release, will continue to evolve.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214123Z" creationid="RAFAEL" creationdate="20200826T214123Z">
+        <seg>A palavra "Lab" implica que Capitalism Lab, após seu lançamento inicial, continuará a evoluir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The workers are idle.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035227Z" creationid="RAFAEL" creationdate="20200806T035227Z">
@@ -31915,6 +31971,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why is it called Capitalism Lab?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214106Z" creationid="RAFAEL" creationdate="20200826T214106Z">
+        <seg>Por que é chamado Capitalism Lab?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
@@ -32275,6 +32339,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have achieved your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
+        <seg>Você alcançou seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have already added the selected custom product design into your library.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013936Z" creationid="RAFAEL" creationdate="20200805T013936Z">
@@ -32535,6 +32607,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033155Z" creationid="RAFAEL" creationdate="20200806T033155Z">
         <seg>Você pode mudar o modo de transferência - se é para transferir fundos da companhia de seguros para sua matriz, ou o contrário, clicando no ícone da seta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may check out Capitalism 2 web site at www.capitalism2.com.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214055Z" creationid="RAFAEL" creationdate="20200826T214055Z">
+        <seg>Você pode verificar o site do Capitalism 2 em www.capitalism2.com.</seg>
       </tuv>
     </tu>
     <tu>
