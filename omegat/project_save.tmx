@@ -49555,6 +49555,70 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3289]&lt;SWS2&gt;Suppliers at your Purchasing Units have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011003Z" creationid="RAFAEL" creationdate="20200826T011003Z">
+        <seg>[3289]&lt;SWS2&gt;Os fornecedores em suas unidades de compra foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3290]&lt;SWS3&gt;Firms updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011019Z" creationid="RAFAEL" creationdate="20200826T011019Z">
+        <seg>[3290]&lt;SWS3&gt;Firmas atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3291]&lt;SWS4&gt;Purchasing Units updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011041Z" creationid="RAFAEL" creationdate="20200826T011028Z">
+        <seg>[3291]&lt;SWS4&gt;Unid. de compra atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011108Z" creationid="RAFAEL" creationdate="20200826T011108Z">
+        <seg>[3292]&lt;SWS5&gt;Desculpe, as empresas que você escolheu nesta lista não estão comprando dos mesmos fornecedores.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3293]&lt;BCH1&gt;Advertising budgets have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011122Z" creationid="RAFAEL" creationdate="20200826T011122Z">
+        <seg>[3293]&lt;BCH1&gt;Os orçamentos de publicidade foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011142Z" creationid="RAFAEL" creationdate="20200826T011142Z">
+        <seg>[3294]&lt;BCH2&gt;Os níveis de treinamento foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3295]&lt;BCH3&gt;Units updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011206Z" creationid="RAFAEL" creationdate="20200826T011206Z">
+        <seg>[3295]&lt;BCH3&gt;Unid. atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3296]&lt;BCH4&gt;Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011246Z" creationid="RAFAEL" creationdate="20200826T011246Z">
+        <seg>[3296]&lt;BCH4&gt;Desculpe, as empresas que você escolheu nesta lista não têm unidades de publicidade.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
