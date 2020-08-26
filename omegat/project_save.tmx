@@ -49003,6 +49003,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3228]&lt;NPCA&gt;Not enough personal cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003353Z" creationid="RAFAEL" creationdate="20200826T003353Z">
+        <seg>[3228]&lt;NPCA&gt;Dinheiro pessoal insuficiente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003405Z" creationid="RAFAEL" creationdate="20200826T003405Z">
+        <seg>[3229]&lt;NPCM&gt;Você não tem dinheiro PESSOAL suficiente para construir sua mansão.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3230]&lt;NCIP&gt;Sorry, you cannot found a new city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003421Z" creationid="RAFAEL" creationdate="20200826T003421Z">
+        <seg>[3230]&lt;NCIP&gt;Desculpe, você não pode encontrar uma nova cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
