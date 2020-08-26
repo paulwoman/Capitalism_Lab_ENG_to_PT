@@ -49371,6 +49371,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3269]&lt;SAD2&gt;Set a new advertising budget for all its advertising units:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004956Z" creationid="RAFAEL" creationdate="20200826T004956Z">
+        <seg>[3269]&lt;SAD2&gt;Defina um novo orçamento de publicidade para todas as suas unidades de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3270]&lt;SAD3&gt;New advertising budget:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005007Z" creationid="RAFAEL" creationdate="20200826T005007Z">
+        <seg>[3270]&lt;SAD3&gt;Novo orçamento de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3271]&lt;SAD4&gt;Sorry, you currently do not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005016Z" creationid="RAFAEL" creationdate="20200826T005016Z">
+        <seg>[3271]&lt;SAD4&gt;Desculpe, no momento você não possui unidades de publicidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3272]&lt;SAD5&gt;Sorry, this corporation currently does not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005031Z" creationid="RAFAEL" creationdate="20200826T005031Z">
+        <seg>[3272]&lt;SAD5&gt;Desculpe, esta empresa atualmente não possui unidades de publicidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3273]&lt;SAD6&gt;The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005600Z" creationid="RAFAEL" creationdate="20200826T005600Z">
+        <seg>[3273]&lt;SAD6&gt;O novo orçamento de publicidade foi aplicado a todas as suas unidades de publicidade.\n(Total:% 1d unid. de publicidade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
