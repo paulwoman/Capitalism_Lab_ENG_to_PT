@@ -6462,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm the price change (hotkey: ']')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015517Z" creationid="RAFAEL" creationdate="20200826T015517Z">
+        <seg>Confirme a mudança de preço (Atalho: ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Congratulations!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011550Z" creationid="RAFAEL" creationdate="20200811T011550Z">
@@ -16607,6 +16615,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Market Share Chart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015705Z" creationid="RAFAEL" creationdate="20200826T015705Z">
+        <seg>Gráfico Market Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Market Share Window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024555Z" creationid="RAFAEL" creationdate="20200806T024555Z">
@@ -23951,6 +23967,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a New Price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015631Z" creationid="RAFAEL" creationdate="20200826T015631Z">
+        <seg>Defina um novo preço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011913Z" creationid="RAFAEL" creationdate="20200806T011913Z">
@@ -27718,6 +27742,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002900Z" creationid="RAFAEL" creationdate="20200805T002900Z">
         <seg>O orçamento de treinamento de pessoal para este edifício cívico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff's #skill level# affects the #quality of service# of this bank branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015618Z" creationid="RAFAEL" creationdate="20200826T015618Z">
+        <seg>O #nível de habilidade# da equipe afeta a #qualidade de serviço# desta agência bancária.</seg>
       </tuv>
     </tu>
     <tu>
