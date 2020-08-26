@@ -32027,6 +32027,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may interfere with its operation when you own 75% or more of its shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005844Z" creationid="RAFAEL" creationdate="20200826T005844Z">
+        <seg>Você pode interferir em sua operação quando possuir 75% ou mais de suas ações.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014529Z" creationid="RAFAEL" creationdate="20200812T014529Z">
@@ -32427,6 +32435,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005736Z" creationid="RAFAEL" creationdate="20200826T005736Z">
+        <seg>Sua empresa abriu o capital com sucesso e arrecadou %1s!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your company must possess the minimum tech level required for each tech in order to create the software product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023816Z" creationid="RAFAEL" creationdate="20200805T023816Z">
@@ -32591,6 +32607,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003659Z" creationid="RAFAEL" creationdate="20200808T003659Z">
         <seg>Suas subsidiárias (Subsidiária DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiary company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005759Z" creationid="RAFAEL" creationdate="20200826T005759Z">
+        <seg>Sua subsidiária abriu o capital com sucesso e arrecadou %1s!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49407,6 +49431,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005600Z" creationid="RAFAEL" creationdate="20200826T005600Z">
         <seg>[3273]&lt;SAD6&gt;O novo orçamento de publicidade foi aplicado a todas as suas unidades de publicidade.\n(Total:% 1d unid. de publicidade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3274]&lt;SAD7&gt;The new advertising budget has been applied to all its advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005627Z" creationid="RAFAEL" creationdate="20200826T005627Z">
+        <seg>[3274]&lt;SAD7&gt;O novo orçamento de publicidade foi aplicado a todas as unidades de publicidade.\n(Total:% 1d unid. de publicidade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3275]&lt;MAYO&gt;Mayor of %1s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005705Z" creationid="RAFAEL" creationdate="20200826T005705Z">
+        <seg>[3275]&lt;MAYO&gt;Prefeito de %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3276]&lt;IPO1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005714Z" creationid="RAFAEL" creationdate="20200826T005714Z">
+        <seg>[3276]&lt;IPO1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3277]&lt;IPO2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005743Z" creationid="RAFAEL" creationdate="20200826T005743Z">
+        <seg>[3277]&lt;IPO2&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3278]&lt;SUBC&gt;This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005811Z" creationid="RAFAEL" creationdate="20200826T005811Z">
+        <seg>[3278]&lt;SUBC&gt;Esta empresa é subsidiária de sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3279]&lt;OEXP&gt;Operating Expenses|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005918Z" creationid="RAFAEL" creationdate="20200826T005918Z">
+        <seg>[3279]&lt;OEXP&gt;Despesa operacionais|</seg>
       </tuv>
     </tu>
     <tu>
