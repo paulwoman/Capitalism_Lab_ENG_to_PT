@@ -49483,6 +49483,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3280]&lt;NAT1&gt;Your Nation's Ranking:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005950Z" creationid="RAFAEL" creationdate="20200826T005950Z">
+        <seg>[3280]&lt;NAT1&gt;Ranking da sua Nação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3281]&lt;CDAD&gt;Double-click on an advertising record to go to the relevant firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010025Z" creationid="RAFAEL" creationdate="20200826T010025Z">
+        <seg>[3281]&lt;CDAD&gt;Duplo clique em um registro de publicidade para ir para a empresa relevante.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3282]&lt;CDPD&gt;Double-click on a product record to open the Product Detail Report.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010203Z" creationid="RAFAEL" creationdate="20200826T010203Z">
+        <seg>[3282]&lt;CDPD&gt;Duplo clique em um registro de produto para abrir o Relatório de detalhes do produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
