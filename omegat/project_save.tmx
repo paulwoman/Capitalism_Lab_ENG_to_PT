@@ -48963,6 +48963,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3223]&lt;JPE2&gt;To start a new project, you must first hire a project manager.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002937Z" creationid="RAFAEL" creationdate="20200826T002937Z">
+        <seg>[3223]&lt;JPE2&gt;Para iniciar um novo projeto, você deve primeiro contratar um gerente de projeto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3224]&lt;JPE3&gt;To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003001Z" creationid="RAFAEL" creationdate="20200826T003001Z">
+        <seg>[3224]&lt;JPE3&gt;Para iniciar um novo projeto, você deve primeiro vincular a unid. de gerenciamento do projeto atual a uma unid. de programação do projeto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3225]&lt;HNT1&gt;Before hiring the new|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003028Z" creationid="RAFAEL" creationdate="20200826T003028Z">
+        <seg>[3225]&lt;HNT1&gt;Antes de contratar o novo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3226]&lt;HNT2&gt;you must terminate the employment of the current one.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003048Z" creationid="RAFAEL" creationdate="20200826T003048Z">
+        <seg>[3226]&lt;HNT2&gt;você deve encerrar o emprego do atual.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3227]&lt;PCOD&gt;A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003339Z" creationid="RAFAEL" creationdate="20200826T003339Z">
+        <seg>[3227]&lt;PCOD&gt;Uma Unid. de Programação de Projeto utiliza tecnologias desenvolvidas por Unid. de Programação Tecnológica para implementar um produto de software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
