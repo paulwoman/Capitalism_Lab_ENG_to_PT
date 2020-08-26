@@ -49651,6 +49651,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3301]&lt;SCE1&gt;Warning: there is an error in your script file.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011610Z" creationid="RAFAEL" creationdate="20200826T011610Z">
+        <seg>[3301]&lt;SCE1&gt;Aviso: há um erro no seu arquivo de script.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3302]&lt;SCE2&gt;Warning: there are errors in your script file.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011619Z" creationid="RAFAEL" creationdate="20200826T011619Z">
+        <seg>[3302]&lt;SCE2&gt;Aviso: existem erros no seu arquivo de script.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3303]&lt;SCE3&gt;For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011652Z" creationid="RAFAEL" creationdate="20200826T011652Z">
+        <seg>[3303]&lt;SCE3&gt;Para obter detalhes, consulte o log de erros na subpasta %1s na pasta do jogo do Capitalism Lab.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3304]&lt;RSP1&gt;All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011738Z" creationid="RAFAEL" creationdate="20200826T011738Z">
+        <seg>[3304]&lt;RSP1&gt;Todas ações negociadas em bolsa devem manter um preço mínimo de pelo menos $ 1,00 por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3305]&lt;RSP2&gt;Your company's stock currently trades at %1s and therefore a reverse stock split is required.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011849Z" creationid="RAFAEL" creationdate="20200826T011849Z">
+        <seg>[3305]&lt;RSP2&gt;As ações da sua empresa são atualmente negociadas a %1s e, portanto, é necessário um agrupamento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
