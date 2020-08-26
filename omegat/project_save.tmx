@@ -49531,6 +49531,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3286]&lt;MSP2&gt;RED - it means that the CEO should NOT produce any products in the product class.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010824Z" creationid="RAFAEL" creationdate="20200826T010824Z">
+        <seg>[3286]&lt;MSP2&gt;VERMELHO - significa que o CEO NÃO deve produzir nenhum produto da classe de produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
