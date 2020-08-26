@@ -49507,6 +49507,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3283]&lt;CDR1&gt;indicates Radical R&amp;D projects|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010230Z" creationid="RAFAEL" creationdate="20200826T010230Z">
+        <seg>[3283]&lt;CDR1&gt;indica projetos radicais de P&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3284]&lt;CDR2&gt;Products that are currently in production are shown with orange bars.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010245Z" creationid="RAFAEL" creationdate="20200826T010245Z">
+        <seg>[3284]&lt;CDR2&gt;Os produtos que estão atualmente em produção são mostrados com barras laranja.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3285]&lt;MSP1&gt;Double-click on a product class on the list to change its ink color, which can be:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010307Z" creationid="RAFAEL" creationdate="20200826T010307Z">
+        <seg>[3285]&lt;MSP1&gt;Duplo clique em uma classe de produto na lista para alterar a cor da tinta, que pode ser:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
