@@ -26913,6 +26913,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your ~production technology level~ for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215135Z" creationid="RAFAEL" creationdate="20200826T215135Z">
+        <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu ~nível de tecnologia de produção~ de condicionadores de ar para 33.^^Todas as suas fábricas que produzem condicionadores de ar se beneficiarão do avanço tecnológico, permitindo-lhes produzir condicionadores de ar de alta qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advantage is that a product's brand will not be weighted down by quality issues from other product lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000208Z" creationid="RAFAEL" creationdate="20200807T000208Z">
@@ -28643,6 +28651,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in ~red overalls~.^^During training, those who have been trained already will be shown wearing ~blue overalls~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215157Z" creationid="RAFAEL" creationdate="20200826T215157Z">
+        <seg>Há 12 membros da equipe em cada unidade de P&amp;D, representados por 12 figuras em ~macacão vermelho~.^^Durante o treinamento, aqueles que já foram treinados serão mostrados usando ~macacão azul~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are local competitors in each city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011934Z" creationid="RAFAEL" creationdate="20200806T011934Z">
@@ -29679,6 +29695,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Dilemma of a Camera Manufacturer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
+        <seg>Title=Dilema de um fabricante de câmeras</seg>
       </tuv>
     </tu>
     <tu>
@@ -31783,6 +31807,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022845Z" creationid="RAFAEL" creationdate="20200822T022845Z">
         <seg>Quando toda a equipe de uma unidade funcional tiver sido treinada (todos de macacão azul), o nível de experiência da unidade aumentará em um ponto e a cor geral da equipe voltará ao vermelho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in ~blue overalls~), the unit's ~experience level~ will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215228Z" creationid="RAFAEL" creationdate="20200826T215228Z">
+        <seg>Quando toda a equipe de uma unidade funcional for treinada (todos em ~macacão azul~), o ~nível de experiência~ da unidade aumentará em um ponto e a cor geral da equipe voltará ao vermelho.</seg>
       </tuv>
     </tu>
     <tu>
