@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015336Z" creationid="RAFAEL" creationdate="20200826T015331Z">
+        <seg>#Duplo clique# aqui para ver dicas para #melhorar a velocidade de execução do jogo#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T222405Z" creationid="RAFAEL" creationdate="20200802T222405Z">
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&amp;D or production activities in the industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015902Z" creationid="RAFAEL" creationdate="20200826T015902Z">
+        <seg>1) A competitividade de uma cidade aumenta mais rapidamente quando há um maior número de empresas engajadas em atividades de P&amp;D ou produção na indústria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is normal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020330Z" creationid="RAFAEL" creationdate="20200806T020330Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205357Z" creationid="RAFAEL" creationdate="20200802T205357Z">
         <seg>2) As taxas de utilização são exibidas para fábricas, fazendas e minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2)The city government sponsors a university to conduct research in a specific industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015936Z" creationid="RAFAEL" creationdate="20200826T015936Z">
+        <seg>2) O governo da cidade patrocina uma universidade para realizar pesquisas em um setor específico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that the team is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015742Z" creationid="RAFAEL" creationdate="20200826T015742Z">
+        <seg>Uma alta taxa de utilização significa que a equipe está operando com eficiência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
@@ -874,6 +906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033456Z" creationid="RAFAEL" creationdate="20200806T033456Z">
         <seg>Um longo tempo de espera do cliente afeta negativamente a qualidade do serviço deste front office de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that the team has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015751Z" creationid="RAFAEL" creationdate="20200826T015751Z">
+        <seg>Uma taxa baixa significa que a equipe tem tempo ocioso e sua capacidade é subutilizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2294,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T234323Z" creationid="RAFAEL" creationdate="20200825T234323Z">
+        <seg>Neste estágio, você não precisa se preocupar com os detalhes fornecidos com cada produto.^^(Informações como custos de frete, classificações, marca serão explicadas em um tutorial posterior.)^^Por enquanto, vamos comprar apenas o primeiro produto na lista para fazer as coisas andarem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224003Z" creationid="RAFAEL" creationdate="20200810T224003Z">
@@ -2970,6 +3018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223102Z" creationid="RAFAEL" creationdate="20200801T223102Z">
         <seg>Voltar à empresa anterior (Tecla de atalho: q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014625Z" creationid="RAFAEL" creationdate="20200826T014625Z">
+        <seg>Voltar para a empresa anterior (Atalho: q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the #Goal report#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015449Z" creationid="RAFAEL" creationdate="20200826T015449Z">
+        <seg>Clique aqui para abrir o relatório #Objetivo#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporate Logo selection window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014811Z" creationid="RAFAEL" creationdate="20200808T014811Z">
@@ -5462,6 +5526,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014721Z" creationid="RAFAEL" creationdate="20200826T014721Z">
+        <seg>Clique aqui para ver sua #Folha do Balanço#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014738Z" creationid="RAFAEL" creationdate="20200826T014738Z">
+        <seg>Clique aqui para ver sua #Declaração de Receitas#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view profile details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224319Z" creationid="RAFAEL" creationdate="20200802T224319Z">
@@ -5497,6 +5577,14 @@
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140419Z" creationid="RAFAEL" creationdate="20200802T140419Z">
+        <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the speed dial to change the game speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015300Z" creationid="RAFAEL" creationdate="20200826T015300Z">
         <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
       </tuv>
     </tu>
@@ -6402,6 +6490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005325Z" creationid="RAFAEL" creationdate="20200805T005325Z">
         <seg>Confirmar a mudança de preço (Atalho: '*' ou ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the price change (hotkey: ']')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015517Z" creationid="RAFAEL" creationdate="20200826T015517Z">
+        <seg>Confirme a mudança de preço (Atalho: ']')</seg>
       </tuv>
     </tu>
     <tu>
@@ -8374,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Experience Level of the Team</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015727Z" creationid="RAFAEL" creationdate="20200826T015727Z">
+        <seg>Nível de experiência da equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Experience Level of the Unit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
@@ -10070,6 +10174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015240Z" creationid="RAFAEL" creationdate="20200826T015240Z">
+        <seg>Velocidade do jogo (Atalho: '0' para pausar, '1' a '5' para definir a velocidade)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Speed (hotkey: '1' to '5')</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140304Z" creationid="RAFAEL" creationdate="20200802T140304Z">
@@ -10230,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014634Z" creationid="RAFAEL" creationdate="20200826T014634Z">
+        <seg>Voltar para a empresa previamente selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to Firm Report and select firms to apply the change.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025653Z" creationid="RAFAEL" creationdate="20200804T025653Z">
@@ -10242,6 +10362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T224216Z" creationid="RAFAEL" creationdate="20200802T224216Z">
         <seg>Vá para o relatório Empresas e selecione as suas empresas que deseja aplicar a alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Headquarters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014849Z" creationid="RAFAEL" creationdate="20200826T014849Z">
+        <seg>Vá para SedeHQ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10662,6 +10790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014923Z" creationid="RAFAEL" creationdate="20200826T014819Z">
+        <seg>SedeHQ (Atalho: 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001734Z" creationid="RAFAEL" creationdate="20200805T001734Z">
@@ -11015,6 +11151,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-M</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015346Z" creationid="RAFAEL" creationdate="20200826T015346Z">
+        <seg>Atalho: Ctrl-M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: F1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T022650Z" creationid="RAFAEL" creationdate="20200804T022650Z">
@@ -11163,6 +11307,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182036Z" creationid="Olivier" creationdate="20200730T132606Z">
         <seg>Quanto Você pode pagar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How to increase a city's competitiveness</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015845Z" creationid="RAFAEL" creationdate="20200826T015845Z">
+        <seg>Como aumentar a competitividade de uma cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -14799,6 +14951,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the amount of stock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015833Z" creationid="RAFAEL" creationdate="20200826T015833Z">
+        <seg>Mostra a quantidade de estoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the average ratings of this product in the current city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
@@ -14851,6 +15011,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230111Z" creationid="RAFAEL" creationdate="20200802T230111Z">
         <seg>Ele mostra que a porcentagem da demanda do produto nesta unidade de compra é atendida pela oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows this product's market share in the current city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015713Z" creationid="RAFAEL" creationdate="20200826T015713Z">
+        <seg>Mostra a participação de mercado deste produto na cidade atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16511,6 +16679,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Market Share Chart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015705Z" creationid="RAFAEL" creationdate="20200826T015705Z">
+        <seg>Gráfico Market Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Market Share Window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024555Z" creationid="RAFAEL" creationdate="20200806T024555Z">
@@ -17123,6 +17299,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011554Z" creationid="RAFAEL" creationdate="20200812T011554Z">
         <seg>Em seguida, você verá a barra de suprimento amarela e a barra de demanda laranja. ^^ A ~barra de suprimento amarela~ indica a quantidade de suprimento do fornecedor e a ~barra de demanda laranja~ mede a demanda do consumidor pelo produto. ^^ Se a barra de abastecimento é mais curta do que a barra de demanda, há uma escassez de oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Active Research</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020041Z" creationid="RAFAEL" creationdate="20200826T020041Z">
+        <seg>Nenhuma pesquisa ativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -18623,6 +18807,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Road Editor (hotkey: Ctrl-R)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020026Z" creationid="RAFAEL" creationdate="20200826T020026Z">
+        <seg>Abra o Road Editor (Atalho: Ctrl-R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Stock Market screen</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003425Z" creationid="RAFAEL" creationdate="20200802T135903Z">
@@ -20115,6 +20307,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210123Z" creationid="RAFAEL" creationdate="20200802T210123Z">
         <seg>Filtro da Empresa do jogador (Tecla de atalho: F8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please wait until public investors have more money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003941Z" creationid="RAFAEL" creationdate="20200826T003941Z">
+        <seg>Aguarde até que os investidores públicos tenham mais dinheiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23847,6 +24047,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a New Price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015631Z" creationid="RAFAEL" creationdate="20200826T015631Z">
+        <seg>Defina um novo preço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011913Z" creationid="RAFAEL" creationdate="20200806T011913Z">
@@ -24663,10 +24871,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Inventory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015823Z" creationid="RAFAEL" creationdate="20200826T015823Z">
+        <seg>Inventário de estoque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Market</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003316Z" creationid="RAFAEL" creationdate="20200802T135849Z">
         <seg>Bolsa de Valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015049Z" creationid="RAFAEL" creationdate="20200826T015049Z">
+        <seg>Bolsa de Valores (Atalho: F4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26002,8 +26226,8 @@ Divisão de ações</seg>
       <tuv lang="en-US">
         <seg>Text Box=40,250,256,0</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122011Z" creationid="Olivier" creationdate="20200805T122011Z">
-        <seg>Text Box=40,250,256,0</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T000945Z" creationid="Olivier" creationdate="20200805T122011Z">
+        <seg>Text Box=40,250,370,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -26221,6 +26445,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170459Z" creationid="Olivier" creationdate="20200812T170459Z">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Number of Venture Capitalists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020429Z" creationid="RAFAEL" creationdate="20200826T020429Z">
+        <seg>Número de Venture Capital</seg>
       </tuv>
     </tu>
     <tu>
@@ -26969,6 +27201,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game now no longer uses any MOD.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003701Z" creationid="RAFAEL" creationdate="20200826T003701Z">
+        <seg>O jogo agora não usa mais nenhum MOD.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
@@ -27005,6 +27245,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014154Z" creationid="RAFAEL" creationdate="20200805T014154Z">
         <seg>O fundo verde indica que este projeto de produto já foi adicionado à sua biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The headhunt was a success.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004124Z" creationid="RAFAEL" creationdate="20200826T004124Z">
+        <seg>O headhunt foi um sucesso.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27305,6 +27553,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The operation of this University is currently suspended.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020050Z" creationid="RAFAEL" creationdate="20200826T020050Z">
+        <seg>O funcionamento desta Universidade está atualmente suspenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The operation of this public facility is suspended due to lack of government funding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001317Z" creationid="RAFAEL" creationdate="20200805T001317Z">
@@ -27594,6 +27850,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The staff's #skill level# affects the #quality of service# of this bank branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015618Z" creationid="RAFAEL" creationdate="20200826T015618Z">
+        <seg>O #nível de habilidade# da equipe afeta a #qualidade de serviço# desta agência bancária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The staff's skill level affects the quality of service of this insurance front office.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033427Z" creationid="RAFAEL" creationdate="20200806T033427Z">
@@ -27823,6 +28087,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002124Z" creationid="RAFAEL" creationdate="20200805T002124Z">
         <seg>A variedade e o fornecimento de alimentos disponíveis no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014754Z" creationid="RAFAEL" creationdate="20200826T014754Z">
+        <seg>As barras verticais representam o lucro ou prejuízo mensal da sua empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28403,6 +28675,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014648Z" creationid="RAFAEL" creationdate="20200826T014648Z">
+        <seg>Este valor é a quantidade de dinheiro que sua empresa possui atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This figure is the amount of cash your corporation currently has.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223338Z" creationid="RAFAEL" creationdate="20200801T223338Z">
@@ -28559,6 +28839,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223742Z" creationid="RAFAEL" creationdate="20200801T223742Z">
         <seg>Esta é a data atual do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the current game date.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014804Z" creationid="RAFAEL" creationdate="20200826T014804Z">
+        <seg>Esta é a data do jogo atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28827,6 +29115,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This sets the average capital size of a venture capitalist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020453Z" creationid="RAFAEL" creationdate="20200826T020453Z">
+        <seg>Isso define o tamanho médio do capital de um Venture Capital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This setting determines whether banks can be set up in the game or not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012659Z" creationid="RAFAEL" creationdate="20200808T012659Z">
@@ -28987,6 +29283,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T234233Z" creationid="RAFAEL" creationdate="20200825T234233Z">
+        <seg>Esta janela mostra todos os produtos disponíveis nos portos marítimos locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144855Z" creationid="RAFAEL" creationdate="20200815T144855Z">
@@ -29103,6 +29407,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021847Z" creationid="RAFAEL" creationdate="20200818T021847Z">
         <seg>Para fazer isso, selecione ~Ações Financeiras~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enable research, please set the #Operation slider# of this university to a value larger than zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020108Z" creationid="RAFAEL" creationdate="20200826T020108Z">
+        <seg>Para habilitar a pesquisa, defina o #controle deslizante de operação# desta universidade para um valor maior que zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31323,6 +31635,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Who should be in charge of setting the dividend?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002139Z" creationid="RAFAEL" creationdate="20200826T002139Z">
+        <seg>Quem será responsável pela definição do dividendo?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
@@ -31375,6 +31695,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121406Z" creationid="Olivier" creationdate="20200805T121406Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020402Z" creationid="RAFAEL" creationdate="20200826T020402Z">
+        <seg>Com um #padrão de avaliação de crédito livre#, todas as empresas receberão #melhores classificações de crédito# e se beneficiarão de #menores despesas com juros de títulos#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31627,6 +31955,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004008Z" creationid="RAFAEL" creationdate="20200826T004008Z">
+        <seg>Você pode visualizar o "Dinheiro do investidor público disponível para sua empresa" exibido na parte superior da tela de visualização da cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot build any more new ones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025222Z" creationid="RAFAEL" creationdate="20200805T025222Z">
@@ -31795,6 +32131,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully privatized this company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002315Z" creationid="RAFAEL" creationdate="20200826T002315Z">
+        <seg>Você privatizou com sucesso esta empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T002002Z" creationid="RAFAEL" creationdate="20200818T022248Z">
@@ -31959,6 +32303,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200539Z" creationid="RAFAEL" creationdate="20200822T200539Z">
         <seg>Você pode contratar um ~Diretor de Marketing (CMO)~ para executar campanhas publicitárias para seus produtos, e um ~Diretor de Tecnologia (CTO)~ para supervisionar seus projetos de pesquisa e desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may interfere with its operation when you own 75% or more of its shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005844Z" creationid="RAFAEL" creationdate="20200826T005844Z">
+        <seg>Você pode interferir em sua operação quando possuir 75% ou mais de suas ações.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -32143,6 +32495,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193354Z" creationid="RAFAEL" creationdate="20200802T193354Z">
         <seg>Você deve selecionar fornecedores manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003507Z" creationid="RAFAEL" creationdate="20200826T003507Z">
+        <seg>Você precisa pertencer a um partido político para fazer isso.\n\nPara formar um novo partido político, acesse o Centro de Informações e selecione [Partidos Políticos] e, em seguida, selecione [Forme seu próprio partido].|</seg>
       </tuv>
     </tu>
     <tu>
@@ -32347,6 +32707,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your company has been successfully privatized.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002257Z" creationid="RAFAEL" creationdate="20200826T002257Z">
+        <seg>Sua empresa foi privatizada com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005736Z" creationid="RAFAEL" creationdate="20200826T005736Z">
+        <seg>Sua empresa abriu o capital com sucesso e arrecadou %1s!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your company must possess the minimum tech level required for each tech in order to create the software product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023816Z" creationid="RAFAEL" creationdate="20200805T023816Z">
@@ -32435,6 +32811,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your new subsidiary company has been set up.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002700Z" creationid="RAFAEL" creationdate="20200826T002700Z">
+        <seg>Sua nova subsidiária foi criada.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
@@ -32503,6 +32887,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003659Z" creationid="RAFAEL" creationdate="20200808T003659Z">
         <seg>Suas subsidiárias (Subsidiária DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiary company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005759Z" creationid="RAFAEL" creationdate="20200826T005759Z">
+        <seg>Sua subsidiária abriu o capital com sucesso e arrecadou %1s!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45563,6 +45955,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020143Z" creationid="RAFAEL" creationdate="20200826T020143Z">
+        <seg>[2805]&lt;BF08&gt;Segure a tecla [SHIFT] simultaneamente para construir mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to build more|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174307Z" creationid="Olivier" creationdate="20200730T174307Z">
@@ -46223,6 +46623,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090626Z" creationid="User" creationdate="20200802T003440Z">
         <seg>[2887]&lt;NCG2&gt;Todos os produtos estão bloqueados, exigindo reinvenção, exceto os produtos da mega classe Alimentos e Bebidas e os produtos nos quais você possui experiência.\n\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020220Z" creationid="RAFAEL" creationdate="20200826T020220Z">
+        <seg>[2887]&lt;NCG2&gt;Todos os produtos são bloqueados, exigindo reinvenção, exceto os produtos da megaclasse de Alimentos e Bebidas e os produtos nos quais você tem experiência.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48715,10 +49123,882 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001519Z" creationid="RAFAEL" creationdate="20200826T001519Z">
+        <seg>[3199]&lt;BNOT&gt;A empresa não atende aos requisitos de emissão de títulos.\nTente aumentar o valor patrimonial da empresa.\n(Você pode ver o valor patrimonial no balanço patrimonial.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220942Z" creationid="User" creationdate="20200803T220942Z">
         <seg>[3199]&lt;BNOT&gt;Desculpe, a empresa não atende aos requisitos de emissão de títulos. \ NTente aumentar o patrimônio da empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3200]&lt;DLE1&gt;Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001704Z" creationid="RAFAEL" creationdate="20200826T001704Z">
+        <seg>[3200]&lt;DLE1&gt;Desculpe, este MOD não pode ser carregado porque DLC que ele requer não está habilitado:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3201]&lt;DLE2&gt;Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001746Z" creationid="RAFAEL" creationdate="20200826T001746Z">
+        <seg>[3201]&lt;DLE2&gt;Desculpe, este MOD não pode ser carregado porque os seguintes DLCs não estão habilitados:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3202]&lt;PLTI&gt;Total play time:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001806Z" creationid="RAFAEL" creationdate="20200826T001806Z">
+        <seg>[3202]&lt;PLTI&gt;Tempo total de jogo:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001840Z" creationid="RAFAEL" creationdate="20200826T001840Z">
+        <seg>[3203]&lt;NOCH&gt;Desculpe, atualmente não há jogos de desafio disponível.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001852Z" creationid="RAFAEL" creationdate="20200826T001852Z">
+        <seg>[3204]&lt;WVER&gt;(Versão errada)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3205]&lt;FIMI&gt;(file missing)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001907Z" creationid="RAFAEL" creationdate="20200826T001907Z">
+        <seg>[3205]&lt;FIMI&gt;(arquivo faltando)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3206]&lt;GVER&gt;Game version:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001925Z" creationid="RAFAEL" creationdate="20200826T001925Z">
+        <seg>[3206]&lt;GVER&gt;Versão do jogo:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001935Z" creationid="RAFAEL" creationdate="20200826T001935Z">
+        <seg>[3207]&lt;INCO&gt;(Incompatível)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3208]&lt;DECG&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001949Z" creationid="RAFAEL" creationdate="20200826T001949Z">
+        <seg>[3208]&lt;DECG&gt;Este jogo de desafio será excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3209]&lt;ASAV&gt;Auto-Save Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002042Z" creationid="RAFAEL" creationdate="20200826T002042Z">
+        <seg>[3209]&lt;ASAV&gt;Jogo salvo autom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3210]&lt;DIV1&gt;This is your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002054Z" creationid="RAFAEL" creationdate="20200826T002054Z">
+        <seg>[3210]&lt;DIV1&gt;Esta é sua subsidiária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3211]&lt;DIV2&gt;I will set the dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002151Z" creationid="RAFAEL" creationdate="20200826T002151Z">
+        <seg>[3211]&lt;DIV2&gt;I irá definir o dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3212]&lt;DIV3&gt;Let the CEO set the dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002223Z" creationid="RAFAEL" creationdate="20200826T002223Z">
+        <seg>[3212]&lt;DIV3&gt;Deixe o CEO definir dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3213]&lt;PRV1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002248Z" creationid="RAFAEL" creationdate="20200826T002248Z">
+        <seg>[3213]&lt;PRV1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3214]&lt;PRV2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002305Z" creationid="RAFAEL" creationdate="20200826T002305Z">
+        <seg>[3214]&lt;PRV2&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3215]&lt;SUB0&gt;Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002435Z" creationid="RAFAEL" creationdate="20200826T002435Z">
+        <seg>[3215]&lt;SUB0&gt;Desculpe, o número máximo de empresas permitidas no jogo foi atingido.\n\nNão é possível abrir uma nova empresa subsidiária no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3216]&lt;NSU1&gt;Please enter a name for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002507Z" creationid="RAFAEL" creationdate="20200826T002507Z">
+        <seg>[3216]&lt;NSU1&gt;Insira um nome para sua nova subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002600Z" creationid="RAFAEL" creationdate="20200826T002600Z">
+        <seg>[3217]&lt;NSU2&gt;Desculpe, você não pode formar uma nova empresa subsidiária, pois o número máximo de empresas permitidas no jogo foi atingido.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3218]&lt;NSU3&gt;Sorry, you cannot set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002642Z" creationid="RAFAEL" creationdate="20200826T002642Z">
+        <seg>[3218]&lt;NSU3&gt;Desculpe, você não pode abrir uma nova subsidiária no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3219]&lt;NSU4&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002650Z" creationid="RAFAEL" creationdate="20200826T002650Z">
+        <seg>[3219]&lt;NSU4&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3220]&lt;BHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002722Z" creationid="RAFAEL" creationdate="20200826T002722Z">
+        <seg>[3220]&lt;BHQF&gt;Você deve construir a sede do banco primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3221]&lt;IHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002733Z" creationid="RAFAEL" creationdate="20200826T002733Z">
+        <seg>[3221]&lt;IHQF&gt;Você deve construir a sede do banco primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3222]&lt;JPE1&gt;To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002918Z" creationid="RAFAEL" creationdate="20200826T002918Z">
+        <seg>[3222]&lt;JPE1&gt;Para um novo projeto, você deve primeiro 1) contratar um gerente de projeto e 2) vincular a unid. de gerenciamento do projeto atual a uma unid. de programação do projeto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3223]&lt;JPE2&gt;To start a new project, you must first hire a project manager.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002937Z" creationid="RAFAEL" creationdate="20200826T002937Z">
+        <seg>[3223]&lt;JPE2&gt;Para iniciar um novo projeto, você deve primeiro contratar um gerente de projeto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3224]&lt;JPE3&gt;To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003001Z" creationid="RAFAEL" creationdate="20200826T003001Z">
+        <seg>[3224]&lt;JPE3&gt;Para iniciar um novo projeto, você deve primeiro vincular a unid. de gerenciamento do projeto atual a uma unid. de programação do projeto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3225]&lt;HNT1&gt;Before hiring the new|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003028Z" creationid="RAFAEL" creationdate="20200826T003028Z">
+        <seg>[3225]&lt;HNT1&gt;Antes de contratar o novo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3226]&lt;HNT2&gt;you must terminate the employment of the current one.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003048Z" creationid="RAFAEL" creationdate="20200826T003048Z">
+        <seg>[3226]&lt;HNT2&gt;você deve encerrar o emprego do atual.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3227]&lt;PCOD&gt;A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003339Z" creationid="RAFAEL" creationdate="20200826T003339Z">
+        <seg>[3227]&lt;PCOD&gt;Uma Unid. de Programação de Projeto utiliza tecnologias desenvolvidas por Unid. de Programação Tecnológica para implementar um produto de software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3228]&lt;NPCA&gt;Not enough personal cash|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003353Z" creationid="RAFAEL" creationdate="20200826T003353Z">
+        <seg>[3228]&lt;NPCA&gt;Dinheiro pessoal insuficiente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003405Z" creationid="RAFAEL" creationdate="20200826T003405Z">
+        <seg>[3229]&lt;NPCM&gt;Você não tem dinheiro PESSOAL suficiente para construir sua mansão.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3230]&lt;NCIP&gt;Sorry, you cannot found a new city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003421Z" creationid="RAFAEL" creationdate="20200826T003421Z">
+        <seg>[3230]&lt;NCIP&gt;Desculpe, você não pode encontrar uma nova cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3231]&lt;MAYO&gt;Mayor of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003517Z" creationid="RAFAEL" creationdate="20200826T003517Z">
+        <seg>[3231]&lt;MAYO&gt;Prefeito de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3232]&lt;MGOA&gt;Main Goal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003527Z" creationid="RAFAEL" creationdate="20200826T003527Z">
+        <seg>[3232]&lt;MGOA&gt;Objetivo principal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3233]&lt;SGOA&gt;SubGoal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003557Z" creationid="RAFAEL" creationdate="20200826T003557Z">
+        <seg>[3233]&lt;SGOA&gt;Sub-objectivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3234]&lt;PFIT&gt;Attempting to find a supplier for this item...|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003622Z" creationid="RAFAEL" creationdate="20200826T003622Z">
+        <seg>[3234]&lt;PFIT&gt;Tentando encontrar um fornecedor para este item ...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3235]&lt;MWIT&gt;Waiting for required inputs to manufacture this product...|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003638Z" creationid="RAFAEL" creationdate="20200826T003638Z">
+        <seg>[3235]&lt;MWIT&gt;Aguardando os insumos necessários para fabricar este produto ...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3236]&lt;MOD1&gt;Reset successfully.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003649Z" creationid="RAFAEL" creationdate="20200826T003649Z">
+        <seg>[3236]&lt;MOD1&gt;Reiniciar com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3237]&lt;MOD2&gt;MOD %1s has been loaded successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003719Z" creationid="RAFAEL" creationdate="20200826T003719Z">
+        <seg>[3237]&lt;MOD2&gt;MOD%1s foi carregado com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3238]&lt;DTEL&gt;Market Dominance of Telecom|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003747Z" creationid="RAFAEL" creationdate="20200826T003747Z">
+        <seg>[3238]&lt;DTEL&gt;Domínio do merc. de telecomunicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3239]&lt;PACQ&gt;Private Acquisitions|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003756Z" creationid="RAFAEL" creationdate="20200826T003756Z">
+        <seg>[3239]&lt;PACQ&gt;Aquisições Privadas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3240]&lt;ECRV&gt;Annual E-Commerce Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003829Z" creationid="RAFAEL" creationdate="20200826T003829Z">
+        <seg>[3240]&lt;ECRV&gt;Receita anual do E-Commerce|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3241]&lt;ECUB&gt;Annual E-Commerce User Base|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003913Z" creationid="RAFAEL" creationdate="20200826T003913Z">
+        <seg>[3241]&lt;ECUB&gt;Base anual de usuários E-Commerce|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3242]&lt;BNPI&gt;Sorry, you cannot issue new bonds at the moment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003930Z" creationid="RAFAEL" creationdate="20200826T003930Z">
+        <seg>[3242]&lt;BNPI&gt;Desculpe, você não pode emitir novos títulos no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3243]&lt;THH1&gt;The transfer has been executed successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004018Z" creationid="RAFAEL" creationdate="20200826T004018Z">
+        <seg>[3243]&lt;THH1&gt;A transferência foi executada com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3244]&lt;THH2&gt;Sorry, you don't have sufficient cash to pay the sign up bonus.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004044Z" creationid="RAFAEL" creationdate="20200826T004044Z">
+        <seg>[3244]&lt;THH2&gt;Desculpe, você não tem dinheiro para pagar o bônus de inscrição.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3245]&lt;THH3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004051Z" creationid="RAFAEL" creationdate="20200826T004051Z">
+        <seg>[3245]&lt;THH3&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3246]&lt;ITRN&gt;(Not including research and development staff)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004141Z" creationid="RAFAEL" creationdate="20200826T004141Z">
+        <seg>[3246]&lt;ITRN&gt;(Não incluindo equipe de pesquisa e desenvolvimento)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3247]&lt;ASBI&gt;Regularly adjust team lead salaries based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004204Z" creationid="RAFAEL" creationdate="20200826T004204Z">
+        <seg>[3247]&lt;ASBI&gt;Ajuste regularmente os salários dos líderes de equipe com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3248]&lt;ATL1&gt;Adjust Training Levels for all your firms:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004245Z" creationid="RAFAEL" creationdate="20200826T004245Z">
+        <seg>[3248]&lt;ATL1&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3249]&lt;ATL2&gt;Adjust Training Levels for all its firms:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004300Z" creationid="RAFAEL" creationdate="20200826T004300Z">
+        <seg>[3249]&lt;ATL2&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3250]&lt;ATL3&gt;Sorry, you currently do not have any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004311Z" creationid="RAFAEL" creationdate="20200826T004311Z">
+        <seg>[3250]&lt;ATL3&gt;Desculpe, você atualmente não tem nenhuma empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3251]&lt;ATL4&gt;Sorry, this corporation currently does not have any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004321Z" creationid="RAFAEL" creationdate="20200826T004321Z">
+        <seg>[3251]&lt;ATL4&gt;Desculpe, esta corporação atualmente não tem nenhuma firma.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3252]&lt;ATL5&gt;The new training setting has been applied to all your firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004358Z" creationid="RAFAEL" creationdate="20200826T004358Z">
+        <seg>[3252]&lt;ATL5&gt;A nova configuração de treinamento foi aplicada a todas as suas empresas.\n(Total:% 1d empresas)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3253]&lt;ATL6&gt;The new training setting has been applied to all its firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004445Z" creationid="RAFAEL" creationdate="20200826T004445Z">
+        <seg>[3253]&lt;ATL6&gt;A nova configuração de treinamento foi aplicada a todas as suas empresas.\n(Total:% 1d empresas)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3254]&lt;PRD1&gt;Current Brand Strategy:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004506Z" creationid="RAFAEL" creationdate="20200826T004506Z">
+        <seg>[3254]&lt;PRD1&gt;Estratégia marca atual:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3255]&lt;PRD2&gt;Monthly Spending:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004515Z" creationid="RAFAEL" creationdate="20200826T004515Z">
+        <seg>[3255]&lt;PRD2&gt;Gastos Mensais:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3256]&lt;PRD3&gt;If your corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004551Z" creationid="RAFAEL" creationdate="20200826T004551Z">
+        <seg>[3256]&lt;PRD3&gt;Se sua empresa está usando a estratégia de 'Marca Corporativa',|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3257]&lt;PRD4&gt;If this corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004624Z" creationid="RAFAEL" creationdate="20200826T004624Z">
+        <seg>[3257]&lt;PRD4&gt;Se esta empresa estiver usando a estratégia de 'Marca Corporativa',|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3258]&lt;IRD1&gt;Investor relations efforts will help improve your|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004650Z" creationid="RAFAEL" creationdate="20200826T004650Z">
+        <seg>[3258]&lt;IRD1&gt;Os esforços de relações com investidores ajudarão a melhorar o seu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3259]&lt;IRD2&gt;Investor relations efforts will help improve this|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004707Z" creationid="RAFAEL" creationdate="20200826T004707Z">
+        <seg>[3259]&lt;IRD2&gt;Os esforços de relações com investidores ajudarão a melhorar isso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3260]&lt;IRD3&gt;corporation's stock performance.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004748Z" creationid="RAFAEL" creationdate="20200826T004748Z">
+        <seg>[3260]&lt;IRD3&gt;desempenho das ações da empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3261]&lt;MODU&gt;MOD in use:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004757Z" creationid="RAFAEL" creationdate="20200826T004757Z">
+        <seg>[3261]&lt;MODU&gt;MOD em uso:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3262]&lt;MODF&gt;For MOD:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004806Z" creationid="RAFAEL" creationdate="20200826T004806Z">
+        <seg>[3262]&lt;MODF&gt;Para MOD:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3263]&lt;APIN&gt;Regularly adjust prices based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004822Z" creationid="RAFAEL" creationdate="20200826T004822Z">
+        <seg>[3263]&lt;APIN&gt;Ajuste os preços regularmente com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3264]&lt;ASIN&gt;Adjust advertising spending based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004832Z" creationid="RAFAEL" creationdate="20200826T004832Z">
+        <seg>[3264]&lt;ASIN&gt;Ajuste os gastos com publicidade com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3265]&lt;AIN1&gt;Increase all product prices monthly at the same rate as inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004857Z" creationid="RAFAEL" creationdate="20200826T004857Z">
+        <seg>[3265]&lt;AIN1&gt;Aumente todos os preços dos produtos mensalmente na mesma taxa da inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spendings monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004921Z" creationid="RAFAEL" creationdate="20200826T004921Z">
+        <seg>[3266]&lt;AIN2&gt;Aumente todos os gastos com publicidade mensalmente com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3267]&lt;ATEC&gt;Acquire Product Tech From Other Companies|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004931Z" creationid="RAFAEL" creationdate="20200826T004931Z">
+        <seg>[3267]&lt;ATEC&gt;Adquira tecnologia de produto de outras empresas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004945Z" creationid="RAFAEL" creationdate="20200826T004945Z">
+        <seg>[3268]&lt;SAD1&gt;Defina um novo orçamento de publicidade para todas as suas unidades de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3269]&lt;SAD2&gt;Set a new advertising budget for all its advertising units:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004956Z" creationid="RAFAEL" creationdate="20200826T004956Z">
+        <seg>[3269]&lt;SAD2&gt;Defina um novo orçamento de publicidade para todas as suas unidades de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3270]&lt;SAD3&gt;New advertising budget:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005007Z" creationid="RAFAEL" creationdate="20200826T005007Z">
+        <seg>[3270]&lt;SAD3&gt;Novo orçamento de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3271]&lt;SAD4&gt;Sorry, you currently do not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005016Z" creationid="RAFAEL" creationdate="20200826T005016Z">
+        <seg>[3271]&lt;SAD4&gt;Desculpe, no momento você não possui unidades de publicidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3272]&lt;SAD5&gt;Sorry, this corporation currently does not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005031Z" creationid="RAFAEL" creationdate="20200826T005031Z">
+        <seg>[3272]&lt;SAD5&gt;Desculpe, esta empresa atualmente não possui unidades de publicidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3273]&lt;SAD6&gt;The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005600Z" creationid="RAFAEL" creationdate="20200826T005600Z">
+        <seg>[3273]&lt;SAD6&gt;O novo orçamento de publicidade foi aplicado a todas as suas unidades de publicidade.\n(Total:% 1d unid. de publicidade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3274]&lt;SAD7&gt;The new advertising budget has been applied to all its advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005627Z" creationid="RAFAEL" creationdate="20200826T005627Z">
+        <seg>[3274]&lt;SAD7&gt;O novo orçamento de publicidade foi aplicado a todas as unidades de publicidade.\n(Total:% 1d unid. de publicidade)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3275]&lt;MAYO&gt;Mayor of %1s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005705Z" creationid="RAFAEL" creationdate="20200826T005705Z">
+        <seg>[3275]&lt;MAYO&gt;Prefeito de %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3276]&lt;IPO1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005714Z" creationid="RAFAEL" creationdate="20200826T005714Z">
+        <seg>[3276]&lt;IPO1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3277]&lt;IPO2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005743Z" creationid="RAFAEL" creationdate="20200826T005743Z">
+        <seg>[3277]&lt;IPO2&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3278]&lt;SUBC&gt;This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005811Z" creationid="RAFAEL" creationdate="20200826T005811Z">
+        <seg>[3278]&lt;SUBC&gt;Esta empresa é subsidiária de sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3279]&lt;OEXP&gt;Operating Expenses|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005918Z" creationid="RAFAEL" creationdate="20200826T005918Z">
+        <seg>[3279]&lt;OEXP&gt;Despesa operacionais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3280]&lt;NAT1&gt;Your Nation's Ranking:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005950Z" creationid="RAFAEL" creationdate="20200826T005950Z">
+        <seg>[3280]&lt;NAT1&gt;Ranking da sua Nação:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3281]&lt;CDAD&gt;Double-click on an advertising record to go to the relevant firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010025Z" creationid="RAFAEL" creationdate="20200826T010025Z">
+        <seg>[3281]&lt;CDAD&gt;Duplo clique em um registro de publicidade para ir para a empresa relevante.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3282]&lt;CDPD&gt;Double-click on a product record to open the Product Detail Report.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010203Z" creationid="RAFAEL" creationdate="20200826T010203Z">
+        <seg>[3282]&lt;CDPD&gt;Duplo clique em um registro de produto para abrir o Relatório de detalhes do produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3283]&lt;CDR1&gt;indicates Radical R&amp;D projects|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010230Z" creationid="RAFAEL" creationdate="20200826T010230Z">
+        <seg>[3283]&lt;CDR1&gt;indica projetos radicais de P&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3284]&lt;CDR2&gt;Products that are currently in production are shown with orange bars.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010245Z" creationid="RAFAEL" creationdate="20200826T010245Z">
+        <seg>[3284]&lt;CDR2&gt;Os produtos que estão atualmente em produção são mostrados com barras laranja.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3285]&lt;MSP1&gt;Double-click on a product class on the list to change its ink color, which can be:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010307Z" creationid="RAFAEL" creationdate="20200826T010307Z">
+        <seg>[3285]&lt;MSP1&gt;Duplo clique em uma classe de produto na lista para alterar a cor da tinta, que pode ser:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3286]&lt;MSP2&gt;RED - it means that the CEO should NOT produce any products in the product class.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010824Z" creationid="RAFAEL" creationdate="20200826T010824Z">
+        <seg>[3286]&lt;MSP2&gt;VERMELHO - significa que o CEO NÃO deve produzir nenhum produto da classe de produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3287]&lt;MSP3&gt;BLACK - it means that the CEO may produce products in the product class.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010849Z" creationid="RAFAEL" creationdate="20200826T010849Z">
+        <seg>[3287]&lt;MSP3&gt;PRETO - significa que o CEO pode produzir produtos na classe de produtos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3288]&lt;SWS1&gt;Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010948Z" creationid="RAFAEL" creationdate="20200826T010948Z">
+        <seg>[3288]&lt;SWS1&gt;Desculpe, mas as informações dos fornecedores não foram encontradas para as empresas que você escolheu nesta lista.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3289]&lt;SWS2&gt;Suppliers at your Purchasing Units have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011003Z" creationid="RAFAEL" creationdate="20200826T011003Z">
+        <seg>[3289]&lt;SWS2&gt;Os fornecedores em suas unidades de compra foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3290]&lt;SWS3&gt;Firms updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011019Z" creationid="RAFAEL" creationdate="20200826T011019Z">
+        <seg>[3290]&lt;SWS3&gt;Firmas atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3291]&lt;SWS4&gt;Purchasing Units updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011041Z" creationid="RAFAEL" creationdate="20200826T011028Z">
+        <seg>[3291]&lt;SWS4&gt;Unid. de compra atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011108Z" creationid="RAFAEL" creationdate="20200826T011108Z">
+        <seg>[3292]&lt;SWS5&gt;Desculpe, as empresas que você escolheu nesta lista não estão comprando dos mesmos fornecedores.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3293]&lt;BCH1&gt;Advertising budgets have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011122Z" creationid="RAFAEL" creationdate="20200826T011122Z">
+        <seg>[3293]&lt;BCH1&gt;Os orçamentos de publicidade foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011142Z" creationid="RAFAEL" creationdate="20200826T011142Z">
+        <seg>[3294]&lt;BCH2&gt;Os níveis de treinamento foram alterados de acordo com sua solicitação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3295]&lt;BCH3&gt;Units updated:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011206Z" creationid="RAFAEL" creationdate="20200826T011206Z">
+        <seg>[3295]&lt;BCH3&gt;Unid. atualizadas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3296]&lt;BCH4&gt;Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011246Z" creationid="RAFAEL" creationdate="20200826T011246Z">
+        <seg>[3296]&lt;BCH4&gt;Desculpe, as empresas que você escolheu nesta lista não têm unidades de publicidade.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011257Z" creationid="RAFAEL" creationdate="20200826T011257Z">
+        <seg>[3297]&lt;BCH5&gt;Desculpe, o treinamento não se aplica às empresas que você escolheu nesta lista.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3298]&lt;SEC1&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011415Z" creationid="RAFAEL" creationdate="20200826T011415Z">
+        <seg>[3298]&lt;SEC1&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nVocê não pode usar uma empresa que você controla para comprar ações das quais você é proprietário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011507Z" creationid="RAFAEL" creationdate="20200826T011507Z">
+        <seg>[3299]&lt;SEC2&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nVocê não pode usar uma empresa que você controla para comprar ações da qual sua empresa tem propriedade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011559Z" creationid="RAFAEL" creationdate="20200826T011559Z">
+        <seg>[3300]&lt;SEC3&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nSua empresa não pode comprar ações das quais você seja proprietário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3301]&lt;SCE1&gt;Warning: there is an error in your script file.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011610Z" creationid="RAFAEL" creationdate="20200826T011610Z">
+        <seg>[3301]&lt;SCE1&gt;Aviso: há um erro no seu arquivo de script.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3302]&lt;SCE2&gt;Warning: there are errors in your script file.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011619Z" creationid="RAFAEL" creationdate="20200826T011619Z">
+        <seg>[3302]&lt;SCE2&gt;Aviso: existem erros no seu arquivo de script.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3303]&lt;SCE3&gt;For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011652Z" creationid="RAFAEL" creationdate="20200826T011652Z">
+        <seg>[3303]&lt;SCE3&gt;Para obter detalhes, consulte o log de erros na subpasta %1s na pasta do jogo do Capitalism Lab.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3304]&lt;RSP1&gt;All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011738Z" creationid="RAFAEL" creationdate="20200826T011738Z">
+        <seg>[3304]&lt;RSP1&gt;Todas ações negociadas em bolsa devem manter um preço mínimo de pelo menos $ 1,00 por ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3305]&lt;RSP2&gt;Your company's stock currently trades at %1s and therefore a reverse stock split is required.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011849Z" creationid="RAFAEL" creationdate="20200826T011849Z">
+        <seg>[3305]&lt;RSP2&gt;As ações da sua empresa são atualmente negociadas a %1s e, portanto, é necessário um agrupamento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3306]&lt;RSP3&gt;A %1s reverse stock split will group every %2s shares into one share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T012002Z" creationid="RAFAEL" creationdate="20200826T012002Z">
+        <seg>[3306]&lt;RSP3&gt;Um grupamento de ações de %1s agrupará cada %2s ações em uma ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3307]&lt;RSP4&gt;The resulting stock price will be|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T012015Z" creationid="RAFAEL" creationdate="20200826T012015Z">
+        <seg>[3307]&lt;RSP4&gt;O preço da ação resultante será|</seg>
       </tuv>
     </tu>
     <tu>
