@@ -31339,6 +31339,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Who should be in charge of setting the dividend?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002139Z" creationid="RAFAEL" creationdate="20200826T002139Z">
+        <seg>Quem será responsável pela definição do dividendo?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
@@ -48791,6 +48799,62 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001907Z" creationid="RAFAEL" creationdate="20200826T001907Z">
         <seg>[3205]&lt;FIMI&gt;(arquivo faltando)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3206]&lt;GVER&gt;Game version:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001925Z" creationid="RAFAEL" creationdate="20200826T001925Z">
+        <seg>[3206]&lt;GVER&gt;Versão do jogo:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001935Z" creationid="RAFAEL" creationdate="20200826T001935Z">
+        <seg>[3207]&lt;INCO&gt;(Incompatível)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3208]&lt;DECG&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001949Z" creationid="RAFAEL" creationdate="20200826T001949Z">
+        <seg>[3208]&lt;DECG&gt;Este jogo de desafio será excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3209]&lt;ASAV&gt;Auto-Save Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002042Z" creationid="RAFAEL" creationdate="20200826T002042Z">
+        <seg>[3209]&lt;ASAV&gt;Jogo salvo autom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3210]&lt;DIV1&gt;This is your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002054Z" creationid="RAFAEL" creationdate="20200826T002054Z">
+        <seg>[3210]&lt;DIV1&gt;Esta é sua subsidiária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3211]&lt;DIV2&gt;I will set the dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002151Z" creationid="RAFAEL" creationdate="20200826T002151Z">
+        <seg>[3211]&lt;DIV2&gt;I irá definir o dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3212]&lt;DIV3&gt;Let the CEO set the dividend|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002223Z" creationid="RAFAEL" creationdate="20200826T002223Z">
+        <seg>[3212]&lt;DIV3&gt;Deixe o CEO definir dividendo|</seg>
       </tuv>
     </tu>
     <tu>
