@@ -7582,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215258Z" creationid="RAFAEL" creationdate="20200826T215258Z">
+        <seg>Description=Com mais de vinte anos de experiência na produção de equipamentos fotográficos de classe mundial, você ganhou a confiança de um grupo de investidores para financiar sua startup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153816Z" creationid="RAFAEL" creationdate="20200815T153816Z">
@@ -51079,6 +51087,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202509Z" creationid="RAFAEL" creationdate="20200822T202509Z">
         <seg>^^Tente aplicar o que você aprendeu nos tutoriais anteriores para gerenciar sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
+        <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
       </tuv>
     </tu>
     <tu>
