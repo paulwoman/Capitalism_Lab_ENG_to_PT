@@ -31819,6 +31819,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully privatized this company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002315Z" creationid="RAFAEL" creationdate="20200826T002315Z">
+        <seg>Você privatizou com sucesso esta empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T002002Z" creationid="RAFAEL" creationdate="20200818T022248Z">
@@ -32367,6 +32375,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000716Z" creationid="RAFAEL" creationdate="20200822T000716Z">
         <seg>Seu gado agora será criado e processado como carne congelada.^^Adicione uma ~Unidade de vendas~ e vincule-a à ~Unidade de processamento de gado~ para que sua fazenda possa vender a carne congelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has been successfully privatized.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002257Z" creationid="RAFAEL" creationdate="20200826T002257Z">
+        <seg>Sua empresa foi privatizada com sucesso.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48855,6 +48871,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002223Z" creationid="RAFAEL" creationdate="20200826T002223Z">
         <seg>[3212]&lt;DIV3&gt;Deixe o CEO definir dividendo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3213]&lt;PRV1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002248Z" creationid="RAFAEL" creationdate="20200826T002248Z">
+        <seg>[3213]&lt;PRV1&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3214]&lt;PRV2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002305Z" creationid="RAFAEL" creationdate="20200826T002305Z">
+        <seg>[3214]&lt;PRV2&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3215]&lt;SUB0&gt;Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002435Z" creationid="RAFAEL" creationdate="20200826T002435Z">
+        <seg>[3215]&lt;SUB0&gt;Desculpe, o número máximo de empresas permitidas no jogo foi atingido.\n\nNão é possível abrir uma nova empresa subsidiária no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3216]&lt;NSU1&gt;Please enter a name for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002507Z" creationid="RAFAEL" creationdate="20200826T002507Z">
+        <seg>[3216]&lt;NSU1&gt;Insira um nome para sua nova subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002600Z" creationid="RAFAEL" creationdate="20200826T002600Z">
+        <seg>[3217]&lt;NSU2&gt;Desculpe, você não pode formar uma nova empresa subsidiária, pois o número máximo de empresas permitidas no jogo foi atingido.|</seg>
       </tuv>
     </tu>
     <tu>
