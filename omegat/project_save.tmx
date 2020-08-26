@@ -49243,6 +49243,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3253]&lt;ATL6&gt;The new training setting has been applied to all its firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004445Z" creationid="RAFAEL" creationdate="20200826T004445Z">
+        <seg>[3253]&lt;ATL6&gt;A nova configuração de treinamento foi aplicada a todas as suas empresas.\n(Total:% 1d empresas)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3254]&lt;PRD1&gt;Current Brand Strategy:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004506Z" creationid="RAFAEL" creationdate="20200826T004506Z">
+        <seg>[3254]&lt;PRD1&gt;Estratégia marca atual:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3255]&lt;PRD2&gt;Monthly Spending:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004515Z" creationid="RAFAEL" creationdate="20200826T004515Z">
+        <seg>[3255]&lt;PRD2&gt;Gastos Mensais:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3256]&lt;PRD3&gt;If your corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004551Z" creationid="RAFAEL" creationdate="20200826T004551Z">
+        <seg>[3256]&lt;PRD3&gt;Se sua empresa está usando a estratégia de 'Marca Corporativa',|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3257]&lt;PRD4&gt;If this corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004624Z" creationid="RAFAEL" creationdate="20200826T004624Z">
+        <seg>[3257]&lt;PRD4&gt;Se esta empresa estiver usando a estratégia de 'Marca Corporativa',|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3258]&lt;IRD1&gt;Investor relations efforts will help improve your|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004650Z" creationid="RAFAEL" creationdate="20200826T004650Z">
+        <seg>[3258]&lt;IRD1&gt;Os esforços de relações com investidores ajudarão a melhorar o seu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
