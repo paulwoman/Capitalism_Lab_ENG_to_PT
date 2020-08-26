@@ -20127,6 +20127,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please wait until public investors have more money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003941Z" creationid="RAFAEL" creationdate="20200826T003941Z">
+        <seg>Aguarde até que os investidores públicos tenham mais dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Point at Firm=My Department Store</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203533Z" creationid="Olivier" creationdate="20200814T083735Z">
@@ -31655,6 +31663,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023239Z" creationid="RAFAEL" creationdate="20200806T023239Z">
         <seg>Você pode vê-lo na tela #Folha de Balanço# na tela #Detalhes Corporativos#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004008Z" creationid="RAFAEL" creationdate="20200826T004008Z">
+        <seg>Você pode visualizar o "Dinheiro do investidor público disponível para sua empresa" exibido na parte superior da tela de visualização da cidade.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49103,6 +49119,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003747Z" creationid="RAFAEL" creationdate="20200826T003747Z">
         <seg>[3238]&lt;DTEL&gt;Domínio do merc. de telecomunicações|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3239]&lt;PACQ&gt;Private Acquisitions|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003756Z" creationid="RAFAEL" creationdate="20200826T003756Z">
+        <seg>[3239]&lt;PACQ&gt;Aquisições Privadas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3240]&lt;ECRV&gt;Annual E-Commerce Revenue|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003829Z" creationid="RAFAEL" creationdate="20200826T003829Z">
+        <seg>[3240]&lt;ECRV&gt;Receita anual do E-Commerce|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3241]&lt;ECUB&gt;Annual E-Commerce User Base|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003913Z" creationid="RAFAEL" creationdate="20200826T003913Z">
+        <seg>[3241]&lt;ECUB&gt;Base anual de usuários E-Commerce|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3242]&lt;BNPI&gt;Sorry, you cannot issue new bonds at the moment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003930Z" creationid="RAFAEL" creationdate="20200826T003930Z">
+        <seg>[3242]&lt;BNPI&gt;Desculpe, você não pode emitir novos títulos no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3243]&lt;THH1&gt;The transfer has been executed successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004018Z" creationid="RAFAEL" creationdate="20200826T004018Z">
+        <seg>[3243]&lt;THH1&gt;A transferência foi executada com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3244]&lt;THH2&gt;Sorry, you don't have sufficient cash to pay the sign up bonus.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004044Z" creationid="RAFAEL" creationdate="20200826T004044Z">
+        <seg>[3244]&lt;THH2&gt;Desculpe, você não tem dinheiro para pagar o bônus de inscrição.|</seg>
       </tuv>
     </tu>
     <tu>
