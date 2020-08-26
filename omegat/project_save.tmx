@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214655Z" creationid="RAFAEL" creationdate="20200826T214655Z">
+        <seg>(Dica: se você já está fabricando e vendendo ~jeans~, escolha ~jaqueta de couro~).^^Este tutorial continuará quando você ~produzir~ e ~vender~ um novo produto de ~vestuário~ em sua ~loja de departamentos~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002837Z" creationid="RAFAEL" creationdate="20200805T002837Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010413Z" creationid="Olivier" creationdate="20200802T010413Z">
         <seg>AVGINTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>About Capitalism Lab: Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214409Z" creationid="RAFAEL" creationdate="20200826T214409Z">
+        <seg>Sobre o Capitalism Lab: Capitalism Lab é uma expansão do Capitalism 2 com uma série de novos recursos e melhorias, para usuários experientes do Capitalism 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,6 +10574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214358Z" creationid="RAFAEL" creationdate="20200826T214358Z">
+        <seg>Goal Description=Este é o seu segundo Objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015403Z" creationid="RAFAEL" creationdate="20200822T015403Z">
@@ -10606,6 +10630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214436Z" creationid="RAFAEL" creationdate="20200826T214436Z">
+        <seg>Goal Failed Text=Desculpe, você falhou em seu segundo objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
@@ -10634,6 +10666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
         <seg>Goal Title=Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Second Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214342Z" creationid="RAFAEL" creationdate="20200826T214342Z">
+        <seg>Goal Title=Segundo Objetivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +19859,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032806Z" creationid="RAFAEL" creationdate="20200806T032806Z">
         <seg>Classificação de crédito da empresa Matriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=First Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214500Z" creationid="RAFAEL" creationdate="20200826T214500Z">
+        <seg>Parent Goal=Primeiro objetivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -29611,6 +29659,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214603Z" creationid="RAFAEL" creationdate="20200826T214603Z">
+        <seg>Para acessar a tela ~Estratégia da marca~, abra o relatório ~Detalhe corporativo~ pressionando a tecla de atalho ~D~ agora (ou ~Ctrl-D~ se você alterou a configuração da tecla de atalho no menu Opções).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165308Z" creationid="RAFAEL" creationdate="20200815T165308Z">
@@ -32343,6 +32399,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
         <seg>Você alcançou seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214422Z" creationid="RAFAEL" creationdate="20200826T214422Z">
+        <seg>Você atingiu seu segundo objetivo.</seg>
       </tuv>
     </tu>
     <tu>
