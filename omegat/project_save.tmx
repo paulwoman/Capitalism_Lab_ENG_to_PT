@@ -20663,6 +20663,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T130458Z" creationid="Olivier" creationdate="20200826T130458Z">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=30,0,600,30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083743Z" creationid="Olivier" creationdate="20200814T083743Z">
@@ -25956,6 +25964,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083810Z" creationid="Olivier" creationdate="20200814T083810Z">
         <seg>Text Box=100,280,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=100,410,700,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T130453Z" creationid="Olivier" creationdate="20200826T130453Z">
+        <seg>Text Box=100,410,700,0</seg>
       </tuv>
     </tu>
     <tu>
