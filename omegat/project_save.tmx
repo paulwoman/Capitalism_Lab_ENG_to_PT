@@ -27033,6 +27033,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The headhunt was a success.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004124Z" creationid="RAFAEL" creationdate="20200826T004124Z">
+        <seg>O headhunt foi um sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The higher the city's competitiveness rating, the larger number of people are employed in the local industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014213Z" creationid="RAFAEL" creationdate="20200805T014213Z">
@@ -49167,6 +49175,70 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004044Z" creationid="RAFAEL" creationdate="20200826T004044Z">
         <seg>[3244]&lt;THH2&gt;Desculpe, você não tem dinheiro para pagar o bônus de inscrição.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3245]&lt;THH3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004051Z" creationid="RAFAEL" creationdate="20200826T004051Z">
+        <seg>[3245]&lt;THH3&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3246]&lt;ITRN&gt;(Not including research and development staff)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004141Z" creationid="RAFAEL" creationdate="20200826T004141Z">
+        <seg>[3246]&lt;ITRN&gt;(Não incluindo equipe de pesquisa e desenvolvimento)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3247]&lt;ASBI&gt;Regularly adjust team lead salaries based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004204Z" creationid="RAFAEL" creationdate="20200826T004204Z">
+        <seg>[3247]&lt;ASBI&gt;Ajuste regularmente os salários dos líderes de equipe com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3248]&lt;ATL1&gt;Adjust Training Levels for all your firms:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004245Z" creationid="RAFAEL" creationdate="20200826T004245Z">
+        <seg>[3248]&lt;ATL1&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3249]&lt;ATL2&gt;Adjust Training Levels for all its firms:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004300Z" creationid="RAFAEL" creationdate="20200826T004300Z">
+        <seg>[3249]&lt;ATL2&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3250]&lt;ATL3&gt;Sorry, you currently do not have any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004311Z" creationid="RAFAEL" creationdate="20200826T004311Z">
+        <seg>[3250]&lt;ATL3&gt;Desculpe, você atualmente não tem nenhuma empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3251]&lt;ATL4&gt;Sorry, this corporation currently does not have any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004321Z" creationid="RAFAEL" creationdate="20200826T004321Z">
+        <seg>[3251]&lt;ATL4&gt;Desculpe, esta corporação atualmente não tem nenhuma firma.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3252]&lt;ATL5&gt;The new training setting has been applied to all your firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004358Z" creationid="RAFAEL" creationdate="20200826T004358Z">
+        <seg>[3252]&lt;ATL5&gt;A nova configuração de treinamento foi aplicada a todas as suas empresas.\n(Total:% 1d empresas)|</seg>
       </tuv>
     </tu>
     <tu>
