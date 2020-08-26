@@ -350,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// 2 means range brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123041Z" creationid="Olivier" creationdate="20200826T123041Z">
+        <seg>// 2 means range brand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// 2 means that the condition is met when your department store is selling 2 different products of the specified item class</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123045Z" creationid="Olivier" creationdate="20200826T123045Z">
+        <seg>// 2 means that the condition is met when your department store is selling 2 different products of the specified item class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// COO Salary Modifier=70</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013837Z" creationid="Olivier" creationdate="20200802T013837Z">
@@ -386,6 +402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012433Z" creationid="Olivier" creationdate="20200802T012433Z">
         <seg>// nation and average ratings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// to prevent the mft unit from using Steel to produce Engine immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123033Z" creationid="Olivier" creationdate="20200826T123033Z">
+        <seg>// to prevent the mft unit from using Steel to produce Engine immediately.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Build Count=Farm, 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123051Z" creationid="Olivier" creationdate="20200826T123051Z">
+        <seg>Firm Build Count=Farm, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm Filter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202732Z" creationid="RAFAEL" creationdate="20200802T202732Z">
@@ -14443,6 +14475,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121433Z" creationid="Olivier" creationdate="20200805T121433Z">
         <seg>Interface Select=Select Supplier, Seaport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interface select=Select R&amp;D Item, Air Conditioner</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123058Z" creationid="Olivier" creationdate="20200826T123058Z">
+        <seg>Interface select=Select R&amp;D Item, Air Conditioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -20447,6 +20487,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=175,498,323,509</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123048Z" creationid="Olivier" creationdate="20200826T123048Z">
+        <seg>Pointer=175,498,323,509</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=180,472,312,486</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122415Z" creationid="Olivier" creationdate="20200805T122415Z">
@@ -20475,6 +20523,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083835Z" creationid="Olivier" creationdate="20200814T083835Z">
         <seg>Pointer=193,300,380,330</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=197,283,411,354</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123100Z" creationid="Olivier" creationdate="20200826T123100Z">
+        <seg>Pointer=197,283,411,354</seg>
       </tuv>
     </tu>
     <tu>
@@ -20591,6 +20647,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=281,60,452,104</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123050Z" creationid="Olivier" creationdate="20200826T123050Z">
+        <seg>Pointer=281,60,452,104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=282,52,450,100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083805Z" creationid="Olivier" creationdate="20200814T083805Z">
@@ -20631,6 +20695,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=318,334,398,350</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123027Z" creationid="Olivier" creationdate="20200826T123027Z">
+        <seg>Pointer=318,334,398,350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=321,386,418,400</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121719Z" creationid="Olivier" creationdate="20200805T121719Z">
@@ -20643,6 +20715,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122229Z" creationid="Olivier" creationdate="20200805T122229Z">
         <seg>Pointer=324,312,386,338</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=33,296,151,306</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123024Z" creationid="Olivier" creationdate="20200826T123024Z">
+        <seg>Pointer=33,296,151,306</seg>
       </tuv>
     </tu>
     <tu>
@@ -20911,6 +20991,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=571,122,773,158</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123046Z" creationid="Olivier" creationdate="20200826T123046Z">
+        <seg>Pointer=571,122,773,158</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=571,168,773,182</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122438Z" creationid="Olivier" creationdate="20200805T122438Z">
@@ -20931,6 +21019,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122436Z" creationid="Olivier" creationdate="20200805T122436Z">
         <seg>Pointer=571,96,773,112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=576,340,595,358</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123036Z" creationid="Olivier" creationdate="20200826T123036Z">
+        <seg>Pointer=576,340,595,358</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,6 +21083,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121404Z" creationid="Olivier" creationdate="20200805T121404Z">
         <seg>Pointer=60,120,165,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=601,365,680,444</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123039Z" creationid="Olivier" creationdate="20200826T123039Z">
+        <seg>Pointer=601,365,680,444</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=624,474, 696, 486</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123054Z" creationid="Olivier" creationdate="20200826T123054Z">
+        <seg>Pointer=624,474, 696, 486</seg>
       </tuv>
     </tu>
     <tu>
@@ -24079,6 +24191,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set firm description=My Farm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123053Z" creationid="Olivier" creationdate="20200826T123053Z">
+        <seg>Set firm description=My Farm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set firm description=My megastore</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083819Z" creationid="Olivier" creationdate="20200814T083819Z">
@@ -25808,6 +25928,22 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=100,150,400,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123029Z" creationid="Olivier" creationdate="20200826T123029Z">
+        <seg>Text Box=100,150,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=100,180,400,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123049Z" creationid="Olivier" creationdate="20200826T123049Z">
+        <seg>Text Box=100,180,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=100,200,300,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121559Z" creationid="Olivier" creationdate="20200805T121559Z">
@@ -26072,6 +26208,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=300,200,400,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123102Z" creationid="Olivier" creationdate="20200826T123102Z">
+        <seg>Text Box=300,200,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=300,280,350,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122045Z" creationid="Olivier" creationdate="20200805T122045Z">
@@ -26240,6 +26384,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=40,422,380,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123036Z" creationid="Olivier" creationdate="20200826T123036Z">
+        <seg>Text Box=40,422,380,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=400,12,250,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121642Z" creationid="Olivier" creationdate="20200805T121642Z">
@@ -26292,6 +26444,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083833Z" creationid="Olivier" creationdate="20200814T083833Z">
         <seg>Text Box=500,100,250,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=60,120,360,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123059Z" creationid="Olivier" creationdate="20200826T123059Z">
+        <seg>Text Box=60,120,360,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -30227,6 +30387,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=1, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123055Z" creationid="Olivier" creationdate="20200826T123055Z">
+        <seg>Unit Exists=1, Product R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=1, Purchasing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121915Z" creationid="Olivier" creationdate="20200805T121915Z">
@@ -30251,10 +30419,34 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=2, Manufacturing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123030Z" creationid="Olivier" creationdate="20200826T123030Z">
+        <seg>Unit Exists=2, Manufacturing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=2, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123056Z" creationid="Olivier" creationdate="20200826T123056Z">
+        <seg>Unit Exists=2, Product R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=3, Sales</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121922Z" creationid="Olivier" creationdate="20200805T121922Z">
         <seg>Unit Exists=3, Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=4, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123057Z" creationid="Olivier" creationdate="20200826T123057Z">
+        <seg>Unit Exists=4, Product R&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -30335,6 +30527,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121924Z" creationid="Olivier" creationdate="20200805T121924Z">
         <seg>Unit Linked=Purchasing, Manufacturing, 1, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Purchasing, Manufacturing, 1, 5</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123038Z" creationid="Olivier" creationdate="20200826T123038Z">
+        <seg>Unit Linked=Purchasing, Manufacturing, 1, 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -30991,6 +31191,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024751Z" creationid="RAFAEL" creationdate="20200804T024751Z">
         <seg>Taxa salarial </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait until it is linked with Timber, to produce Golf club</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123033Z" creationid="Olivier" creationdate="20200826T123033Z">
+        <seg>Wait until it is linked with Timber, to produce Golf club</seg>
       </tuv>
     </tu>
     <tu>
@@ -32787,6 +32995,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your factory sells product type=Air Conditioner</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123101Z" creationid="Olivier" creationdate="20200826T123101Z">
+        <seg>Your factory sells product type=Air Conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T003535Z" creationid="RAFAEL" creationdate="20200822T000504Z">
@@ -32871,6 +33087,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012037Z" creationid="RAFAEL" creationdate="20200812T012037Z">
         <seg>Sua loja agora tem uma nova ~Unidade de compra~. ^^ Continue para adicionar uma ~Unidade de vendas~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store sells your product class=Apparel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123043Z" creationid="Olivier" creationdate="20200826T123043Z">
+        <seg>Your store sells your product class=Apparel</seg>
       </tuv>
     </tu>
     <tu>
