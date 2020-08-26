@@ -49291,6 +49291,86 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3259]&lt;IRD2&gt;Investor relations efforts will help improve this|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004707Z" creationid="RAFAEL" creationdate="20200826T004707Z">
+        <seg>[3259]&lt;IRD2&gt;Os esforços de relações com investidores ajudarão a melhorar isso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3260]&lt;IRD3&gt;corporation's stock performance.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004748Z" creationid="RAFAEL" creationdate="20200826T004748Z">
+        <seg>[3260]&lt;IRD3&gt;desempenho das ações da empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3261]&lt;MODU&gt;MOD in use:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004757Z" creationid="RAFAEL" creationdate="20200826T004757Z">
+        <seg>[3261]&lt;MODU&gt;MOD em uso:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3262]&lt;MODF&gt;For MOD:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004806Z" creationid="RAFAEL" creationdate="20200826T004806Z">
+        <seg>[3262]&lt;MODF&gt;Para MOD:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3263]&lt;APIN&gt;Regularly adjust prices based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004822Z" creationid="RAFAEL" creationdate="20200826T004822Z">
+        <seg>[3263]&lt;APIN&gt;Ajuste os preços regularmente com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3264]&lt;ASIN&gt;Adjust advertising spending based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004832Z" creationid="RAFAEL" creationdate="20200826T004832Z">
+        <seg>[3264]&lt;ASIN&gt;Ajuste os gastos com publicidade com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3265]&lt;AIN1&gt;Increase all product prices monthly at the same rate as inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004857Z" creationid="RAFAEL" creationdate="20200826T004857Z">
+        <seg>[3265]&lt;AIN1&gt;Aumente todos os preços dos produtos mensalmente na mesma taxa da inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spendings monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004921Z" creationid="RAFAEL" creationdate="20200826T004921Z">
+        <seg>[3266]&lt;AIN2&gt;Aumente todos os gastos com publicidade mensalmente com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3267]&lt;ATEC&gt;Acquire Product Tech From Other Companies|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004931Z" creationid="RAFAEL" creationdate="20200826T004931Z">
+        <seg>[3267]&lt;ATEC&gt;Adquira tecnologia de produto de outras empresas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004945Z" creationid="RAFAEL" creationdate="20200826T004945Z">
+        <seg>[3268]&lt;SAD1&gt;Defina um novo orçamento de publicidade para todas as suas unidades de publicidade:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
