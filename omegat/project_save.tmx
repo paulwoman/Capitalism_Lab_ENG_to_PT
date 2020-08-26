@@ -10286,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the Headquarters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014849Z" creationid="RAFAEL" creationdate="20200826T014849Z">
+        <seg>Vá para SedeHQ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the firm selling or producing this product (Hotkey: Enter)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021734Z" creationid="RAFAEL" creationdate="20200804T021734Z">
@@ -10698,6 +10706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T135753Z" creationid="RAFAEL" creationdate="20200802T135753Z">
         <seg>Sede da empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014923Z" creationid="RAFAEL" creationdate="20200826T014819Z">
+        <seg>SedeHQ (Atalho: 'H')</seg>
       </tuv>
     </tu>
     <tu>
@@ -24719,6 +24735,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015049Z" creationid="RAFAEL" creationdate="20200826T015049Z">
+        <seg>Bolsa de Valores (Atalho: F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Market=No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015320Z" creationid="Olivier" creationdate="20200802T015320Z">
@@ -28639,6 +28663,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223742Z" creationid="RAFAEL" creationdate="20200801T223742Z">
         <seg>Esta é a data atual do jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the current game date.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014804Z" creationid="RAFAEL" creationdate="20200826T014804Z">
+        <seg>Esta é a data do jogo atual.</seg>
       </tuv>
     </tu>
     <tu>
