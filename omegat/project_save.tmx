@@ -49619,6 +49619,38 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011257Z" creationid="RAFAEL" creationdate="20200826T011257Z">
+        <seg>[3297]&lt;BCH5&gt;Desculpe, o treinamento não se aplica às empresas que você escolheu nesta lista.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3298]&lt;SEC1&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011415Z" creationid="RAFAEL" creationdate="20200826T011415Z">
+        <seg>[3298]&lt;SEC1&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nVocê não pode usar uma empresa que você controla para comprar ações das quais você é proprietário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011507Z" creationid="RAFAEL" creationdate="20200826T011507Z">
+        <seg>[3299]&lt;SEC2&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nVocê não pode usar uma empresa que você controla para comprar ações da qual sua empresa tem propriedade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T011559Z" creationid="RAFAEL" creationdate="20200826T011559Z">
+        <seg>[3300]&lt;SEC3&gt;A CVM Comissão de Valores Mobiliários não aprova sua compra.\nSua empresa não pode comprar ações das quais você seja proprietário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
