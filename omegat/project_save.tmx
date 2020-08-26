@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T220245Z" creationid="RAFAEL" creationdate="20200826T220245Z">
+        <seg>Clique no ícone ~Adicionar produto~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T003842Z" creationid="RAFAEL" creationdate="20200811T003842Z">
