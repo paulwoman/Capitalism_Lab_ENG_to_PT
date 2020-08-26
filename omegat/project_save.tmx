@@ -2982,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014625Z" creationid="RAFAEL" creationdate="20200826T014625Z">
+        <seg>Voltar para a empresa anterior (Atalho: q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Backward Integration</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T015253Z" creationid="RAFAEL" creationdate="20200805T015253Z">
@@ -5466,6 +5474,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030932Z" creationid="RAFAEL" creationdate="20200804T030932Z">
         <seg>Clique aqui para digitar um número exato (Atalho: '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014721Z" creationid="RAFAEL" creationdate="20200826T014721Z">
+        <seg>Clique aqui para ver sua #Folha do Balanço#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014738Z" creationid="RAFAEL" creationdate="20200826T014738Z">
+        <seg>Clique aqui para ver sua #Declaração de Receitas#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223230Z" creationid="RAFAEL" creationdate="20200801T223230Z">
         <seg>Volte para a empresa selecionada anteriormente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014634Z" creationid="RAFAEL" creationdate="20200826T014634Z">
+        <seg>Voltar para a empresa previamente selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27859,6 +27891,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014754Z" creationid="RAFAEL" creationdate="20200826T014754Z">
+        <seg>As barras verticais representam o lucro ou prejuízo mensal da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010209Z" creationid="RAFAEL" creationdate="20200811T010209Z">
@@ -28431,6 +28471,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023719Z" creationid="RAFAEL" creationdate="20200806T023719Z">
         <seg>Esse valor é projetado pela multiplicação das últimas receitas mensais dos juros do empréstimo por 12 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014648Z" creationid="RAFAEL" creationdate="20200826T014648Z">
+        <seg>Este valor é a quantidade de dinheiro que sua empresa possui atualmente.</seg>
       </tuv>
     </tu>
     <tu>
