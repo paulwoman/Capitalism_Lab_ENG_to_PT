@@ -49691,6 +49691,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3306]&lt;RSP3&gt;A %1s reverse stock split will group every %2s shares into one share.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T012002Z" creationid="RAFAEL" creationdate="20200826T012002Z">
+        <seg>[3306]&lt;RSP3&gt;Um grupamento de ações de %1s agrupará cada %2s ações em uma ação.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3307]&lt;RSP4&gt;The resulting stock price will be|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T012015Z" creationid="RAFAEL" creationdate="20200826T012015Z">
+        <seg>[3307]&lt;RSP4&gt;O preço da ação resultante será|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
