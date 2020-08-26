@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you may recall, a product's ~quality rating~ is based on two factors: the company's ~production technology rating for the product~ and the ~raw material quality~.^^Research advances your company's ~production technologies~ and thus increases your products' ~quality~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215101Z" creationid="RAFAEL" creationdate="20200826T215101Z">
+        <seg>Como você deve se lembrar, a ~classificação de qualidade~ de um produto é baseada em dois fatores: a ~classificação da tecnologia de produção da empresa para o produto~ e a ~qualidade da matéria-prima~.^^A pesquisa avança as ~tecnologias de produção~ de sua empresa e, portanto, aumenta a  ~qualidade~ de seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you see here, ~Technology~ contributes 80% to Air Conditioners' ~Quality~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T174625Z" creationid="RAFAEL" creationdate="20200822T020113Z">
@@ -14011,6 +14019,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015452Z" creationid="RAFAEL" creationdate="20200822T015452Z">
         <seg>Neste tutorial você aprenderá como melhorar a qualidade de seus produtos conduzindo pesquisas em Centros de P&amp;D (Centros de Pesquisa e Desenvolvimento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in ~R&amp;D Centers~ (Research and Development Centers).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214925Z" creationid="RAFAEL" creationdate="20200826T214925Z">
+        <seg>Neste tutorial, você aprenderá como melhorar a qualidade de seus produtos conduzindo pesquisas em ~ Centros de P&amp;D ~ (Centros de Pesquisa e Desenvolvimento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29515,6 +29531,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214716Z" creationid="RAFAEL" creationdate="20200826T214716Z">
+        <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ele já está coberto pela marca de sua classe de produto de vestuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022356Z" creationid="RAFAEL" creationdate="20200818T022356Z">
@@ -32111,6 +32135,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200906Z" creationid="RAFAEL" creationdate="20200822T200906Z">
         <seg>Com todas as habilidades e experiências que adquiriu, você está bem equipado para realizar sua ambição de construir um império de negócios que o mundo admiraria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214904Z" creationid="RAFAEL" creationdate="20200826T214904Z">
+        <seg>Com a publicidade produzindo seu efeito, as ~avaliações da marca~ de seus produtos continuarão a aumentar, o que, por sua vez, aumentará as ~avaliações gerais dos seus produtos~ e, assim, aumentará suas vendas.^^Enquanto tudo isso está acontecendo, vamos abrir o ~Detalhes corporativos~ relatar pressionando a tecla de atalho ~'D'~ (ou ~Ctrl-D~) para acessar algumas informações úteis de mercado.</seg>
       </tuv>
     </tu>
     <tu>
