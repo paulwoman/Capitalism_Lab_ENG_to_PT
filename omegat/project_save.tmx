@@ -17303,6 +17303,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Active Research</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020041Z" creationid="RAFAEL" creationdate="20200826T020041Z">
+        <seg>Nenhuma pesquisa ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T200821Z" creationid="RAFAEL" creationdate="20200802T200821Z">
@@ -27537,6 +27545,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The operation of this University is currently suspended.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020050Z" creationid="RAFAEL" creationdate="20200826T020050Z">
+        <seg>O funcionamento desta Universidade está atualmente suspenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The operation of this public facility is suspended due to lack of government funding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001317Z" creationid="RAFAEL" creationdate="20200805T001317Z">
@@ -29375,6 +29391,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021847Z" creationid="RAFAEL" creationdate="20200818T021847Z">
         <seg>Para fazer isso, selecione ~Ações Financeiras~ no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enable research, please set the #Operation slider# of this university to a value larger than zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020108Z" creationid="RAFAEL" creationdate="20200826T020108Z">
+        <seg>Para habilitar a pesquisa, defina o #controle deslizante de operação# desta universidade para um valor maior que zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45907,6 +45931,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020143Z" creationid="RAFAEL" creationdate="20200826T020143Z">
+        <seg>[2805]&lt;BF08&gt;Segure a tecla [SHIFT] simultaneamente para construir mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to build more|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T174307Z" creationid="Olivier" creationdate="20200730T174307Z">
@@ -46567,6 +46599,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090626Z" creationid="User" creationdate="20200802T003440Z">
         <seg>[2887]&lt;NCG2&gt;Todos os produtos estão bloqueados, exigindo reinvenção, exceto os produtos da mega classe Alimentos e Bebidas e os produtos nos quais você possui experiência.\n\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020220Z" creationid="RAFAEL" creationdate="20200826T020220Z">
+        <seg>[2887]&lt;NCG2&gt;Todos os produtos são bloqueados, exigindo reinvenção, exceto os produtos da megaclasse de Alimentos e Bebidas e os produtos nos quais você tem experiência.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
