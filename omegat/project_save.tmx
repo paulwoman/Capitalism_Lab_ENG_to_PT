@@ -49539,6 +49539,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3287]&lt;MSP3&gt;BLACK - it means that the CEO may produce products in the product class.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010849Z" creationid="RAFAEL" creationdate="20200826T010849Z">
+        <seg>[3287]&lt;MSP3&gt;PRETO - significa que o CEO pode produzir produtos na classe de produtos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3288]&lt;SWS1&gt;Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T010948Z" creationid="RAFAEL" creationdate="20200826T010948Z">
+        <seg>[3288]&lt;SWS1&gt;Desculpe, mas as informações dos fornecedores não foram encontradas para as empresas que você escolheu nesta lista.\n\nPortanto, nenhuma alteração foi feita.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
