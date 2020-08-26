@@ -32475,6 +32475,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your new subsidiary company has been set up.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002700Z" creationid="RAFAEL" creationdate="20200826T002700Z">
+        <seg>Sua nova subsidiária foi criada.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
@@ -48911,6 +48919,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002600Z" creationid="RAFAEL" creationdate="20200826T002600Z">
         <seg>[3217]&lt;NSU2&gt;Desculpe, você não pode formar uma nova empresa subsidiária, pois o número máximo de empresas permitidas no jogo foi atingido.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3218]&lt;NSU3&gt;Sorry, you cannot set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002642Z" creationid="RAFAEL" creationdate="20200826T002642Z">
+        <seg>[3218]&lt;NSU3&gt;Desculpe, você não pode abrir uma nova subsidiária no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3219]&lt;NSU4&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002650Z" creationid="RAFAEL" creationdate="20200826T002650Z">
+        <seg>[3219]&lt;NSU4&gt;Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3220]&lt;BHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002722Z" creationid="RAFAEL" creationdate="20200826T002722Z">
+        <seg>[3220]&lt;BHQF&gt;Você deve construir a sede do banco primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3221]&lt;IHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002733Z" creationid="RAFAEL" creationdate="20200826T002733Z">
+        <seg>[3221]&lt;IHQF&gt;Você deve construir a sede do banco primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3222]&lt;JPE1&gt;To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002918Z" creationid="RAFAEL" creationdate="20200826T002918Z">
+        <seg>[3222]&lt;JPE1&gt;Para um novo projeto, você deve primeiro 1) contratar um gerente de projeto e 2) vincular a unid. de gerenciamento do projeto atual a uma unid. de programação do projeto.|</seg>
       </tuv>
     </tu>
     <tu>
