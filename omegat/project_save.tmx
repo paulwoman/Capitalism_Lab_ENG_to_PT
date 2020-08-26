@@ -48731,6 +48731,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001519Z" creationid="RAFAEL" creationdate="20200826T001519Z">
+        <seg>[3199]&lt;BNOT&gt;A empresa não atende aos requisitos de emissão de títulos.\nTente aumentar o valor patrimonial da empresa.\n(Você pode ver o valor patrimonial no balanço patrimonial.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200803T220942Z" creationid="User" creationdate="20200803T220942Z">
