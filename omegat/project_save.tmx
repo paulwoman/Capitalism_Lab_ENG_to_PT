@@ -48747,6 +48747,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3200]&lt;DLE1&gt;Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001704Z" creationid="RAFAEL" creationdate="20200826T001704Z">
+        <seg>[3200]&lt;DLE1&gt;Desculpe, este MOD não pode ser carregado porque DLC que ele requer não está habilitado:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
