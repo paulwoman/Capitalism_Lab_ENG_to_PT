@@ -26977,6 +26977,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game now no longer uses any MOD.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003701Z" creationid="RAFAEL" creationdate="20200826T003701Z">
+        <seg>O jogo agora não usa mais nenhum MOD.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T172938Z" creationid="Olivier" creationdate="20200730T172938Z">
@@ -32175,6 +32183,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193354Z" creationid="RAFAEL" creationdate="20200802T193354Z">
         <seg>Você deve selecionar fornecedores manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003507Z" creationid="RAFAEL" creationdate="20200826T003507Z">
+        <seg>Você precisa pertencer a um partido político para fazer isso.\n\nPara formar um novo partido político, acesse o Centro de Informações e selecione [Partidos Políticos] e, em seguida, selecione [Forme seu próprio partido].|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49023,6 +49039,70 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003421Z" creationid="RAFAEL" creationdate="20200826T003421Z">
         <seg>[3230]&lt;NCIP&gt;Desculpe, você não pode encontrar uma nova cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3231]&lt;MAYO&gt;Mayor of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003517Z" creationid="RAFAEL" creationdate="20200826T003517Z">
+        <seg>[3231]&lt;MAYO&gt;Prefeito de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3232]&lt;MGOA&gt;Main Goal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003527Z" creationid="RAFAEL" creationdate="20200826T003527Z">
+        <seg>[3232]&lt;MGOA&gt;Objetivo principal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3233]&lt;SGOA&gt;SubGoal|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003557Z" creationid="RAFAEL" creationdate="20200826T003557Z">
+        <seg>[3233]&lt;SGOA&gt;Sub-objectivo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3234]&lt;PFIT&gt;Attempting to find a supplier for this item...|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003622Z" creationid="RAFAEL" creationdate="20200826T003622Z">
+        <seg>[3234]&lt;PFIT&gt;Tentando encontrar um fornecedor para este item ...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3235]&lt;MWIT&gt;Waiting for required inputs to manufacture this product...|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003638Z" creationid="RAFAEL" creationdate="20200826T003638Z">
+        <seg>[3235]&lt;MWIT&gt;Aguardando os insumos necessários para fabricar este produto ...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3236]&lt;MOD1&gt;Reset successfully.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003649Z" creationid="RAFAEL" creationdate="20200826T003649Z">
+        <seg>[3236]&lt;MOD1&gt;Reiniciar com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3237]&lt;MOD2&gt;MOD %1s has been loaded successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003719Z" creationid="RAFAEL" creationdate="20200826T003719Z">
+        <seg>[3237]&lt;MOD2&gt;MOD%1s foi carregado com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3238]&lt;DTEL&gt;Market Dominance of Telecom|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003747Z" creationid="RAFAEL" creationdate="20200826T003747Z">
+        <seg>[3238]&lt;DTEL&gt;Domínio do merc. de telecomunicações|</seg>
       </tuv>
     </tu>
     <tu>
