@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&amp;D or production activities in the industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015902Z" creationid="RAFAEL" creationdate="20200826T015902Z">
+        <seg>1) A competitividade de uma cidade aumenta mais rapidamente quando há um maior número de empresas engajadas em atividades de P&amp;D ou produção na indústria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is normal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020330Z" creationid="RAFAEL" creationdate="20200806T020330Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205357Z" creationid="RAFAEL" creationdate="20200802T205357Z">
         <seg>2) As taxas de utilização são exibidas para fábricas, fazendas e minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2)The city government sponsors a university to conduct research in a specific industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015936Z" creationid="RAFAEL" creationdate="20200826T015936Z">
+        <seg>2) O governo da cidade patrocina uma universidade para realizar pesquisas em um setor específico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that the team is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015742Z" creationid="RAFAEL" creationdate="20200826T015742Z">
+        <seg>Uma alta taxa de utilização significa que a equipe está operando com eficiência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230238Z" creationid="RAFAEL" creationdate="20200802T230238Z">
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033456Z" creationid="RAFAEL" creationdate="20200806T033456Z">
         <seg>Um longo tempo de espera do cliente afeta negativamente a qualidade do serviço deste front office de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that the team has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015751Z" creationid="RAFAEL" creationdate="20200826T015751Z">
+        <seg>Uma taxa baixa significa que a equipe tem tempo ocioso e sua capacidade é subutilizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Experience Level of the Team</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015727Z" creationid="RAFAEL" creationdate="20200826T015727Z">
+        <seg>Nível de experiência da equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Experience Level of the Unit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
@@ -11267,6 +11307,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T182036Z" creationid="Olivier" creationdate="20200730T132606Z">
         <seg>Quanto Você pode pagar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How to increase a city's competitiveness</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015845Z" creationid="RAFAEL" creationdate="20200826T015845Z">
+        <seg>Como aumentar a competitividade de uma cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -14903,6 +14951,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the amount of stock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015833Z" creationid="RAFAEL" creationdate="20200826T015833Z">
+        <seg>Mostra a quantidade de estoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the average ratings of this product in the current city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225821Z" creationid="RAFAEL" creationdate="20200802T225821Z">
@@ -14955,6 +15011,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230111Z" creationid="RAFAEL" creationdate="20200802T230111Z">
         <seg>Ele mostra que a porcentagem da demanda do produto nesta unidade de compra é atendida pela oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows this product's market share in the current city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015713Z" creationid="RAFAEL" creationdate="20200826T015713Z">
+        <seg>Mostra a participação de mercado deste produto na cidade atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18731,6 +18795,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140524Z" creationid="RAFAEL" creationdate="20200802T140524Z">
         <seg>Abra a tela de opções de exibição de notícias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Road Editor (hotkey: Ctrl-R)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T020026Z" creationid="RAFAEL" creationdate="20200826T020026Z">
+        <seg>Abra o Road Editor (Atalho: Ctrl-R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24787,6 +24859,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011857Z" creationid="Olivier" creationdate="20200802T011857Z">
         <seg>Stock Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Inventory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015823Z" creationid="RAFAEL" creationdate="20200826T015823Z">
+        <seg>Inventário de estoque</seg>
       </tuv>
     </tu>
     <tu>
