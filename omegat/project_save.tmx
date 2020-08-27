@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214655Z" creationid="RAFAEL" creationdate="20200826T214655Z">
+        <seg>(Dica: se você já está fabricando e vendendo ~jeans~, escolha ~jaqueta de couro~).^^Este tutorial continuará quando você ~produzir~ e ~vender~ um novo produto de ~vestuário~ em sua ~loja de departamentos~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T002837Z" creationid="RAFAEL" creationdate="20200805T002837Z">
@@ -1566,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>About Capitalism Lab: Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214409Z" creationid="RAFAEL" creationdate="20200826T214409Z">
+        <seg>Sobre o Capitalism Lab: Capitalism Lab é uma expansão do Capitalism 2 com uma série de novos recursos e melhorias, para usuários experientes do Capitalism 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access the Capitalism Lab MOD forum to download user-created MODs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012824Z" creationid="RAFAEL" creationdate="20200805T012824Z">
@@ -2282,6 +2298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015606Z" creationid="RAFAEL" creationdate="20200822T015606Z">
         <seg>Como você deve se lembrar, a classificação de um produto é baseada em dois fatores: a classificação da tecnologia de produção da empresa para o produto e a qualidade da matéria-prima.^^A pesquisa avança a tecnologia de produção da sua empresa e, portanto, aumenta a qualidade dos seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you may recall, a product's ~quality rating~ is based on two factors: the company's ~production technology rating for the product~ and the ~raw material quality~.^^Research advances your company's ~production technologies~ and thus increases your products' ~quality~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215101Z" creationid="RAFAEL" creationdate="20200826T215101Z">
+        <seg>Como você deve se lembrar, a ~classificação de qualidade~ de um produto é baseada em dois fatores: a ~classificação da tecnologia de produção da empresa para o produto~ e a ~qualidade da matéria-prima~.^^A pesquisa avança as ~tecnologias de produção~ de sua empresa e, portanto, aumenta a  ~qualidade~ de seus produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4502,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Capitalism Lab improves upon the award-winning Capitalism II with a host of new features and improvements, including new products, realistic simulation of inflation (the first of its kind), greatly enhanced macroeconomic simulation, the ability to build community, sport facilities, and media firms, as well as improved screen resolutions, interfaces, smarter AI, and many other improvements!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213948Z" creationid="RAFAEL" creationdate="20200826T213948Z">
+        <seg>Capitalism Lab aprimora o premiado Capitalism II com uma série de novos recursos e melhorias, incluindo novos produtos, simulação realista de inflação (a primeira de seu tipo), simulação macroeconômica bastante aprimorada, a capacidade de construir comunidades, instalações esportivas e empresas de mídia, bem como melhores resoluções de tela, interfaces, inteligência artificial mais inteligente e muitas outras melhorias!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214033Z" creationid="RAFAEL" creationdate="20200826T214033Z">
+        <seg>Capitalism Lab é uma expansão do Capitalism 2 com uma série de novos recursos e melhorias, para usuários experientes do Capitalism 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Center on firm=My Department Store</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T203431Z" creationid="Olivier" creationdate="20200814T083732Z">
@@ -5610,6 +5650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015300Z" creationid="RAFAEL" creationdate="20200826T015300Z">
         <seg>Clique na discagem rápida para alterar a velocidade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T220245Z" creationid="RAFAEL" creationdate="20200826T220245Z">
+        <seg>Clique no ícone ~Adicionar produto~ agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7510,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Capitalism Lab is the latest version in the Capitalism business simulation game series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213830Z" creationid="RAFAEL" creationdate="20200826T213830Z">
+        <seg>Description=Capitalism Lab é a versão mais recente da série de jogos de simulação de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T020757Z" creationid="RAFAEL" creationdate="20200811T014711Z">
@@ -7530,6 +7586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
         <seg>Description=Para se manter competitivo em um mercado em constante mudança, você deve investir constantemente na melhoria da qualidade de seus produtos.^^Neste tutorial, você vai estabelecer um Centro de Pesquisa e Desenvolvimento (P&amp;D) e iniciar projetos de P&amp;D para inventar tecnologias mais avançadas para seus produtos.^^A competição será acirrada, mas seu investimento em P&amp;D deve compensar e dar a você uma vantagem competitiva em relação a seus rivais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215258Z" creationid="RAFAEL" creationdate="20200826T215258Z">
+        <seg>Description=Com mais de vinte anos de experiência na produção de equipamentos fotográficos de classe mundial, você ganhou a confiança de um grupo de investidores para financiar sua startup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10462,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214224Z" creationid="RAFAEL" creationdate="20200826T214224Z">
+        <seg>Goal Achieved Text=Parabéns!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004624Z" creationid="RAFAEL" creationdate="20200805T004624Z">
@@ -10510,6 +10582,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214257Z" creationid="RAFAEL" creationdate="20200826T214213Z">
+        <seg>Goal Description=Este é o seu primeiro Objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=This is your main goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214021Z" creationid="RAFAEL" creationdate="20200826T214021Z">
+        <seg>Goal Description=Este é o seu objetivo principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=This is your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214358Z" creationid="RAFAEL" creationdate="20200826T214358Z">
+        <seg>Goal Description=Este é o seu segundo Objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015403Z" creationid="RAFAEL" creationdate="20200822T015403Z">
@@ -10550,6 +10646,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214319Z" creationid="RAFAEL" creationdate="20200826T214319Z">
+        <seg>Goal Failed Text=Desculpe, você falhou em seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214436Z" creationid="RAFAEL" creationdate="20200826T214436Z">
+        <seg>Goal Failed Text=Desculpe, você falhou em seu segundo objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
@@ -10562,6 +10674,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225327Z" creationid="RAFAEL" creationdate="20200801T225327Z">
         <seg>Relatório de objetivos (Tecla de atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=First Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
+        <seg>Goal Title=Primeiro Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Main Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
+        <seg>Goal Title=Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Second Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214342Z" creationid="RAFAEL" creationdate="20200826T214342Z">
+        <seg>Goal Title=Segundo Objetivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13551,6 +13687,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214047Z" creationid="RAFAEL" creationdate="20200826T214047Z">
+        <seg>Se você é novo na série Capitalismo, é recomendado que você coloque as mãos no Capitalismo 2 primeiro, que contém tutoriais bem elaborados para aprender o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are the party's leader, each of your members' influence value will contribute 50% to yours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022835Z" creationid="RAFAEL" creationdate="20200805T022835Z">
@@ -13891,6 +14035,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015452Z" creationid="RAFAEL" creationdate="20200822T015452Z">
         <seg>Neste tutorial você aprenderá como melhorar a qualidade de seus produtos conduzindo pesquisas em Centros de P&amp;D (Centros de Pesquisa e Desenvolvimento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in ~R&amp;D Centers~ (Research and Development Centers).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214925Z" creationid="RAFAEL" creationdate="20200826T214925Z">
+        <seg>Neste tutorial, você aprenderá como melhorar a qualidade de seus produtos conduzindo pesquisas em ~ Centros de P&amp;D ~ (Centros de Pesquisa e Desenvolvimento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14915,6 +15067,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023906Z" creationid="RAFAEL" creationdate="20200818T023906Z">
         <seg>Isso levou a um aumento no ~número total de ações em circulação~ e a uma diminuição no ~Lucro por ação~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lets you build the business empire of your dream.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213846Z" creationid="RAFAEL" creationdate="20200826T213846Z">
+        <seg>Ele permite que você construa o império de negócios dos seus sonhos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19023,6 +19183,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Our development team will implement experimental gameplay into it and communicate with the gaming community to get their feedback about the new features and improvements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214139Z" creationid="RAFAEL" creationdate="20200826T214139Z">
+        <seg>Nossa equipe de desenvolvimento implementará jogabilidade experimental nele e se comunicará com a comunidade de jogos para obter feedback sobre os novos recursos e melhorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Output Product</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T214759Z" creationid="RAFAEL" creationdate="20200802T214759Z">
@@ -19727,6 +19895,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=First Subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214500Z" creationid="RAFAEL" creationdate="20200826T214500Z">
+        <seg>Parent Goal=Primeiro objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pay a Special Dividend</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023249Z" creationid="RAFAEL" creationdate="20200806T023249Z">
@@ -20391,6 +20567,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=146,6,183,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101248Z" creationid="Olivier" creationdate="20200827T101248Z">
+        <seg>Pointer=146,6,183,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=156,6,183,30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121544Z" creationid="Olivier" creationdate="20200805T121544Z">
@@ -20663,10 +20847,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T130458Z" creationid="Olivier" creationdate="20200826T130458Z">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=30,0,600,30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200814T083743Z" creationid="Olivier" creationdate="20200814T083743Z">
         <seg>Pointer=30,0,600,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=30,0,640,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101242Z" creationid="Olivier" creationdate="20200827T101242Z">
+        <seg>Pointer=30,0,640,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -20715,6 +20915,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122229Z" creationid="Olivier" creationdate="20200805T122229Z">
         <seg>Pointer=324,312,386,338</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=324,314,386,338</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101256Z" creationid="Olivier" creationdate="20200827T101256Z">
+        <seg>Pointer=324,314,386,338</seg>
       </tuv>
     </tu>
     <tu>
@@ -20919,6 +21127,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=52,6,90,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101247Z" creationid="Olivier" creationdate="20200827T101247Z">
+        <seg>Pointer=52,6,90,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=52,61,235,75</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121535Z" creationid="Olivier" creationdate="20200805T121535Z">
@@ -21095,6 +21311,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=623, 472, 698, 487</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101258Z" creationid="Olivier" creationdate="20200827T101258Z">
+        <seg>Pointer=623, 472, 698, 487</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=624,474, 696, 486</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T123054Z" creationid="Olivier" creationdate="20200826T123054Z">
@@ -21167,6 +21391,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=666,0,755,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101244Z" creationid="Olivier" creationdate="20200827T101244Z">
+        <seg>Pointer=666,0,755,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=680,0,764,30</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121457Z" creationid="Olivier" creationdate="20200805T121457Z">
@@ -21195,6 +21427,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121723Z" creationid="Olivier" creationdate="20200805T121723Z">
         <seg>Pointer=69,377,190,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101237Z" creationid="Olivier" creationdate="20200827T101237Z">
+        <seg>Pointer=70,120,185,230</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,6 +21475,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121511Z" creationid="Olivier" creationdate="20200805T121511Z">
         <seg>Pointer=9,33,32,57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=98,6,137,30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101250Z" creationid="Olivier" creationdate="20200827T101250Z">
+        <seg>Pointer=98,6,137,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -25960,10 +26208,26 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=100,410,700,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200826T130453Z" creationid="Olivier" creationdate="20200826T130453Z">
+        <seg>Text Box=100,410,700,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=100,528,200,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122313Z" creationid="Olivier" creationdate="20200805T122313Z">
         <seg>Text Box=100,528,200,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101240Z" creationid="Olivier" creationdate="20200827T101240Z">
+        <seg>Text Box=12,270,320,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -26004,6 +26268,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122727Z" creationid="Olivier" creationdate="20200805T122727Z">
         <seg>Text Box=150,200,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=170,250,210,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101254Z" creationid="Olivier" creationdate="20200827T101254Z">
+        <seg>Text Box=170,250,210,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -26184,6 +26456,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=280,500,380,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101258Z" creationid="Olivier" creationdate="20200827T101258Z">
+        <seg>Text Box=280,500,380,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=280,530,400,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121848Z" creationid="Olivier" creationdate="20200805T121848Z">
@@ -26336,6 +26616,14 @@ Divisão de ações</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=320,482,390,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101300Z" creationid="Olivier" creationdate="20200827T101300Z">
+        <seg>Text Box=320,482,390,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=330,120,450,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122216Z" creationid="Olivier" creationdate="20200805T122216Z">
@@ -26371,6 +26659,14 @@ Divisão de ações</seg>
         <seg>Text Box=40,250,256,0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T000945Z" creationid="Olivier" creationdate="20200805T122011Z">
+        <seg>Text Box=40,250,370,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=40,250,370,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200827T101251Z" creationid="Olivier" creationdate="20200827T101251Z">
         <seg>Text Box=40,250,370,0</seg>
       </tuv>
     </tu>
@@ -26733,6 +27029,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022200Z" creationid="RAFAEL" creationdate="20200822T022122Z">
         <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu nível de tecnologia de produção de ar condicionado para 33.^^Todas as suas fábricas que produzem ar condicionado se beneficiarão do avanço tecnológico, permitindo-lhes produzir ar condicionado de maior qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your ~production technology level~ for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215135Z" creationid="RAFAEL" creationdate="20200826T215135Z">
+        <seg>A janela de mensagem ~Event Tracker~ acima indica que seu projeto de P&amp;D foi concluído, aumentando seu ~nível de tecnologia de produção~ de condicionadores de ar para 33.^^Todas as suas fábricas que produzem condicionadores de ar se beneficiarão do avanço tecnológico, permitindo-lhes produzir condicionadores de ar de alta qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28283,6 +28587,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The word "Lab" implies that Capitalism Lab, after its initial release, will continue to evolve.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214123Z" creationid="RAFAEL" creationdate="20200826T214123Z">
+        <seg>A palavra "Lab" implica que Capitalism Lab, após seu lançamento inicial, continuará a evoluir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The workers are idle.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035227Z" creationid="RAFAEL" creationdate="20200806T035227Z">
@@ -28455,6 +28767,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022819Z" creationid="RAFAEL" creationdate="20200822T022819Z">
         <seg>Há 12 funcionários em cada unidade de P&amp;D, representados por 12 figuras em macacões vermelhos.^^Durante o treinamento, aqueles que já foram treinados serão mostrados usando macacões azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in ~red overalls~.^^During training, those who have been trained already will be shown wearing ~blue overalls~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215157Z" creationid="RAFAEL" creationdate="20200826T215157Z">
+        <seg>Há 12 membros da equipe em cada unidade de P&amp;D, representados por 12 figuras em ~macacão vermelho~.^^Durante o treinamento, aqueles que já foram treinados serão mostrados usando ~macacão azul~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29347,6 +29667,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214716Z" creationid="RAFAEL" creationdate="20200826T214716Z">
+        <seg>Desta vez, você não precisa vincular o novo produto à unidade de publicidade, pois ele já está coberto pela marca de sua classe de produto de vestuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T022356Z" creationid="RAFAEL" creationdate="20200818T022356Z">
@@ -29487,6 +29815,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Dilemma of a Camera Manufacturer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
+        <seg>Title=Dilema de um fabricante de câmeras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214603Z" creationid="RAFAEL" creationdate="20200826T214603Z">
+        <seg>Para acessar a tela ~Estratégia da marca~, abra o relatório ~Detalhe corporativo~ pressionando a tecla de atalho ~D~ agora (ou ~Ctrl-D~ se você alterou a configuração da tecla de atalho no menu Opções).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31587,6 +31931,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in ~blue overalls~), the unit's ~experience level~ will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215228Z" creationid="RAFAEL" creationdate="20200826T215228Z">
+        <seg>Quando toda a equipe de uma unidade funcional for treinada (todos em ~macacão azul~), o ~nível de experiência~ da unidade aumentará em um ponto e a cor geral da equipe voltará ao vermelho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the interest rate is high, the money supply is also tight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025113Z" creationid="RAFAEL" creationdate="20200804T025113Z">
@@ -31851,6 +32203,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why is it called Capitalism Lab?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214106Z" creationid="RAFAEL" creationdate="20200826T214106Z">
+        <seg>Por que é chamado Capitalism Lab?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030059Z" creationid="RAFAEL" creationdate="20200804T030059Z">
@@ -31927,6 +32287,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200906Z" creationid="RAFAEL" creationdate="20200822T200906Z">
         <seg>Com todas as habilidades e experiências que adquiriu, você está bem equipado para realizar sua ambição de construir um império de negócios que o mundo admiraria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214904Z" creationid="RAFAEL" creationdate="20200826T214904Z">
+        <seg>Com a publicidade produzindo seu efeito, as ~avaliações da marca~ de seus produtos continuarão a aumentar, o que, por sua vez, aumentará as ~avaliações gerais dos seus produtos~ e, assim, aumentará suas vendas.^^Enquanto tudo isso está acontecendo, vamos abrir o ~Detalhes corporativos~ relatar pressionando a tecla de atalho ~'D'~ (ou ~Ctrl-D~) para acessar algumas informações úteis de mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32039,6 +32407,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021745Z" creationid="RAFAEL" creationdate="20200822T021745Z">
         <seg>Você agora está no negócio de venda de aparelhos de ar condicionado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You become a corporate CEO and face real-world challenges as you build a sprawling business empire covering retailing, manufacturing, agricultural business, mining, real estate, media and stock trading!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213918Z" creationid="RAFAEL" creationdate="20200826T213918Z">
+        <seg>Você se torna um CEO corporativo e enfrenta desafios do mundo real enquanto constrói um império de negócios que abrange varejo, manufatura, negócios agrícolas, mineração, imóveis, mídia e Bolsa de valores!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32199,6 +32575,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024538Z" creationid="RAFAEL" creationdate="20200805T024538Z">
         <seg>Você tem um acordo de preços com o fornecedor deste produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your first subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
+        <seg>Você alcançou seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your second subgoal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214422Z" creationid="RAFAEL" creationdate="20200826T214422Z">
+        <seg>Você atingiu seu segundo objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32463,6 +32855,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033155Z" creationid="RAFAEL" creationdate="20200806T033155Z">
         <seg>Você pode mudar o modo de transferência - se é para transferir fundos da companhia de seguros para sua matriz, ou o contrário, clicando no ícone da seta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may check out Capitalism 2 web site at www.capitalism2.com.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214055Z" creationid="RAFAEL" creationdate="20200826T214055Z">
+        <seg>Você pode verificar o site do Capitalism 2 em www.capitalism2.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50799,6 +51199,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202509Z" creationid="RAFAEL" creationdate="20200822T202509Z">
         <seg>^^Tente aplicar o que você aprendeu nos tutoriais anteriores para gerenciar sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
+        <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
       </tuv>
     </tu>
     <tu>
