@@ -36669,8 +36669,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0883]&lt;0095&gt;Brand Rating|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085152Z" creationid="Olivier" creationdate="20200728T085152Z">
-        <seg>[0883]&lt;0095&gt;Pontuação marca|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012246Z" creationid="Olivier" creationdate="20200728T085152Z">
+        <seg>[0883]&lt;0095&gt;Pontos marca|</seg>
       </tuv>
     </tu>
     <tu>
