@@ -38565,8 +38565,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1272]&lt;0386&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012448Z" creationid="Olivier" creationdate="20200728T094505Z">
-        <seg>[1272]&lt;0386&gt;Pontos Audiência|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T013339Z" creationid="Olivier" creationdate="20200728T094505Z">
+        <seg>[1272]&lt;0386&gt;Ponto Audiência|</seg>
       </tuv>
     </tu>
     <tu>
