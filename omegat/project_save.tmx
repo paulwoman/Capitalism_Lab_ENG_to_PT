@@ -37509,16 +37509,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1065]&lt;0222&gt;R&amp;D Progress|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181334Z" creationid="Olivier" creationdate="20200728T091352Z">
-        <seg>[1065]&lt;0222&gt;Progresso Pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T010113Z" creationid="Olivier" creationdate="20200728T091352Z">
+        <seg>[1065]&lt;0222&gt;Progresso P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1067]&lt;0224&gt;YTD Trade|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181353Z" creationid="Olivier" creationdate="20200728T091353Z">
-        <seg>[1067]&lt;0224&gt;YTD trade|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T010158Z" creationid="Olivier" creationdate="20200728T091353Z">
+        <seg>[1067]&lt;0224&gt;YTD Comér</seg>
       </tuv>
     </tu>
     <tu>
