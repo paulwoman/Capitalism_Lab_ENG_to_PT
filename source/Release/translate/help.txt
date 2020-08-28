@@ -1,6 +1,6 @@
 B_TOOL
 Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Display the Toolbox menu. (hotkey: Ctrl-T) 
 ~
 B_MINMAP
 Mini Map (hotkey: 'M')
@@ -78,12 +78,12 @@ MMENUFR
 Firm Summary Report (hotkey: 'F')
 Click to open the Firm Summary Report
 ~
-MMENUHQ (hotkey: 'H')
-Headquarters
+MMENUHQ
+Headquarters (hotkey: 'H')
 `
 ~
 MMENUSM
-Stock Market
+Stock Market (hotkey: F4)
 Open the Stock Market screen
 ~
 MMENUGM

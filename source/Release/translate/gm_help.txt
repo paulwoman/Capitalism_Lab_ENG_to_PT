@@ -308,7 +308,7 @@ If you are an experienced player looking for greater challenge, you may set a pe
 ~
 BOND_CRE
 Bond Credit Standard
-With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#. 
+With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#.
 ~
 BOND_LIM
 Bond Issue Limit
