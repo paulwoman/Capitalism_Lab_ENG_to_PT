@@ -9678,14 +9678,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Freq.|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
-        <seg>Ad.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023014Z" creationid="RAFAEL" creationdate="20200812T013711Z">
@@ -36997,8 +36989,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193233Z" creationid="Olivier" creationdate="20200728T085348Z">
-        <seg>[0930]&lt;0138&gt;Frequencia diária de</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T013726Z" creationid="Olivier" creationdate="20200728T085348Z">
+        <seg>[0930]&lt;0138&gt;Anúncio Diário</seg>
       </tuv>
     </tu>
     <tu>
