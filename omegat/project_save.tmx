@@ -9678,14 +9678,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Freq.|</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T175614Z" creationid="Olivier" creationdate="20200728T085411Z">
-        <seg>Ad.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T023014Z" creationid="RAFAEL" creationdate="20200812T013711Z">
@@ -25065,8 +25057,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T180837Z" creationid="Olivier" creationdate="20200728T085344Z">
-        <seg>mensal com gastos.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T014028Z" creationid="Olivier" creationdate="20200728T085344Z">
+        <seg>Anuncio|</seg>
       </tuv>
     </tu>
     <tu>
@@ -26250,8 +26242,8 @@ Divisão de ações</seg>
       <tuv lang="en-US">
         <seg>Text Box=150,120,600,0</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T122530Z" creationid="Olivier" creationdate="20200805T122530Z">
-        <seg>Text Box=150,120,600,0</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200827T235506Z" creationid="Olivier" creationdate="20200805T122530Z">
+        <seg>Text Box=100,410,700,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -36669,8 +36661,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0883]&lt;0095&gt;Brand Rating|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T085152Z" creationid="Olivier" creationdate="20200728T085152Z">
-        <seg>[0883]&lt;0095&gt;Pontuação marca|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012246Z" creationid="Olivier" creationdate="20200728T085152Z">
+        <seg>[0883]&lt;0095&gt;Pontos marca|</seg>
       </tuv>
     </tu>
     <tu>
@@ -36997,8 +36989,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T193233Z" creationid="Olivier" creationdate="20200728T085348Z">
-        <seg>[0930]&lt;0138&gt;Frequencia diária de</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T013726Z" creationid="Olivier" creationdate="20200728T085348Z">
+        <seg>[0930]&lt;0138&gt;Anúncio Diário</seg>
       </tuv>
     </tu>
     <tu>
@@ -37469,8 +37461,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty   Owned%  Stock Value   Position|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181239Z" creationid="Olivier" creationdate="20200728T091344Z">
-        <seg>[1058]&lt;0215&gt;Qtd. De propriedade do acionista% de posição do valor das ações ||</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T003418Z" creationid="Olivier" creationdate="20200728T091344Z">
+        <seg>[1058]&lt;0215&gt;Acionista                 Qtd.  Sua         Sua%      Valor Ações    Posição|</seg>
       </tuv>
     </tu>
     <tu>
@@ -37509,24 +37501,24 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1065]&lt;0222&gt;R&amp;D Progress|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181334Z" creationid="Olivier" creationdate="20200728T091352Z">
-        <seg>[1065]&lt;0222&gt;Progresso Pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T010113Z" creationid="Olivier" creationdate="20200728T091352Z">
+        <seg>[1065]&lt;0222&gt;Progresso P&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1067]&lt;0224&gt;YTD Trade|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181353Z" creationid="Olivier" creationdate="20200728T091353Z">
-        <seg>[1067]&lt;0224&gt;YTD trade|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T010158Z" creationid="Olivier" creationdate="20200728T091353Z">
+        <seg>[1067]&lt;0224&gt;YTD Comér</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1068]&lt;0225&gt;Lifetime Trade|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091354Z" creationid="Olivier" creationdate="20200728T091354Z">
-        <seg>[1068]&lt;0225&gt;Toda a vida|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T002735Z" creationid="Olivier" creationdate="20200728T091354Z">
+        <seg>[1068]&lt;0225&gt;Desde Início|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38565,16 +38557,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1272]&lt;0386&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182003Z" creationid="Olivier" creationdate="20200728T094505Z">
-        <seg>[1272]&lt;0386&gt;Pontos de classificação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T013339Z" creationid="Olivier" creationdate="20200728T094505Z">
+        <seg>[1272]&lt;0386&gt;Ponto Audiência|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182024Z" creationid="Olivier" creationdate="20200728T094520Z">
-        <seg>[1273]&lt;0387&gt;Pontos de classificação para os Últ. 36 meses|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012503Z" creationid="Olivier" creationdate="20200728T094520Z">
+        <seg>[1273]&lt;0387&gt;Pontos d Audiência para os Últ. 36 meses|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38597,8 +38589,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1278]&lt;0392&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200824T020111Z" creationid="Olivier" creationdate="20200728T094547Z">
-        <seg>[1278]&lt;0392&gt;Pontos de Classificação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012525Z" creationid="Olivier" creationdate="20200728T094547Z">
+        <seg>[1278]&lt;0392&gt;Pontos d Audiência|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47709,8 +47701,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T004515Z" creationid="User" creationdate="20200802T010107Z">
-        <seg>[2944]&lt;AK31&gt;Juros s/ empréstimos e títulos|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T005917Z" creationid="User" creationdate="20200802T010107Z">
+        <seg>[2944]&lt;AK31&gt;Juros d Empréstimo e Título|</seg>
       </tuv>
     </tu>
     <tu>
