@@ -38565,16 +38565,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1272]&lt;0386&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182003Z" creationid="Olivier" creationdate="20200728T094505Z">
-        <seg>[1272]&lt;0386&gt;Pontos de classificação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012448Z" creationid="Olivier" creationdate="20200728T094505Z">
+        <seg>[1272]&lt;0386&gt;Pontos Audiência|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182024Z" creationid="Olivier" creationdate="20200728T094520Z">
-        <seg>[1273]&lt;0387&gt;Pontos de classificação para os Últ. 36 meses|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012503Z" creationid="Olivier" creationdate="20200728T094520Z">
+        <seg>[1273]&lt;0387&gt;Pontos d Audiência para os Últ. 36 meses|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38597,8 +38597,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1278]&lt;0392&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200824T020111Z" creationid="Olivier" creationdate="20200728T094547Z">
-        <seg>[1278]&lt;0392&gt;Pontos de Classificação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012525Z" creationid="Olivier" creationdate="20200728T094547Z">
+        <seg>[1278]&lt;0392&gt;Pontos d Audiência|</seg>
       </tuv>
     </tu>
     <tu>
