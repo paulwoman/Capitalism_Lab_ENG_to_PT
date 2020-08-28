@@ -37525,8 +37525,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1068]&lt;0225&gt;Lifetime Trade|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091354Z" creationid="Olivier" creationdate="20200728T091354Z">
-        <seg>[1068]&lt;0225&gt;Toda a vida|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T002735Z" creationid="Olivier" creationdate="20200728T091354Z">
+        <seg>[1068]&lt;0225&gt;Desde Início|</seg>
       </tuv>
     </tu>
     <tu>
