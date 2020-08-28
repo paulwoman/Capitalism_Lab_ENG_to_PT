@@ -47709,8 +47709,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200814T004515Z" creationid="User" creationdate="20200802T010107Z">
-        <seg>[2944]&lt;AK31&gt;Juros s/ empréstimos e títulos|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T005917Z" creationid="User" creationdate="20200802T010107Z">
+        <seg>[2944]&lt;AK31&gt;Juros d Empréstimo e Título|</seg>
       </tuv>
     </tu>
     <tu>
