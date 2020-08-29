@@ -47437,16 +47437,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2911]&lt;BCRE&gt;Credit Rating|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T004426Z" creationid="User" creationdate="20200802T004426Z">
-        <seg>[2911]&lt;BCRE&gt;Classificação de crédito|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T203035Z" creationid="User" creationdate="20200802T004426Z">
+        <seg>[2911]&lt;BCRE&gt;Nota d'crédito|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2912]&lt;BHOL&gt;Public Bondholders|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T004516Z" creationid="User" creationdate="20200802T004516Z">
-        <seg>[2912]&lt;BHOL&gt;Obrigacionistas Públicos|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T203148Z" creationid="User" creationdate="20200802T004516Z">
+        <seg>[2912]&lt;BHOL&gt;Detentores de Título|</seg>
       </tuv>
     </tu>
     <tu>
