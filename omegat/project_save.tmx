@@ -48485,8 +48485,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T193750Z" creationid="User" creationdate="20200802T193750Z">
-        <seg>[3042]&lt;MANS&gt;Valores do mercado de mansões|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T020043Z" creationid="User" creationdate="20200802T193750Z">
+        <seg>[3042]&lt;MANS&gt;Valor d mercado da mansões|</seg>
       </tuv>
     </tu>
     <tu>
