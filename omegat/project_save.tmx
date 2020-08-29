@@ -49845,8 +49845,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3211]&lt;DIV2&gt;I will set the dividend|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T002151Z" creationid="RAFAEL" creationdate="20200826T002151Z">
-        <seg>[3211]&lt;DIV2&gt;I irá definir o dividendo|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T203549Z" creationid="RAFAEL" creationdate="20200826T002151Z">
+        <seg>[3211]&lt;DIV2&gt;Vou definir o dividendo|</seg>
       </tuv>
     </tu>
     <tu>
