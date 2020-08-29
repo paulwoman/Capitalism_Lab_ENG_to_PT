@@ -35853,8 +35853,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0751]&lt;FA12&gt;Price Agreement|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084431Z" creationid="Olivier" creationdate="20200728T084431Z">
-        <seg>[0751]&lt;FA12&gt;Concordância de preço|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T141020Z" creationid="Olivier" creationdate="20200728T084431Z">
+        <seg>[0751]&lt;FA12&gt;Acordo de preço|</seg>
       </tuv>
     </tu>
     <tu>
