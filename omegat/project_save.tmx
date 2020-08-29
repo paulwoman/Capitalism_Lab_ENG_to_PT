@@ -39293,16 +39293,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1399]&lt;0464&gt;Years of Service|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180918Z" creationid="Olivier" creationdate="20200728T180918Z">
-        <seg>[1399]&lt;0464&gt;anos de serviço|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T020431Z" creationid="Olivier" creationdate="20200728T180918Z">
+        <seg>[1399]&lt;0464&gt;Anos de Serviço|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1400]&lt;0465&gt;Retired|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T180925Z" creationid="Olivier" creationdate="20200728T180925Z">
-        <seg>[1400]&lt;0465&gt;aposentado|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T020437Z" creationid="Olivier" creationdate="20200728T180925Z">
+        <seg>[1400]&lt;0465&gt;Aposentado|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42677,8 +42677,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2217]&lt;1138&gt; Years of Service as the CEO of |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131406Z" creationid="Olivier" creationdate="20200730T131406Z">
-        <seg>[2217]&lt;1138&gt; anos de serviço como CEO da |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T020457Z" creationid="Olivier" creationdate="20200730T131406Z">
+        <seg>[2217]&lt;1138&gt; Anos de Serviço como CEO da |</seg>
       </tuv>
     </tu>
     <tu>
