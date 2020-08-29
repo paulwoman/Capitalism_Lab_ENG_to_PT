@@ -688,8 +688,8 @@
       <tuv lang="en-US">
         <seg>A bank must maintain a capital ratio that meets the central bank's requirement.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030519Z" creationid="RAFAEL" creationdate="20200806T030519Z">
-        <seg>Um banco deve manter uma relação de capital que atenda aos requisitos do banco central.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T184549Z" creationid="RAFAEL" creationdate="20200806T030519Z">
+        <seg>Um banco deve manter um indice de capital que atenda aos requisitos do banco central.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22993,8 +22993,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Required Bank Capital Ratio</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030529Z" creationid="RAFAEL" creationdate="20200806T030529Z">
-        <seg>Relação do capital necessário do banco</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T184647Z" creationid="RAFAEL" creationdate="20200806T030529Z">
+        <seg>Indice do capital necessário do banco</seg>
       </tuv>
     </tu>
     <tu>
@@ -48525,8 +48525,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T194102Z" creationid="User" creationdate="20200802T194102Z">
-        <seg>[3047]&lt;BCR5&gt;Relação do capital necessário do banco|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T190420Z" creationid="User" creationdate="20200802T194102Z">
+        <seg>[3047]&lt;BCR5&gt;Índice do capital nec. do banco|</seg>
       </tuv>
     </tu>
     <tu>
