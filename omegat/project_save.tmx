@@ -36685,8 +36685,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0886]&lt;0098&gt;Advertising Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T180505Z" creationid="Olivier" creationdate="20200728T085157Z">
-        <seg>[0886]&lt;0098&gt;Gasto com publicidade|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T015658Z" creationid="Olivier" creationdate="20200728T085157Z">
+        <seg>[0886]&lt;0098&gt;Gasto c/ publicidade|</seg>
       </tuv>
     </tu>
     <tu>
