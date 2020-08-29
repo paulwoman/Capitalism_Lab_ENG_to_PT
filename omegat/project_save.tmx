@@ -30469,8 +30469,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Transfer Firms</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T034234Z" creationid="RAFAEL" creationdate="20200806T034234Z">
-        <seg>Transferência de empresas</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T135520Z" creationid="RAFAEL" creationdate="20200806T034234Z">
+        <seg>Transferir empresas</seg>
       </tuv>
     </tu>
     <tu>
