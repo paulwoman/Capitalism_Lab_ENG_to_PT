@@ -45149,8 +45149,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2611]&lt;1491&gt;Market Share for past 36 months|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T233825Z" creationid="Olivier" creationdate="20200730T172052Z">
-        <seg>[2611]&lt;1491&gt;Participação de mercado nos últimos 36 meses|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T172017Z" creationid="Olivier" creationdate="20200730T172052Z">
+        <seg>[2611]&lt;1491&gt;Market Share nos últ. 36 meses|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45349,8 +45349,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2643]&lt;1523&gt;Advertisers Shares|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T234114Z" creationid="Olivier" creationdate="20200730T172333Z">
-        <seg>[2643]&lt;1523&gt;Compartilhamentos de anunciantes|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T172214Z" creationid="Olivier" creationdate="20200730T172333Z">
+        <seg>[2643]&lt;1523&gt;Cotas dos anunciantes|</seg>
       </tuv>
     </tu>
     <tu>
