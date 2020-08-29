@@ -39685,8 +39685,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1499]&lt;0564&gt;Market Cap of Companies Controlled|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182758Z" creationid="Olivier" creationdate="20200729T184716Z">
-        <seg>[1499]&lt;0564&gt;Capitalização de mercado das companhias controladas|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T020750Z" creationid="Olivier" creationdate="20200729T184716Z">
+        <seg>[1499]&lt;0564&gt;Valor das empresas controladas|</seg>
       </tuv>
     </tu>
     <tu>
