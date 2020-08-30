@@ -8806,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examine these bars and the utilization bar carefully to identify the bottlenecks of your business.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232519Z" creationid="RAFAEL" creationdate="20200830T232519Z">
+        <seg>Examine essas barras e a barra de utilização com cuidado para identificar os gargalos de seu negócio.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example: enter "Computer Watch London" to search for computers and watches from suppliers in London.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030119Z" creationid="RAFAEL" creationdate="20200805T030119Z">
@@ -28313,6 +28321,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The employee loyalty of the team lead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232641Z" creationid="RAFAEL" creationdate="20200830T232641Z">
+        <seg>A lealdade do funcionário do líder da equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The employee loyalty of the team lead.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232122Z" creationid="RAFAEL" creationdate="20200830T232122Z">
@@ -28825,6 +28841,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the buyers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232507Z" creationid="RAFAEL" creationdate="20200830T232507Z">
+        <seg>A barra laranja indica a demanda do produto por parte dos compradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232323Z" creationid="RAFAEL" creationdate="20200830T232323Z">
@@ -28973,6 +28997,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
         <seg>O progresso do projeto de pesquisa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The progress of the current R&amp;D project.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232554Z" creationid="RAFAEL" creationdate="20200830T232554Z">
+        <seg>O andamento do atual projeto de P&amp;D.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -29380,8 +29412,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195332Z" creationid="Olivier" creationdate="20200730T195332Z">
-        <seg>The type de technology currently being developed.^</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232702Z" creationid="Olivier" creationdate="20200730T195332Z">
+        <seg>O tipo de tecnologia atualmente em desenvolvimento.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of technology currently being researched.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232535Z" creationid="RAFAEL" creationdate="20200830T232535Z">
+        <seg>O tipo de tecnologia que está sendo pesquisada.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -30718,6 +30758,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232003Z" creationid="RAFAEL" creationdate="20200830T232003Z">
         <seg>Assim, para que a unidade opere com eficiência máxima, é necessário fornecer um fornecimento consistente de matéria-prima.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tips for Improving Game Running Speed^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232730Z" creationid="RAFAEL" creationdate="20200830T232730Z">
+        <seg>Dicas para melhorar a velocidade de execução do jogo^</seg>
       </tuv>
     </tu>
     <tu>
@@ -33142,6 +33190,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013408Z" creationid="RAFAEL" creationdate="20200808T013408Z">
         <seg>Quando isto for definido como baixo, você pode esperar que a maioria dos produtos desfrute de margens de lucro saudáveis e as empresas em geral serão mais lucrativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are viewing the #firm detail window# or the #Information Center#, the game does #not# need to update the city graphics underneath the information window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232939Z" creationid="RAFAEL" creationdate="20200830T232939Z">
+        <seg>Quando você está vendo a #janela de detalhes empresa# ou o#Centro de Informações#, o jogo #não# precisa atualizar os gráficos da cidade abaixo da janela de informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52764,8 +52820,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>~R&amp;D Progress~</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195437Z" creationid="Olivier" creationdate="20200730T195437Z">
-        <seg>~R&amp;D Progress~</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232545Z" creationid="Olivier" creationdate="20200730T195437Z">
+        <seg>~Progresso de P&amp;D~</seg>
       </tuv>
     </tu>
     <tu>
@@ -52814,6 +52870,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232457Z" creationid="RAFAEL" creationdate="20200830T232457Z">
         <seg>~Oferta e Demanda~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Technology~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232528Z" creationid="RAFAEL" creationdate="20200830T232528Z">
+        <seg>~Tecnologia~</seg>
       </tuv>
     </tu>
     <tu>
