@@ -62,6 +62,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#So always open an information window if possible#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233001Z" creationid="RAFAEL" creationdate="20200830T233001Z">
+        <seg>#Portanto, sempre abra uma janela de informações, se possível#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#The Farmer's Guide# is the one that requires #the least amount of processing power#.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233058Z" creationid="RAFAEL" creationdate="20200830T233058Z">
+        <seg>#O Guia do fazendeiro # é o que requer#a menor quantidade de poder de processamento#.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#This can save a lot of graphic processing time especially when the city is packed with buildings#.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233015Z" creationid="RAFAEL" creationdate="20200830T233015Z">
+        <seg>#Isso pode economizar muito tempo de processamento gráfico, especialmente quando a cidade está repleta de edifícios#.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Venture Capitalists# only invest in companies in #pre-IPO rounds#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022218Z" creationid="RAFAEL" creationdate="20200825T022218Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010528Z" creationid="RAFAEL" creationdate="20200808T010528Z">
         <seg>(Você pode definir os limites para software e empresas de Internet separadamente usando um script.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You will notice that the cars are not moving.)^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232950Z" creationid="RAFAEL" creationdate="20200830T232950Z">
+        <seg>(Você notará que os carros não estão se movendo.)^</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T151916Z" creationid="RAFAEL" creationdate="20200815T143131Z">
         <seg>Entre esses 60%, ~Madeira~ contribui com 40%; O ~algodão~ contribui com 10%; e ~Linho~ contribui com os 10% restantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among the various types of screens on the #Information Center#, some will require more computer processing power to display than the others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233036Z" creationid="RAFAEL" creationdate="20200830T233036Z">
+        <seg>Entre os vários tipos de telas no #Centro de Informações#, algumas exigirão mais capacidade de processamento do computador para serem exibidas do que outras.</seg>
       </tuv>
     </tu>
     <tu>
