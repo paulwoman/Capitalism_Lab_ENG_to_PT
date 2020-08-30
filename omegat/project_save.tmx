@@ -15223,6 +15223,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tells you how many people are watching the media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025058Z" creationid="RAFAEL" creationdate="20200830T025058Z">
+        <seg>Mostra quantas pessoas estão assistindo a mídia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It tells you what the bond paid when it was issued.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T030836Z" creationid="RAFAEL" creationdate="20200806T030836Z">
@@ -28201,6 +28209,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rating points of the media in which the product is being advertised.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025033Z" creationid="RAFAEL" creationdate="20200830T025033Z">
+        <seg>Os pontos de audiência da mídia na qual o produto está sendo anunciado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The raw material which the unit is currently producing.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214255Z" creationid="Olivier" creationdate="20200730T214255Z">
@@ -28973,8 +28989,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This bar represents what the unit spends advertising the product monthly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T195741Z" creationid="Olivier" creationdate="20200730T195741Z">
-        <seg>Esta barra representa quanto a unidade gasta mensalmente com advertising.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T024943Z" creationid="Olivier" creationdate="20200730T195741Z">
+        <seg>Esta barra representa quanto a unidade gasta mensalmente com Publicidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51407,6 +51423,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213541Z" creationid="Olivier" creationdate="20200730T213541Z">
         <seg>~Nome da cultura~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Crop in Barn~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025238Z" creationid="RAFAEL" creationdate="20200830T025238Z">
+        <seg>~Colheita no celeiro~</seg>
       </tuv>
     </tu>
     <tu>
