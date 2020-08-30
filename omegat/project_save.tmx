@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Capitalism Lab uses Microsoft Media Foundation to play the music.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214323Z" creationid="RAFAEL" creationdate="20200830T214323Z">
+        <seg>(Capitalism Lab usa Microsoft Media Foundation para tocar a música.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Click here now to view the supplier.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024638Z" creationid="RAFAEL" creationdate="20200805T024638Z">
@@ -6942,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy the music files that you want the game to play to this folder (\MUSIC).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214256Z" creationid="RAFAEL" creationdate="20200830T214248Z">
+        <seg>Copie os arquivos de música que você deseja que o jogo toque para esta pasta (\MUSIC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Brand</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235804Z" creationid="RAFAEL" creationdate="20200806T235804Z">
@@ -7454,6 +7470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete all the original game music files in this folder (\MUSIC).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214149Z" creationid="RAFAEL" creationdate="20200830T214149Z">
+        <seg>Exclua todos os arquivos de música do jogo original nesta pasta (\ MUSIC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete this layout plan</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232400Z" creationid="RAFAEL" creationdate="20200802T232400Z">
@@ -7610,6 +7634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153816Z" creationid="RAFAEL" creationdate="20200815T153816Z">
         <seg>Description=Com seu negócio de varejo prosperando, sua próxima meta é fabricar seus próprios produtos e vendê-los até sua própria marca.^^ Este tutorial irá guiá-lo através do processo de configuração de fábricas, obtenção de matérias-primas e funcionamento das instalações de manufatura para produzir produtos para venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=With your track record in the business world, you are confident that you can lead your political party to win the mayoral elections in Detroit and Pittsburgh and set the right policies to boost their economies, creating much needed new business and job opportunities for the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214423Z" creationid="RAFAEL" creationdate="20200830T214423Z">
+        <seg>Description=Com seu histórico no mundo dos negócios, você está confiante de que pode liderar seu partido político para vencer as eleições para prefeito em Detroit e Pittsburgh e definir as políticas certas para impulsionar suas economias, criando novos negócios e oportunidades de emprego muito necessários para as cidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9538,6 +9570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013347Z" creationid="RAFAEL" creationdate="20200806T013347Z">
         <seg>Para Smart Phone, o Classificação de qualidade é determinado por 1) Qualidade da matéria-prima 2) Tecnologia/ Qualidade da produção 3) Qualidade do software OS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a list of Media Formats supported for the music files, please see:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214311Z" creationid="RAFAEL" creationdate="20200830T214311Z">
+        <seg>Para obter uma lista de formatos de mídia com suporte para os arquivos de música, consulte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13791,6 +13831,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214127Z" creationid="RAFAEL" creationdate="20200830T214127Z">
+        <seg>Se você quiser que o Capitalism Lab reproduza arquivos de música personalizados que você designar em vez da música original do jogo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want a more challenging game, you may give AI companies head starts in fields of technology that they specialize in, which means #higher starting tech levels#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T014945Z" creationid="RAFAEL" creationdate="20200808T014945Z">
@@ -13803,6 +13851,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T231811Z" creationid="RAFAEL" creationdate="20200802T231811Z">
         <seg>Se você quiser ativar #Venda interna# por padrão, você pode abrir o menu #Opção# (Tecla de atalho: 'O') e definir #Venda interna padrão# para #Ativado#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to retain some of the original game music files and mix them with your custom music files,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214202Z" creationid="RAFAEL" creationdate="20200830T214202Z">
+        <seg>Se você quiser manter alguns dos arquivos de música do jogo original e misturá-los com seus arquivos de música personalizados,</seg>
       </tuv>
     </tu>
     <tu>
@@ -23391,6 +23447,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run the game and it will play all the music files in this folder in a random order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214335Z" creationid="RAFAEL" creationdate="20200830T214335Z">
+        <seg>Execute o jogo e ele irá tocar todos os arquivos de música nesta pasta em uma ordem aleatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAVERATE</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020231Z" creationid="Olivier" creationdate="20200802T020231Z">
@@ -29863,6 +29927,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
         <seg>Title=Dilema de um fabricante de câmeras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Economic Revival</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214351Z" creationid="RAFAEL" creationdate="20200830T214351Z">
+        <seg>Title=Renascimento Econômico</seg>
       </tuv>
     </tu>
     <tu>
@@ -51275,6 +51347,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>checks the existence of this file to determine whether the game should play custom music or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214237Z" creationid="RAFAEL" creationdate="20200830T214237Z">
+        <seg>verifica a existência deste arquivo para determinar se o jogo deve tocar música personalizada ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>city=Hong Kong</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015027Z" creationid="Olivier" creationdate="20200802T015027Z">
@@ -51423,6 +51503,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200804T090832Z" creationid="Olivier" creationdate="20200730T170749Z">
         <seg>de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>please follow the below instructions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214137Z" creationid="RAFAEL" creationdate="20200830T214137Z">
+        <seg>por favor siga as instruções abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>please make sure that this particular file "cap2-long01.aac" is changed to a different name, as the game</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214225Z" creationid="RAFAEL" creationdate="20200830T214225Z">
+        <seg>certifique-se de que este arquivo específico "cap2-long01.aac" seja alterado para um nome diferente, como o jogo</seg>
       </tuv>
     </tu>
     <tu>
