@@ -10662,6 +10662,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=With your track record in the business world, you are confident that you can lead your political party to win the mayoral elections in Detroit and Pittsburgh and set the right policies to boost their economies, creating much needed new business and job opportunities for the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214456Z" creationid="RAFAEL" creationdate="20200830T214456Z">
+        <seg>Goal Description=Com seu histórico no mundo dos negócios, você está confiante de que pode liderar seu partido político para vencer as eleições para prefeito em Detroit e Pittsburgh e definir as políticas certas para impulsionar suas economias, criando novos negócios e oportunidades de trabalho muito necessários para as cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal if you manage to deliver impressive business results while you work towards the bigger goal of growing the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214537Z" creationid="RAFAEL" creationdate="20200830T214537Z">
+        <seg>Goal Description=Você ganha este subobjetivo se conseguir entregar resultados de negócios impressionantes enquanto trabalha para o objetivo maior de fazer as cidades crescer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T162843Z" creationid="RAFAEL" creationdate="20200815T162843Z">
@@ -10682,6 +10698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202613Z" creationid="RAFAEL" creationdate="20200822T202613Z">
         <seg>Goal Description=Sua meta é fazer sua empresa crescer e se tornar uma grande corporação com ~1000 ou mais funcionários~ e atingir ~uma receita anual de $ 1 bilhão~ e ~um lucro anual de $ 100 milhões~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your political influence increases when members of your political party are elected as mayors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214638Z" creationid="RAFAEL" creationdate="20200830T214638Z">
+        <seg>Goal Description=Sua influência política aumenta quando membros de seu partido político são eleitos prefeitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10718,6 +10742,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Corporate Performance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214513Z" creationid="RAFAEL" creationdate="20200830T214513Z">
+        <seg>Goal Title=Desempenho Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Economic Revival</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214444Z" creationid="RAFAEL" creationdate="20200830T214444Z">
+        <seg>Goal Title=Renascimento Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
@@ -10730,6 +10770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
         <seg>Goal Title=Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Political Influence</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214617Z" creationid="RAFAEL" creationdate="20200830T214617Z">
+        <seg>Goal Title=Influência Política</seg>
       </tuv>
     </tu>
     <tu>
@@ -32843,6 +32891,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have once again proven that you are exceptionally talented as a business person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214552Z" creationid="RAFAEL" creationdate="20200830T214552Z">
+        <seg>Você provou mais uma vez que é excepcionalmente talentoso como empresário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully acquired and merged|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200433Z" creationid="User" creationdate="20200802T200433Z">
@@ -33327,6 +33383,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011642Z" creationid="RAFAEL" creationdate="20200811T011642Z">
         <seg>Você ganha este jogo quando a receita anual da sua empresa atingir US $ 20 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this subgoal when your Political Influence score has reached the goal target.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214706Z" creationid="RAFAEL" creationdate="20200830T214645Z">
+        <seg>Você vence esta submeta quando sua pontuação de influência política atinge a meta da meta</seg>
       </tuv>
     </tu>
     <tu>
