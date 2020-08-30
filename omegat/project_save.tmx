@@ -8558,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232231Z" creationid="RAFAEL" creationdate="20200830T232231Z">
+        <seg>Cada carga pode armazenar um certo número de unidades do produto.^^O número de unidades que uma carga pode conter varia de produto para produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each cargo can store a certain quantity of the raw material.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231753Z" creationid="RAFAEL" creationdate="20200830T231753Z">
@@ -8586,6 +8594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200801T235203Z" creationid="Olivier" creationdate="20200730T173744Z">
         <seg>Cada acionista agora detém|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each software company can only have one Project Management unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232209Z" creationid="RAFAEL" creationdate="20200830T232209Z">
+        <seg>Cada empresa de software pode ter apenas uma unidade de gerenciamento de projetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9878,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232245Z" creationid="RAFAEL" creationdate="20200830T232245Z">
+        <seg>Para produtos de custo mais baixo, como xampu, uma carga pode conter até vários milhares de unidades do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more details, press F1 to open the guide to see the production details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T234256Z" creationid="RAFAEL" creationdate="20200806T234256Z">
@@ -9906,6 +9930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025428Z" creationid="RAFAEL" creationdate="20200818T025428Z">
         <seg>Por enquanto, você já fez um trabalho muito bom para entender o básico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For some expensive products, such as cars, one cargo can hold only a few units of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232238Z" creationid="RAFAEL" creationdate="20200830T232238Z">
+        <seg>Para alguns produtos caros, como carros, uma carga pode conter apenas algumas unidades do produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14007,6 +14039,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the supply bar is shorter than the demand bar, that means there is a lack of supply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232330Z" creationid="RAFAEL" creationdate="20200830T232330Z">
+        <seg>Se a barra de abastecimento for menor do que a barra de demanda, isso significa que há uma falta de oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T011606Z" creationid="RAFAEL" creationdate="20200812T011606Z">
@@ -14635,6 +14675,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231914Z" creationid="RAFAEL" creationdate="20200830T231914Z">
         <seg>Nesse arranjo de unidades, os produtos adquiridos de outra empresa são rotulados com sua marca e revendidos como se você os tivesse produzido.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, you should consider switching to a better supplier.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232345Z" creationid="RAFAEL" creationdate="20200830T232345Z">
+        <seg>Nesse caso, você deve considerar mudar para um fornecedor melhor.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -19899,6 +19947,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015418Z" creationid="RAFAEL" creationdate="20200804T015418Z">
         <seg>Classificação geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall firm performance may be affected by the lack of the supply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232337Z" creationid="RAFAEL" creationdate="20200830T232337Z">
+        <seg>O desempenho geral da empresa pode ser afetado pela falta de fornecimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28769,6 +28825,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the current firm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232323Z" creationid="RAFAEL" creationdate="20200830T232323Z">
+        <seg>A barra laranja indica a demanda do produto da empresa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214830Z" creationid="Olivier" creationdate="20200730T214830Z">
@@ -28909,6 +28973,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214548Z" creationid="Olivier" creationdate="20200730T214548Z">
         <seg>O progresso do projeto de pesquisa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The progress of the project.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232156Z" creationid="RAFAEL" creationdate="20200830T232156Z">
+        <seg>O andamento do projeto.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -29390,6 +29462,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214955Z" creationid="Olivier" creationdate="20200730T214955Z">
         <seg>A barra amarela indica o fornecimento pela firma atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar indicates the supply of the product by the supplier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232315Z" creationid="RAFAEL" creationdate="20200830T232315Z">
+        <seg>A barra amarela indica o fornecimento do produto pelo fornecedor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30182,6 +30262,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030157Z" creationid="RAFAEL" creationdate="20200804T030157Z">
         <seg>Descrição deste plano de layout - clique aqui para editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This makes the total value of all cargoes of all types of products about the same.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232256Z" creationid="RAFAEL" creationdate="20200830T232256Z">
+        <seg>Isso torna o valor total de todas as cargas de todos os tipos de produtos quase o mesmo.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -52642,10 +52730,34 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Progress Indicator~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232426Z" creationid="RAFAEL" creationdate="20200830T232426Z">
+        <seg>~Indicador de progresso~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Project Duration~</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232132Z" creationid="RAFAEL" creationdate="20200830T232132Z">
         <seg>~Duração do projeto~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Project Progress~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232147Z" creationid="RAFAEL" creationdate="20200830T232147Z">
+        <seg>~Progresso do projeto~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~R&amp;D Duration~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232410Z" creationid="RAFAEL" creationdate="20200830T232410Z">
+        <seg>~Duração de P&amp;D~</seg>
       </tuv>
     </tu>
     <tu>
@@ -52690,10 +52802,34 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Supply and Demand Bar~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232307Z" creationid="RAFAEL" creationdate="20200830T232307Z">
+        <seg>~Barra de oferta e demanda~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Supply and Demand~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232457Z" creationid="RAFAEL" creationdate="20200830T232457Z">
+        <seg>~Oferta e Demanda~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005453Z" creationid="RAFAEL" creationdate="20200811T005453Z">
         <seg>~Quanto mais escura for a cor, mais valioso será o terreno.~ Construir em áreas claras pode ser caro, mas pode fornecer às suas lojas uma clientela mais rica disposta a pagar preços mais altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Utilization Bar~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232354Z" creationid="RAFAEL" creationdate="20200830T232354Z">
+        <seg>~Barra de Utilização~</seg>
       </tuv>
     </tu>
     <tu>
