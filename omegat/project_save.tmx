@@ -5176,8 +5176,8 @@
       <tuv lang="en-US">
         <seg>Claims</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021013Z" creationid="RAFAEL" creationdate="20200806T021013Z">
-        <seg>Reclamações</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T185430Z" creationid="RAFAEL" creationdate="20200806T021013Z">
+        <seg>Sinistros</seg>
       </tuv>
     </tu>
     <tu>
@@ -30405,8 +30405,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>Total claims paid to customers in the past 365 days.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021021Z" creationid="RAFAEL" creationdate="20200806T021021Z">
-        <seg>Total de reclamações pagas aos clientes nos últimos 365 dias.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T185453Z" creationid="RAFAEL" creationdate="20200806T021021Z">
+        <seg>Total de indenizações pago aos clientes nos últimos 365 dias.</seg>
       </tuv>
     </tu>
     <tu>
