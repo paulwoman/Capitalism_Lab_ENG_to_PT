@@ -7702,6 +7702,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This script modifies the autosave setting to perform an autosave once every 10 days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230848Z" creationid="RAFAEL" creationdate="20200830T230848Z">
+        <seg>Description=Este script modifica a configuração do salvamento automático para executar um salvamento automático uma vez a cada 10 dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the autosave setting to perform an autosave once every 15 minutes in real time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230919Z" creationid="RAFAEL" creationdate="20200830T230919Z">
+        <seg>Description=Este script modifica a configuração de salvamento automático para executar um salvamento automático uma vez a cada 15 minutos em tempo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
@@ -10918,6 +10934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when companies under your controll collectively achieve $10 billion in revenues and $1.5 billion in profits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230749Z" creationid="RAFAEL" creationdate="20200830T230749Z">
+        <seg>Goal Description=Você ganha este subobjetivo quando as empresas sob seu controle atingem coletivamente US $ 10 bilhões em receitas e US $ 1,5 bilhão em lucros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this subgoal when the net worth of each of your subsidiary companies has reached $1 billion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225920Z" creationid="RAFAEL" creationdate="20200830T225920Z">
@@ -11018,6 +11042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214444Z" creationid="RAFAEL" creationdate="20200830T214444Z">
         <seg>Goal Title=Renascimento Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Epic Proportions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230736Z" creationid="RAFAEL" creationdate="20200830T230736Z">
+        <seg>Goal Title=Proporções épicas</seg>
       </tuv>
     </tu>
     <tu>
@@ -28817,6 +28849,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The revenues and profits of your companies have reached epic proportions!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230758Z" creationid="RAFAEL" creationdate="20200830T230758Z">
+        <seg>As receitas e lucros de suas empresas atingiram proporções épicas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sale data include both retail and ecommerce sales.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012450Z" creationid="RAFAEL" creationdate="20200806T012450Z">
@@ -30387,6 +30427,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Autosave every 10 days</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230816Z" creationid="RAFAEL" creationdate="20200830T230816Z">
+        <seg>Title=Salvar automaticamente a cada 10 dias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Autosave every 15 minutes in real time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230908Z" creationid="RAFAEL" creationdate="20200830T230908Z">
+        <seg>Title=Salvar automaticamente a cada 15 minutos em tempo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Dilemma of a Camera Manufacturer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
@@ -30423,6 +30479,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224617Z" creationid="RAFAEL" creationdate="20200830T224617Z">
         <seg>Title=Transformação Metropolitana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Environment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231013Z" creationid="RAFAEL" creationdate="20200830T231013Z">
+        <seg>Title=Script de amostra - ambiente</seg>
       </tuv>
     </tu>
     <tu>
