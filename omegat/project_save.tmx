@@ -7638,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225111Z" creationid="RAFAEL" creationdate="20200830T225111Z">
+        <seg>Description=O advento da Internet está mudando todos os aspectos da vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
@@ -7706,6 +7714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T162502Z" creationid="RAFAEL" creationdate="20200815T162502Z">
         <seg>Description=Você percebe que seus produtos só podem vender bem quando os consumidores estão cientes deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225425Z" creationid="RAFAEL" creationdate="20200830T225425Z">
+        <seg>Description=Você começou sua empresa no alvorecer da indústria de software, onde as oportunidades são abundantes.^^Para se tornar o gigante do software de amanhã, você deve investir agressivamente em P&amp;D para aumentar a capacidade de inovação da sua empresa e executar lançamentos de produtos perfeitamente para estabelecer uma base sólida na chave mercados de software e, finalmente, dominá-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10686,6 +10702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The advent of the Internet is changing every aspect of life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225203Z" creationid="RAFAEL" creationdate="20200830T225203Z">
+        <seg>Goal Description=O advento da Internet está mudando todos os aspectos da vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your first subgoal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214257Z" creationid="RAFAEL" creationdate="20200826T214213Z">
@@ -10882,6 +10906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214342Z" creationid="RAFAEL" creationdate="20200826T214342Z">
         <seg>Goal Title=Segundo Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=The Battle For Internet Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225154Z" creationid="RAFAEL" creationdate="20200830T225154Z">
+        <seg>Goal Title=A batalha pelo domínio da Internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -24303,6 +24335,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seeing a multi-billion dollar industry in the making, investors flocked to offer money to Internet startups and you have just received your fair share of it.^^With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225141Z" creationid="RAFAEL" creationdate="20200830T225141Z">
+        <seg>Vendo uma indústria multibilionária em formação, os investidores se aglomeraram para oferecer dinheiro a startups da Internet e você acaba de receber sua parte justa.^^Com um baú de guerra cheio de capital recém-levantado, você embarcou sem medo em uma ambiciosa busca para o domínio da Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200829T140042Z" creationid="RAFAEL" creationdate="20200806T034256Z">
@@ -30147,6 +30187,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Software Giant</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225357Z" creationid="RAFAEL" creationdate="20200830T225357Z">
+        <seg>Title=Gigante de Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=The Battle For Internet Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225101Z" creationid="RAFAEL" creationdate="20200830T225101Z">
@@ -32647,6 +32695,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012453Z" creationid="RAFAEL" creationdate="20200808T012453Z">
         <seg>Com um # padrão de avaliação de crédito livre #, todas as corporações receberão # melhores avaliações de crédito # e se beneficiarão de # menores despesas com juros de títulos #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225340Z" creationid="RAFAEL" creationdate="20200830T225340Z">
+        <seg>Com um baú de guerra cheio de capital recém-levantado, você embarcou destemidamente em uma ambiciosa busca pelo domínio da Internet.</seg>
       </tuv>
     </tu>
     <tu>
