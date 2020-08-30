@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A private labeling unit converts products of other brands to your own brand by labeling the product with your own corporate insignia.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231826Z" creationid="RAFAEL" creationdate="20200830T231826Z">
+        <seg>Uma unidade de etiquetagem privada converte produtos de outras marcas em sua própria marca, etiquetando o produto com sua própria insígnia corporativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A product's #Brand Rating# is the sum of its #Brand Awareness# and #Brand Loyalty#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T213802Z" creationid="RAFAEL" creationdate="20200806T235333Z">
@@ -8518,10 +8526,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each box represents one cargo of the raw material.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231744Z" creationid="RAFAEL" creationdate="20200830T231744Z">
+        <seg>Cada caixa representa uma carga da matéria-prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each cargo can store a certain number of units of the product.^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231532Z" creationid="RAFAEL" creationdate="20200830T231532Z">
         <seg>Cada carga pode armazenar um certo número de unidades do produto.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each cargo can store a certain quantity of the raw material.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231753Z" creationid="RAFAEL" creationdate="20200830T231753Z">
+        <seg>Cada carga pode armazenar uma determinada quantidade da matéria-prima.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -13983,6 +14007,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231810Z" creationid="RAFAEL" creationdate="20200830T231810Z">
+        <seg>Se esta barra atingir seu comprimento total, a unidade atingiu sua capacidade total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this index is higher than 100, land prices in this game will be higher than normal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005035Z" creationid="RAFAEL" creationdate="20200808T005035Z">
@@ -14235,6 +14267,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022835Z" creationid="RAFAEL" creationdate="20200805T022835Z">
         <seg>Se você é o líder do partido, o valor de influência de cada um de seus membros contribuirá em 50% para o seu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are tired of manufacturing products yourself, you can label products of a less popular brand with your own brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231835Z" creationid="RAFAEL" creationdate="20200830T231835Z">
+        <seg>Se você está cansado de fabricar produtos sozinho, pode etiquetar produtos de uma marca menos popular com sua própria marca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28673,6 +28713,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231628Z" creationid="RAFAEL" creationdate="20200830T231628Z">
+        <seg>A laranja é a barra de capacidade de processamento.^^Se a barra de suprimento de gado for menor do que a barra de capacidade de processamento, isso significa que a unidade está subutilizada e pode processar mais gado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The overall rating is a combination of the above ratings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T015429Z" creationid="RAFAEL" creationdate="20200804T015429Z">
@@ -29266,6 +29314,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The yellow bar is the livestock supply bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231605Z" creationid="RAFAEL" creationdate="20200830T231605Z">
+        <seg>A barra amarela é a barra de suprimento de gado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013438Z" creationid="RAFAEL" creationdate="20200812T013438Z">
@@ -29622,6 +29678,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214435Z" creationid="Olivier" creationdate="20200730T214435Z">
         <seg>Esta área indica o estoque do produto na unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This area shows the stock of the raw material in the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231736Z" creationid="RAFAEL" creationdate="20200830T231736Z">
+        <seg>Esta área mostra o estoque da matéria-prima na unidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33406,6 +33470,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025507Z" creationid="RAFAEL" creationdate="20200804T025507Z">
         <seg>Não se pode emitir novas ações para o público com demasiada freqüência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231708Z" creationid="RAFAEL" creationdate="20200830T231708Z">
+        <seg>Você também pode aumentar o orçamento de treinamento para a unidade atual, o que aumentaria a produtividade da unidade em longo prazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could link additional input units to it to exploit its capacity.^^Conversely, if the livestock supply bar is longer than the processing capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231649Z" creationid="RAFAEL" creationdate="20200830T231649Z">
+        <seg>Você poderia ligar unidades de insumos adicionais a ela para explorar sua capacidade.^^Inversamente, se a barra de suprimento de gado for mais longa do que a barra de capacidade de processamento, a unidade atingiu sua capacidade total e não pode processar todo o gado enviado a ela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could set up a new livestock process unit to lessen the workload of the current one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231659Z" creationid="RAFAEL" creationdate="20200830T231659Z">
+        <seg>Você pode configurar uma nova unidade de processamento de gado para diminuir a carga de trabalho da atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52394,6 +52482,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Livestock Supply and Processing Capacity~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231552Z" creationid="RAFAEL" creationdate="20200830T231552Z">
+        <seg>~Abastecimento de animais e capacidade de processamento~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Monthly Advertising Expense~</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231346Z" creationid="Olivier" creationdate="20200730T213412Z">
@@ -52434,10 +52530,34 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Raw Material Name~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231718Z" creationid="RAFAEL" creationdate="20200830T231718Z">
+        <seg>~Nome da matéria prima~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Raw Material Stock~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231727Z" creationid="RAFAEL" creationdate="20200830T231727Z">
+        <seg>~Estoque de matéria-prima~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T005453Z" creationid="RAFAEL" creationdate="20200811T005453Z">
         <seg>~Quanto mais escura for a cor, mais valioso será o terreno.~ Construir em áreas claras pode ser caro, mas pode fornecer às suas lojas uma clientela mais rica disposta a pagar preços mais altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Utilization~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231801Z" creationid="RAFAEL" creationdate="20200830T231801Z">
+        <seg>~Utilização~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
