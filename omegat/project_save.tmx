@@ -7598,6 +7598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224752Z" creationid="RAFAEL" creationdate="20200830T224752Z">
+        <seg>Description=Além do crescimento econômico, o que as pessoas realmente esperam é uma melhoria significativa na qualidade de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Capitalism Lab is the latest version in the Capitalism business simulation game series.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213830Z" creationid="RAFAEL" creationdate="20200826T213830Z">
@@ -7682,6 +7690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T162502Z" creationid="RAFAEL" creationdate="20200815T162502Z">
         <seg>Description=Você percebe que seus produtos só podem vender bem quando os consumidores estão cientes deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Your goal is to grow the cities into prosperous metropolitan areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224632Z" creationid="RAFAEL" creationdate="20200830T224632Z">
+        <seg>Description=Seu objetivo é transformar as cidades em áreas metropolitanas prósperas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10638,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Education is the most powerful investment for our future.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224603Z" creationid="RAFAEL" creationdate="20200830T224603Z">
+        <seg>Goal Description=A educação é o investimento mais poderoso para o nosso futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your first subgoal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214257Z" creationid="RAFAEL" creationdate="20200826T214213Z">
@@ -10718,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to successfully get members from your political party elected as mayors of the cities and grow the cities' populations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224716Z" creationid="RAFAEL" creationdate="20200830T224716Z">
+        <seg>Goal Description=Seu objetivo é conseguir que os membros do seu partido político sejam eleitos prefeitos das cidades e aumentar a população das cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your political influence increases when members of your political party are elected as mayors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214638Z" creationid="RAFAEL" creationdate="20200830T214638Z">
@@ -10778,6 +10810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
         <seg>Goal Title=Primeiro Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Cities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224706Z" creationid="RAFAEL" creationdate="20200830T224706Z">
+        <seg>Goal Title=Crescendo as Cidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -14171,6 +14211,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224543Z" creationid="RAFAEL" creationdate="20200830T224543Z">
         <seg>Nesse cenário, você não deve apenas melhorar a educação e os salários das cidades existentes, mas também construir uma nova cidade do zero e transformá-la em uma com instalações de ensino de classe mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this scenario, your goal is to build two cities from scratch and lead all the cities, including existing ones, to achieve higher quality of life that is sustainable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224806Z" creationid="RAFAEL" creationdate="20200830T224806Z">
+        <seg>Nesse cenário, seu objetivo é construir duas cidades do zero e levar todas as cidades, inclusive as existentes, a alcançar maior qualidade de vida e sustentabilidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30027,6 +30075,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Metropolitan Transformation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224617Z" creationid="RAFAEL" creationdate="20200830T224617Z">
+        <seg>Title=Transformação Metropolitana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Towards a Better Quality of Life</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224734Z" creationid="RAFAEL" creationdate="20200830T224734Z">
+        <seg>Title=Rumo a uma melhor qualidade de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214603Z" creationid="RAFAEL" creationdate="20200826T214603Z">
@@ -30039,6 +30103,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165308Z" creationid="RAFAEL" creationdate="20200815T165308Z">
         <seg>Para acessar a tela ~Estratégia da marca~, abra o relatório ~Detalhe Corp~ pressionando a tecla de atalho ~D~ agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To achieve the population growth required for the metropolitan transformations, you must first succeed in getting members from your political party elected as mayors of the cities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224646Z" creationid="RAFAEL" creationdate="20200830T224646Z">
+        <seg>Para alcançar o crescimento populacional necessário para as transformações metropolitanas, você deve primeiro ter sucesso em conseguir que os membros do seu partido político sejam eleitos prefeitos das cidades.</seg>
       </tuv>
     </tu>
     <tu>
