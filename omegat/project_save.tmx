@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And it goes without saying that the financial reward that you will reap as the majority shareholder is also another great incentive for pursuing an IPO.\n\nIn this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230109Z" creationid="RAFAEL" creationdate="20200830T230109Z">
+        <seg>E nem é preciso dizer que a recompensa financeira que você obterá como acionista majoritário também é outro grande incentivo para buscar um IPO.\n\nNeste cenário, você deve colocar suas empresas em uma trajetória de crescimento sustentável com o objetivo final de ter pelo menos uma de suas subsidiárias vai fazer IPO com uma capitalização de mercado superior a US $ 1 bilhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T143748Z" creationid="RAFAEL" creationdate="20200815T143748Z">
@@ -7662,6 +7670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230031Z" creationid="RAFAEL" creationdate="20200830T230031Z">
+        <seg>Description=O mercado de ações tem visto uma série de IPOs (ofertas públicas iniciais) de grande sucesso recentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
@@ -7722,6 +7738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
         <seg>Description=Você construiu um próspero império de negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.\n\nTo execute this strategy and deliver the results that you have promised your investors, you must first recruit high-caliber executives who excel in the markets that your subsidiaries are to be focused on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230327Z" creationid="RAFAEL" creationdate="20200830T230327Z">
+        <seg>Description=Você planejou uma estratégia sólida para turbinar o retorno sobre o investimento (ROI) de sua empresa, envolvendo o uso de subsidiárias para maximizar o crescimento e a lucratividade nos mercados-alvo.\n\nPara executar esta estratégia e entregar os resultados que você prometeu aos seus investidores, você deve primeiro recrutar executivos de alto calibre que se destaquem nos mercados em que suas subsidiárias se concentrarão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10726,6 +10750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230139Z" creationid="RAFAEL" creationdate="20200830T230139Z">
+        <seg>Goal Description=Nesse cenário, você deve colocar suas empresas em uma trajetória de crescimento sustentável com uma meta eventual de ter pelo menos uma de suas subsidiárias fazendo IPO com um valor de mercado superior a US $ 1 bilhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225857Z" creationid="RAFAEL" creationdate="20200830T225857Z">
@@ -10738,6 +10770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225203Z" creationid="RAFAEL" creationdate="20200830T225203Z">
         <seg>Goal Description=O advento da Internet está mudando todos os aspectos da vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230210Z" creationid="RAFAEL" creationdate="20200830T230210Z">
+        <seg>Goal Description=Essa meta é alcançada quando o rápido crescimento do lucro de sua empresa faz com que o preço de suas ações ultrapasse US $ 1.000 em 20 anos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10990,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Soaring Stock Price</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230151Z" creationid="RAFAEL" creationdate="20200830T230151Z">
+        <seg>Goal Title=Preço das ações em alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Software Giant</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225438Z" creationid="RAFAEL" creationdate="20200830T225438Z">
@@ -11002,6 +11050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225844Z" creationid="RAFAEL" creationdate="20200830T225844Z">
         <seg>Goal Title=Posicionamento estratégico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Success in IPO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230126Z" creationid="RAFAEL" creationdate="20200830T230126Z">
+        <seg>Goal Title=Sucesso em IPO</seg>
       </tuv>
     </tu>
     <tu>
@@ -28810,6 +28866,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stock price of your company has surpassed the $1000 mark!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230218Z" creationid="RAFAEL" creationdate="20200830T230218Z">
+        <seg>O preço das ações da sua empresa ultrapassou a marca de $ 1000!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tech increase is greater for projects with longer durations.^^Since this is your first R&amp;D project, let's select ~6 months~ for the time duration to get the result sooner.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021532Z" creationid="RAFAEL" creationdate="20200822T021532Z">
@@ -33743,6 +33807,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T031638Z" creationid="RAFAEL" creationdate="20200804T031638Z">
         <seg>Você possui ações nesta empresa diretamente ou através de empresas Holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You see it as an excellent opportunity for your subsidiary companies to raise capital via IPO for funding business expansions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230044Z" creationid="RAFAEL" creationdate="20200830T230044Z">
+        <seg>Você a vê como uma excelente oportunidade para suas subsidiárias levantarem capital via IPO para financiar expansões de negócios.</seg>
       </tuv>
     </tu>
     <tu>
