@@ -7670,6 +7670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are a believer in the concept that the government should play a key role in the protection of the social and economic well-being of its citizens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224904Z" creationid="RAFAEL" creationdate="20200830T224904Z">
+        <seg>Description=Você acredita no conceito de que o governo deve desempenhar um papel fundamental na proteção do bem-estar social e econômico de seus cidadãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You are given 50 years to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225026Z" creationid="RAFAEL" creationdate="20200830T225026Z">
+        <seg>Description=Você tem 50 anos para expandir sua empresa de uma humilde startup de e-commerce a um formidável gigante, dominando o setor de e-commerce e apresentando ameaças existenciais a varejistas incompetentes.^^Você vencerá esse cenário quando as vendas de e-commerce de sua empresa atingir $ 200 milhões anualmente e a capitalização de mercado de sua empresa ultrapassa a marca de $ 1 bilhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
@@ -10654,6 +10670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224840Z" creationid="RAFAEL" creationdate="20200830T224840Z">
+        <seg>Goal Description=Além do crescimento econômico, o que as pessoas realmente esperam é uma melhoria significativa na qualidade de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Education is the most powerful investment for our future.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224603Z" creationid="RAFAEL" creationdate="20200830T224603Z">
@@ -10706,6 +10730,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214456Z" creationid="RAFAEL" creationdate="20200830T214456Z">
         <seg>Goal Description=Com seu histórico no mundo dos negócios, você está confiante de que pode liderar seu partido político para vencer as eleições para prefeito em Detroit e Pittsburgh e definir as políticas certas para impulsionar suas economias, criando novos negócios e oportunidades de trabalho muito necessários para as cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You are a believer in the concept that the government should play a key role in the protection of the social and economic well-being of its citizens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224938Z" creationid="RAFAEL" creationdate="20200830T224938Z">
+        <seg>Goal Description=Você acredita no conceito de que o governo deve desempenhar um papel fundamental na proteção do bem-estar social e econômico de seus cidadãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225048Z" creationid="RAFAEL" creationdate="20200830T225048Z">
+        <seg>Goal Description=Você vencerá esse cenário quando as vendas de comércio eletrônico da sua empresa atingirem US $ 200 milhões anuais e a capitalização de mercado da sua empresa ultrapassar a marca de US $ 1 bilhão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,10 +10886,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Towards a Better Quality of Life</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224828Z" creationid="RAFAEL" creationdate="20200830T224828Z">
+        <seg>Goal Title=Rumo a uma melhor qualidade de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Tutorial Goal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015025Z" creationid="RAFAEL" creationdate="20200812T015025Z">
         <seg>Goal Title=Objetivo do tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Welfare Vision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224929Z" creationid="RAFAEL" creationdate="20200830T224929Z">
+        <seg>Goal Title=Visão de Bem-Estar</seg>
       </tuv>
     </tu>
     <tu>
@@ -18179,6 +18235,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T165211Z" creationid="RAFAEL" creationdate="20200815T165211Z">
         <seg>Agora, vamos começar a lidar com marca e publicidade.^^Existem três estratégias de marca diferentes disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you are going to lead your political party to win the elections and realize your vision.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224913Z" creationid="RAFAEL" creationdate="20200830T224913Z">
+        <seg>Agora você vai liderar seu partido político para vencer as eleições e realizar sua visão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30083,10 +30147,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=The Battle For Internet Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225101Z" creationid="RAFAEL" creationdate="20200830T225101Z">
+        <seg>Title=A batalha pelo domínio da Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Towards a Better Quality of Life</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224734Z" creationid="RAFAEL" creationdate="20200830T224734Z">
         <seg>Title=Rumo a uma melhor qualidade de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Welfare Vision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224851Z" creationid="RAFAEL" creationdate="20200830T224851Z">
+        <seg>Title=Visão de Bem-Estar</seg>
       </tuv>
     </tu>
     <tu>
