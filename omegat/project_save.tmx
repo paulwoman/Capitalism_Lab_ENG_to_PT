@@ -10942,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headhunt (hotkey: 'U')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T195224Z" creationid="RAFAEL" creationdate="20200830T195224Z">
+        <seg>Headhunt (Atalho: 'U')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headhunt Targets Include Subsidiaries</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030704Z" creationid="RAFAEL" creationdate="20200805T030506Z">
@@ -11114,6 +11122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030145Z" creationid="RAFAEL" creationdate="20200805T030145Z">
         <seg>Contrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire (hotkey: 'W')</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T195210Z" creationid="RAFAEL" creationdate="20200830T195210Z">
+        <seg>Contratar (Atalho: 'W')</seg>
       </tuv>
     </tu>
     <tu>
@@ -29959,6 +29975,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T185334Z" creationid="RAFAEL" creationdate="20200815T163300Z">
         <seg>Para entender melhor como as marcas funcionam, vamos abrir o relatório ~Detalhe Produto~.^^Clique agora no ícone do ~Centro de informações~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To headhunt a person to lead the current functional unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T195252Z" creationid="RAFAEL" creationdate="20200830T195252Z">
+        <seg>Para caçar uma pessoa para liderar a unidade funcional atual.</seg>
       </tuv>
     </tu>
     <tu>
