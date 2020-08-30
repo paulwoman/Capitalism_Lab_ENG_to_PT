@@ -48138,6 +48138,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T234407Z" creationid="RAFAEL" creationdate="20200830T234407Z">
+        <seg>[2832]&lt;AGS4&gt;indústria (avaliação de especialização:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (level:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T000910Z" creationid="User" creationdate="20200802T000910Z">
@@ -51630,6 +51638,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004921Z" creationid="RAFAEL" creationdate="20200826T004921Z">
         <seg>[3266]&lt;AIN2&gt;Aumente todos os gastos com publicidade mensalmente com base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advlertising spendings monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T234444Z" creationid="RAFAEL" creationdate="20200830T234444Z">
+        <seg>[3266]&lt;AIN2&gt;Aumentar todos gastos com Public. mensalmente com base na inflação|</seg>
       </tuv>
     </tu>
     <tu>
