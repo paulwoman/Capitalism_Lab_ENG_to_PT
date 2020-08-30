@@ -6934,6 +6934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, their lengths decrease when crops are being sold.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025403Z" creationid="RAFAEL" creationdate="20200830T025403Z">
+        <seg>Por outro lado, seus comprimentos diminuem quando as safras estão sendo vendidas.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Brand</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235804Z" creationid="RAFAEL" creationdate="20200806T235804Z">
@@ -27297,6 +27305,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blue bars increases in length when crops are being harvested.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025350Z" creationid="RAFAEL" creationdate="20200830T025350Z">
+        <seg>As barras azuis aumentam de comprimento quando as safras estão sendo colhidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The blue bars indicate the quantity of products in the current warehouse storage unit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T214707Z" creationid="Olivier" creationdate="20200730T214707Z">
@@ -31743,6 +31759,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
         <seg>Quando todos os trabalhadores de uma unidade se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When crops are harvested, they are stored in barns, which are represented by the blue bars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025321Z" creationid="RAFAEL" creationdate="20200830T025321Z">
+        <seg>Quando as safras são colhidas, elas são armazenadas em celeiros, que são representados pelas barras azuis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51463,6 +51487,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023822Z" creationid="RAFAEL" creationdate="20200818T023822Z">
         <seg>~Lucro por ação~ é o lucro operacional da empresa nos últimos 365 dias dividido pelo ~número total de ações em circulação~.^^Quando uma empresa emite novas ações, o ~Lucro por ação~ será diluído, conforme o lucro da empresa será dividido por um número maior de ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Growth Progress~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T025415Z" creationid="RAFAEL" creationdate="20200830T025415Z">
+        <seg>~Progresso de crescimento~</seg>
       </tuv>
     </tu>
     <tu>
