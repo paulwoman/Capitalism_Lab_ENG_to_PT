@@ -7606,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Education is the most powerful investment for our future.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224418Z" creationid="RAFAEL" creationdate="20200830T224418Z">
+        <seg>Description=A educação é o investimento mais poderoso para o nosso futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T020757Z" creationid="RAFAEL" creationdate="20200811T014711Z">
@@ -14159,6 +14167,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this scenario, you must not only improve the education and wage rate of the existing cities, but also build a new city from scratch and grow it to one with world class education facilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224543Z" creationid="RAFAEL" creationdate="20200830T224543Z">
+        <seg>Nesse cenário, você não deve apenas melhorar a educação e os salários das cidades existentes, mas também construir uma nova cidade do zero e transformá-la em uma com instalações de ensino de classe mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015452Z" creationid="RAFAEL" creationdate="20200822T015452Z">
@@ -15003,6 +15019,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013436Z" creationid="RAFAEL" creationdate="20200808T013436Z">
         <seg>Ele determina o impacto da economia sobre a taxa de inadimplência do empréstimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It empowers people, increases employment and drives wage growth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224427Z" creationid="RAFAEL" creationdate="20200830T224427Z">
+        <seg>Capacita as pessoas, aumenta o emprego e impulsiona o crescimento dos salários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29991,6 +30015,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214351Z" creationid="RAFAEL" creationdate="20200830T214351Z">
         <seg>Title=Renascimento Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Investing in Education</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224410Z" creationid="RAFAEL" creationdate="20200830T224410Z">
+        <seg>Title=Investindo em Educação</seg>
       </tuv>
     </tu>
     <tu>
