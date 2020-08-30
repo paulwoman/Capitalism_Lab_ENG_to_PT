@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(To see your Political Influence score, press F7 to open the Score report.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214740Z" creationid="RAFAEL" creationdate="20200830T214740Z">
+        <seg>(Para ver sua pontuação de influência política, pressione F7 para abrir o relatório de pontuação.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010528Z" creationid="RAFAEL" creationdate="20200808T010528Z">
@@ -33631,6 +33639,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
         <seg>Seus objetivos neste jogo são atingir uma receita anual de $ 50.000.000 e um lucro anual de $ 5.000.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your political influence has reached new heights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214749Z" creationid="RAFAEL" creationdate="20200830T214749Z">
+        <seg>Sua influência política atingiu novos patamares.</seg>
       </tuv>
     </tu>
     <tu>
