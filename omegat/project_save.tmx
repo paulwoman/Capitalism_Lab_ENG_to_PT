@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And use #Home# and #End# keys to jump to the top and bottom of a list box.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233444Z" creationid="RAFAEL" creationdate="20200830T233444Z">
+        <seg>E use as teclas #Home# e #End# para pular para o topo e a fim de uma caixa de listagem.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -11646,6 +11654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, if you just want the game time to pass without needing to interact with any game user interfaces, you could #just open Farmer's Guide# (hotkey: F2) and the game time will advance #much faster#.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233241Z" creationid="RAFAEL" creationdate="20200830T233241Z">
+        <seg>Portanto, se você quiser apenas que o tempo do jogo passe sem precisar interagir com nenhuma interface do jogo, você pode #apenas abrir o Guia do fazendeiro# (Atalho: F2) e o tempo do jogo avançará #muito mais rápido#.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013018Z" creationid="RAFAEL" creationdate="20200812T013018Z">
@@ -16347,6 +16363,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005402Z" creationid="User" creationdate="20200802T005402Z">
         <seg>Continue com o bom trabalho e tente alcançar objetivos ainda mais altos.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keys For Browsing Records Within List Boxes^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233257Z" creationid="RAFAEL" creationdate="20200830T233257Z">
+        <seg>Teclas para pesquisar registros em listas^</seg>
       </tuv>
     </tu>
     <tu>
@@ -33734,6 +33758,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013915Z" creationid="RAFAEL" creationdate="20200805T013915Z">
         <seg>Você pode então utilizar o projeto do produto em suas unidades de fabricação em suas fábricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use #PgDn#/#PgUp# keys, and #Up#/#Down# keys to browse records within a list box.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233338Z" creationid="RAFAEL" creationdate="20200830T233338Z">
+        <seg>Você pode usar as teclas #PgDn#/#PgUp# e #Up#/#Down# para navegar pelos registros em uma caixa de listagem.^</seg>
       </tuv>
     </tu>
     <tu>
