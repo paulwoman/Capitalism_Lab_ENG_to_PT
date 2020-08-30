@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any products directed into the private-labeling unit are relabeled immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231850Z" creationid="RAFAEL" creationdate="20200830T231850Z">
+        <seg>Todos os produtos direcionados à unidade de rotulagem privada são etiquetados novamente imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apartment Capacity Modifier</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011002Z" creationid="RAFAEL" creationdate="20200808T011002Z">
@@ -8258,6 +8266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T012814Z" creationid="RAFAEL" creationdate="20200805T012814Z">
         <seg>Baixar MODs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231946Z" creationid="RAFAEL" creationdate="20200830T231946Z">
+        <seg>Durante um processo de manufatura, as matérias-primas devem primeiro ir para uma unidade de manufatura e então serem convertidas em produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14615,6 +14631,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this arrangement of units, the purchased goods from another company are labeled with your brand and resold as if you had produced them yourself.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231914Z" creationid="RAFAEL" creationdate="20200830T231914Z">
+        <seg>Nesse arranjo de unidades, os produtos adquiridos de outra empresa são rotulados com sua marca e revendidos como se você os tivesse produzido.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T010142Z" creationid="RAFAEL" creationdate="20200811T010142Z">
@@ -15435,6 +15459,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235442Z" creationid="RAFAEL" creationdate="20200806T235442Z">
         <seg>Pode ser aumentada através de publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can manufacture no more goods even if there is additional supply and demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232017Z" creationid="RAFAEL" creationdate="20200830T232017Z">
+        <seg>Não pode fabricar mais bens, mesmo se houver oferta e demanda adicionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19435,6 +19467,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T163801Z" creationid="RAFAEL" creationdate="20200815T163801Z">
         <seg>Por outro lado, para alguns produtos como ~carne congelada~, os consumidores estão menos preocupados com ~marcas~, e mais com ~qualidade~ e ~preços~.^^Para tais produtos, a publicidade deve ser limitada e o foco deve ser a otimização de suas operações comerciais para oferecer aos consumidores produtos de menor preço e maior qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232025Z" creationid="RAFAEL" creationdate="20200830T232025Z">
+        <seg>Por outro lado, se essa barra for curta, isso indica que suas instalações e recursos não estão sendo usados ​​de forma eficaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28209,6 +28249,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The duration of the project.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232139Z" creationid="RAFAEL" creationdate="20200830T232139Z">
+        <seg>A duração do projeto.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The employee loyalty of the team lead.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232122Z" creationid="RAFAEL" creationdate="20200830T232122Z">
+        <seg>A lealdade do funcionário do líder da equipe.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The farm does not have sufficient space for setting up a new production.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022543Z" creationid="RAFAEL" creationdate="20200806T022543Z">
@@ -28497,6 +28553,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The length of each bar indicates the quantity of the raw material stocked in the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231938Z" creationid="RAFAEL" creationdate="20200830T231938Z">
+        <seg>O comprimento de cada barra indica a quantidade de matéria-prima estocada na unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The letters on the mini-map indicate the types of natural resources available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201059Z" creationid="RAFAEL" creationdate="20200822T201059Z">
@@ -28533,6 +28597,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T012808Z" creationid="RAFAEL" creationdate="20200812T012808Z">
         <seg>O canto inferior esquerdo da tela agora exibe detalhes sobre sua unidade de compra e o produto que ela transporta. ^^ Abaixo da imagem do produto, você pode ver a identidade da cor do fornecedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The manufacturing process is suspended whenever any of its required raw materials is lacking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231956Z" creationid="RAFAEL" creationdate="20200830T231956Z">
+        <seg>O processo de fabricação é suspenso sempre que faltar alguma das matérias-primas necessárias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28986,6 +29058,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The skill level of the team lead.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232102Z" creationid="RAFAEL" creationdate="20200830T232102Z">
+        <seg>O nível de habilidade do líder da equipe.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T023551Z" creationid="RAFAEL" creationdate="20200805T023551Z">
@@ -29054,6 +29134,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230218Z" creationid="RAFAEL" creationdate="20200830T230218Z">
         <seg>O preço das ações da sua empresa ultrapassou a marca de $ 1000!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stocks of raw materials are represented by a row of green bars here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231931Z" creationid="RAFAEL" creationdate="20200830T231931Z">
+        <seg>Os estoques de matérias-primas são representados por uma linha de barras verdes aqui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30130,6 +30218,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This might contribute to the firm's low profitability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232037Z" creationid="RAFAEL" creationdate="20200830T232037Z">
+        <seg>Isso pode contribuir para a baixa lucratividade da empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010208Z" creationid="RAFAEL" creationdate="20200808T010208Z">
@@ -30294,6 +30390,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001525Z" creationid="RAFAEL" creationdate="20200805T001525Z">
         <seg>Essa classificação é determinada pelo nível salarial da cidade, a taxa de desemprego e a taxa individual de imposto de renda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This saves you the trouble of managing production lines and lets you concentrate on marketing.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231843Z" creationid="RAFAEL" creationdate="20200830T231843Z">
+        <seg>Isso evita o trabalho de gerenciar linhas de produção e permite que você se concentre no marketing.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -30518,6 +30622,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213409Z" creationid="Olivier" creationdate="20200730T213409Z">
         <seg>Quanto maior os pontos, maior o alcance da propaganda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232003Z" creationid="RAFAEL" creationdate="20200830T232003Z">
+        <seg>Assim, para que a unidade opere com eficiência máxima, é necessário fornecer um fornecimento consistente de matéria-prima.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -32166,6 +32278,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013412Z" creationid="RAFAEL" creationdate="20200805T013412Z">
         <seg>Usando a pasta MOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually linking a private labeling unit between a purchasing unit and a sale unit is the easiest way to label the products from another corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231858Z" creationid="RAFAEL" creationdate="20200830T231858Z">
+        <seg>Normalmente, ligar uma unidade de etiquetagem privada entre uma unidade de compra e uma unidade de venda é a maneira mais fácil de etiquetar os produtos de outra empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52490,6 +52610,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Loyalty~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232114Z" creationid="RAFAEL" creationdate="20200830T232114Z">
+        <seg>~Lealdade~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Monthly Advertising Expense~</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231346Z" creationid="Olivier" creationdate="20200730T213412Z">
@@ -52510,6 +52638,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231506Z" creationid="RAFAEL" creationdate="20200830T231455Z">
         <seg>~Estoque do produto~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Project Duration~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232132Z" creationid="RAFAEL" creationdate="20200830T232132Z">
+        <seg>~Duração do projeto~</seg>
       </tuv>
     </tu>
     <tu>
@@ -52542,6 +52678,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231727Z" creationid="RAFAEL" creationdate="20200830T231727Z">
         <seg>~Estoque de matéria-prima~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Skill Level~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232055Z" creationid="RAFAEL" creationdate="20200830T232055Z">
+        <seg>~Nível de habilidade~</seg>
       </tuv>
     </tu>
     <tu>
