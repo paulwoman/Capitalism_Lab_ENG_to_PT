@@ -47397,8 +47397,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2906]&lt;BYIE&gt;Yield|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T004247Z" creationid="User" creationdate="20200802T004247Z">
-        <seg>[2906]&lt;BYIE&gt;Produção|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T024139Z" creationid="User" creationdate="20200802T004247Z">
+        <seg>[2906]&lt;BYIE&gt;Taxa|</seg>
       </tuv>
     </tu>
     <tu>
