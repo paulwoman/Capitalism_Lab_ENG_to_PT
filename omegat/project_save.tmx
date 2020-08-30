@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225940Z" creationid="RAFAEL" creationdate="20200830T225940Z">
+        <seg>(O patrimônio líquido é o valor de todos os ativos de uma empresa menos o valor de todos os passivos pendentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Otherwise they'd all be smelly wouldn't they?)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T191557Z" creationid="RAFAEL" creationdate="20200815T164706Z">
@@ -7638,6 +7646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225751Z" creationid="RAFAEL" creationdate="20200830T225751Z">
+        <seg>Description=Nos mercados em rápida mudança de hoje, a agilidade corporativa é a chave para o sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225111Z" creationid="RAFAEL" creationdate="20200830T225111Z">
@@ -10710,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225857Z" creationid="RAFAEL" creationdate="20200830T225857Z">
+        <seg>Goal Description=Nos mercados em rápida mudança de hoje, a agilidade corporativa é a chave para o sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225203Z" creationid="RAFAEL" creationdate="20200830T225203Z">
@@ -10810,6 +10834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214537Z" creationid="RAFAEL" creationdate="20200830T214537Z">
         <seg>Goal Description=Você ganha este subobjetivo se conseguir entregar resultados de negócios impressionantes enquanto trabalha para o objetivo maior de fazer as cidades crescer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when the net worth of each of your subsidiary companies has reached $1 billion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225920Z" creationid="RAFAEL" creationdate="20200830T225920Z">
+        <seg>Goal Description=Você ganha este subobjetivo quando o patrimônio líquido de cada uma de suas subsidiárias atinge US $ 1 bilhão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10918,6 +10950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=High Net Worth Subsidiaries</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225907Z" creationid="RAFAEL" creationdate="20200830T225907Z">
+        <seg>Goal Title=Subsidiárias de alto patrimônio líquido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Industry Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225549Z" creationid="RAFAEL" creationdate="20200830T225549Z">
@@ -10954,6 +10994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225438Z" creationid="RAFAEL" creationdate="20200830T225438Z">
         <seg>Goal Title=Gigante de Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Strategic Positioning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225844Z" creationid="RAFAEL" creationdate="20200830T225844Z">
+        <seg>Goal Title=Posicionamento estratégico</seg>
       </tuv>
     </tu>
     <tu>
@@ -17691,6 +17739,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012726Z" creationid="RAFAEL" creationdate="20200808T012726Z">
         <seg>O spread líquido de juros se refere à diferença na #taxa em que um banco recebe depósitos de clientes # e a #taxa na qual oferece empréstimos #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net worth is also known as shareholders’equity which you can view from the balance sheet in the Corporate Details report.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225954Z" creationid="RAFAEL" creationdate="20200830T225954Z">
+        <seg>O patrimônio líquido também é conhecido como patrimônio líquido, que você pode visualizar no balanço patrimonial no relatório de Detalhes Corporativos.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30259,6 +30315,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Strategic Positioning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225740Z" creationid="RAFAEL" creationdate="20200830T225740Z">
+        <seg>Title=Posicionamento estratégico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Success in IPO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230015Z" creationid="RAFAEL" creationdate="20200830T230015Z">
+        <seg>Title=Sucesso em IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=The Battle For Internet Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225101Z" creationid="RAFAEL" creationdate="20200830T225101Z">
@@ -30567,6 +30639,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011619Z" creationid="RAFAEL" creationdate="20200811T011619Z">
         <seg>Para isso, basta repetir as etapas que você acabou de fazer para configurar sua primeira loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To steer clear from this undesirable path, you have the foresight of setting up two subsidiary companies and strategically positioning each of them to focus on specific markets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225819Z" creationid="RAFAEL" creationdate="20200830T225819Z">
+        <seg>Para evitar esse caminho indesejável, você tem a visão de abrir duas empresas subsidiárias e posicionar estrategicamente cada uma delas para se concentrar em mercados específicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31183,6 +31263,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024445Z" creationid="RAFAEL" creationdate="20200804T024445Z">
         <seg>Taxa de Desemprego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately, most companies fail to sustain it when they eventually become big and bloated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225805Z" creationid="RAFAEL" creationdate="20200830T225805Z">
+        <seg>Infelizmente, a maioria das empresas não consegue sustentá-lo quando, por fim, se tornam grandes e inchadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32763,6 +32851,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With a CEO at the helm of each company, they can respond more swiftly to market changes and grow at a faster pace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225829Z" creationid="RAFAEL" creationdate="20200830T225829Z">
+        <seg>Com um CEO no comando de cada empresa, eles podem responder mais rapidamente às mudanças do mercado e crescer em um ritmo mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225340Z" creationid="RAFAEL" creationdate="20200830T225340Z">
@@ -33135,6 +33231,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022423Z" creationid="RAFAEL" creationdate="20200822T022423Z">
         <seg>Você demonstrou sua capacidade de gerenciar projetos de P&amp;D e usá-los para aumentar a qualidade de seus produtos.^^A seguir, daremos uma olhada rápida na opção gerencial de fornecer treinamento para seus funcionários, o que é essencial para melhorar a competitividade geral de suas companhias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have dominated the upstream mining and farming sectors!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225723Z" creationid="RAFAEL" creationdate="20200830T225723Z">
+        <seg>Você dominou os setores de mineração e agricultura a montante!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33623,6 +33727,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011609Z" creationid="RAFAEL" creationdate="20200811T011609Z">
         <seg>Agora você deve configurar produtos em sua nova loja de departamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have two subsidiary companies with net worth exceeding $1 billion each!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230006Z" creationid="RAFAEL" creationdate="20200830T230006Z">
+        <seg>Agora você tem duas subsidiárias com patrimônio líquido superior a US $ 1 bilhão cada!</seg>
       </tuv>
     </tu>
     <tu>
