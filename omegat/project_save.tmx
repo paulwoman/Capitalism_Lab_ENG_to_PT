@@ -8510,6 +8510,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each box represents one cargo of the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231518Z" creationid="RAFAEL" creationdate="20200830T231518Z">
+        <seg>Cada caixa representa uma carga do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231532Z" creationid="RAFAEL" creationdate="20200830T231532Z">
+        <seg>Cada carga pode armazenar um certo número de unidades do produto.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each department has a unique function and enable you to run your corporation with greater efficiency.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200119Z" creationid="RAFAEL" creationdate="20200822T200119Z">
@@ -29076,9 +29092,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The type of livestock being raised.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213744Z" creationid="Olivier" creationdate="20200730T213744Z">
-        <seg>O tipo de animal que está sendo criado.
-</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231426Z" creationid="Olivier" creationdate="20200730T213744Z">
+        <seg>O tipo de animal que está sendo criado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52371,10 +52386,34 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Livestock Name~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231419Z" creationid="RAFAEL" creationdate="20200830T231419Z">
+        <seg>~Nome do Animal~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Monthly Advertising Expense~</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T213412Z" creationid="Olivier" creationdate="20200730T213412Z">
-        <seg>~Monthly Advertising Expense~</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231346Z" creationid="Olivier" creationdate="20200730T213412Z">
+        <seg>~Despesa Mensal de Publicidade~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Product Name~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231441Z" creationid="RAFAEL" creationdate="20200830T231441Z">
+        <seg>~Nome do Produto~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Product Stock~</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231506Z" creationid="RAFAEL" creationdate="20200830T231455Z">
+        <seg>~Estoque do produto~</seg>
       </tuv>
     </tu>
     <tu>
