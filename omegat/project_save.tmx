@@ -18407,6 +18407,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that this is context sensitive — when there are several list boxes on the same screen, you can position your mouse cursor within one of the list boxes and the shortcut keys that you have pressed will affect the respective list box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233500Z" creationid="RAFAEL" creationdate="20200830T233500Z">
+        <seg>Observe que isso é sensível ao contexto - quando há várias caixas de listagem na mesma tela, você pode posicionar o cursor do mouse dentro de uma das caixas de listagem e as teclas de atalho que você pressionou afetarão a respectiva caixa de listagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice anything different?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010514Z" creationid="RAFAEL" creationdate="20200812T010514Z">
@@ -51942,6 +51950,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T012015Z" creationid="RAFAEL" creationdate="20200826T012015Z">
         <seg>[3307]&lt;RSP4&gt;O preço da ação resultante será|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3308]&lt;HIR1&gt;Hire persons with %1s skills|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233629Z" creationid="RAFAEL" creationdate="20200830T233629Z">
+        <seg>[3308]&lt;HIR1&gt;Contrate pessoas com habilidades %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3309]&lt;HIR2&gt;Hire Research Team Lead|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233648Z" creationid="RAFAEL" creationdate="20200830T233648Z">
+        <seg>[3309]&lt;HIR2&gt;Contratar líder d'equipe de pesquisa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3310]&lt;AGD1&gt;Market Dominance of the %1s Industry|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233707Z" creationid="RAFAEL" creationdate="20200830T233707Z">
+        <seg>[3310]&lt;AGD1&gt;Domínio do mercado da indústria %1s|</seg>
       </tuv>
     </tu>
     <tu>
