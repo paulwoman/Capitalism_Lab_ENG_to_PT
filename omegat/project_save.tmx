@@ -7694,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225539Z" creationid="RAFAEL" creationdate="20200830T225539Z">
+        <seg>Description=Você está absolutamente determinado a ser o número um em alguns setores segmentados estrategicamente.\n\nVocê vence este jogo de cenário quando cada uma de suas três empresas subsidiárias alcançou com sucesso o domínio do mercado em pelo menos um setor, com desempenhos estelares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
@@ -10734,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225447Z" creationid="RAFAEL" creationdate="20200830T225447Z">
+        <seg>Goal Description=Para se tornar o gigante do software de amanhã, você deve investir agressivamente em P&amp;D para aumentar a capacidade de inovação de sua empresa e executar lançamentos de produtos sem falhas para estabelecer uma posição sólida nos principais mercados de software e, por fim, dominá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015403Z" creationid="RAFAEL" creationdate="20200822T015403Z">
@@ -10758,10 +10774,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You achive this goal when your main company has dominated the upstream mining and farming sectors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225650Z" creationid="RAFAEL" creationdate="20200830T225650Z">
+        <seg>Goal Description=Você atinge essa meta quando sua empresa principal domina os setores de mineração e agricultura a montante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You are a believer in the concept that the government should play a key role in the protection of the social and economic well-being of its citizens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224938Z" creationid="RAFAEL" creationdate="20200830T224938Z">
         <seg>Goal Description=Você acredita no conceito de que o governo deve desempenhar um papel fundamental na proteção do bem-estar social e econômico de seus cidadãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225608Z" creationid="RAFAEL" creationdate="20200830T225608Z">
+        <seg>Goal Description=Você está absolutamente determinado a ser o número um em alguns setores segmentados estrategicamente.\n\nVocê vence este jogo de cenário quando cada uma de suas três empresas subsidiárias alcançou com sucesso o domínio do mercado em pelo menos um setor, com desempenhos estelares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,6 +10918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Industry Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225549Z" creationid="RAFAEL" creationdate="20200830T225549Z">
+        <seg>Goal Title=Domínio da indústria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
@@ -10910,6 +10950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Software Giant</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225438Z" creationid="RAFAEL" creationdate="20200830T225438Z">
+        <seg>Goal Title=Gigante de Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=The Battle For Internet Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225154Z" creationid="RAFAEL" creationdate="20200830T225154Z">
@@ -10930,6 +10978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015025Z" creationid="RAFAEL" creationdate="20200812T015025Z">
         <seg>Goal Title=Objetivo do tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Upstream Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225625Z" creationid="RAFAEL" creationdate="20200830T225625Z">
+        <seg>Goal Title=Dominância Upstream</seg>
       </tuv>
     </tu>
     <tu>
@@ -30167,6 +30223,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214351Z" creationid="RAFAEL" creationdate="20200830T214351Z">
         <seg>Title=Renascimento Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Industry Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225500Z" creationid="RAFAEL" creationdate="20200830T225500Z">
+        <seg>Title=Domínio da indústria</seg>
       </tuv>
     </tu>
     <tu>
