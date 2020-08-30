@@ -50181,16 +50181,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3248]&lt;ATL1&gt;Adjust Training Levels for all your firms:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004245Z" creationid="RAFAEL" creationdate="20200826T004245Z">
-        <seg>[3248]&lt;ATL1&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T191920Z" creationid="RAFAEL" creationdate="20200826T004245Z">
+        <seg>[3248]&lt;ATL1&gt;Ajuste o nível de treinamento para todas as suas empresas:|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3249]&lt;ATL2&gt;Adjust Training Levels for all its firms:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004300Z" creationid="RAFAEL" creationdate="20200826T004300Z">
-        <seg>[3249]&lt;ATL2&gt;Ajuste os níveis de treinamento para todas as suas empresas:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T192125Z" creationid="RAFAEL" creationdate="20200826T004300Z">
+        <seg>[3249]&lt;ATL2&gt;Ajuste o nível de treinamento para todas as suas empresas:|</seg>
       </tuv>
     </tu>
     <tu>
