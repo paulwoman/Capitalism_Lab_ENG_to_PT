@@ -7694,6 +7694,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, illustrating how to use [CITIES] variables to customize cities for a new game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231213Z" creationid="RAFAEL" creationdate="20200830T231213Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, ilustrando como usar variáveis ​​[CIDADES] para personalizar cidades para um novo jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [CHALLENGE GAME] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231108Z" creationid="RAFAEL" creationdate="20200830T231108Z">
+        <seg>Description=Este é um script de amostra para o Capitalism Lab, listando todas as variáveis ​​na seção [JOGO DE DESAFIOS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [ENVIRONMENT] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231024Z" creationid="RAFAEL" creationdate="20200830T231024Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [AMBIENTE].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
@@ -30479,6 +30503,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224617Z" creationid="RAFAEL" creationdate="20200830T224617Z">
         <seg>Title=Transformação Metropolitana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Challenge Game</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231058Z" creationid="RAFAEL" creationdate="20200830T231058Z">
+        <seg>Title=Exemplo de script - Challenge Game</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Cities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231156Z" creationid="RAFAEL" creationdate="20200830T231156Z">
+        <seg>Title=Exemplo de script - cidades</seg>
       </tuv>
     </tu>
     <tu>
