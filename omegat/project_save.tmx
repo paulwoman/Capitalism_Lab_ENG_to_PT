@@ -50341,8 +50341,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004945Z" creationid="RAFAEL" creationdate="20200826T004945Z">
-        <seg>[3268]&lt;SAD1&gt;Defina um novo orçamento de publicidade para todas as suas unidades de publicidade:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T194525Z" creationid="RAFAEL" creationdate="20200826T004945Z">
+        <seg>[3268]&lt;SAD1&gt;Defina o novo orçamento de public. p/ todas as suas unid. d'publicidade:|</seg>
       </tuv>
     </tu>
     <tu>
