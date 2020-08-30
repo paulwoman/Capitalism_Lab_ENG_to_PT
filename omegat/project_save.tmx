@@ -51978,6 +51978,62 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Domaince of All Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233748Z" creationid="RAFAEL" creationdate="20200830T233748Z">
+        <seg>[3311]&lt;AGD2&gt;Domínio Total de Mercado de Todas as Indústrias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233830Z" creationid="RAFAEL" creationdate="20200830T233830Z">
+        <seg>[3312]&lt;AGD3&gt;Você dominou o setor %1s com uma classificação de dificuldade do jogo de %2s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3313]&lt;AGD4&gt;You have dominated All Industries with a game difficulty rating of %1s|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233848Z" creationid="RAFAEL" creationdate="20200830T233848Z">
+        <seg>[3313]&lt;AGD4&gt;Você dominou todas as indústrias com uma classificação de dificuldade do jogo de %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233857Z" creationid="RAFAEL" creationdate="20200830T233857Z">
+        <seg>[3314]&lt;AGD5&gt;Registro anterior:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3315]&lt;AGD6&gt;Highest rating achieved before:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233927Z" creationid="RAFAEL" creationdate="20200830T233927Z">
+        <seg>[3315]&lt;AGD6&gt;Classif. mais alta alcançada antes:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3316]&lt;AGD7&gt;You have set a new record for the Accomplishment Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233936Z" creationid="RAFAEL" creationdate="20200830T233936Z">
+        <seg>[3316]&lt;AGD7&gt;Você estabeleceu um novo recorde para o Jogo de Realização|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3317]&lt;AGD8&gt;You have won the Accomplishment Game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233949Z" creationid="RAFAEL" creationdate="20200830T233949Z">
+        <seg>[3317]&lt;AGD8&gt;Você ganhou o Jogo da Realização.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
