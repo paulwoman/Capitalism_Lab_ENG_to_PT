@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you confident that you could pull it off?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230346Z" creationid="RAFAEL" creationdate="20200830T230346Z">
+        <seg>Você está confiante de que conseguirá?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023203Z" creationid="RAFAEL" creationdate="20200818T023203Z">
@@ -3554,6 +3562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021452Z" creationid="RAFAEL" creationdate="20200805T021452Z">
         <seg>Mas se a empresa estiver sem dinheiro, o CEO terá que emitir novas ações para arrecadar fundos para a sobrevivência da empresa, independentemente dessa configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But in today's highly competitive business environment, truly good executives are scarce resources, fiercely sought after by numerous companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230338Z" creationid="RAFAEL" creationdate="20200830T230338Z">
+        <seg>Mas no ambiente de negócios altamente competitivo de hoje, os executivos realmente bons são recursos escassos, muito procurados por inúmeras empresas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
+        <seg>Description=Este jogo de cenário representa o teste final de sua habilidade empresarial e financeira no lançamento de empresas subsidiárias, levantamento de capital, estruturação de negócios e abertura de IPOs.\n\nOs objetivos neste cenário só podem ser alcançados formulando suas estratégias de negócios com habilidade e executando-as na perfeição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
@@ -10774,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230716Z" creationid="RAFAEL" creationdate="20200830T230716Z">
+        <seg>Goal Description=Os objetivos neste cenário só podem ser alcançados formulando suas estratégias de negócios com habilidade e executando-as na perfeição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230210Z" creationid="RAFAEL" creationdate="20200830T230210Z">
@@ -10862,6 +10894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.^^You must execute this strategy expertly and deliver the results that you have promised your investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230410Z" creationid="RAFAEL" creationdate="20200830T230410Z">
+        <seg>Goal Description=Você planejou uma estratégia sólida para turbinar o retorno sobre o investimento (ROI) de sua empresa, envolvendo o uso de subsidiárias para maximizar o crescimento e a lucratividade nos mercados-alvo.^^Você deve executar essa estratégia com habilidade e entregar os resultados que prometeu a seus investidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225048Z" creationid="RAFAEL" creationdate="20200830T225048Z">
@@ -10882,6 +10922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225920Z" creationid="RAFAEL" creationdate="20200830T225920Z">
         <seg>Goal Description=Você ganha este subobjetivo quando o patrimônio líquido de cada uma de suas subsidiárias atinge US $ 1 bilhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when your personal wealth reaches $500 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230506Z" creationid="RAFAEL" creationdate="20200830T230506Z">
+        <seg>Goal Description=Você ganha essa meta secundária quando sua riqueza pessoal atinge US $ 500 milhões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230126Z" creationid="RAFAEL" creationdate="20200830T230126Z">
         <seg>Goal Title=Sucesso em IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Surging Personal Wealth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230456Z" creationid="RAFAEL" creationdate="20200830T230456Z">
+        <seg>Goal Title=Riqueza pessoal crescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -30403,6 +30459,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=The Master of Capital</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230528Z" creationid="RAFAEL" creationdate="20200830T230528Z">
+        <seg>Title=O Mestre do Capital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Towards a Better Quality of Life</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224734Z" creationid="RAFAEL" creationdate="20200830T224734Z">
@@ -32771,6 +32835,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you succeed in doing so, you will earn the title of the Master of Capital!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230605Z" creationid="RAFAEL" creationdate="20200830T230605Z">
+        <seg>Quando você conseguir fazer isso, você receberá o título de Mestre do Capital!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your Smart Phone tech has reached 300, this custom image will be displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014132Z" creationid="RAFAEL" creationdate="20200805T014132Z">
@@ -34127,6 +34199,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T005842Z" creationid="RAFAEL" creationdate="20200812T005842Z">
         <seg>Seus objetivos neste jogo são atingir uma receita anual de $ 50.000.000 e um lucro anual de $ 5.000.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your personal wealth has surged to a new height.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230516Z" creationid="RAFAEL" creationdate="20200830T230516Z">
+        <seg>Sua riqueza pessoal atingiu um novo patamar.</seg>
       </tuv>
     </tu>
     <tu>
