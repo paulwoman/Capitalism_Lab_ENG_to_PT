@@ -10990,6 +10990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235723Z" creationid="RAFAEL" creationdate="20200831T235723Z">
+        <seg>Goal Description=Aproveite a nova metodologia de treinamento para melhorar a margem de lucro operacional de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225203Z" creationid="RAFAEL" creationdate="20200830T225203Z">
@@ -11058,6 +11066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001400Z" creationid="RAFAEL" creationdate="20200822T001400Z">
         <seg>Goal Description=Para ganhar este jogo, sua empresa deve fazer pelo menos 20 tipos de produtos para demonstrar sua capacidade de produzir uma ampla gama de produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235636Z" creationid="RAFAEL" creationdate="20200831T235636Z">
+        <seg>Goal Description=Com o avanço no treinamento, você agora tem a ferramenta para melhorar a eficiência operacional de sua empresa a novos patamares e fornecer retornos financeiros verdadeiramente excepcionais para seus acionistas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Aggressive Growth Plan</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235457Z" creationid="RAFAEL" creationdate="20200831T235457Z">
+        <seg>Goal Title=Plano de crescimento agressivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Corporate Performance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214513Z" creationid="RAFAEL" creationdate="20200830T214513Z">
@@ -11274,6 +11298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
         <seg>Goal Title=Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Operating Performance Target</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235654Z" creationid="RAFAEL" creationdate="20200831T235654Z">
+        <seg>Goal Title=Meta de desempenho operacional</seg>
       </tuv>
     </tu>
     <tu>
@@ -52658,6 +52690,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235428Z" creationid="RAFAEL" creationdate="20200831T235428Z">
+        <seg>^^A nova metodologia de treinamento é capaz de aumentar a eficiência do treinamento corporativo em até 100% e empresas em todo o mundo estão adotando rapidamente esta nova metodologia de treinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021859Z" creationid="RAFAEL" creationdate="20200822T021859Z">
@@ -52678,6 +52718,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
         <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235442Z" creationid="RAFAEL" creationdate="20200831T235442Z">
+        <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
