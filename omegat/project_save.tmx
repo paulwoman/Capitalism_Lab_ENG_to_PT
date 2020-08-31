@@ -7838,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235409Z" creationid="RAFAEL" creationdate="20200831T235409Z">
+        <seg>Description=Anos de pesquisa em metodologia de treinamento por um consórcio de escolas de negócios líderes finalmente produziram resultados surpreendentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You are a believer in the concept that the government should play a key role in the protection of the social and economic well-being of its citizens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224904Z" creationid="RAFAEL" creationdate="20200830T224904Z">
@@ -9954,6 +9962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232245Z" creationid="RAFAEL" creationdate="20200830T232245Z">
         <seg>Para produtos de custo mais baixo, como xampu, uma carga pode conter até vários milhares de unidades do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details about how to customize a MOD, please see https://www.capitalismlab.com/mod/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235329Z" creationid="RAFAEL" creationdate="20200831T235329Z">
+        <seg>Para obter mais detalhes sobre como personalizar um MOD, consulte https://www.capitalismlab.com/mod/</seg>
       </tuv>
     </tu>
     <tu>
@@ -14435,6 +14451,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T030555Z" creationid="RAFAEL" creationdate="20200818T030555Z">
         <seg>Se você achar a lista de ações muito desordenada, você pode usar os filtros de ações para limitar o tipo de ações a serem exibidas na tela.^^Por exemplo, você pode escolher visualizar apenas as ações de tecnologia que você possui atualmente, clicando no botão ~Tech~ e depois no botão ~Owned~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have any questions about modding, you may post your questions on the official Capitalism Lab forum at http://www.capitalism2.com/forum/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235345Z" creationid="RAFAEL" creationdate="20200831T235345Z">
+        <seg>Se você tiver alguma dúvida sobre modding, você pode postar suas perguntas no fórum oficial do Capitalism Lab em http://www.capitalism2.com/forum/</seg>
       </tuv>
     </tu>
     <tu>
@@ -27731,8 +27755,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200812T170459Z" creationid="Olivier" creationdate="20200812T170459Z">
-        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235255Z" creationid="Olivier" creationdate="20200812T170459Z">
+        <seg>O MOD Kit permite que você crie um MOD para o Capitalism Lab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30866,6 +30890,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Breakthrough in Training</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235355Z" creationid="RAFAEL" creationdate="20200831T235355Z">
+        <seg>Title=Avanço no treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Dilemma of a Camera Manufacturer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
@@ -31294,6 +31326,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T010943Z" creationid="RAFAEL" creationdate="20200812T010943Z">
         <seg>Para entender isto melhor, basta adicionar um produto à loja usando o método antigo que você está familiarizado.^^ Agora clique no ícone ~Adicionar Produto~ e escolha um produto da lista de fornecimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use the MOD Kit, please unzip the file MOD_kit.ZIP to the current folder \MOD_KIT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235313Z" creationid="RAFAEL" creationdate="20200831T235313Z">
+        <seg>Para usar o MOD Kit, descompacte o arquivo MOD_kit.ZIP para a pasta atual \MOD_KIT.</seg>
       </tuv>
     </tu>
     <tu>
