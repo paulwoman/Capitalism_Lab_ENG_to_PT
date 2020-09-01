@@ -11966,6 +11966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Investing in Education</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004328Z" creationid="RAFAEL" creationdate="20200901T004328Z">
+        <seg>Goal Title=Investindo em Educação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Launching a New Brand</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001357Z" creationid="RAFAEL" creationdate="20200901T001357Z">
@@ -12170,6 +12178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225154Z" creationid="RAFAEL" creationdate="20200830T225154Z">
         <seg>Goal Title=A batalha pelo domínio da Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=The Master of Capital</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004417Z" creationid="RAFAEL" creationdate="20200901T004417Z">
+        <seg>Goal Title=O Mestre do Capital</seg>
       </tuv>
     </tu>
     <tu>
