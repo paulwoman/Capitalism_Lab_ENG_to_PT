@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000721Z" creationid="RAFAEL" creationdate="20200901T000721Z">
+        <seg>(Você está limitado à produção de produtos fotográficos apenas até atingir esse objetivo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010528Z" creationid="RAFAEL" creationdate="20200808T010528Z">
@@ -7878,6 +7886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You came from a family farm business with strong expertise in farming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000918Z" creationid="RAFAEL" creationdate="20200901T000918Z">
+        <seg>Description=Você veio de uma empresa de agricultura familiar com grande expertise em agricultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
@@ -10926,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Excellent!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000640Z" creationid="RAFAEL" creationdate="20200901T000640Z">
+        <seg>Goal Achieved Text=Excelente!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Well done!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000415Z" creationid="RAFAEL" creationdate="20200901T000415Z">
@@ -11002,6 +11026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224603Z" creationid="RAFAEL" creationdate="20200830T224603Z">
         <seg>Goal Description=A educação é o investimento mais poderoso para o nosso futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000707Z" creationid="RAFAEL" creationdate="20200901T000707Z">
+        <seg>Goal Description=Estabeleça sua empresa como um produtor de produtos de câmera de alta qualidade e se esforce para superar a concorrência para se tornar o líder de mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11138,6 +11170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235636Z" creationid="RAFAEL" creationdate="20200831T235636Z">
         <seg>Goal Description=Com o avanço no treinamento, você agora tem a ferramenta para melhorar a eficiência operacional de sua empresa a novos patamares e fornecer retornos financeiros verdadeiramente excepcionais para seus acionistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000831Z" creationid="RAFAEL" creationdate="20200901T000831Z">
+        <seg>Goal Description=Com seu sucesso no mercado de produtos fotográficos, você tem capital e recursos para diversificar seus negócios no mercado de eletrônicos de consumo e levar sua empresa a novos patamares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11326,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Consumer Electronics Giant</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000814Z" creationid="RAFAEL" creationdate="20200901T000814Z">
+        <seg>Goal Title=Gigante da eletrônica de consumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Corporate Performance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214513Z" creationid="RAFAEL" creationdate="20200830T214513Z">
@@ -11418,6 +11466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
         <seg>Goal Title=Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leader</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000655Z" creationid="RAFAEL" creationdate="20200901T000655Z">
+        <seg>Goal Title=Líder de mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -18983,6 +19039,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you may move on to even bigger goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000737Z" creationid="RAFAEL" creationdate="20200901T000737Z">
+        <seg>Agora você pode avançar para objetivos ainda maiores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025828Z" creationid="RAFAEL" creationdate="20200818T025828Z">
@@ -20915,6 +20979,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214500Z" creationid="RAFAEL" creationdate="20200826T214500Z">
         <seg>Parent Goal=Primeiro objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Market Leader</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000842Z" creationid="RAFAEL" creationdate="20200901T000842Z">
+        <seg>Parent Goal=Líder de mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -25035,6 +25107,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030007Z" creationid="RAFAEL" creationdate="20200805T030007Z">
         <seg>Procure por fornecedores, digitando qualquer uma das seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See prospect in setting up retail outlets to sell the family farm's products daily, your father has delegated you to set up a new farming and retail operation overseas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000932Z" creationid="RAFAEL" creationdate="20200901T000932Z">
+        <seg>Veja a possibilidade de abrir pontos de venda para vender os produtos da fazenda da família diariamente. Seu pai delegou a você a criação de uma nova operação de agricultura e varejo no exterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31114,6 +31194,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Family Farm Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000907Z" creationid="RAFAEL" creationdate="20200901T000907Z">
+        <seg>Title=Empresa de Fazenda Familiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Industry Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225500Z" creationid="RAFAEL" creationdate="20200830T225500Z">
@@ -34894,6 +34982,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T000716Z" creationid="RAFAEL" creationdate="20200822T000716Z">
         <seg>Seu gado agora será criado e processado como carne congelada.^^Adicione uma ~Unidade de vendas~ e vincule-a à ~Unidade de processamento de gado~ para que sua fazenda possa vender a carne congelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has become the number one manufacturer of cameras.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000729Z" creationid="RAFAEL" creationdate="20200901T000729Z">
+        <seg>Sua empresa se tornou o fabricante número um de câmeras.</seg>
       </tuv>
     </tu>
     <tu>
