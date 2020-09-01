@@ -7894,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001257Z" creationid="RAFAEL" creationdate="20200901T001257Z">
+        <seg>Description=Há anos você tenta levantar capital para sua startup de moda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
@@ -8298,6 +8306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011204Z" creationid="RAFAEL" creationdate="20200811T011204Z">
         <seg>Você já tem dinheiro suficiente para construir uma segunda loja de departamento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001338Z" creationid="RAFAEL" creationdate="20200901T001338Z">
+        <seg>Você tem o que é preciso para conquistar um nicho com sua nova marca de moda e prosperar no mercado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,10 +11054,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and carve out a niche with your new fashion brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001421Z" creationid="RAFAEL" creationdate="20200901T001421Z">
+        <seg>Goal Description=Enfrentando a concorrência acirrada de empresas de moda estabelecidas, sua meta a curto prazo é permanecer à tona e conquistar um nicho com sua nova marca de moda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001020Z" creationid="RAFAEL" creationdate="20200901T001020Z">
         <seg>Goal Description=Faça seu negócio crescer e se tornar uma empresa líder em agricultura e varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001504Z" creationid="RAFAEL" creationdate="20200901T001504Z">
+        <seg>Goal Description=Tendo garantido uma posição no mercado com sua marca e fortalecido seu cofre de guerra com o novo investimento, agora você pode expandir seus negócios de forma agressiva e conquistar participações de mercado de seus concorrentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11430,6 +11462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001453Z" creationid="RAFAEL" creationdate="20200901T001453Z">
+        <seg>Goal Title=Desenvolvendo Seu Negócio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Growing the Cities</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224706Z" creationid="RAFAEL" creationdate="20200830T224706Z">
@@ -11486,6 +11526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001357Z" creationid="RAFAEL" creationdate="20200901T001357Z">
+        <seg>Goal Title=Lançamento de uma nova marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
@@ -11498,6 +11546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000655Z" creationid="RAFAEL" creationdate="20200901T000655Z">
         <seg>Goal Title=Líder de mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leadership</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001534Z" creationid="RAFAEL" creationdate="20200901T001534Z">
+        <seg>Goal Title=Liderança de Mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -21019,6 +21075,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214500Z" creationid="RAFAEL" creationdate="20200826T214500Z">
         <seg>Parent Goal=Primeiro objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001524Z" creationid="RAFAEL" creationdate="20200901T001524Z">
+        <seg>Parent Goal=Lançamento de uma nova marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -32282,6 +32346,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unfortunately the fund raising process is difficult and slow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001307Z" creationid="RAFAEL" creationdate="20200901T001307Z">
+        <seg>Infelizmente, o processo de arrecadação de fundos é difícil e lento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unfortunately, most companies fail to sustain it when they eventually become big and bloated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225805Z" creationid="RAFAEL" creationdate="20200830T225805Z">
@@ -33674,6 +33746,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001322Z" creationid="RAFAEL" creationdate="20200901T001322Z">
+        <seg>Quando você finalmente conseguir lançar sua própria empresa de moda (previsto para acontecer no ano 2000), haverá concorrentes estabelecidos no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T201940Z" creationid="RAFAEL" creationdate="20200822T201940Z">
@@ -34310,6 +34390,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022423Z" creationid="RAFAEL" creationdate="20200822T022423Z">
         <seg>Você demonstrou sua capacidade de gerenciar projetos de P&amp;D e usá-los para aumentar a qualidade de seus produtos.^^A seguir, daremos uma olhada rápida na opção gerencial de fornecer treinamento para seus funcionários, o que é essencial para melhorar a competitividade geral de suas companhias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have developed your company into a force to be reckoned with!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001517Z" creationid="RAFAEL" creationdate="20200901T001517Z">
+        <seg>Você transformou sua empresa em uma força a ser reconhecida!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35086,6 +35174,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141025Z" creationid="RAFAEL" creationdate="20200815T141025Z">
         <seg>O limite de crédito da sua empresa varia ao longo do jogo, dependendo do estado da sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001440Z" creationid="RAFAEL" creationdate="20200901T001440Z">
+        <seg>O desempenho da sua empresa impressionou os investidores e levou a uma nova rodada de investimentos de $ 100 milhões em sua empresa!</seg>
       </tuv>
     </tu>
     <tu>
