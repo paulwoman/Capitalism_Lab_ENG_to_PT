@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And you intend to keep your operations lean as this strategy produces the best results when your business can maneuver swiftly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003227Z" creationid="RAFAEL" creationdate="20200901T003227Z">
+        <seg>E você pretende manter suas operações enxutas, pois esta estratégia produz os melhores resultados quando seu negócio pode manobrar rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T023805Z" creationid="RAFAEL" creationdate="20200804T023805Z">
@@ -7742,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=A recent open source movement has led to a marked decrease in technology acquisition costs - they are now only about half of the original costs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003143Z" creationid="RAFAEL" creationdate="20200901T003143Z">
+        <seg>Description=Um movimento recente de código aberto levou a uma redução acentuada nos custos de aquisição de tecnologia - eles agora representam apenas cerca da metade dos custos originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001244Z" creationid="RAFAEL" creationdate="20200822T001244Z">
@@ -7938,6 +7954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225026Z" creationid="RAFAEL" creationdate="20200830T225026Z">
         <seg>Description=Você tem 50 anos para expandir sua empresa de uma humilde startup de e-commerce a um formidável gigante, dominando o setor de e-commerce e apresentando ameaças existenciais a varejistas incompetentes.^^Você vencerá esse cenário quando as vendas de e-commerce de sua empresa atingir $ 200 milhões anualmente e a capitalização de mercado de sua empresa ultrapassa a marca de $ 1 bilhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003352Z" creationid="RAFAEL" creationdate="20200901T003352Z">
+        <seg>Description=Você é o CEO de uma empresa que recentemente levantou centenas de milhões de fundos de investidores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Prove your ability in executing your strategy successfully by creating a diversified product portfolio and growing your company's net worth to $500 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003253Z" creationid="RAFAEL" creationdate="20200901T003253Z">
+        <seg>Goal Description=Prove sua capacidade de executar sua estratégia com sucesso, criando um portfólio diversificado de produtos e aumentando o patrimônio líquido de sua empresa para US $ 500 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Prove your ability in running a successful business and earn the support of your family for expanding overseas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002909Z" creationid="RAFAEL" creationdate="20200901T002909Z">
@@ -11510,6 +11542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to become the biggest company in terms of manufacturing revenue and generates an annual operating profit of at least $100 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003321Z" creationid="RAFAEL" creationdate="20200901T003321Z">
+        <seg>Goal Description=Sua meta é se tornar a maior empresa em termos de receita de fabricação e gerar um lucro operacional anual de pelo menos US $ 100 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002754Z" creationid="RAFAEL" creationdate="20200901T002754Z">
@@ -11530,6 +11570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224716Z" creationid="RAFAEL" creationdate="20200830T224716Z">
         <seg>Goal Description=Seu objetivo é conseguir que os membros do seu partido político sejam eleitos prefeitos das cidades e aumentar a população das cidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to transform your family business into a true multinational conglomerate with a market capitalization of $2 billion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003110Z" creationid="RAFAEL" creationdate="20200901T003110Z">
+        <seg>Goal Description=Seu objetivo é transformar sua empresa familiar em um verdadeiro conglomerado multinacional com uma capitalização de mercado de $ 2 bilhões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11610,6 +11658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214513Z" creationid="RAFAEL" creationdate="20200830T214513Z">
         <seg>Goal Title=Desempenho Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Develop a Product Portfolio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003242Z" creationid="RAFAEL" creationdate="20200901T003242Z">
+        <seg>Goal Title=Desenvolva um portfólio de produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11882,6 +11938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230126Z" creationid="RAFAEL" creationdate="20200830T230126Z">
         <seg>Goal Title=Sucesso em IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Success in Small Cities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003312Z" creationid="RAFAEL" creationdate="20200901T003312Z">
+        <seg>Goal Title=Sucesso em cidades pequenas</seg>
       </tuv>
     </tu>
     <tu>
@@ -21351,10 +21415,34 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Develop a Product Portfolio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003332Z" creationid="RAFAEL" creationdate="20200901T003332Z">
+        <seg>Parent Goal=Desenvolva um portfólio de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to London</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003119Z" creationid="RAFAEL" creationdate="20200901T003119Z">
+        <seg>Parent Goal=Expanda para Londres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Expand to Singapore</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002958Z" creationid="RAFAEL" creationdate="20200901T002958Z">
         <seg>Parent Goal=Expanda para Cingapura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to Tokyo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003058Z" creationid="RAFAEL" creationdate="20200901T003058Z">
+        <seg>Parent Goal=Expanda para Tóquio</seg>
       </tuv>
     </tu>
     <tu>
@@ -26439,6 +26527,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So this time, you have devised a new strategy and identified four small cities to focus on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003215Z" creationid="RAFAEL" creationdate="20200901T003215Z">
+        <seg>Portanto, desta vez, você planejou uma nova estratégia e identificou quatro pequenas cidades nas quais se concentrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Social Security</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T001807Z" creationid="RAFAEL" creationdate="20200805T001807Z">
@@ -30666,6 +30762,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows you to boost up your company's technical know-how cost-effectively and it is great timing for launching your new company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003158Z" creationid="RAFAEL" creationdate="20200901T003158Z">
+        <seg>Isso permite que você aumente o know-how técnico de sua empresa de maneira econômica e é um ótimo momento para lançar sua nova empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This apartment is for sale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232912Z" creationid="RAFAEL" creationdate="20200802T232912Z">
@@ -31702,6 +31806,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002810Z" creationid="RAFAEL" creationdate="20200901T002810Z">
         <seg>Title=Corporação multinacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Opportunities in Small Cities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003131Z" creationid="RAFAEL" creationdate="20200901T003131Z">
+        <seg>Title=Oportunidades em cidades pequenas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Real Estate Mogul</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003342Z" creationid="RAFAEL" creationdate="20200901T003342Z">
+        <seg>Title=Magnata do mercado imobiliário</seg>
       </tuv>
     </tu>
     <tu>
@@ -34694,6 +34814,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001856Z" creationid="RAFAEL" creationdate="20200901T001856Z">
         <seg>Você alcançou o domínio do mercado na indústria de alimentos e bebidas e a capitalização de mercado de sua empresa aumentou substancialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved the milestones and taken your business to new heights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003302Z" creationid="RAFAEL" creationdate="20200901T003302Z">
+        <seg>Você alcançou marcos e levou seu negócio a novos patamares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53646,6 +53774,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000945Z" creationid="RAFAEL" creationdate="20200901T000945Z">
         <seg>^^Seguindo a orientação de seu pai, você deve inicialmente se concentrar na agricultura e no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Having experienced the fierce competition in first-tier cities, you have come to the realization that small cities actually offer better market opportunities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003208Z" creationid="RAFAEL" creationdate="20200901T003208Z">
+        <seg>^^Tendo experimentado a competição feroz em cidades de primeiro nível, você percebeu que as cidades pequenas realmente oferecem melhores oportunidades de mercado.</seg>
       </tuv>
     </tu>
     <tu>
