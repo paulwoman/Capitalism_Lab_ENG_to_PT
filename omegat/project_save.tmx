@@ -7918,6 +7918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002103Z" creationid="RAFAEL" creationdate="20200901T002103Z">
+        <seg>Description=Você comprou o ativo da marca de uma empresa extinta que costumava ser uma marca de consumo popular e ainda carrega um valor de marca significativo nos dias atuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014426Z" creationid="RAFAEL" creationdate="20200820T014426Z">
@@ -11262,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001944Z" creationid="RAFAEL" creationdate="20200901T001944Z">
+        <seg>Goal Description=Com o seu sucesso na indústria de alimentos e bebidas, sua meta atual é diversificar seus negócios e expandir ainda mais sua empresa até se tornar um conglomerado multinacional com uma capitalização de mercado de $ 1 bilhão e uma receita anual de pelo menos $ 800 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000831Z" creationid="RAFAEL" creationdate="20200901T000831Z">
@@ -11610,6 +11626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001534Z" creationid="RAFAEL" creationdate="20200901T001534Z">
         <seg>Goal Title=Liderança de Mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Multinational Conglomerate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001925Z" creationid="RAFAEL" creationdate="20200901T001925Z">
+        <seg>Goal Title=Conglomerado multinacional</seg>
       </tuv>
     </tu>
     <tu>
@@ -21139,6 +21163,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214500Z" creationid="RAFAEL" creationdate="20200826T214500Z">
         <seg>Parent Goal=Primeiro objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001958Z" creationid="RAFAEL" creationdate="20200901T001958Z">
+        <seg>Parent Goal=Domínio de alimentos e bebidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -31418,6 +31450,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Legacy Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002042Z" creationid="RAFAEL" creationdate="20200901T002042Z">
+        <seg>Title=Marca reconhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Metropolitan Transformation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224617Z" creationid="RAFAEL" creationdate="20200830T224617Z">
@@ -34410,6 +34450,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001856Z" creationid="RAFAEL" creationdate="20200901T001856Z">
+        <seg>Você alcançou o domínio do mercado na indústria de alimentos e bebidas e a capitalização de mercado de sua empresa aumentou substancialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have achieved your first subgoal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
@@ -35230,6 +35278,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012034Z" creationid="Olivier" creationdate="20200802T012034Z">
         <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001909Z" creationid="RAFAEL" creationdate="20200901T001909Z">
+        <seg>Seu conselho de administração está extremamente satisfeito com seu desempenho e apóia seu plano para entrar em novos mercados para impulsionar o crescimento de receita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53266,6 +53322,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^(Note: You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002146Z" creationid="RAFAEL" creationdate="20200901T002146Z">
+        <seg>^^(Nota: Você não tem permissão para alterar a estratégia da marca neste jogo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002131Z" creationid="RAFAEL" creationdate="20200901T002131Z">
+        <seg>^^Ao alavancar a marca, seus novos produtos ganharão reconhecimento instantâneo do consumidor, sem publicidade prévia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000945Z" creationid="RAFAEL" creationdate="20200901T000945Z">
@@ -53342,6 +53414,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000254Z" creationid="RAFAEL" creationdate="20200901T000254Z">
         <seg>^^Você deve demonstrar sua liderança expandindo agressivamente seus negócios ou sua equipe executiva pode perder a confiança na empresa e buscar melhores oportunidades de carreira em outro lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002119Z" creationid="RAFAEL" creationdate="20200901T002119Z">
+        <seg>^^Você planeja lançar uma nova linha de produtos de excelente qualidade e comercializá-los sob a marca reconhecida.</seg>
       </tuv>
     </tu>
     <tu>
