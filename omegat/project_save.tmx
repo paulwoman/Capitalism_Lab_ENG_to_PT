@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000014Z" creationid="RAFAEL" creationdate="20200901T000014Z">
+        <seg>Description=Na década de 1990, a China continua sua reforma econômica com grandes avanços, atraindo dezenas de bilhões de dólares de investimentos estrangeiros a cada ano.^^Você deve estabelecer fábricas para aproveitar o baixo custo da mão de obra e, ao mesmo tempo, estabelecer uma presença no varejo e comece a cultivar o conhecimento da marca para seus produtos.^^Embora os salários e as demandas locais por produtos sofisticados ainda sejam baixos, eles estão aumentando rapidamente.^^Se você conseguir garantir uma posição segura no mercado, estará em um posição forte para colher os benefícios quando o mercado consumidor na China crescer para um tamanho substancial no futuro próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T020757Z" creationid="RAFAEL" creationdate="20200811T014711Z">
@@ -10966,6 +10974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235801Z" creationid="RAFAEL" creationdate="20200831T235801Z">
+        <seg>Goal Description=Seja mais agressivo na contratação e procure novos talentos para ingressar na sua corporação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Education is the most powerful investment for our future.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224603Z" creationid="RAFAEL" creationdate="20200830T224603Z">
@@ -11274,6 +11290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224706Z" creationid="RAFAEL" creationdate="20200830T224706Z">
         <seg>Goal Title=Crescendo as Cidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Talent Base</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235746Z" creationid="RAFAEL" creationdate="20200831T235746Z">
+        <seg>Goal Title=Aumentando a base de talentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -30930,6 +30954,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=China Opening Up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235857Z" creationid="RAFAEL" creationdate="20200831T235857Z">
+        <seg>Title=China se abrindo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Dilemma of a Camera Manufacturer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
@@ -34074,6 +34106,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have significantly improved your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235734Z" creationid="RAFAEL" creationdate="20200831T235734Z">
+        <seg>Você melhorou significativamente a margem de lucro operacional de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully acquired and merged|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T200433Z" creationid="User" creationdate="20200802T200433Z">
@@ -34734,6 +34774,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T023959Z" creationid="RAFAEL" creationdate="20200818T023959Z">
         <seg>O preço das ações de sua empresa só pode subir no longo prazo se seu ~Lucro por ação~ também subir.^^Assim, para o fundo que você levantou com a emissão de novas ações, você deve usá-los para investir em novos negócios para gerar mais lucros para seus acionistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235846Z" creationid="RAFAEL" creationdate="20200831T235846Z">
+        <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
       </tuv>
     </tu>
     <tu>
