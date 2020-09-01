@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You are limited to production of beverage, food and snacks until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001841Z" creationid="RAFAEL" creationdate="20200901T001841Z">
+        <seg>(Você está limitado à produção de bebidas, alimentos e lanches até atingir esse objetivo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000721Z" creationid="RAFAEL" creationdate="20200901T000721Z">
@@ -7894,6 +7902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001721Z" creationid="RAFAEL" creationdate="20200901T001721Z">
+        <seg>Description=Você tem um excelente histórico na indústria de alimentos e bebidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001257Z" creationid="RAFAEL" creationdate="20200901T001257Z">
@@ -11110,6 +11126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001832Z" creationid="RAFAEL" creationdate="20200901T001832Z">
+        <seg>Goal Description=Lidere sua empresa para obter o domínio do mercado de alimentos e bebidas e fornecer retornos financeiros excepcionais aos seus investidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235723Z" creationid="RAFAEL" creationdate="20200831T235723Z">
@@ -11134,6 +11158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001546Z" creationid="RAFAEL" creationdate="20200901T001546Z">
+        <seg>Goal Description=Graças às suas rodadas recentes de expansões bem-sucedidas, você agora está em posição de dar mais um salto e se tornar o líder de mercado na indústria de vestuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225203Z" creationid="RAFAEL" creationdate="20200830T225203Z">
@@ -11146,6 +11178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230716Z" creationid="RAFAEL" creationdate="20200830T230716Z">
         <seg>Goal Description=Os objetivos neste cenário só podem ser alcançados formulando suas estratégias de negócios com habilidade e executando-as na perfeição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001637Z" creationid="RAFAEL" creationdate="20200901T001637Z">
+        <seg>Goal Description=O mercado de produtos de couro é altamente lucrativo, você deve aproveitar seu sucesso no mercado de moda para ampliar suas linhas de produtos para cobrir os produtos de couro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,10 +11494,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Fashion Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001625Z" creationid="RAFAEL" creationdate="20200901T001625Z">
+        <seg>Goal Title=Domínio da moda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
         <seg>Goal Title=Primeiro Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001821Z" creationid="RAFAEL" creationdate="20200901T001821Z">
+        <seg>Goal Title=Domínio de alimentos e bebidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19119,6 +19175,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you are starting on your own and have raised tens of millions from investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001739Z" creationid="RAFAEL" creationdate="20200901T001739Z">
+        <seg>Agora você está começando por conta própria e levantou dezenas de milhões de investidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you get the chance to actually manufacture products in your own factory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T140309Z" creationid="RAFAEL" creationdate="20200815T140309Z">
@@ -21079,6 +21143,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001604Z" creationid="RAFAEL" creationdate="20200901T001604Z">
+        <seg>Parent Goal=Desenvolvendo Seu Negócio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Launching a New Brand</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001524Z" creationid="RAFAEL" creationdate="20200901T001524Z">
@@ -21091,6 +21163,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000842Z" creationid="RAFAEL" creationdate="20200901T000842Z">
         <seg>Parent Goal=Líder de mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Market Leadership</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001656Z" creationid="RAFAEL" creationdate="20200901T001656Z">
+        <seg>Parent Goal=Liderança de Mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -31314,6 +31394,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Food and Beverage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001713Z" creationid="RAFAEL" creationdate="20200901T001713Z">
+        <seg>Title=Alimentos e Bebidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Industry Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225500Z" creationid="RAFAEL" creationdate="20200830T225500Z">
@@ -34370,6 +34458,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have come a long way since your humble beginning!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001556Z" creationid="RAFAEL" creationdate="20200901T001556Z">
+        <seg>Você percorreu um longo caminho desde o seu começo humilde!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have completed this tutorial.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011735Z" creationid="RAFAEL" creationdate="20200811T011735Z">
@@ -35006,6 +35102,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T014757Z" creationid="RAFAEL" creationdate="20200811T014728Z">
         <seg>Em seguida, você aprenderá como construir sua primeira loja de varejo, estocá-la com produtos de fornecedores e vendê-los aos consumidores para gerar renda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this game when you achieve market dominance in both apparel and leather products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001646Z" creationid="RAFAEL" creationdate="20200901T001646Z">
+        <seg>Você ganha este jogo quando atinge o domínio do mercado tanto em vestuário quanto em produtos de couro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53222,6 +53326,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
         <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You have promised the investors to keep your new company's focus on the food and beverage industry as specialization is key to success at the early growth phase.^^Once you have achieved market dominance in the food and beverage industry, there will be bigger challenges for you to undertake!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001806Z" creationid="RAFAEL" creationdate="20200901T001806Z">
+        <seg>^^Você prometeu aos investidores manter o foco de sua nova empresa na indústria de alimentos e bebidas, já que a especialização é a chave para o sucesso na fase inicial de crescimento.^^Depois de ter alcançado o domínio do mercado na indústria de alimentos e bebidas, haverá desafios maiores para você a empreender!</seg>
       </tuv>
     </tu>
     <tu>
