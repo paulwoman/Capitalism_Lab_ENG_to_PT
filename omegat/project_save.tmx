@@ -11102,6 +11102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Great Job!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004051Z" creationid="RAFAEL" creationdate="20200901T004051Z">
+        <seg>Goal Achieved Text=Bom trabalho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Magnificent!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004151Z" creationid="RAFAEL" creationdate="20200901T004151Z">
+        <seg>Goal Achieved Text=Magnífico!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Outstanding!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003716Z" creationid="RAFAEL" creationdate="20200901T003716Z">
@@ -11382,6 +11398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your final goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004245Z" creationid="RAFAEL" creationdate="20200901T004245Z">
+        <seg>Goal Description=Este é o seu objetivo final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your first subgoal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214257Z" creationid="RAFAEL" creationdate="20200826T214213Z">
@@ -11614,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to achieve dominance in the markets of electronic products and communication devices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004043Z" creationid="RAFAEL" creationdate="20200901T004043Z">
+        <seg>Goal Description=Seu objetivo é alcançar o domínio nos mercados de produtos eletrônicos e dispositivos de comunicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to become the biggest company in terms of manufacturing revenue and generates an annual operating profit of at least $100 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003321Z" creationid="RAFAEL" creationdate="20200901T003321Z">
@@ -11626,6 +11658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003659Z" creationid="RAFAEL" creationdate="20200901T003659Z">
         <seg>Goal Description=Seu objetivo é se tornar o maior produtor de computadores e manter uma liderança significativa sobre seus concorrentes em tecnologia de produção de computadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to further grow your business to achieve an annual revenue of $2 billion!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004136Z" creationid="RAFAEL" creationdate="20200901T004136Z">
+        <seg>Goal Description=Sua meta é expandir ainda mais seus negócios para atingir uma receita anual de US $ 2 bilhões!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11770,6 +11810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214444Z" creationid="RAFAEL" creationdate="20200830T214444Z">
         <seg>Goal Title=Renascimento Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Entering New Markets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004034Z" creationid="RAFAEL" creationdate="20200901T004034Z">
+        <seg>Goal Title=Entrando em novos mercados</seg>
       </tuv>
     </tu>
     <tu>
@@ -11938,6 +11986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002643Z" creationid="RAFAEL" creationdate="20200901T002643Z">
         <seg>Goal Title=Investidor lendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Lofty Revenue Target</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004126Z" creationid="RAFAEL" creationdate="20200901T004126Z">
+        <seg>Goal Title=Grande meta de receita</seg>
       </tuv>
     </tu>
     <tu>
@@ -21567,6 +21623,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Entering New Markets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004217Z" creationid="RAFAEL" creationdate="20200901T004217Z">
+        <seg>Parent Goal=Entrando em Novos Mercados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Expand to London</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003119Z" creationid="RAFAEL" creationdate="20200901T003119Z">
@@ -21647,6 +21711,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Lofty Revenue Target</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004309Z" creationid="RAFAEL" creationdate="20200901T004309Z">
+        <seg>Parent Goal=Grande meta de receita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Market Leader</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000842Z" creationid="RAFAEL" creationdate="20200901T000842Z">
@@ -21667,6 +21739,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003821Z" creationid="RAFAEL" creationdate="20200901T003821Z">
         <seg>Parent Goal=Liderança Tecnológica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Toy Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004112Z" creationid="RAFAEL" creationdate="20200901T004112Z">
+        <seg>Parent Goal=Domínio dos brinquedos</seg>
       </tuv>
     </tu>
     <tu>
@@ -32402,6 +32482,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To win the game, you have to own at least 80% of your corporation's stock while keeping all the previous goals achieved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004259Z" creationid="RAFAEL" creationdate="20200901T004259Z">
+        <seg>Para ganhar o jogo, você deve possuir pelo menos 80% das ações da sua empresa, mantendo todas as metas anteriores alcançadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001026Z" creationid="RAFAEL" creationdate="20200822T001026Z">
@@ -35218,6 +35306,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have proven your abilities in entering new markets and beating the competition to become new market leaders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004059Z" creationid="RAFAEL" creationdate="20200901T004059Z">
+        <seg>Você provou suas habilidades em entrar em novos mercados e vencer a concorrência para se tornar novos líderes de mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have proven yourself to be a CEO that cares about the return-on-equity bottomline.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003524Z" creationid="RAFAEL" creationdate="20200901T003524Z">
@@ -35998,6 +36094,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235846Z" creationid="RAFAEL" creationdate="20200831T235846Z">
         <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation has successfully surpassed $2 billion in annual sales.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T004159Z" creationid="RAFAEL" creationdate="20200901T004159Z">
+        <seg>Sua empresa ultrapassou com sucesso US $ 2 bilhões em vendas anuais.</seg>
       </tuv>
     </tu>
     <tu>
