@@ -10888,8 +10888,8 @@
       <tuv lang="en-US">
         <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015240Z" creationid="RAFAEL" creationdate="20200826T015240Z">
-        <seg>Velocidade do jogo (Atalho: '0' para pausar, '1' a '5' para definir a velocidade)</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T233809Z" creationid="RAFAEL" creationdate="20200826T015240Z">
+        <seg>Velocidade do jogo (Atalho: '0' para pausar, '1' a '5' p/ definir a veloc)</seg>
       </tuv>
     </tu>
     <tu>
