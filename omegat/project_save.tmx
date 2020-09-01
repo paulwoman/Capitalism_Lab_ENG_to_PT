@@ -10926,6 +10926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Well done!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000415Z" creationid="RAFAEL" creationdate="20200901T000415Z">
+        <seg>Goal Achieved Text=Bem feito!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004624Z" creationid="RAFAEL" creationdate="20200805T004624Z">
@@ -11022,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000632Z" creationid="RAFAEL" creationdate="20200901T000632Z">
+        <seg>Goal Description=Continue impressionando os acionistas e sua equipe, apresentando os resultados de que eles esperam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235723Z" creationid="RAFAEL" creationdate="20200831T235723Z">
@@ -11050,6 +11066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230716Z" creationid="RAFAEL" creationdate="20200830T230716Z">
         <seg>Goal Description=Os objetivos neste cenário só podem ser alcançados formulando suas estratégias de negócios com habilidade e executando-as na perfeição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=There are tremendous expectations from the shareholders and your staff for the company to grow rapidly under your leadership.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000353Z" creationid="RAFAEL" creationdate="20200901T000353Z">
+        <seg>Goal Description=Existem enormes expectativas dos acionistas e de sua equipe para que a empresa cresça rapidamente sob sua liderança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11158,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You must continue to prove to the shareholders and your staff that you are the right person to lead the company for further growth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000523Z" creationid="RAFAEL" creationdate="20200901T000523Z">
+        <seg>Goal Description=Você deve continuar a provar aos acionistas e à sua equipe que é a pessoa certa para liderar a empresa para um maior crescimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225048Z" creationid="RAFAEL" creationdate="20200830T225048Z">
@@ -11262,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000501Z" creationid="RAFAEL" creationdate="20200901T000501Z">
+        <seg>Goal Failed Text=Sua equipe de gerenciamento sênior está muito decepcionada com o desempenho medíocre da empresa e decidiu renunciar e buscar melhores oportunidades de carreira em outro lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013525Z" creationid="Olivier" creationdate="20200802T013525Z">
@@ -11330,6 +11370,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235746Z" creationid="RAFAEL" creationdate="20200831T235746Z">
         <seg>Goal Title=Aumentando a base de talentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000341Z" creationid="RAFAEL" creationdate="20200901T000341Z">
+        <seg>Goal Title=Expectativa de crescimento 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000514Z" creationid="RAFAEL" creationdate="20200901T000514Z">
+        <seg>Goal Title=Expectativa de crescimento 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000536Z" creationid="RAFAEL" creationdate="20200901T000536Z">
+        <seg>Goal Title=Expectativa de crescimento 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -23127,6 +23191,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prove your ability and do not disappoint them!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000403Z" creationid="RAFAEL" creationdate="20200901T000403Z">
+        <seg>Prove sua habilidade e não os decepcione!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Public Expenses Index</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T003916Z" creationid="RAFAEL" creationdate="20200808T003916Z">
@@ -32042,6 +32114,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000424Z" creationid="RAFAEL" creationdate="20200901T000424Z">
+        <seg>Sob sua liderança, a empresa continua crescendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Underwriting Profit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025338Z" creationid="RAFAEL" creationdate="20200806T025338Z">
@@ -34990,6 +35070,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T193541Z" creationid="RAFAEL" creationdate="20200802T193541Z">
         <seg>Suas unidades de compras tentarão encontrar fornecedores automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000434Z" creationid="RAFAEL" creationdate="20200901T000434Z">
+        <seg>Sua equipe de gerenciamento sênior está confiante sobre as perspectivas da empresa para o futuro.</seg>
       </tuv>
     </tu>
     <tu>
