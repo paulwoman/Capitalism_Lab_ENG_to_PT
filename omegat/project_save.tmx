@@ -8022,6 +8022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You run a family-owned business in Australia with a strong focus on local markets and is extremely conservative in expanding overseas.^^But you are more ambitious and you always set your sights on expanding globally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002829Z" creationid="RAFAEL" creationdate="20200901T002829Z">
+        <seg>Description=Você administra uma empresa familiar na Austrália com forte foco nos mercados locais e é extremamente conservador na expansão para o exterior.^^Mas você é mais ambicioso e sempre tem como objetivo expandir globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225425Z" creationid="RAFAEL" creationdate="20200830T225425Z">
@@ -11206,10 +11214,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Prove your ability in running a successful business and earn the support of your family for expanding overseas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002909Z" creationid="RAFAEL" creationdate="20200901T002909Z">
+        <seg>Goal Description=Prove sua habilidade em administrar um negócio de sucesso e ganhe o apoio de sua família para expandir no exterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000044Z" creationid="RAFAEL" creationdate="20200901T000044Z">
         <seg>Goal Description=Aproveite as oportunidades que surgirem durante a abertura da China e faça sua empresa crescer para se tornar uma força dominante no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation and gain their support to take the business to the next level by expanding to London.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003025Z" creationid="RAFAEL" creationdate="20200901T003025Z">
+        <seg>Goal Description=Supere as expectativas da sua família e obtenha o apoio deles para levar o negócio ao próximo nível, expandindo para Londres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,6 +11322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225447Z" creationid="RAFAEL" creationdate="20200830T225447Z">
         <seg>Goal Description=Para se tornar o gigante do software de amanhã, você deve investir agressivamente em P&amp;D para aumentar a capacidade de inovação de sua empresa e executar lançamentos de produtos sem falhas para estabelecer uma posição sólida nos principais mercados de software e, por fim, dominá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=To continue to expand the business to other markets, you must impresss your family with even better performance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002940Z" creationid="RAFAEL" creationdate="20200901T002940Z">
+        <seg>Goal Description=Para continuar a expandir os negócios para outros mercados, você deve impressionar sua família com um desempenho ainda melhor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11626,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230736Z" creationid="RAFAEL" creationdate="20200830T230736Z">
         <seg>Goal Title=Proporções épicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to London</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003017Z" creationid="RAFAEL" creationdate="20200901T003017Z">
+        <seg>Goal Title=Expanda para Londres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to Singapore</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002858Z" creationid="RAFAEL" creationdate="20200901T002858Z">
+        <seg>Goal Title=Expanda para Cingapura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to Tokyo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002930Z" creationid="RAFAEL" creationdate="20200901T002930Z">
+        <seg>Goal Title=Expanda para Tóquio</seg>
       </tuv>
     </tu>
     <tu>
@@ -21291,6 +21347,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032806Z" creationid="RAFAEL" creationdate="20200806T032806Z">
         <seg>Classificação de crédito da empresa Matriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to Singapore</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002958Z" creationid="RAFAEL" creationdate="20200901T002958Z">
+        <seg>Parent Goal=Expanda para Cingapura</seg>
       </tuv>
     </tu>
     <tu>
@@ -31634,6 +31698,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Multinational Corporation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002810Z" creationid="RAFAEL" creationdate="20200901T002810Z">
+        <seg>Title=Corporação multinacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Challenge Game</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231058Z" creationid="RAFAEL" creationdate="20200830T231058Z">
@@ -34754,6 +34826,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have earned the trust of your family and you now have their blessing to expand the family business overseas to Singapore.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002921Z" creationid="RAFAEL" creationdate="20200901T002921Z">
+        <seg>Você conquistou a confiança de sua família e agora tem a bênção de expandir os negócios da família no exterior, para Cingapura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have graduated with an MBA from a renowned business school.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222321Z" creationid="RAFAEL" creationdate="20200810T222321Z">
@@ -35242,6 +35322,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You now have the support of your family to further expand the business overseas to Tokyo.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002949Z" creationid="RAFAEL" creationdate="20200901T002949Z">
+        <seg>Agora você tem o apoio de sua família para expandir ainda mais os negócios no exterior, para Tóquio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have to set up products in your new department store.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011609Z" creationid="RAFAEL" creationdate="20200811T011609Z">
@@ -35254,6 +35342,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230006Z" creationid="RAFAEL" creationdate="20200830T230006Z">
         <seg>Agora você tem duas subsidiárias com patrimônio líquido superior a US $ 1 bilhão cada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have your family's blessing to expand the business overseas to London.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003048Z" creationid="RAFAEL" creationdate="20200901T003048Z">
+        <seg>Agora você tem a bênção de sua família para expandir seus negócios no exterior, para Londres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53590,6 +53686,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000232Z" creationid="RAFAEL" creationdate="20200901T000232Z">
         <seg>^^Este cenário usa uma regra especial em que os custos de contratação de pessoal de gerenciamento são apenas 20% das taxas normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^To persuade your family to support your plan of transforming the family business into a multinational corporation, you must first prove to them your ability to run a business of a larger scale with great profitability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002843Z" creationid="RAFAEL" creationdate="20200901T002843Z">
+        <seg>^^Para persuadir sua família a apoiar seu plano de transformar a empresa familiar em uma corporação multinacional, você deve primeiro provar a eles sua capacidade de administrar um negócio em maior escala com grande lucratividade.</seg>
       </tuv>
     </tu>
     <tu>
