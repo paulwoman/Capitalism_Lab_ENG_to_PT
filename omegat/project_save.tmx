@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But further product diversification will surely negatively impact brand loyalty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002311Z" creationid="RAFAEL" creationdate="20200901T002311Z">
+        <seg>Mas uma maior diversificação de produtos certamente afetará negativamente a lealdade à marca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But if the company is out of cash, the CEO will have to issue new shares to raise funds for the company's survival regardless of this setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021452Z" creationid="RAFAEL" creationdate="20200805T021452Z">
@@ -3658,6 +3666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200305Z" creationid="RAFAEL" creationdate="20200822T200305Z">
         <seg>Mas, ao contrário de outras unidades funcionais que você adicionou antes, as unidades em HQ não precisam ser vinculadas umas às outras, pois cada unidade representa um departamento que opera de forma independente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But you must maintain consistent quality across all product lines or you will see your brand losing consumer loyalty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002226Z" creationid="RAFAEL" creationdate="20200901T002226Z">
+        <seg>Mas você deve manter uma qualidade consistente em todas as linhas de produtos ou verá sua marca perder a lealdade do consumidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T222335Z" creationid="RAFAEL" creationdate="20200810T222335Z">
         <seg>Você pode aplicar o que aprendeu para administrar um negócio no mundo real?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you pull it off this time?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002318Z" creationid="RAFAEL" creationdate="20200901T002318Z">
+        <seg>Você pode puxar desta vez?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11270,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=With your prior success, you have become even more ambitious in expanding your business.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002259Z" creationid="RAFAEL" creationdate="20200901T002259Z">
+        <seg>Goal Description=Com seu sucesso anterior, você se tornou ainda mais ambicioso na expansão de seus negócios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001944Z" creationid="RAFAEL" creationdate="20200901T001944Z">
@@ -11318,10 +11350,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002433Z" creationid="RAFAEL" creationdate="20200901T002433Z">
+        <seg>Goal Description=Você comprou o ativo da marca de uma empresa extinta que costumava ser uma marca de consumo popular e ainda carrega um valor de marca significativo nos dias atuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.^^You must execute this strategy expertly and deliver the results that you have promised your investors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230410Z" creationid="RAFAEL" creationdate="20200830T230410Z">
         <seg>Goal Description=Você planejou uma estratégia sólida para turbinar o retorno sobre o investimento (ROI) de sua empresa, envolvendo o uso de subsidiárias para maximizar o crescimento e a lucratividade nos mercados-alvo.^^Você deve executar essa estratégia com habilidade e entregar os resultados que prometeu a seus investidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You intend to grow your company by diversifying your product portfolio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002210Z" creationid="RAFAEL" creationdate="20200901T002210Z">
+        <seg>Goal Description=Você pretende expandir sua empresa diversificando seu portfólio de produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11558,6 +11606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Growth Dilemma</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002158Z" creationid="RAFAEL" creationdate="20200901T002158Z">
+        <seg>Goal Title=Dilema de Crescimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Growth Expectation 1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000341Z" creationid="RAFAEL" creationdate="20200901T000341Z">
@@ -11602,6 +11658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001357Z" creationid="RAFAEL" creationdate="20200901T001357Z">
         <seg>Goal Title=Lançamento de uma nova marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Legacy Brand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002421Z" creationid="RAFAEL" creationdate="20200901T002421Z">
+        <seg>Goal Title=Marca Reconhecida</seg>
       </tuv>
     </tu>
     <tu>
@@ -11714,6 +11778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001110Z" creationid="RAFAEL" creationdate="20200901T001110Z">
         <seg>Goal Title=Superando as expectativas da família</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Testing the Limit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002250Z" creationid="RAFAEL" creationdate="20200901T002250Z">
+        <seg>Goal Title=Testando o Limite</seg>
       </tuv>
     </tu>
     <tu>
@@ -12002,6 +12074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010343Z" creationid="Olivier" creationdate="20200802T010343Z">
         <seg>HQ_AUTOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Have it reached the limit already?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002330Z" creationid="RAFAEL" creationdate="20200901T002330Z">
+        <seg>Já atingiu o limite?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21179,6 +21259,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001604Z" creationid="RAFAEL" creationdate="20200901T001604Z">
         <seg>Parent Goal=Desenvolvendo Seu Negócio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Growth Dilemma</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002354Z" creationid="RAFAEL" creationdate="20200901T002354Z">
+        <seg>Parent Goal=Dilema de Crescimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -34530,6 +34618,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have defied the conventional thinking that corporate brand can never support a highly diverse product portfolio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002345Z" creationid="RAFAEL" creationdate="20200901T002345Z">
+        <seg>Você desafiou o pensamento convencional de que a marca corporativa nunca pode suportar um portfólio de produtos altamente diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have demonstrated your ability to manage R&amp;D projects and use them to boost your products' quality.^^Next we'll take a quick look at the managerial option of providing training to your employees, which is essential for improving the overall competitiveness of your company.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022423Z" creationid="RAFAEL" creationdate="20200822T022423Z">
@@ -35090,6 +35186,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002449Z" creationid="RAFAEL" creationdate="20200901T002449Z">
+        <seg>Você planeja lançar uma nova linha de produtos de excelente qualidade e comercializá-los sob a marca reconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You see it as an excellent opportunity for your subsidiary companies to raise capital via IPO for funding business expansions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230044Z" creationid="RAFAEL" creationdate="20200830T230044Z">
@@ -35318,6 +35422,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T005736Z" creationid="RAFAEL" creationdate="20200826T005736Z">
         <seg>Sua empresa abriu o capital com sucesso e arrecadou %1s!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has successfully achieved growth while delivering impressive bottom-line profits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002236Z" creationid="RAFAEL" creationdate="20200901T002236Z">
+        <seg>Sua empresa obteve crescimento com sucesso e, ao mesmo tempo, obteve lucros impressionantes.</seg>
       </tuv>
     </tu>
     <tu>
