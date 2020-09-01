@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you competent enough to acheive this monumental task?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003450Z" creationid="RAFAEL" creationdate="20200901T003450Z">
+        <seg>Você é competente o suficiente para realizar essa tarefa monumental?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you confident that you could pull it off?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230346Z" creationid="RAFAEL" creationdate="20200830T230346Z">
@@ -7958,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003624Z" creationid="RAFAEL" creationdate="20200901T003624Z">
+        <seg>Description=Você é uma daquelas pessoas dotadas de extraordinária magia técnica e vai colocá-la em bom uso com sua startup de tecnologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003352Z" creationid="RAFAEL" creationdate="20200901T003352Z">
@@ -11214,6 +11230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Increase your company's financial performances and reach your goal of becoming a corporation with $2 billion market cap.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003551Z" creationid="RAFAEL" creationdate="20200901T003551Z">
+        <seg>Goal Description=Aumente o desempenho financeiro de sua empresa e alcance sua meta de se tornar uma corporação com valor de mercado de $ 2 bilhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000632Z" creationid="RAFAEL" creationdate="20200901T000632Z">
@@ -11250,6 +11274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002909Z" creationid="RAFAEL" creationdate="20200901T002909Z">
         <seg>Goal Description=Prove sua habilidade em administrar um negócio de sucesso e ganhe o apoio de sua família para expandir no exterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Prove your ability to run your company efficiently and attain a sound return-on-equity ratio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003514Z" creationid="RAFAEL" creationdate="20200901T003514Z">
+        <seg>Goal Description=Prove sua capacidade de administrar sua empresa com eficiência e obter uma boa relação de retorno sobre o patrimônio líquido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11438,6 +11470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003436Z" creationid="RAFAEL" creationdate="20200901T003436Z">
+        <seg>Goal Description=Você é o CEO de uma empresa que recentemente levantou centenas de milhões de fundos de investidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225608Z" creationid="RAFAEL" creationdate="20200830T225608Z">
@@ -11550,6 +11590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to become the largest producer of computers and maintain a significant lead over your competitors in computer production technology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003659Z" creationid="RAFAEL" creationdate="20200901T003659Z">
+        <seg>Goal Description=Seu objetivo é se tornar o maior produtor de computadores e manter uma liderança significativa sobre seus concorrentes em tecnologia de produção de computadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002754Z" creationid="RAFAEL" creationdate="20200901T002754Z">
@@ -11634,6 +11682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225327Z" creationid="RAFAEL" creationdate="20200801T225327Z">
         <seg>Relatório de objetivos (Tecla de atalho: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=$2 Billion Market Cap</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003541Z" creationid="RAFAEL" creationdate="20200901T003541Z">
+        <seg>Goal Title=$ 2 bilhões de capitalização de mercado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11894,6 +11950,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Real Estate Mogul</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003428Z" creationid="RAFAEL" creationdate="20200901T003428Z">
+        <seg>Goal Title=Magnata do mercado imobiliário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Return on Equity subgoal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003505Z" creationid="RAFAEL" creationdate="20200901T003505Z">
+        <seg>Goal Title=Subobjetivo de retorno sobre o patrimônio líquido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Second Subgoal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214342Z" creationid="RAFAEL" creationdate="20200826T214342Z">
@@ -11962,6 +12034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001110Z" creationid="RAFAEL" creationdate="20200901T001110Z">
         <seg>Goal Title=Superando as expectativas da família</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Tech Leadership</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003649Z" creationid="RAFAEL" creationdate="20200901T003649Z">
+        <seg>Goal Title=Liderança Tecnológica</seg>
       </tuv>
     </tu>
     <tu>
@@ -31874,6 +31954,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Tech Leader</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003615Z" creationid="RAFAEL" creationdate="20200901T003615Z">
+        <seg>Title=Líder Tecnológico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=The Battle For Internet Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225101Z" creationid="RAFAEL" creationdate="20200830T225101Z">
@@ -34586,6 +34674,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are entrusted by your shareholders with the task of growing your corporation to become the largest real estate developer in the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003443Z" creationid="RAFAEL" creationdate="20200901T003443Z">
+        <seg>Seus acionistas confiam a você a tarefa de fazer sua empresa crescer para se tornar a maior incorporadora imobiliária do mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are now back in your department store.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200810T224219Z" creationid="RAFAEL" creationdate="20200810T224219Z">
@@ -35006,6 +35102,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T214552Z" creationid="RAFAEL" creationdate="20200830T214552Z">
         <seg>Você provou mais uma vez que é excepcionalmente talentoso como empresário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have proven yourself to be a CEO that cares about the return-on-equity bottomline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003524Z" creationid="RAFAEL" creationdate="20200901T003524Z">
+        <seg>Você provou ser um CEO que se preocupa com o retorno sobre o patrimônio líquido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35798,6 +35902,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T021606Z" creationid="RAFAEL" creationdate="20200818T021606Z">
         <seg>Sua empresa é a primeira da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation's market capitalization has reached $2 billion!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003601Z" creationid="RAFAEL" creationdate="20200901T003601Z">
+        <seg>A capitalização de mercado da sua empresa atingiu US $ 2 bilhões!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53754,6 +53866,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^Are you competent enough to achieve this monumental task?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003413Z" creationid="RAFAEL" creationdate="20200901T003413Z">
+        <seg>^^Você é competente o suficiente para realizar esta tarefa monumental?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002131Z" creationid="RAFAEL" creationdate="20200901T002131Z">
@@ -53854,6 +53974,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
         <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^With the belief that it is technology that matters the most when it comes to high tech products, you are confident that becoming a leader in the high tech market is absolutely within your reach.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003635Z" creationid="RAFAEL" creationdate="20200901T003635Z">
+        <seg>^^Acreditando que é a tecnologia o que mais importa quando se trata de produtos de alta tecnologia, você está confiante de que se tornar um líder no mercado de alta tecnologia está absolutamente ao seu alcance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You are entrusted by your shareholders with the task of growing your corporation to become the largest real estate developer in the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003400Z" creationid="RAFAEL" creationdate="20200901T003400Z">
+        <seg>^^Seus acionistas confiam a você a tarefa de fazer sua empresa crescer para se tornar a maior incorporadora imobiliária do mundo.</seg>
       </tuv>
     </tu>
     <tu>
