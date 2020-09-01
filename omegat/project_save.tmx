@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002506Z" creationid="RAFAEL" creationdate="20200901T002506Z">
+        <seg>(Você não tem permissão para alterar a estratégia da marca neste jogo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010528Z" creationid="RAFAEL" creationdate="20200808T010528Z">
@@ -3746,6 +3754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T001332Z" creationid="RAFAEL" creationdate="20200822T001332Z">
         <seg>Por ter sua própria capacidade de produção agrícola, você fortalecerá ainda mais a competitividade de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002456Z" creationid="RAFAEL" creationdate="20200901T002456Z">
+        <seg>Ao alavancar a marca, seus novos produtos ganharão reconhecimento instantâneo do consumidor, sem publicidade prévia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7894,10 +7910,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You always dream of building a media empire and now it is your chance to realize this dream.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002721Z" creationid="RAFAEL" creationdate="20200901T002721Z">
+        <seg>Description=Você sempre sonhou em construir um império de mídia e agora é sua chance de realizar esse sonho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You are a believer in the concept that the government should play a key role in the protection of the social and economic well-being of its citizens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224904Z" creationid="RAFAEL" creationdate="20200830T224904Z">
         <seg>Description=Você acredita no conceito de que o governo deve desempenhar um papel fundamental na proteção do bem-estar social e econômico de seus cidadãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You are always fascinated by stories of legendary investors who have amassed astronomical wealth and exerted great influence over the corporate world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002547Z" creationid="RAFAEL" creationdate="20200901T002547Z">
+        <seg>Description=Você sempre fica fascinado por histórias de investidores lendários que acumularam riquezas astronômicas e exerceram grande influência no mundo corporativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11382,6 +11414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You will earn the title of the Legendary Investor when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002655Z" creationid="RAFAEL" creationdate="20200901T002655Z">
+        <seg>Goal Description=Você ganhará o título de Investidor Lendário quando aumentar sua fortuna pessoal para $ 1 bilhão e ganhar o controle de 5 empresas públicas diretamente ou por meio de sua holding!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225048Z" creationid="RAFAEL" creationdate="20200830T225048Z">
@@ -11434,6 +11474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200820T014837Z" creationid="RAFAEL" creationdate="20200820T014837Z">
         <seg>Goal Description=Você ganha este jogo tutorial quando o preço das ações da sua empresa valer $ 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002754Z" creationid="RAFAEL" creationdate="20200901T002754Z">
+        <seg>Goal Description=Seu objetivo é fazer a empresa crescer e se tornar o maior conglomerado de mídia do mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +11718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Legendary Investor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002643Z" creationid="RAFAEL" creationdate="20200901T002643Z">
+        <seg>Goal Title=Investidor lendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214008Z" creationid="RAFAEL" creationdate="20200826T214008Z">
@@ -11690,6 +11746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001534Z" creationid="RAFAEL" creationdate="20200901T001534Z">
         <seg>Goal Title=Liderança de Mercado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Media Empire</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002743Z" creationid="RAFAEL" creationdate="20200901T002743Z">
+        <seg>Goal Title=Império da mídia</seg>
       </tuv>
     </tu>
     <tu>
@@ -31546,6 +31610,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Legendary Investor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002534Z" creationid="RAFAEL" creationdate="20200901T002534Z">
+        <seg>Title=Investidor lendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Media Empire</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002710Z" creationid="RAFAEL" creationdate="20200901T002710Z">
+        <seg>Title=Império da mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Metropolitan Transformation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224617Z" creationid="RAFAEL" creationdate="20200830T224617Z">
@@ -35262,6 +35342,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001646Z" creationid="RAFAEL" creationdate="20200901T001646Z">
         <seg>Você ganha este jogo quando atinge o domínio do mercado tanto em vestuário quanto em produtos de couro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002635Z" creationid="RAFAEL" creationdate="20200901T002635Z">
+        <seg>Você ganha este jogo quando eleva sua riqueza pessoal para $ 1 bilhão e obtém o controle de 5 empresas públicas diretamente ou por meio de sua holding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53450,10 +53538,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^Can you become a legendary investor yourself one day?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002603Z" creationid="RAFAEL" creationdate="20200901T002603Z">
+        <seg>^^Você pode se tornar um investidor lendário um dia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000945Z" creationid="RAFAEL" creationdate="20200901T000945Z">
         <seg>^^Seguindo a orientação de seu pai, você deve inicialmente se concentrar na agricultura e no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^In this scenario game, your will just attempt to realize this dream.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002613Z" creationid="RAFAEL" creationdate="20200901T002613Z">
+        <seg>^^Neste jogo de cenário, você apenas tentará realizar este sonho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53542,6 +53646,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235442Z" creationid="RAFAEL" creationdate="20200831T235442Z">
         <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your goal is to grow your media corporation's revenue to a substantial size and ultimately outperform all other media companies to become the largest one in the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002730Z" creationid="RAFAEL" creationdate="20200901T002730Z">
+        <seg>^^Seu objetivo é aumentar a receita de sua empresa de mídia para um tamanho substancial e, por fim, superar todas as outras empresas de mídia para se tornar a maior do mundo.</seg>
       </tuv>
     </tu>
     <tu>
