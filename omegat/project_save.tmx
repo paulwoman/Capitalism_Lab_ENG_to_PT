@@ -7894,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000205Z" creationid="RAFAEL" creationdate="20200901T000205Z">
+        <seg>Description=Você acaba de assumir o papel de CEO de uma startup bem financiada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202447Z" creationid="RAFAEL" creationdate="20200822T202447Z">
@@ -10990,6 +10998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000137Z" creationid="RAFAEL" creationdate="20200901T000137Z">
+        <seg>Goal Description=Para receber permissão para investir no negócio de recursos naturais, o patrimônio líquido da sua empresa deve ser de pelo menos $ 150 milhões e ter uma receita anual de $ 200 milhões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230139Z" creationid="RAFAEL" creationdate="20200830T230139Z">
@@ -11010,6 +11026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235723Z" creationid="RAFAEL" creationdate="20200831T235723Z">
         <seg>Goal Description=Aproveite a nova metodologia de treinamento para melhorar a margem de lucro operacional de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000044Z" creationid="RAFAEL" creationdate="20200901T000044Z">
+        <seg>Goal Description=Aproveite as oportunidades que surgirem durante a abertura da China e faça sua empresa crescer para se tornar uma força dominante no mercado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000330Z" creationid="RAFAEL" creationdate="20200901T000330Z">
+        <seg>Goal Description=Seu objetivo final neste jogo é atingir uma receita corporativa de $ 1 bilhão e um lucro anual de $ 100 milhões, e permitir que o desempenho financeiro de sua empresa aumente o preço das ações da empresa para mais de $ 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Failed Text=Sorry, you have failed your first subgoal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214319Z" creationid="RAFAEL" creationdate="20200826T214319Z">
@@ -11350,6 +11382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Seize the Opportunities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000028Z" creationid="RAFAEL" creationdate="20200901T000028Z">
+        <seg>Goal Title=Aproveite as oportunidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Soaring Stock Price</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230151Z" creationid="RAFAEL" creationdate="20200830T230151Z">
@@ -11410,6 +11450,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T015025Z" creationid="RAFAEL" creationdate="20200812T015025Z">
         <seg>Goal Title=Objetivo do tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Ultimate Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000306Z" creationid="RAFAEL" creationdate="20200901T000306Z">
+        <seg>Goal Title=Objetivo final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Upstream Business</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000115Z" creationid="RAFAEL" creationdate="20200901T000115Z">
+        <seg>Goal Title=Negócios a montante</seg>
       </tuv>
     </tu>
     <tu>
@@ -30962,6 +31018,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Corporate Leadership</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000156Z" creationid="RAFAEL" creationdate="20200901T000156Z">
+        <seg>Title=Liderança Corporativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Dilemma of a Camera Manufacturer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
@@ -34322,6 +34386,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may now set up natural resource firms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000147Z" creationid="RAFAEL" creationdate="20200901T000147Z">
+        <seg>Agora você pode criar empresas de recursos naturais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014529Z" creationid="RAFAEL" creationdate="20200812T014529Z">
@@ -34470,6 +34542,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011745Z" creationid="RAFAEL" creationdate="20200811T011745Z">
         <seg>Você deve aplicar o que acabou de aprender para administrar sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must build a solid management team by bringing great managers on board.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000215Z" creationid="RAFAEL" creationdate="20200901T000215Z">
+        <seg>Você deve construir uma equipe de gestão sólida, trazendo grandes gerentes a bordo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52746,6 +52826,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000232Z" creationid="RAFAEL" creationdate="20200901T000232Z">
+        <seg>^^Este cenário usa uma regra especial em que os custos de contratação de pessoal de gerenciamento são apenas 20% das taxas normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T021859Z" creationid="RAFAEL" creationdate="20200822T021859Z">
@@ -52766,6 +52854,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215354Z" creationid="RAFAEL" creationdate="20200826T215354Z">
         <seg>^^Embora as câmeras de filme tradicionais ainda dominem o mercado no momento, o desenvolvimento da tecnologia da fotografia digital tem ganhado impulso.^^Você vê uma grande oportunidade aqui, mas é necessário um investimento de longo prazo em pesquisa e desenvolvimento antes que qualquer produto comercial se materialize.^^Você deve dedicar seus recursos a isso no início ou começar com câmeras de filme tradicionais e passar para câmeras digitais mais tarde para uma viagem esperançosamente mais tranquila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You must demonstrate your leadership by aggressively expanding your business or your executive staff may lose confidence in the company and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000254Z" creationid="RAFAEL" creationdate="20200901T000254Z">
+        <seg>^^Você deve demonstrar sua liderança expandindo agressivamente seus negócios ou sua equipe executiva pode perder a confiança na empresa e buscar melhores oportunidades de carreira em outro lugar.</seg>
       </tuv>
     </tu>
     <tu>
