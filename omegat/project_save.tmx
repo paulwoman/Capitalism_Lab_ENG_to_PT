@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080542Z" creationid="Olivier" creationdate="20200901T080542Z">
+        <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033817Z" creationid="RAFAEL" creationdate="20200806T033817Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011023Z" creationid="RAFAEL" creationdate="20200808T011023Z">
         <seg>100 é o valor padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080540Z" creationid="Olivier" creationdate="20200901T080540Z">
+        <seg>2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,10 +1310,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080556Z" creationid="Olivier" creationdate="20200901T080556Z">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expertise Level</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001541Z" creationid="RAFAEL" creationdate="20200808T001433Z">
         <seg>Nível de experiência da IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=High</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080626Z" creationid="Olivier" creationdate="20200901T080626Z">
+        <seg>AI Expertise Level=High</seg>
       </tuv>
     </tu>
     <tu>
@@ -6686,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080651Z" creationid="Olivier" creationdate="20200901T080651Z">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Start-up Capital=Very Low</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015744Z" creationid="Olivier" creationdate="20200802T015744Z">
@@ -8518,10 +8558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-Commerce Annual Revenue=200</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080617Z" creationid="Olivier" creationdate="20200901T080617Z">
+        <seg>E-Commerce Annual Revenue=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-Commerce Sales</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025411Z" creationid="RAFAEL" creationdate="20200805T025411Z">
         <seg>Vendas de E-Commerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-Commerce User Base=4000000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080621Z" creationid="Olivier" creationdate="20200901T080621Z">
+        <seg>E-Commerce User Base=4000000</seg>
       </tuv>
     </tu>
     <tu>
@@ -16335,6 +16391,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet Market Share=Microblogging, 50</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080635Z" creationid="Olivier" creationdate="20200901T080635Z">
+        <seg>Internet Market Share=Microblogging, 50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internet Market Share=News Website, 50</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012706Z" creationid="Olivier" creationdate="20200802T012706Z">
@@ -16395,6 +16459,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012712Z" creationid="Olivier" creationdate="20200802T012712Z">
         <seg>Internet Market Share=Video-sharing Site, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet Market Share=Video-sharing Website, 60</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080631Z" creationid="Olivier" creationdate="20200901T080631Z">
+        <seg>Internet Market Share=Video-sharing Website, 60</seg>
       </tuv>
     </tu>
     <tu>
@@ -19951,6 +20023,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080646Z" creationid="Olivier" creationdate="20200901T080646Z">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=60</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015609Z" creationid="Olivier" creationdate="20200802T015609Z">
@@ -22187,6 +22267,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012150Z" creationid="Olivier" creationdate="20200802T012150Z">
         <seg>Player Company Annual Revenue=900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=1000</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080614Z" creationid="Olivier" creationdate="20200901T080614Z">
+        <seg>Player Company Market Cap=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -54326,6 +54414,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025341Z" creationid="RAFAEL" creationdate="20200805T025341Z">
         <seg>Aumentos de preços para vendas on-line </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://docs.microsoft.com/en-us/windows/win32/medfound/supported-media-formats-in-media-foundation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200901T080543Z" creationid="Olivier" creationdate="20200901T080543Z">
+        <seg>https://docs.microsoft.com/en-us/windows/win32/medfound/supported-media-formats-in-media-foundation</seg>
       </tuv>
     </tu>
     <tu>
