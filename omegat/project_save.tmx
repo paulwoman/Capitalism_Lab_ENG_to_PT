@@ -11038,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001020Z" creationid="RAFAEL" creationdate="20200901T001020Z">
+        <seg>Goal Description=Faça seu negócio crescer e se tornar uma empresa líder em agricultura e varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000137Z" creationid="RAFAEL" creationdate="20200901T000137Z">
@@ -11082,6 +11090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000044Z" creationid="RAFAEL" creationdate="20200901T000044Z">
         <seg>Goal Description=Aproveite as oportunidades que surgirem durante a abertura da China e faça sua empresa crescer para se tornar uma força dominante no mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation by not only building a thriving farming and retail business, but growing it into a multinational corporation with a diversified product portfolio.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001154Z" creationid="RAFAEL" creationdate="20200901T001154Z">
+        <seg>Goal Description=Supere as expectativas de sua família não apenas construindo um negócio agrícola e varejista próspero, mas também transformando-o em uma empresa multinacional com um portfólio de produtos diversificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11398,6 +11414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001011Z" creationid="RAFAEL" creationdate="20200901T001011Z">
+        <seg>Goal Title=Domínio da agricultura e varejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214250Z" creationid="RAFAEL" creationdate="20200826T214158Z">
@@ -11546,6 +11570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230456Z" creationid="RAFAEL" creationdate="20200830T230456Z">
         <seg>Goal Title=Riqueza pessoal crescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Surpassing Family Expectation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001110Z" creationid="RAFAEL" creationdate="20200901T001110Z">
+        <seg>Goal Title=Superando as expectativas da família</seg>
       </tuv>
     </tu>
     <tu>
@@ -20971,6 +21003,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T032806Z" creationid="RAFAEL" creationdate="20200806T032806Z">
         <seg>Classificação de crédito da empresa Matriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001206Z" creationid="RAFAEL" creationdate="20200901T001206Z">
+        <seg>Parent Goal=Domínio da agricultura e varejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -31202,6 +31242,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001246Z" creationid="RAFAEL" creationdate="20200901T001246Z">
+        <seg>Title=Aventura de moda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Industry Dominance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T225500Z" creationid="RAFAEL" creationdate="20200830T225500Z">
@@ -33986,6 +34034,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are your family's best hope for achieving this goal and you promise yourself not to disappoint them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001042Z" creationid="RAFAEL" creationdate="20200901T001042Z">
+        <seg>Você é a melhor esperança da sua família para atingir esse objetivo e promete a si mesmo não decepcioná-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You become a corporate CEO and face real-world challenges as you build a sprawling business empire covering retailing, manufacturing, agricultural business, mining, real estate, media and stock trading!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T213918Z" creationid="RAFAEL" creationdate="20200826T213918Z">
@@ -34762,6 +34818,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You now aim at taking your business to the next level and expand into new markets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001058Z" creationid="RAFAEL" creationdate="20200901T001058Z">
+        <seg>Agora você tem como objetivo levar seu negócio para o próximo nível e expandir para novos mercados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T141439Z" creationid="RAFAEL" creationdate="20200815T141426Z">
@@ -35038,6 +35102,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200831T235846Z" creationid="RAFAEL" creationdate="20200831T235846Z">
         <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation have achieved dominance in retail and farming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001050Z" creationid="RAFAEL" creationdate="20200901T001050Z">
+        <seg>Sua empresa alcançou o domínio no varejo e na agricultura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52990,6 +53062,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T165016Z" creationid="Olivier" creationdate="20200730T165016Z">
         <seg>\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000945Z" creationid="RAFAEL" creationdate="20200901T000945Z">
+        <seg>^^Seguindo a orientação de seu pai, você deve inicialmente se concentrar na agricultura e no varejo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Once you have accomplished the goal of establishing a solid farming and retail business for your family, you will be given the freedom to expand into whichever markets and industries you see promising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000958Z" creationid="RAFAEL" creationdate="20200901T000958Z">
+        <seg>^^Depois de cumprir a meta de estabelecer uma agricultura sólida e um negócio de varejo para sua família, você terá a liberdade de se expandir para quaisquer mercados e setores que considerar promissores.</seg>
       </tuv>
     </tu>
     <tu>
