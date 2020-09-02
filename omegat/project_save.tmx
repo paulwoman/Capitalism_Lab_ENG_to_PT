@@ -50820,8 +50820,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T011152Z" creationid="User" creationdate="20200802T011152Z">
-        <seg>[2966]&lt;BDR1&gt;DINHEIRO INSUFICIENTE PARA REDENÇÃO DE LIGAÇÕES|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200902T003730Z" creationid="User" creationdate="20200802T011152Z">
+        <seg>[2966]&lt;BDR1&gt;DINHEIRO INSUFICIENTE PARA RESGATE DE BOND|</seg>
       </tuv>
     </tu>
     <tu>
