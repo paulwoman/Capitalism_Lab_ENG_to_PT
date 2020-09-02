@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200902T061653Z" creationid="Olivier" creationdate="20200902T061653Z">
+        <seg>3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3) Occupancy rates are displayed for apartments and commercial buildings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T205445Z" creationid="RAFAEL" creationdate="20200802T205445Z">
