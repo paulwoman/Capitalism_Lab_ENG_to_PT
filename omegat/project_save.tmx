@@ -52516,16 +52516,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3177]&lt;RDB1&gt;Increase Retail Demand Bonus in the following ways:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200803T220210Z" creationid="User" creationdate="20200803T220210Z">
-        <seg>[3177]&lt;RDB1&gt;Aumente o bônus da demanda de varejo das seguintes maneiras:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200904T030116Z" creationid="User" creationdate="20200803T220210Z">
+        <seg>[3177]&lt;RDB1&gt;Aumente o bônus da demanda de varejo desta forma:|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3178]&lt;RDB2&gt;-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200816T000434Z" creationid="User" creationdate="20200803T220225Z">
-        <seg>[3178]&lt;RDB2&gt;-Uma loja especializada focada em uma classe específica de produtos é mais atraente para os clientes interessados ​​em tais produtos.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200904T030230Z" creationid="User" creationdate="20200803T220225Z">
+        <seg>[3178]&lt;RDB2&gt;-Loja especializada em uma classe específica de produtos é mais atraente para os clientes interessado ​​em tais produtos.|</seg>
       </tuv>
     </tu>
     <tu>
