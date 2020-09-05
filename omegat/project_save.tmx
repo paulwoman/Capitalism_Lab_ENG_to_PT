@@ -44692,8 +44692,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2078]&lt;1023&gt;Internal Sale|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T111236Z" creationid="Olivier" creationdate="20200730T111236Z">
-        <seg>[2078]&lt;1023&gt;Vendas internas|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200905T013426Z" creationid="Olivier" creationdate="20200730T111236Z">
+        <seg>[2078]&lt;1023&gt;Venda Interna|</seg>
       </tuv>
     </tu>
     <tu>
