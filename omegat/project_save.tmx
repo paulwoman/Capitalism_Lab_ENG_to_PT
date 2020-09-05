@@ -46900,8 +46900,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2408]&lt;1321&gt;DECLARE BANKRUPTCY|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T170138Z" creationid="Olivier" creationdate="20200730T170129Z">
-        <seg>[2408]&lt;1321&gt;Declarar falência (jogo over)|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200905T022138Z" creationid="Olivier" creationdate="20200730T170129Z">
+        <seg>[2408]&lt;1321&gt;Declarar falência (Game Over)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50940,8 +50940,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2980]&lt;CASN&gt;CASH NEEDED|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T011655Z" creationid="User" creationdate="20200802T011655Z">
-        <seg>[2980]&lt;CASN&gt;DINHEIRO NECESSÁRIO|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200905T022314Z" creationid="User" creationdate="20200802T011655Z">
+        <seg>[2980]&lt;CASN&gt;Você Precisa de|</seg>
       </tuv>
     </tu>
     <tu>
