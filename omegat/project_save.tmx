@@ -53580,8 +53580,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3308]&lt;HIR1&gt;Hire persons with %1s skills|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233629Z" creationid="RAFAEL" creationdate="20200830T233629Z">
-        <seg>[3308]&lt;HIR1&gt;Contrate pessoas com habilidades %1s|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200907T131929Z" creationid="RAFAEL" creationdate="20200830T233629Z">
+        <seg>[3308]&lt;HIR1&gt;Contrat com habilidades %1s|</seg>
       </tuv>
     </tu>
     <tu>
