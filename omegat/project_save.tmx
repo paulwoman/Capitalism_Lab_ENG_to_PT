@@ -41068,8 +41068,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1151]&lt;0305&gt;This mansion is for sale|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091829Z" creationid="Olivier" creationdate="20200728T091829Z">
-        <seg>[1151]&lt;0305&gt;Essa mansão está à venda|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200908T031304Z" creationid="Olivier" creationdate="20200728T091829Z">
+        <seg>[1151]&lt;0305&gt;Mansão à venda por|</seg>
       </tuv>
     </tu>
     <tu>
