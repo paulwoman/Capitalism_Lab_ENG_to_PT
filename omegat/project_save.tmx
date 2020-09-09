@@ -53626,6 +53626,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Dominance of All Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020110Z" creationid="RAFAEL" creationdate="20200909T020110Z">
+        <seg>[3311]&lt;AGD2&gt;Domínio total do mercado d'todas Indústrias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233830Z" creationid="RAFAEL" creationdate="20200830T233830Z">
@@ -53670,6 +53678,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233949Z" creationid="RAFAEL" creationdate="20200830T233949Z">
         <seg>[3317]&lt;AGD8&gt;Você ganhou o Jogo da Realização.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3318]&lt;MDSE&gt;Market Dominance of the %1s Sector|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020207Z" creationid="RAFAEL" creationdate="20200909T020207Z">
+        <seg>[3318]&lt;MDSE&gt;Domínio do mercado do setor %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3321]&lt;YRAN&gt;Your Ranking|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020227Z" creationid="RAFAEL" creationdate="20200909T020227Z">
+        <seg>[3321]&lt;YRAN&gt;Seu Ranking|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3322]&lt;CEOE&gt;CEO expertise|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020243Z" creationid="RAFAEL" creationdate="20200909T020243Z">
+        <seg>[3322]&lt;CEOE&gt;CEO especialização|</seg>
       </tuv>
     </tu>
     <tu>
