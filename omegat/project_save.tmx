@@ -52738,6 +52738,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T015756Z" creationid="RAFAEL" creationdate="20200909T015756Z">
+        <seg>[3203]&lt;NOCH&gt;Desculpe, não há jogos de desafio disponíveis agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001852Z" creationid="RAFAEL" creationdate="20200826T001852Z">
@@ -53230,6 +53238,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004857Z" creationid="RAFAEL" creationdate="20200826T004857Z">
         <seg>[3265]&lt;AIN1&gt;Aumente todos os preços dos produtos mensalmente na mesma taxa da inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spending monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020021Z" creationid="RAFAEL" creationdate="20200909T020021Z">
+        <seg>[3266]&lt;AIN2&gt;Aumente todos gastos c/ publicidade mensalmente c/ base na inflação|</seg>
       </tuv>
     </tu>
     <tu>
