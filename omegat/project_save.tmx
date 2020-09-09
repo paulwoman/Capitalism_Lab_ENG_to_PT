@@ -53706,6 +53706,62 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3323]&lt;NDPC&gt;Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020347Z" creationid="RAFAEL" creationdate="20200909T020347Z">
+        <seg>[3323]&lt;NDPC&gt;Desculpe, você não pode desativar esta classe de produto.\n\nO CEO possui experiência nesta classe de produto e está interessado em produzi-la.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the momemt.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020409Z" creationid="RAFAEL" creationdate="20200909T020409Z">
+        <seg>[3324]&lt;SNV1&gt;Desculpe, você não pode fazer uma nova versão no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020423Z" creationid="RAFAEL" creationdate="20200909T020423Z">
+        <seg>[3325]&lt;SNV2&gt;Tecnologia geral da versão atual:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3326]&lt;SNV3&gt;The new version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020444Z" creationid="RAFAEL" creationdate="20200909T020444Z">
+        <seg>[3326]&lt;SNV3&gt;A tecnologia geral da nova versão:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3327]&lt;SNV4&gt;The difference between the two is too small to make an impact in the product's quality rating.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020512Z" creationid="RAFAEL" creationdate="20200909T020512Z">
+        <seg>[3327]&lt;SNV4&gt;A diferença entre os dois é muito pequena para causar impacto na classificação de qualidade do produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3328]&lt;SNV5&gt;You may conduct additional research on the tech and try again later.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020533Z" creationid="RAFAEL" creationdate="20200909T020533Z">
+        <seg>[3328]&lt;SNV5&gt;Você pode realizar pesquisas adicionais sobre a tecnologia e tentar novamente mais tarde.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3329]&lt;OSAS&gt;Offer %1s Salary + Signup Bonus (1 year salary)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020620Z" creationid="RAFAEL" creationdate="20200909T020620Z">
+        <seg>[3329]&lt;OSAS&gt;Oferecer %1s Salário + Bônus de Inscrição (1 ano de salário)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
