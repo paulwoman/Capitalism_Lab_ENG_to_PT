@@ -53762,6 +53762,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3330]&lt;LPLS&gt;The layout plans in this folder have been sorted by their descriptions.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020638Z" creationid="RAFAEL" creationdate="20200909T020638Z">
+        <seg>[3330]&lt;LPLS&gt;Os planos de layout nesta pasta foram classificados por suas descrições.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
