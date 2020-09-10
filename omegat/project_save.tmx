@@ -52738,6 +52738,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T015756Z" creationid="RAFAEL" creationdate="20200909T015756Z">
+        <seg>[3203]&lt;NOCH&gt;Desculpe, não há jogos de desafio disponíveis agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001852Z" creationid="RAFAEL" creationdate="20200826T001852Z">
@@ -53234,6 +53242,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spending monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020021Z" creationid="RAFAEL" creationdate="20200909T020021Z">
+        <seg>[3266]&lt;AIN2&gt;Aumente todos gastos c/ publicidade mensalmente c/ base na inflação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3266]&lt;AIN2&gt;Increase all advertising spendings monthly based on inflation|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004921Z" creationid="RAFAEL" creationdate="20200826T004921Z">
@@ -53610,6 +53626,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Dominance of All Industries|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020110Z" creationid="RAFAEL" creationdate="20200909T020110Z">
+        <seg>[3311]&lt;AGD2&gt;Domínio total do mercado d'todas Indústrias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233830Z" creationid="RAFAEL" creationdate="20200830T233830Z">
@@ -53654,6 +53678,94 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T233949Z" creationid="RAFAEL" creationdate="20200830T233949Z">
         <seg>[3317]&lt;AGD8&gt;Você ganhou o Jogo da Realização.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3318]&lt;MDSE&gt;Market Dominance of the %1s Sector|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020207Z" creationid="RAFAEL" creationdate="20200909T020207Z">
+        <seg>[3318]&lt;MDSE&gt;Domínio do mercado do setor %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3321]&lt;YRAN&gt;Your Ranking|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020227Z" creationid="RAFAEL" creationdate="20200909T020227Z">
+        <seg>[3321]&lt;YRAN&gt;Seu Ranking|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3322]&lt;CEOE&gt;CEO expertise|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020243Z" creationid="RAFAEL" creationdate="20200909T020243Z">
+        <seg>[3322]&lt;CEOE&gt;CEO especialização|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3323]&lt;NDPC&gt;Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020347Z" creationid="RAFAEL" creationdate="20200909T020347Z">
+        <seg>[3323]&lt;NDPC&gt;Desculpe, você não pode desativar esta classe de produto.\n\nO CEO possui experiência nesta classe de produto e está interessado em produzi-la.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the momemt.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020409Z" creationid="RAFAEL" creationdate="20200909T020409Z">
+        <seg>[3324]&lt;SNV1&gt;Desculpe, você não pode fazer uma nova versão no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020423Z" creationid="RAFAEL" creationdate="20200909T020423Z">
+        <seg>[3325]&lt;SNV2&gt;Tecnologia geral da versão atual:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3326]&lt;SNV3&gt;The new version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020444Z" creationid="RAFAEL" creationdate="20200909T020444Z">
+        <seg>[3326]&lt;SNV3&gt;A tecnologia geral da nova versão:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3327]&lt;SNV4&gt;The difference between the two is too small to make an impact in the product's quality rating.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020512Z" creationid="RAFAEL" creationdate="20200909T020512Z">
+        <seg>[3327]&lt;SNV4&gt;A diferença entre os dois é muito pequena para causar impacto na classificação de qualidade do produto.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3328]&lt;SNV5&gt;You may conduct additional research on the tech and try again later.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020533Z" creationid="RAFAEL" creationdate="20200909T020533Z">
+        <seg>[3328]&lt;SNV5&gt;Você pode realizar pesquisas adicionais sobre a tecnologia e tentar novamente mais tarde.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3329]&lt;OSAS&gt;Offer %1s Salary + Signup Bonus (1 year salary)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020620Z" creationid="RAFAEL" creationdate="20200909T020620Z">
+        <seg>[3329]&lt;OSAS&gt;Oferecer %1s Salário + Bônus de Inscrição (1 ano de salário)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3330]&lt;LPLS&gt;The layout plans in this folder have been sorted by their descriptions.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020638Z" creationid="RAFAEL" creationdate="20200909T020638Z">
+        <seg>[3330]&lt;LPLS&gt;Os planos de layout nesta pasta foram classificados por suas descrições.|</seg>
       </tuv>
     </tu>
     <tu>
