@@ -53722,6 +53722,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200911T010656Z" creationid="RAFAEL" creationdate="20200911T010656Z">
+        <seg>[3324]&lt;SNV1&gt;Desculpe, você não pode fazer uma nova versão no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020423Z" creationid="RAFAEL" creationdate="20200909T020423Z">
