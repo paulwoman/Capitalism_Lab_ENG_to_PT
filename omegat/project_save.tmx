@@ -6998,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092736Z" creationid="Olivier" creationdate="20200916T092736Z">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-07-07</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010757Z" creationid="Olivier" creationdate="20200802T010757Z">
@@ -7010,6 +7018,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010816Z" creationid="Olivier" creationdate="20200802T010816Z">
         <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092722Z" creationid="Olivier" creationdate="20200916T092722Z">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092740Z" creationid="Olivier" creationdate="20200916T092740Z">
+        <seg>Contest Started On=2020-09-15</seg>
       </tuv>
     </tu>
     <tu>
