@@ -40428,8 +40428,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty  Owned%  Stock Value|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T234329Z" creationid="RAFAEL" creationdate="20200830T234329Z">
-        <seg>[1058]&lt;0215&gt;Acionista                 Quant. Sua   Possuí%  Vlr Ações|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200917T001912Z" creationid="RAFAEL" creationdate="20200830T234329Z">
+        <seg>[1058]&lt;0215&gt;Acionista             Quant. Sua   Possuí%           Vlr Ações|</seg>
       </tuv>
     </tu>
     <tu>
