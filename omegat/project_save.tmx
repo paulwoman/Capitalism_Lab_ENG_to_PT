@@ -7974,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=When a natural resource firm (mine/oil well/logging camp) has used up its reserve, instead of stopping its operation, it will continue to produce the natural resources with a new recurring cost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192208Z" creationid="RAFAEL" creationdate="20200927T192208Z">
+        <seg>Description=Quando uma empresa de recursos naturais (mina/poço de petróleo/madeireira) esgotar sua reserva, ao invés de parar sua operação, ela continuará a produzir os recursos naturais com um novo custo recorrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215258Z" creationid="RAFAEL" creationdate="20200826T215258Z">
@@ -32286,6 +32294,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003906Z" creationid="RAFAEL" creationdate="20200901T003906Z">
         <seg>Title=Brinquedos e gadgets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Unlimited Natural Resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192105Z" creationid="RAFAEL" creationdate="20200927T192105Z">
+        <seg>Title=Recursos naturais ilimitados</seg>
       </tuv>
     </tu>
     <tu>
