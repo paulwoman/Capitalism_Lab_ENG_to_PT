@@ -7950,6 +7950,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This script doubles the training effect on your staff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192301Z" creationid="RAFAEL" creationdate="20200927T192301Z">
+        <seg>Description=Este script duplica o efeito de treinamento em sua equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 50% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192400Z" creationid="RAFAEL" creationdate="20200927T192400Z">
+        <seg>Description=Este script modifica os custos de aquisição de tecnologia para 50% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This script modifies the autosave setting to perform an autosave once every 10 days.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230848Z" creationid="RAFAEL" creationdate="20200830T230848Z">
@@ -15683,6 +15699,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003526Z" creationid="RAFAEL" creationdate="20200805T010104Z">
         <seg>Em outras palavras, é o valor total de mercado da empresa na Bolsa de Valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, the experience levels of your staff will increase twice as fast when the same amount of training expenditure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192315Z" creationid="RAFAEL" creationdate="20200927T192315Z">
+        <seg>Em outras palavras, os níveis de experiência de sua equipe aumentarão duas vezes mais rápido quando a mesma quantidade de gastos com treinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32054,6 +32078,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=200% training effect</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192246Z" creationid="RAFAEL" creationdate="20200927T192246Z">
+        <seg>Title=200% de efeito de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=50% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192340Z" creationid="RAFAEL" creationdate="20200927T192340Z">
+        <seg>Title=50% dos custos de aquisição de tecnologia</seg>
       </tuv>
     </tu>
     <tu>
