@@ -7958,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 200% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192445Z" creationid="RAFAEL" creationdate="20200927T192445Z">
+        <seg>Description=Este script modifica os custos de aquisição de tecnologia para 200% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This script modifies technology acquisition costs to 50% of their original values.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192400Z" creationid="RAFAEL" creationdate="20200927T192400Z">
@@ -32078,6 +32086,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
         <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=200% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192432Z" creationid="RAFAEL" creationdate="20200927T192432Z">
+        <seg>Title=200% dos custos de aquisição de tecnologia</seg>
       </tuv>
     </tu>
     <tu>
