@@ -352,8 +352,8 @@
       <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215958Z" creationid="RAFAEL" creationdate="20200802T215958Z">
-        <seg>(tecla de atalho: '+' ou '=')</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200929T002639Z" creationid="RAFAEL" creationdate="20200802T215958Z">
+        <seg>(Atalho: '+' ou '=')</seg>
       </tuv>
     </tu>
     <tu>
