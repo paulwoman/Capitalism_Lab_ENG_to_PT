@@ -50356,8 +50356,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003734Z" creationid="User" creationdate="20200802T003734Z">
-        <seg>[2895]&lt;OWNT&gt;Propriedade própria|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200929T001241Z" creationid="User" creationdate="20200802T003734Z">
+        <seg>[2895]&lt;OWNT&gt;Tecn. própria|</seg>
       </tuv>
     </tu>
     <tu>
