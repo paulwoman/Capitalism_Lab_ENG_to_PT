@@ -352,8 +352,8 @@
       <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T215958Z" creationid="RAFAEL" creationdate="20200802T215958Z">
-        <seg>(tecla de atalho: '+' ou '=')</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200929T002639Z" creationid="RAFAEL" creationdate="20200802T215958Z">
+        <seg>(Atalho: '+' ou '=')</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="en-US">
         <seg>AI Game Console Company First-mover Advantage</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010110Z" creationid="RAFAEL" creationdate="20200808T010110Z">
-        <seg>Vantagem da empresa AI Game Console First-mover</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200924T014229Z" creationid="RAFAEL" creationdate="20200808T010110Z">
+        <seg>Vantagem da empresa IA Game Console First-mover</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,8 +1456,8 @@
       <tuv lang="en-US">
         <seg>AI Smart Phone Company First-mover Advantage</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005749Z" creationid="RAFAEL" creationdate="20200808T005749Z">
-        <seg>Vantagem do pioneiro da AI Smart Phone Company</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200924T014217Z" creationid="RAFAEL" creationdate="20200808T005749Z">
+        <seg>Vantagem do pioneiro da IA Smart Phone Company</seg>
       </tuv>
     </tu>
     <tu>
@@ -6998,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092736Z" creationid="Olivier" creationdate="20200916T092736Z">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-07-07</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010757Z" creationid="Olivier" creationdate="20200802T010757Z">
@@ -7010,6 +7018,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010816Z" creationid="Olivier" creationdate="20200802T010816Z">
         <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092722Z" creationid="Olivier" creationdate="20200916T092722Z">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092740Z" creationid="Olivier" creationdate="20200916T092740Z">
+        <seg>Contest Started On=2020-09-15</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +7950,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This script doubles the training effect on your staff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192301Z" creationid="RAFAEL" creationdate="20200927T192301Z">
+        <seg>Description=Este script duplica o efeito de treinamento em sua equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 200% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192445Z" creationid="RAFAEL" creationdate="20200927T192445Z">
+        <seg>Description=Este script modifica os custos de aquisição de tecnologia para 200% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 50% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192400Z" creationid="RAFAEL" creationdate="20200927T192400Z">
+        <seg>Description=Este script modifica os custos de aquisição de tecnologia para 50% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This script modifies the autosave setting to perform an autosave once every 10 days.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230848Z" creationid="RAFAEL" creationdate="20200830T230848Z">
@@ -7946,6 +7994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T015332Z" creationid="RAFAEL" creationdate="20200822T015332Z">
         <seg>Description=Para se manter competitivo em um mercado em constante mudança, você deve investir constantemente na melhoria da qualidade de seus produtos.^^Neste tutorial, você vai estabelecer um Centro de Pesquisa e Desenvolvimento (P&amp;D) e iniciar projetos de P&amp;D para inventar tecnologias mais avançadas para seus produtos.^^A competição será acirrada, mas seu investimento em P&amp;D deve compensar e dar a você uma vantagem competitiva em relação a seus rivais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=When a natural resource firm (mine/oil well/logging camp) has used up its reserve, instead of stopping its operation, it will continue to produce the natural resources with a new recurring cost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192208Z" creationid="RAFAEL" creationdate="20200927T192208Z">
+        <seg>Description=Quando uma empresa de recursos naturais (mina/poço de petróleo/madeireira) esgotar sua reserva, ao invés de parar sua operação, ela continuará a produzir os recursos naturais com um novo custo recorrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10944,8 +11000,8 @@
       <tuv lang="en-US">
         <seg>Game console companies run by AI will have higher initial capital.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010127Z" creationid="RAFAEL" creationdate="20200808T010127Z">
-        <seg>As empresas de consoles de jogos administradas pela AI terão um capital inicial maior.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200924T014233Z" creationid="RAFAEL" creationdate="20200808T010127Z">
+        <seg>As empresas de consoles de jogos administradas pela IA terão um capital inicial maior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15651,6 +15707,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T003526Z" creationid="RAFAEL" creationdate="20200805T010104Z">
         <seg>Em outras palavras, é o valor total de mercado da empresa na Bolsa de Valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, the experience levels of your staff will increase twice as fast when the same amount of training expenditure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192315Z" creationid="RAFAEL" creationdate="20200927T192315Z">
+        <seg>Em outras palavras, os níveis de experiência de sua equipe aumentarão duas vezes mais rápido quando a mesma quantidade de gastos com treinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26865,8 +26929,8 @@ Contratar Diretor de Tecnologia</seg>
       <tuv lang="en-US">
         <seg>Smart phone companies run by AI will have higher initial capital and start with more advanced tech for Smart Phone and OS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005830Z" creationid="RAFAEL" creationdate="20200808T005830Z">
-        <seg>Empresas de telefonia inteligente geridas pela AI terão maior capital inicial e começarão com tecnologia mais avançada para Smart Phone e SO.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200924T014222Z" creationid="RAFAEL" creationdate="20200808T005830Z">
+        <seg>Empresas de telefonia inteligente geridas pela IA terão maior capital inicial e começarão com tecnologia mais avançada para Smart Phone e SO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31604,8 +31668,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T010208Z" creationid="RAFAEL" creationdate="20200808T010208Z">
-        <seg>Isso modifica a taxa de juros básica que afeta # títulos # e # empréstimos bancários #.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200924T014252Z" creationid="RAFAEL" creationdate="20200808T010208Z">
+        <seg>Isso modifica a taxa de juros básica que afeta #títulos# e #empréstimos bancários#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32026,6 +32090,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=200% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192432Z" creationid="RAFAEL" creationdate="20200927T192432Z">
+        <seg>Title=200% dos custos de aquisição de tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=200% training effect</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192246Z" creationid="RAFAEL" creationdate="20200927T192246Z">
+        <seg>Title=200% de efeito de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=50% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192340Z" creationid="RAFAEL" creationdate="20200927T192340Z">
+        <seg>Title=50% dos custos de aquisição de tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Autosave every 10 days</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230816Z" creationid="RAFAEL" creationdate="20200830T230816Z">
@@ -32262,6 +32350,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003906Z" creationid="RAFAEL" creationdate="20200901T003906Z">
         <seg>Title=Brinquedos e gadgets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Unlimited Natural Resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192105Z" creationid="RAFAEL" creationdate="20200927T192105Z">
+        <seg>Title=Recursos naturais ilimitados</seg>
       </tuv>
     </tu>
     <tu>
@@ -40404,8 +40500,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty  Owned%  Stock Value|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T234329Z" creationid="RAFAEL" creationdate="20200830T234329Z">
-        <seg>[1058]&lt;0215&gt;Acionista                 Quant. Sua   Possuí%  Vlr Ações|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200917T002541Z" creationid="RAFAEL" creationdate="20200830T234329Z">
+        <seg>[1058]&lt;0215&gt;Acionista             Quant. Sua   Possuí%  Vlr Ações|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50260,8 +50356,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T003734Z" creationid="User" creationdate="20200802T003734Z">
-        <seg>[2895]&lt;OWNT&gt;Propriedade própria|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200929T001241Z" creationid="User" creationdate="20200802T003734Z">
+        <seg>[2895]&lt;OWNT&gt;Tecn. própria|</seg>
       </tuv>
     </tu>
     <tu>
