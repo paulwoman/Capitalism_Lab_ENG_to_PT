@@ -26799,6 +26799,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001619Z" creationid="RAFAEL" creationdate="20201008T001619Z">
+        <seg>Mostra ou esconde o menu Toolbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232025Z" creationid="RAFAEL" creationdate="20200802T232025Z">
@@ -32878,6 +32886,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T204324Z" creationid="RAFAEL" creationdate="20200801T204324Z">
         <seg>Caixa de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001536Z" creationid="RAFAEL" creationdate="20201008T001536Z">
+        <seg>Toolbox (Atalho: Ctrl-T)</seg>
       </tuv>
     </tu>
     <tu>
