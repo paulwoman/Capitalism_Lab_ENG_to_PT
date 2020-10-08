@@ -6982,6 +6982,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumption</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003001Z" creationid="RAFAEL" creationdate="20201008T003001Z">
+        <seg>Consumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumption is the total value of goods and services that are bought by the population simulated in the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003012Z" creationid="RAFAEL" creationdate="20201008T003012Z">
+        <seg>O consumo é o valor total dos bens e serviços que são comprados pela população simulada no jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumption is the value of goods and services bought by people.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021622Z" creationid="RAFAEL" creationdate="20200805T021622Z">
@@ -12454,6 +12470,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Government Expenditure</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003048Z" creationid="RAFAEL" creationdate="20201008T003048Z">
+        <seg>Gastos Governamentais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003059Z" creationid="RAFAEL" creationdate="20201008T003059Z">
+        <seg>Despesa do governo é a despesa total do governo da cidade, que pode ser administrada por um prefeito controlado por um jogador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Government Mode (hotkey: Tab)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004324Z" creationid="RAFAEL" creationdate="20200805T004324Z">
@@ -16607,6 +16639,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003020Z" creationid="RAFAEL" creationdate="20201008T003020Z">
+        <seg>Investimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment Diversification</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022830Z" creationid="RAFAEL" creationdate="20200825T022830Z">
@@ -16627,6 +16667,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021645Z" creationid="RAFAEL" creationdate="20200805T021645Z">
         <seg>O investimento é o investimento total das empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment is the total investment made by the player and AI corporations in setting up new businesses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003034Z" creationid="RAFAEL" creationdate="20201008T003034Z">
+        <seg>O investimento é o investimento total feito pelo jogador e pelas corporações de IA na criação de novos negócios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19187,6 +19235,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021736Z" creationid="RAFAEL" creationdate="20200806T021736Z">
         <seg>Índice de necessidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003111Z" creationid="RAFAEL" creationdate="20201008T003111Z">
+        <seg>Exportações Líquidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports equal to #exports# minus #imports#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003149Z" creationid="RAFAEL" creationdate="20201008T003149Z">
+        <seg>Exportações líquidas igual a #exportações# menos #importações#.</seg>
       </tuv>
     </tu>
     <tu>
