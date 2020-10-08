@@ -9046,6 +9046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects of GDP (part 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002123Z" creationid="RAFAEL" creationdate="20201008T002123Z">
+        <seg>Efeitos do PIB(part 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Employee loyalty</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024659Z" creationid="RAFAEL" creationdate="20200805T024659Z">
@@ -10234,6 +10242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013113Z" creationid="RAFAEL" creationdate="20200812T013113Z">
         <seg>Por exemplo, quando se trata de comprar jeans, os consumidores geralmente prestam mais atenção à marca do que à qualidade real do produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002214Z" creationid="RAFAEL" creationdate="20201008T002214Z">
+        <seg>Por exemplo, quando sua empresa embarca em uma expansão de negócios em grande escala em uma cidade, ela aumenta o #Componente de investimento# do PIB, que por sua vez contribui para o #crescimento do PIB# e dá um impulso à economia.</seg>
       </tuv>
     </tu>
     <tu>
