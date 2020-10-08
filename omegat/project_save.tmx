@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Exports# occur when companies sell products to business clients in another city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003234Z" creationid="RAFAEL" creationdate="20201008T003234Z">
+        <seg>#Exportações# ocorrem quando as empresas vendem produtos para clientes empresariais em outra cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Imports# occur when companies in the game purchase products from suppliers in a different city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003212Z" creationid="RAFAEL" creationdate="20201008T003212Z">
+        <seg>#As importações# ocorrem quando as empresas do jogo compram produtos de fornecedores em uma cidade diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020826Z" creationid="RAFAEL" creationdate="20200806T020826Z">
@@ -54070,6 +54086,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020638Z" creationid="RAFAEL" creationdate="20200909T020638Z">
         <seg>[3330]&lt;LPLS&gt;Os planos de layout nesta pasta foram classificados por suas descrições.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3331]&lt;DEXP&gt;The game data has been exported to|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003431Z" creationid="RAFAEL" creationdate="20201008T003431Z">
+        <seg>[3331]&lt;DEXP&gt;Os dados do jogo foram exportados para|</seg>
       </tuv>
     </tu>
     <tu>
