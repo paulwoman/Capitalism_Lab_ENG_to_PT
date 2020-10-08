@@ -8990,6 +8990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earnings Per Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001732Z" creationid="RAFAEL" creationdate="20201008T001732Z">
+        <seg>Lucro por ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Economy's Impact on Loan Defaults</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013423Z" creationid="RAFAEL" creationdate="20200808T013423Z">
@@ -9026,6 +9034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012432Z" creationid="Olivier" creationdate="20200802T012432Z">
         <seg>Education rating=90, Manchester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 1)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001816Z" creationid="RAFAEL" creationdate="20201008T001816Z">
+        <seg>Efeitos do PIB (part 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20855,6 +20871,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001715Z" creationid="RAFAEL" creationdate="20201008T001715Z">
+        <seg>Abra a janela do Event Tracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Goal report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225501Z" creationid="RAFAEL" creationdate="20200801T225501Z">
@@ -20867,6 +20891,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222415Z" creationid="RAFAEL" creationdate="20200801T222415Z">
         <seg>Abrir a tela do Centro de Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001701Z" creationid="RAFAEL" creationdate="20201008T001701Z">
+        <seg>Abra a tela do Centro de Informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26799,10 +26831,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001632Z" creationid="RAFAEL" creationdate="20201008T001632Z">
+        <seg>Mostrar ou ocultar o Minimapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001619Z" creationid="RAFAEL" creationdate="20201008T001619Z">
         <seg>Mostra ou esconde o menu Toolbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001646Z" creationid="RAFAEL" creationdate="20201008T001646Z">
+        <seg>Mostrar ou ocultar o mapa do mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28945,6 +28993,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001742Z" creationid="RAFAEL" creationdate="20201008T001742Z">
+        <seg>O lucro por ação é o lucro operacional de uma empresa nos últimos 365 dias dividido pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Global Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014242Z" creationid="RAFAEL" creationdate="20200805T014242Z">
@@ -29733,6 +29789,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014246Z" creationid="RAFAEL" creationdate="20200812T014246Z">
         <seg>A primeira maneira é abrir o ~Mapa do Mundo~ clicando em seu ícone na barra de ferramentas inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002112Z" creationid="RAFAEL" creationdate="20201008T002112Z">
+        <seg>Os seguintes #componentes do PIB# contribuem para o crescimento do PIB e têm um grande impacto na economia, levando a booms e #quedas no ciclo econômico#, afetando #inflação#, #taxas de emprego#, #taxas salariais# e #taxa de juros#.</seg>
       </tuv>
     </tu>
     <tu>
