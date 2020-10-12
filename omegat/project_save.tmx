@@ -53036,8 +53036,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3202]&lt;PLTI&gt;Total play time:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001806Z" creationid="RAFAEL" creationdate="20200826T001806Z">
-        <seg>[3202]&lt;PLTI&gt;Tempo total de jogo:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201012T183254Z" creationid="RAFAEL" creationdate="20200826T001806Z">
+        <seg>[3202]&lt;PLTI&gt;Tempo de jogo:|</seg>
       </tuv>
     </tu>
     <tu>
