@@ -37172,8 +37172,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0159]&lt;FDAT&gt;File date: |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060217Z" creationid="Olivier" creationdate="20200728T060217Z">
-        <seg>[0159]&lt;FDAT&gt;Dados do arquivo: |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201012T183158Z" creationid="Olivier" creationdate="20200728T060217Z">
+        <seg>[0159]&lt;FDAT&gt;Data do arquivo: |</seg>
       </tuv>
     </tu>
     <tu>
