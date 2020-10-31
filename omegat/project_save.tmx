@@ -43324,8 +43324,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1620]&lt;0645&gt;OPERATING EXPENSES|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190013Z" creationid="Olivier" creationdate="20200729T185931Z">
-        <seg> [1620]&lt;0645&gt;CUSTOS OPEACIONAIS|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201031T033018Z" creationid="Olivier" creationdate="20200729T185931Z">
+        <seg> [1620]&lt;0645&gt;CUSTOS OPERACIONAIS|</seg>
       </tuv>
     </tu>
     <tu>
