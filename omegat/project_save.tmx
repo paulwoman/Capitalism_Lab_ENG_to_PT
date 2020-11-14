@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Exports# occur when companies sell products to business clients in another city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003234Z" creationid="RAFAEL" creationdate="20201008T003234Z">
+        <seg>#Exportações# ocorrem quando as empresas vendem produtos para clientes empresariais em outra cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Imports# occur when companies in the game purchase products from suppliers in a different city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003212Z" creationid="RAFAEL" creationdate="20201008T003212Z">
+        <seg>#As importações# ocorrem quando as empresas do jogo compram produtos de fornecedores em uma cidade diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T020826Z" creationid="RAFAEL" creationdate="20200806T020826Z">
@@ -6982,6 +6998,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumption</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003001Z" creationid="RAFAEL" creationdate="20201008T003001Z">
+        <seg>Consumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumption is the total value of goods and services that are bought by the population simulated in the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003012Z" creationid="RAFAEL" creationdate="20201008T003012Z">
+        <seg>O consumo é o valor total dos bens e serviços que são comprados pela população simulada no jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumption is the value of goods and services bought by people.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021622Z" creationid="RAFAEL" creationdate="20200805T021622Z">
@@ -8990,6 +9022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earnings Per Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001732Z" creationid="RAFAEL" creationdate="20201008T001732Z">
+        <seg>Lucro por ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Economy's Impact on Loan Defaults</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013423Z" creationid="RAFAEL" creationdate="20200808T013423Z">
@@ -9026,6 +9066,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012432Z" creationid="Olivier" creationdate="20200802T012432Z">
         <seg>Education rating=90, Manchester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 1)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001816Z" creationid="RAFAEL" creationdate="20201008T001816Z">
+        <seg>Efeitos do PIB (part 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002123Z" creationid="RAFAEL" creationdate="20201008T002123Z">
+        <seg>Efeitos do PIB(part 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 3)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002321Z" creationid="RAFAEL" creationdate="20201008T002321Z">
+        <seg>Efeitos do PIB (part 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002214Z" creationid="RAFAEL" creationdate="20201008T002214Z">
+        <seg>Por exemplo, quando sua empresa embarca em uma expansão de negócios em grande escala em uma cidade, ela aumenta o #Componente de investimento# do PIB, que por sua vez contribui para o #crescimento do PIB# e dá um impulso à economia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232802Z" creationid="RAFAEL" creationdate="20200802T232802Z">
@@ -10402,6 +10474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025022Z" creationid="RAFAEL" creationdate="20200806T025022Z">
         <seg>Transferência de fundos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002349Z" creationid="RAFAEL" creationdate="20201008T002349Z">
+        <seg>Mais adiante nesta cadeia de efeitos, #uma taxa salarial mais alta# leva a #aumento dos gastos do consumidor#, preparando o terreno para #inflação aumentar#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12402,6 +12482,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012535Z" creationid="Olivier" creationdate="20200802T012535Z">
         <seg>Goods Supply rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003048Z" creationid="RAFAEL" creationdate="20201008T003048Z">
+        <seg>Gastos Governamentais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003059Z" creationid="RAFAEL" creationdate="20201008T003059Z">
+        <seg>Despesa do governo é a despesa total do governo da cidade, que pode ser administrada por um prefeito controlado por um jogador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16559,6 +16655,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003020Z" creationid="RAFAEL" creationdate="20201008T003020Z">
+        <seg>Investimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment Diversification</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T022830Z" creationid="RAFAEL" creationdate="20200825T022830Z">
@@ -16579,6 +16683,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021645Z" creationid="RAFAEL" creationdate="20200805T021645Z">
         <seg>O investimento é o investimento total das empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment is the total investment made by the player and AI corporations in setting up new businesses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003034Z" creationid="RAFAEL" creationdate="20201008T003034Z">
+        <seg>O investimento é o investimento total feito pelo jogador e pelas corporações de IA na criação de novos negócios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19143,6 +19255,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Net Exports</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003111Z" creationid="RAFAEL" creationdate="20201008T003111Z">
+        <seg>Exportações Líquidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports equal to #exports# minus #imports#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003149Z" creationid="RAFAEL" creationdate="20201008T003149Z">
+        <seg>Exportações líquidas igual a #exportações# menos #importações#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Net Exports equal to exports less imports.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021747Z" creationid="RAFAEL" creationdate="20200805T021747Z">
@@ -20855,6 +20983,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001715Z" creationid="RAFAEL" creationdate="20201008T001715Z">
+        <seg>Abra a janela do Event Tracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Goal report</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T225501Z" creationid="RAFAEL" creationdate="20200801T225501Z">
@@ -20867,6 +21003,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222415Z" creationid="RAFAEL" creationdate="20200801T222415Z">
         <seg>Abrir a tela do Centro de Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001701Z" creationid="RAFAEL" creationdate="20201008T001701Z">
+        <seg>Abra a tela do Centro de Informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26799,6 +26943,30 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001632Z" creationid="RAFAEL" creationdate="20201008T001632Z">
+        <seg>Mostrar ou ocultar o Minimapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001619Z" creationid="RAFAEL" creationdate="20201008T001619Z">
+        <seg>Mostra ou esconde o menu Toolbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001646Z" creationid="RAFAEL" creationdate="20201008T001646Z">
+        <seg>Mostrar ou ocultar o mapa do mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T232025Z" creationid="RAFAEL" creationdate="20200802T232025Z">
@@ -27500,6 +27668,14 @@ Divisão de ações</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014328Z" creationid="RAFAEL" creationdate="20200805T014328Z">
         <seg>Uma forte exportação melhorará significativamente o emprego na cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002311Z" creationid="RAFAEL" creationdate="20201008T002311Z">
+        <seg>Posteriormente, o #mercado de trabalho apertado# forçará as empresas a #aumentar os salários de seus funcionários#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28937,6 +29113,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001742Z" creationid="RAFAEL" creationdate="20201008T001742Z">
+        <seg>O lucro por ação é o lucro operacional de uma empresa nos últimos 365 dias dividido pelo número total de ações em circulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Global Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014242Z" creationid="RAFAEL" creationdate="20200805T014242Z">
@@ -29729,6 +29913,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002112Z" creationid="RAFAEL" creationdate="20201008T002112Z">
+        <seg>Os seguintes #componentes do PIB# contribuem para o crescimento do PIB e têm um grande impacto na economia, levando a booms e #quedas no ciclo econômico#, afetando #inflação#, #taxas de emprego#, #taxas salariais# e #taxa de juros#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T030558Z" creationid="RAFAEL" creationdate="20200804T030558Z">
@@ -30077,6 +30269,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T225155Z" creationid="RAFAEL" creationdate="20200802T225155Z">
         <seg>Os novos preços de publicidade (o custo por mil impressões) entrarão em vigor no próximo mês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The newly established companies #create jobs# for the city, lowering the #unemployment rate#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002234Z" creationid="RAFAEL" creationdate="20201008T002234Z">
+        <seg>As empresas recém-criadas #criam empregos# para a cidade, reduzindo a #taxa de desemprego#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32882,6 +33082,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T001536Z" creationid="RAFAEL" creationdate="20201008T001536Z">
+        <seg>Toolbox (Atalho: Ctrl-T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Top Tech</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T031749Z" creationid="RAFAEL" creationdate="20200806T031455Z">
@@ -34406,6 +34614,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T184005Z" creationid="RAFAEL" creationdate="20200815T184005Z">
         <seg>Quando lê "1º", significa que sua empresa alcançou o domínio do mercado para a respectiva classe de produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T002939Z" creationid="RAFAEL" creationdate="20201008T002714Z">
+        <seg>Quando o aumento da inflação é descontrolado e eventualmente correr desenfreado, o banco central não terá escolha a não ser dar um #aumento na taxa de juros# agressivamente, o que inevitavelmente #arrastará a economia para a recessão#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36956,8 +37172,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0159]&lt;FDAT&gt;File date: |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T060217Z" creationid="Olivier" creationdate="20200728T060217Z">
-        <seg>[0159]&lt;FDAT&gt;Dados do arquivo: |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201012T183158Z" creationid="Olivier" creationdate="20200728T060217Z">
+        <seg>[0159]&lt;FDAT&gt;Data do arquivo: |</seg>
       </tuv>
     </tu>
     <tu>
@@ -43108,8 +43324,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1620]&lt;0645&gt;OPERATING EXPENSES|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200729T190013Z" creationid="Olivier" creationdate="20200729T185931Z">
-        <seg> [1620]&lt;0645&gt;CUSTOS OPEACIONAIS|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201031T033018Z" creationid="Olivier" creationdate="20200729T185931Z">
+        <seg> [1620]&lt;0645&gt;CUSTOS OPERACIONAIS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50644,8 +50860,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2931]&lt;PUB1&gt;For this|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T005542Z" creationid="User" creationdate="20200802T005542Z">
-        <seg>[2931]&lt;PUB1&gt;Por esta|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201012T182221Z" creationid="User" creationdate="20200802T005542Z">
+        <seg>[2931]&lt;PUB1&gt;Para esta|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52820,8 +53036,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3202]&lt;PLTI&gt;Total play time:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T001806Z" creationid="RAFAEL" creationdate="20200826T001806Z">
-        <seg>[3202]&lt;PLTI&gt;Tempo total de jogo:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201012T183254Z" creationid="RAFAEL" creationdate="20200826T001806Z">
+        <seg>[3202]&lt;PLTI&gt;Tempo de jogo:|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53870,6 +54086,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200909T020638Z" creationid="RAFAEL" creationdate="20200909T020638Z">
         <seg>[3330]&lt;LPLS&gt;Os planos de layout nesta pasta foram classificados por suas descrições.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3331]&lt;DEXP&gt;The game data has been exported to|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003431Z" creationid="RAFAEL" creationdate="20201008T003431Z">
+        <seg>[3331]&lt;DEXP&gt;Os dados do jogo foram exportados para|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3332]&lt;CBR1&gt;The city government of %1s declares bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003615Z" creationid="RAFAEL" creationdate="20201008T003615Z">
+        <seg>[3332]&lt;CBR1&gt;A prefeitura de %1s declara falência.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3333]&lt;CBR2&gt;Under pressure, mayor %1s resigns from the office.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003742Z" creationid="RAFAEL" creationdate="20201008T003742Z">
+        <seg>[3333]&lt;CBR2&gt;Sob pressão, o prefeito %1s renuncia ao cargo.|</seg>
       </tuv>
     </tu>
     <tu>
