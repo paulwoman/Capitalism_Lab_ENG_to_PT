@@ -17071,6 +17071,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is now looking for a buyer.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014020Z" creationid="RAFAEL" creationdate="20201217T014020Z">
+        <seg>Está procurando um comprador.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the accumulation of of all past political influence values x 50%.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T022903Z" creationid="RAFAEL" creationdate="20200805T022903Z">
@@ -30141,6 +30149,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T003701Z" creationid="RAFAEL" creationdate="20200826T003701Z">
         <seg>O jogo agora não usa mais nenhum MOD.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goal has been achieved.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T013852Z" creationid="RAFAEL" creationdate="20201217T013852Z">
+        <seg>O objetivo foi alcançado.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51098,6 +51114,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;Congratulations!|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T013835Z" creationid="RAFAEL" creationdate="20201217T013835Z">
+        <seg>[2926]&lt;TGW2&gt;Parabéns!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2926]&lt;TGW2&gt;and achieved the goals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T005345Z" creationid="User" creationdate="20200802T005345Z">
@@ -54390,6 +54414,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201008T003742Z" creationid="RAFAEL" creationdate="20201008T003742Z">
         <seg>[3333]&lt;CBR2&gt;Sob pressão, o prefeito %1s renuncia ao cargo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3334]&lt;ABC1&gt;Acquire a Company Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T013922Z" creationid="RAFAEL" creationdate="20201217T013922Z">
+        <seg>[3334]&lt;ABC1&gt;Adquirir uma empresa à beira da falência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3335]&lt;ABC2&gt;is on the brink of bankruptcy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T013932Z" creationid="RAFAEL" creationdate="20201217T013932Z">
+        <seg>[3335]&lt;ABC2&gt;está à beira da falência.</seg>
       </tuv>
     </tu>
     <tu>
