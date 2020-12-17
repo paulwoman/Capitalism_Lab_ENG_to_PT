@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acquire Companies Facing Bankruptcy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011839Z" creationid="RAFAEL" creationdate="20201217T011839Z">
+        <seg>Adquirir empresas que enfrentam falência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the mode for buying plots of land.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224902Z" creationid="RAFAEL" creationdate="20200801T224902Z">
@@ -2442,6 +2450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230346Z" creationid="RAFAEL" creationdate="20200830T230346Z">
         <seg>Você está confiante de que conseguirá?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011118Z" creationid="RAFAEL" creationdate="20201217T011118Z">
+        <seg>Você está usando algum software antivírus executado em segundo plano?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.^^You must act fast as burgeoning valuations of tech companies mean that the rapidly rising acquisition costs may soon exceed your financial reach.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011426Z" creationid="RAFAEL" creationdate="20201217T011426Z">
+        <seg>Description=O objetivo deste cenário é adquirir um total de oito empresas privadas de tecnologia e consolidá-las para colher os benefícios da sinergia e das economias de escala.^^Você deve agir rápido, pois as avaliações crescentes de empresas de tecnologia significam que os custos de aquisição em rápido aumento podem em breve exceder seu alcance financeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230031Z" creationid="RAFAEL" creationdate="20200830T230031Z">
@@ -8186,6 +8210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202447Z" creationid="RAFAEL" creationdate="20200822T202447Z">
         <seg>Description=Você fez progressos impressionantes até agora e ganhou a reputação de ser uma das estrelas em ascensão no mundo dos negócios.^^Neste tutorial final, você aprenderá como construir sua sede corporativa e configurar vários departamentos para permitir que você gerencie seu império de negócios com ainda mais eficácia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011605Z" creationid="RAFAEL" creationdate="20201217T011605Z">
+        <seg>Description=Você conseguiu uma série de investimentos de alto perfil de alguns dos investidores mais procurados e famosos.^^Agora vem a parte difícil: seus investidores exigentes não ficarão satisfeitos com nada menos do que sua empresa reinando suprema no mundo digital.^^Você vencerá este cenário e será elogiado por sua conquista ao dominar simultaneamente todas as três indústrias digitais: telecomunicações, Internet e sistema operacional e software de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11566,6 +11598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011515Z" creationid="RAFAEL" creationdate="20201217T011515Z">
+        <seg>Goal Description=O objetivo desse cenário é adquirir um total de oito empresas privadas de tecnologia e consolidá-las para colher os benefícios de sinergia e economia de escala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230716Z" creationid="RAFAEL" creationdate="20200830T230716Z">
@@ -11778,6 +11818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002655Z" creationid="RAFAEL" creationdate="20200901T002655Z">
         <seg>Goal Description=Você ganhará o título de Investidor Lendário quando aumentar sua fortuna pessoal para $ 1 bilhão e ganhar o controle de 5 empresas públicas diretamente ou por meio de sua holding!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011641Z" creationid="RAFAEL" creationdate="20201217T011641Z">
+        <seg>Goal Description=Você vencerá esse cenário e será elogiado por sua conquista ao dominar simultaneamente todas as três indústrias digitais: telecomunicações, Internet e sistema operacional e software de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12002,6 +12050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T003242Z" creationid="RAFAEL" creationdate="20200901T003242Z">
         <seg>Goal Title=Desenvolva um portfólio de produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Digital Supremacy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011630Z" creationid="RAFAEL" creationdate="20201217T011630Z">
+        <seg>Goal Title=Supremacia Digital</seg>
       </tuv>
     </tu>
     <tu>
@@ -12242,6 +12298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T001925Z" creationid="RAFAEL" creationdate="20200901T001925Z">
         <seg>Goal Title=Conglomerado multinacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011501Z" creationid="RAFAEL" creationdate="20201217T011501Z">
+        <seg>Goal Title=Em uma onda de compras</seg>
       </tuv>
     </tu>
     <tu>
@@ -15175,6 +15239,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011143Z" creationid="RAFAEL" creationdate="20201217T011143Z">
+        <seg>Em caso afirmativo, adicione os arquivos EXE da ferramenta MOD "LibResDir.EXE" e "LibResXL.EXE" à lista de exceções do software antivírus para evitar que ele bloqueie as ferramentas ou reduza sua execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the #City Economics Simulation DLC# is enabled, it is also affected by the #education level# of people in the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T013423Z" creationid="RAFAEL" creationdate="20200806T013423Z">
@@ -15587,6 +15659,22 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004602Z" creationid="RAFAEL" creationdate="20200808T004602Z">
         <seg>Se você definir um valor maior que zero, os partidos políticos rivais receberão doações do público em geral ao longo do tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you succeed in executing this plan, the mergers will give you the much-needed technologies and talents to build the digital powerhouse that you have always dreamed of.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011437Z" creationid="RAFAEL" creationdate="20201217T011437Z">
+        <seg>Se você conseguir executar este plano, as fusões lhe darão as tecnologias e os talentos necessários para construir a potência digital com que você sempre sonhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you update files in other subfolders (e.g. IMAGES\PERSONS folder), you should run the PACK.BAT in those folders to pack the respective files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011242Z" creationid="RAFAEL" creationdate="20201217T011242Z">
+        <seg>Se você atualizar arquivos em outras subpastas (por exemplo, pasta IMAGES\PERSONS), você deve executar o PACK.BAT nessas pastas para empacotar os respectivos arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25535,6 +25623,22 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run PACK.BAT to pack files under the current MOD Kit folder into a MOD file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011213Z" creationid="RAFAEL" creationdate="20201217T011213Z">
+        <seg>Execute PACK.BAT para compactar os arquivos da pasta MOD Kit atual em um arquivo MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run PACKALL.BAT to pack all files in all subfolders under the current MOD Kit folder into a MOD file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011156Z" creationid="RAFAEL" creationdate="20201217T011156Z">
+        <seg>Execute PACKALL.BAT para compactar todos os arquivos em todas as subpastas na pasta do Kit MOD atual em um arquivo MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run advertising for the current web site on another media firm to boost up the current web site's visitor traffic.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025904Z" creationid="RAFAEL" creationdate="20200805T025904Z">
@@ -26763,6 +26867,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T022533Z" creationid="RAFAEL" creationdate="20200806T022533Z">
         <seg>Instalar uma nova produção na fazenda atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up a new production for this firm (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011937Z" creationid="RAFAEL" creationdate="20201217T011937Z">
+        <seg>Configure uma nova produção para esta empresa (Atalho: A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32226,6 +32338,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will take a longer time to run but will ensure every MOD file that you have updated will be packed into the new MOD resource file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011203Z" creationid="RAFAEL" creationdate="20201217T011203Z">
+        <seg>Isso levará mais tempo para ser executado, mas garantirá que todos os arquivos MOD que você atualizou sejam compactados no novo arquivo de recursos MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This window shows all products available from the local seaports.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200825T234233Z" creationid="RAFAEL" creationdate="20200825T234233Z">
@@ -32354,6 +32474,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Digital Supremacy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011527Z" creationid="RAFAEL" creationdate="20201217T011527Z">
+        <seg>Title=Supremacia Digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Dilemma of a Camera Manufacturer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215243Z" creationid="RAFAEL" creationdate="20200826T215243Z">
@@ -32446,6 +32574,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T002810Z" creationid="RAFAEL" creationdate="20200901T002810Z">
         <seg>Title=Corporação multinacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011341Z" creationid="RAFAEL" creationdate="20201217T011341Z">
+        <seg>Title=Em uma onda de compras</seg>
       </tuv>
     </tu>
     <tu>
@@ -34902,6 +35038,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013408Z" creationid="RAFAEL" creationdate="20200808T013408Z">
         <seg>Quando isto for definido como baixo, você pode esperar que a maioria dos produtos desfrute de margens de lucro saudáveis e as empresas em geral serão mais lucrativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011855Z" creationid="RAFAEL" creationdate="20201217T011855Z">
+        <seg>Quando essa configuração é ativada, quando uma empresa está à beira da falência, você terá a opção de resgatá-la adquirindo todas as ações da empresa.</seg>
       </tuv>
     </tu>
     <tu>
