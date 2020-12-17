@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Central Bank Policy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012344Z" creationid="RAFAEL" creationdate="20201217T012344Z">
+        <seg>Política do Banco Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200824T004824Z" creationid="Olivier" creationdate="20200807T071012Z">
@@ -16191,6 +16199,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Dove means that the central bank is willing to let inflation run higher before raising the interest rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012322Z" creationid="RAFAEL" creationdate="20201217T012322Z">
+        <seg>O índice de inflação significa que o banco central está disposto a permitir que a inflação suba antes de aumentar a taxa de juros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Rate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T024850Z" creationid="RAFAEL" creationdate="20200804T024850Z">
@@ -19155,6 +19171,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012312Z" creationid="RAFAEL" creationdate="20200806T012240Z">
         <seg>Usuários de celulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Supply and Demand</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012415Z" creationid="RAFAEL" creationdate="20201217T012415Z">
+        <seg>Oferta e demanda de dinheiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -31818,6 +31842,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates the current levels of money supply and demand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012423Z" creationid="RAFAEL" creationdate="20201217T012423Z">
+        <seg>Isso indica os níveis atuais de oferta e demanda de dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates the level of #demand for bank loans# which is correlated to the total GDP of the cities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000915Z" creationid="RAFAEL" creationdate="20200807T000915Z">
@@ -31830,6 +31862,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012023Z" creationid="RAFAEL" creationdate="20201217T012023Z">
         <seg>Isso indica o estado atual da economia da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This indicates whether the central bank currently maintains a loose monetary policy with increased money supply and a low interest rate, or a tight monetary policy with reduced money supply and a high interest rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012405Z" creationid="RAFAEL" creationdate="20201217T012405Z">
+        <seg>Isso indica se o banco central atualmente mantém uma política monetária frouxa com aumento da oferta de moeda e uma baixa taxa de juros, ou uma política monetária restritiva com oferta de moeda reduzida e uma alta taxa de juros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34482,6 +34522,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visit the Reddit community of Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012441Z" creationid="RAFAEL" creationdate="20201217T012441Z">
+        <seg>Visite a comunidade Reddit do Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WAREMULT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T020326Z" creationid="Olivier" creationdate="20200802T020326Z">
@@ -34926,6 +34974,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T022733Z" creationid="RAFAEL" creationdate="20200822T022733Z">
         <seg>Quando a barra está definida como cheia, significa que você alocou o orçamento de treinamento máximo possível para ela.^^Experimente agora, definindo o treinamento para a empresa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the central bank maintains a loose monetary policy, there will be an increase to the money supply and the interest rate will fall.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012432Z" creationid="RAFAEL" creationdate="20201217T012432Z">
+        <seg>Quando o banco central mantém uma política monetária frouxa, haverá um aumento da oferta de moeda e a taxa de juros cairá.</seg>
       </tuv>
     </tu>
     <tu>
