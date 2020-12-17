@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A negative growth rate means that the economy is shrinking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012227Z" creationid="RAFAEL" creationdate="20201217T012227Z">
+        <seg>Uma taxa de crescimento negativa significa que a economia está encolhendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011228Z" creationid="RAFAEL" creationdate="20200811T011228Z">
@@ -4790,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Central Bank Attitude</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012237Z" creationid="RAFAEL" creationdate="20201217T012237Z">
+        <seg>Atitude do Banco Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200824T004824Z" creationid="Olivier" creationdate="20200807T071012Z">
@@ -7214,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, during a recession, consumers reduce their spending, especially for non-essential goods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012138Z" creationid="RAFAEL" creationdate="20201217T012138Z">
+        <seg>Por outro lado, durante a recessão, os consumidores reduzem seus gastos, com bens não essenciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, if this index is lower than 100, Internet companies will be less profitable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T005326Z" creationid="RAFAEL" creationdate="20200808T005326Z">
@@ -9062,6 +9086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Economic State</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012010Z" creationid="RAFAEL" creationdate="20201217T012010Z">
+        <seg>Estado Econômico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Economy's Impact on Loan Defaults</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T013423Z" creationid="RAFAEL" creationdate="20200808T013423Z">
@@ -10562,6 +10594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T021734Z" creationid="RAFAEL" creationdate="20200805T021734Z">
         <seg>PIB - Exportações líquidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP Growth Rate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012207Z" creationid="RAFAEL" creationdate="20201217T012207Z">
+        <seg>Taxa crescimento do PIB</seg>
       </tuv>
     </tu>
     <tu>
@@ -29233,6 +29273,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GDP growth rate indicates how fast the economy is growing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012218Z" creationid="RAFAEL" creationdate="20201217T012218Z">
+        <seg>A taxa de crescimento do PIB indica o quão rápido a economia está crescendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Global Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T014242Z" creationid="RAFAEL" creationdate="20200805T014242Z">
@@ -31778,6 +31826,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates the present state of the city's economy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012023Z" creationid="RAFAEL" creationdate="20201217T012023Z">
+        <seg>Isso indica o estado atual da economia da cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates whether there are enough application software available for this OS.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T031021Z" creationid="RAFAEL" creationdate="20200805T031021Z">
@@ -32198,6 +32254,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T004618Z" creationid="RAFAEL" creationdate="20200808T004618Z">
         <seg>Esta configuração serve principalmente para aumentar o nível de dificuldade do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the central bank's attitude toward inflation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012245Z" creationid="RAFAEL" creationdate="20201217T012245Z">
+        <seg>Isso mostra atitude do banco central em relação à inflação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,6 +34958,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230003Z" creationid="RAFAEL" creationdate="20200802T230003Z">
         <seg>Quando a barra de demanda (laranja) é mais longa que a barra de oferta (amarela), significa que você não tem oferta suficiente para atender à demanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the economy is booming, there will be strong demand for consumer goods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T012032Z" creationid="RAFAEL" creationdate="20201217T012032Z">
+        <seg>Quando a economia estiver em alta, haverá forte demanda por bens de consumo.</seg>
       </tuv>
     </tu>
     <tu>
