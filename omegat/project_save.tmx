@@ -54434,6 +54434,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014043Z" creationid="RAFAEL" creationdate="20201217T014043Z">
+        <seg>[3336]&lt;ABC3&gt;Você estaria interessado em adquiri-la?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3337]&lt;ABC4&gt;If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014205Z" creationid="RAFAEL" creationdate="20201217T014205Z">
+        <seg>[3337]&lt;ABC4&gt;Se estiver interessado, o jogo será pausado, permitindo que você reserve um tempo e avalie a empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014221Z" creationid="RAFAEL" creationdate="20201217T014221Z">
+        <seg>[3338]&lt;ABC5&gt;Quase falência|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3339]&lt;ABC6&gt;acquires the company|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014234Z" creationid="RAFAEL" creationdate="20201217T014234Z">
+        <seg>[3339]&lt;ABC6&gt;adquire a empresa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014247Z" creationid="RAFAEL" creationdate="20201217T014247Z">
+        <seg>[3340]&lt;ABC7&gt;resgatando-o da falência.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014556Z" creationid="RAFAEL" creationdate="20201217T014556Z">
+        <seg>[3341]&lt;SNAM&gt;Para localizar um item, digite a primeira letra de seu nome.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
