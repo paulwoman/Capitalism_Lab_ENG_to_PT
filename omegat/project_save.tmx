@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8018,6 +8018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231108Z" creationid="RAFAEL" creationdate="20200830T231108Z">
         <seg>Description=Este é um script de amostra para o Capitalism Lab, listando todas as variáveis ​​na seção [JOGO DE DESAFIOS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [COMPETITORS] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201219T030149Z" creationid="RAFAEL" creationdate="20201219T030149Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [COMPETIDORES].</seg>
       </tuv>
     </tu>
     <tu>
