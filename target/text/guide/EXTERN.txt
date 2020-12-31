@@ -1,5 +1,0 @@
-[Advertising Unit]
-~Pts. audiência~
-The rating points of the media in which the product is being advertised. It tells you how many people are watching the media. Quanto maior os pontos, maior o alcance da propaganda.
-~Monthly Advertising Expense~
-Esta barra representa quanto a unidade gasta mensalmente com advertising.

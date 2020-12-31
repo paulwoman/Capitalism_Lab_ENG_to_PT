@@ -1,9 +1,0 @@
-[CHALLENGE GAME]
-
-Title=Economic Revival
-Description=With your track record in the business world, you are confident that you can lead your political party to win the mayoral elections in Detroit and Pittsburgh and set the right policies to boost their economies, creating much needed new business and job opportunities for the cities.  
-
-Player Skill Level=Advanced
-
-Contest Started On=2020-07-08
-Contest Deadline=2020-12-31

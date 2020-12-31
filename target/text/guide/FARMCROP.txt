@@ -1,7 +1,0 @@
-[Crop Growing Unit]
-~Nome da cultura~
-O nome da cultura que está sendo plantada.^ 
-~Crop in Barn~
-When crops are harvested, they are stored in barns, which are represented by the blue bars. The blue bars increases in length when crops are being harvested. Conversely, their lengths decrease when crops are being sold.^
-~Growth Progress~
-A barra indica o crescimento da cultura.

@@ -1,7 +1,0 @@
-[Logging Unit]
-~Raw Material Name~
-A matéria prima que está sendo produzida.^
-~Raw Material Stock~
-This area shows the stock of the raw material in the unit. Each box represents one cargo of the raw material. Each cargo can store a certain quantity of the raw material.^
-~Utilization~
-A barra marrom mostra a utilização de cada unidade. If this bar reaches its full length, the unit has reached its full capacity.

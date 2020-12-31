@@ -1,9 +1,0 @@
-[CHALLENGE GAME]
-
-Title=Dilemma of a Camera Manufacturer
-Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup. ^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?
-
-Player Skill Level=Advanced
-
-Contest Started On=2020-07-07
-Contest Deadline=2020-12-31

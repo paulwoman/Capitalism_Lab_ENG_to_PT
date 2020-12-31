@@ -1,7 +1,0 @@
-[Inventory Unit]
-~Product Name~
-O nome do produto que está sendo estocado.^
-~Product Stock~
-As barras azuis representam o estoque desse produto.
-
-

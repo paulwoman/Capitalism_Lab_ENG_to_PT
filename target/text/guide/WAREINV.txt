@@ -1,5 +1,0 @@
-[Warehouse Storage]
-~Product Name~
-O nome do produto desta unidade.^
-~Product Stock~
-As barras azuis indicam a quantidade de produto em estoque.
