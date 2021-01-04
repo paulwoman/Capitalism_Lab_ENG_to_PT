@@ -31282,6 +31282,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Necessity Index~ of ~Body Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy body lotions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T184305Z" creationid="RAFAEL" creationdate="20210104T184305Z">
+        <seg>O ~Índice de Necessidade~ de ~Loção Corporal~ é 80% isso significa que é um item de necessidade diária.^^Mesmo que a economia esteja em recessão, as pessoas ainda comprarão loções corporais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~P/E Ratio~, or the ~Price-Earnings Ratio~ is an equity valuation multiple, defined as the ~stock price~ divided by ~earnings per share~.^^A high ~P/E ratio~ generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200818T025311Z" creationid="RAFAEL" creationdate="20200818T025311Z">
