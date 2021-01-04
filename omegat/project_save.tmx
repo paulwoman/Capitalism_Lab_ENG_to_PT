@@ -19927,6 +19927,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Body Lotion~.^^Click the ~Search Product~ button again and this time select ~Body Lotion~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T184056Z" creationid="RAFAEL" creationdate="20210104T184056Z">
+        <seg>Agora confira o ~Índice de Necessidade~ para ~Loção Corporal~.^^Clique no botão ~Procurar Produto~ e desta vez selecione ~Loção Corporal~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145024Z" creationid="RAFAEL" creationdate="20200815T145024Z">
