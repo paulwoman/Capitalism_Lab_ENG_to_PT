@@ -29971,8 +29971,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170044Z" creationid="RAFAEL" creationdate="20200815T170044Z">
-        <seg>A estratégia padrão é ~Estratégia única de marca~ na qual cada produto tem uma marca única.^^Custará mais para promover cada produto individual, mas pode valer a pena porque você nunca terá que se preocupar com marcas existentes sendo danificadas por produtos novos, mas de baixa qualidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T185709Z" creationid="RAFAEL" creationdate="20200815T170044Z">
+        <seg>A estratégia padrão é ~Estratégia marca única~ na qual cada produto tem uma marca única.^^Custará mais para promover cada produto individual, mas pode valer a pena porque você nunca terá que se preocupar com marcas existentes sendo danificadas por produtos novos, mas de baixa qualidade.</seg>
       </tuv>
     </tu>
     <tu>
