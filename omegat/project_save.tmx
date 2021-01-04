@@ -30867,8 +30867,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~body lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~body lotions~ would not.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T184613Z" creationid="RAFAEL" creationdate="20210104T184613Z">
-        <seg>A segunda estratégia, ~Estratégia de marca de alcance~ é semelhante à marca corporativa, mas sua cobertura é limitada a classes de produtos.^^Por exemplo, ~bolsas de couro~ e ~pastas de couro~ se enquadram na classe de produtos de ~artigos de couro~.^^Se você decidiu vender ~pastas de couro~ e ~loções para o corpo~ para acompanhar as ~bolsas de couro~ que você já vende, suas ~pastas de couro~ herdariam imediatamente a classificação da marca de suas ~bolsas de couro~ (~mesma classe de produto~), mas a ~loções corporais~ não.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T185648Z" creationid="RAFAEL" creationdate="20210104T184613Z">
+        <seg>A segunda estratégia, ~Estratégia de marca de classe~ é semelhante à marca corporativa, mas sua cobertura é limitada a classes de produtos.^^Por exemplo, ~bolsas de couro~ e ~pastas de couro~ se enquadram na classe de produtos de ~artigos de couro~.^^Se você decidiu vender ~pastas de couro~ e ~loções para o corpo~ para acompanhar as ~bolsas de couro~ que você já vende, suas ~pastas de couro~ herdariam imediatamente a classificação da marca de suas ~bolsas de couro~ (~mesma classe de produto~), mas a ~loções corporais~ não.</seg>
       </tuv>
     </tu>
     <tu>
