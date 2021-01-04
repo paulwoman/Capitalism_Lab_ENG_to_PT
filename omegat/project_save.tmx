@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213034Z" creationid="Olivier" creationdate="20210104T213034Z">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-07-07</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010757Z" creationid="Olivier" creationdate="20200802T010757Z">
@@ -7106,6 +7114,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092740Z" creationid="Olivier" creationdate="20200916T092740Z">
         <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213030Z" creationid="Olivier" creationdate="20210104T213030Z">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-02</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213042Z" creationid="Olivier" creationdate="20210104T213042Z">
+        <seg>Contest Started On=2021-01-02</seg>
       </tuv>
     </tu>
     <tu>
@@ -16627,6 +16651,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200817T074047Z" creationid="Olivier" creationdate="20200817T074047Z">
         <seg>Interface Select=Product Details Report, Bath Lotion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interface Select=Product Details Report, Body Lotion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213101Z" creationid="Olivier" creationdate="20210104T213101Z">
+        <seg>Interface Select=Product Details Report, Body Lotion</seg>
       </tuv>
     </tu>
     <tu>
