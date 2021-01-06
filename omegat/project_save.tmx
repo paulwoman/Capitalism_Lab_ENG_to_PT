@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213034Z" creationid="Olivier" creationdate="20210104T213034Z">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-07-07</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T010757Z" creationid="Olivier" creationdate="20200802T010757Z">
@@ -7106,6 +7114,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200916T092740Z" creationid="Olivier" creationdate="20200916T092740Z">
         <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213030Z" creationid="Olivier" creationdate="20210104T213030Z">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-02</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213042Z" creationid="Olivier" creationdate="20210104T213042Z">
+        <seg>Contest Started On=2021-01-02</seg>
       </tuv>
     </tu>
     <tu>
@@ -8038,6 +8062,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] and [SUBGOAL] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142128Z" creationid="RAFAEL" creationdate="20210106T142128Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​nas seções [OBJETIVO PRINCIPAL] e [SUBGOAL].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142254Z" creationid="RAFAEL" creationdate="20210106T142254Z">
+        <seg>Description=Este é um script de amostra para o Capitalism Lab, listando todas as variáveis ​​na seção [OBJETIVO PRINCIPAL].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PLAYER EXPERTISE] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142417Z" creationid="RAFAEL" creationdate="20210106T142417Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [EXPERIÊNCIA DO JOGADOR].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PRODUCTS] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143451Z" creationid="RAFAEL" creationdate="20210106T143451Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [PRODUTOS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142557Z" creationid="RAFAEL" creationdate="20210106T142557Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [REGRAS ESPECIAIS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
@@ -8082,6 +8146,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230919Z" creationid="RAFAEL" creationdate="20200830T230919Z">
         <seg>Description=Este script modifica a configuração de salvamento automático para executar um salvamento automático uma vez a cada 15 minutos em tempo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the salaries of your senior management staff to 20% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142655Z" creationid="RAFAEL" creationdate="20210106T142655Z">
+        <seg>Description=Este script modifica os salários de sua equipe de gerenciamento sênior para 20% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the salaries of your senior management staff to 50% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142721Z" creationid="RAFAEL" creationdate="20210106T142721Z">
+        <seg>Description=Este script modifica os salários de sua equipe de gerenciamento sênior para 50% de seus valores originais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12026,6 +12106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000330Z" creationid="RAFAEL" creationdate="20200901T000330Z">
         <seg>Goal Description=Seu objetivo final neste jogo é atingir uma receita corporativa de $ 1 bilhão e um lucro anual de $ 100 milhões, e permitir que o desempenho financeiro de sua empresa aumente o preço das ações da empresa para mais de $ 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed to achieve your goal within the time limit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142325Z" creationid="RAFAEL" creationdate="20210106T142325Z">
+        <seg>Goal Failed Text=Desculpe, você não conseguiu atingir sua meta dentro do limite de tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15975,6 +16063,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the "Wallpaper" folder under the game folder, you may set custom wallpaper images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143123Z" creationid="RAFAEL" creationdate="20210106T143123Z">
+        <seg>Na pasta "Wallpaper" dentro da pasta do jogo, você pode definir imagens de papel de parede personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the game, each player is given an ability to create one IP from scratch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024125Z" creationid="RAFAEL" creationdate="20200805T024051Z">
@@ -16627,6 +16723,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200817T074047Z" creationid="Olivier" creationdate="20200817T074047Z">
         <seg>Interface Select=Product Details Report, Bath Lotion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interface Select=Product Details Report, Body Lotion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210104T213101Z" creationid="Olivier" creationdate="20210104T213101Z">
+        <seg>Interface Select=Product Details Report, Body Lotion</seg>
       </tuv>
     </tu>
     <tu>
@@ -19923,6 +20027,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T164440Z" creationid="RAFAEL" creationdate="20200815T164440Z">
         <seg>Agora vamos verificar o ~Índice de Necessidade~ para ~Loção de Banho~.^^Clique novamente no botão ~Procurar Produto~ e desta vez selecione ~Loção de Banho~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Body Lotion~.^^Click the ~Search Product~ button again and this time select ~Body Lotion~.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T184056Z" creationid="RAFAEL" creationdate="20210104T184056Z">
+        <seg>Agora confira o ~Índice de Necessidade~ para ~Loção Corporal~.^^Clique no botão ~Procurar Produto~ e desta vez selecione ~Loção Corporal~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29963,8 +30075,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T170044Z" creationid="RAFAEL" creationdate="20200815T170044Z">
-        <seg>A estratégia padrão é ~Estratégia única de marca~ na qual cada produto tem uma marca única.^^Custará mais para promover cada produto individual, mas pode valer a pena porque você nunca terá que se preocupar com marcas existentes sendo danificadas por produtos novos, mas de baixa qualidade.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T185709Z" creationid="RAFAEL" creationdate="20200815T170044Z">
+        <seg>A estratégia padrão é ~Estratégia marca única~ na qual cada produto tem uma marca única.^^Custará mais para promover cada produto individual, mas pode valer a pena porque você nunca terá que se preocupar com marcas existentes sendo danificadas por produtos novos, mas de baixa qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30857,6 +30969,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~body lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~body lotions~ would not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T185648Z" creationid="RAFAEL" creationdate="20210104T184613Z">
+        <seg>A segunda estratégia, ~Estratégia de marca de classe~ é semelhante à marca corporativa, mas sua cobertura é limitada a classes de produtos.^^Por exemplo, ~bolsas de couro~ e ~pastas de couro~ se enquadram na classe de produtos de ~artigos de couro~.^^Se você decidiu vender ~pastas de couro~ e ~loções para o corpo~ para acompanhar as ~bolsas de couro~ que você já vende, suas ~pastas de couro~ herdariam imediatamente a classificação da marca de suas ~bolsas de couro~ (~mesma classe de produto~), mas a ~loções corporais~ não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T014345Z" creationid="RAFAEL" creationdate="20200812T014345Z">
@@ -31270,6 +31390,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T190243Z" creationid="RAFAEL" creationdate="20200815T164654Z">
         <seg>O ~Índice de Necessidade~ de ~Loção de Banho~ é 80% e significa que é um item de necessidade diária.^^Mesmo se a economia estiver em recessão, as pessoas ainda comprarão loções de banho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Necessity Index~ of ~Body Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy body lotions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T184305Z" creationid="RAFAEL" creationdate="20210104T184305Z">
+        <seg>O ~Índice de Necessidade~ de ~Loção Corporal~ é 80% isso significa que é um item de necessidade diária.^^Mesmo que a economia esteja em recessão, as pessoas ainda comprarão loções corporais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32530,6 +32658,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title= 20% salaries for your senior management staff</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142643Z" creationid="RAFAEL" creationdate="20210106T142643Z">
+        <seg>Title=20% dos salários para sua equipe de gerenciamento sênior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
@@ -32550,6 +32686,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192246Z" creationid="RAFAEL" creationdate="20200927T192246Z">
         <seg>Title=200% de efeito de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=50% salaries for your senior management staff</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142706Z" creationid="RAFAEL" creationdate="20210106T142706Z">
+        <seg>Title=50% dos salários para sua equipe de gerenciamento sênior</seg>
       </tuv>
     </tu>
     <tu>
@@ -32750,6 +32894,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231013Z" creationid="RAFAEL" creationdate="20200830T231013Z">
         <seg>Title=Script de amostra - ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142240Z" creationid="RAFAEL" creationdate="20210106T142240Z">
+        <seg>Title=Script de amostra - Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal and Subgoals</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142111Z" creationid="RAFAEL" creationdate="20210106T142111Z">
+        <seg>Title=Script de amostra - Objetivo principal e submetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Player Expertise</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142455Z" creationid="RAFAEL" creationdate="20210106T142455Z">
+        <seg>Title=Script de amostra - Experiência do jogador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Products</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143438Z" creationid="RAFAEL" creationdate="20210106T143438Z">
+        <seg>Title=Script de amostra - produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Special Rules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142543Z" creationid="RAFAEL" creationdate="20210106T142543Z">
+        <seg>Title=Script de amostra - Regras especiais</seg>
       </tuv>
     </tu>
     <tu>
@@ -34378,6 +34562,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>User-defined wallpaper images for the main menu screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143050Z" creationid="RAFAEL" creationdate="20210106T143050Z">
+        <seg>Imagens de papel de parede definidas pelo usuário para a tela do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the MOD folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013412Z" creationid="RAFAEL" creationdate="20200805T013412Z">
@@ -35854,6 +36046,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
         <seg>Você alcançou seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your main goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142310Z" creationid="RAFAEL" creationdate="20210106T142310Z">
+        <seg>Você alcançou seu objetivo principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40212,8 +40412,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0883]&lt;0095&gt;Brand Rating|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200828T012246Z" creationid="Olivier" creationdate="20200728T085152Z">
-        <seg>[0883]&lt;0095&gt;Pontos marca|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210104T191029Z" creationid="Olivier" creationdate="20200728T085152Z">
+        <seg>[0883]&lt;0095&gt;Pont. d'marca|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55254,6 +55454,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025341Z" creationid="RAFAEL" creationdate="20200805T025341Z">
         <seg>Aumentos de preços para vendas on-line </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>for different screen modes of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143133Z" creationid="RAFAEL" creationdate="20210106T143133Z">
+        <seg>para diferentes modos de tela do jogo.</seg>
       </tuv>
     </tu>
     <tu>
