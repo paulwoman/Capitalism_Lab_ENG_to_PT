@@ -8070,6 +8070,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142254Z" creationid="RAFAEL" creationdate="20210106T142254Z">
+        <seg>Description=Este é um script de amostra para o Capitalism Lab, listando todas as variáveis ​​na seção [OBJETIVO PRINCIPAL].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PLAYER EXPERTISE] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142417Z" creationid="RAFAEL" creationdate="20210106T142417Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [EXPERIÊNCIA DO JOGADOR].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
@@ -12058,6 +12074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200901T000330Z" creationid="RAFAEL" creationdate="20200901T000330Z">
         <seg>Goal Description=Seu objetivo final neste jogo é atingir uma receita corporativa de $ 1 bilhão e um lucro anual de $ 100 milhões, e permitir que o desempenho financeiro de sua empresa aumente o preço das ações da empresa para mais de $ 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed to achieve your goal within the time limit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142325Z" creationid="RAFAEL" creationdate="20210106T142325Z">
+        <seg>Goal Failed Text=Desculpe, você não conseguiu atingir sua meta dentro do limite de tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32818,10 +32842,26 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142240Z" creationid="RAFAEL" creationdate="20210106T142240Z">
+        <seg>Title=Script de amostra - Objetivo principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Main Goal and Subgoals</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142111Z" creationid="RAFAEL" creationdate="20210106T142111Z">
         <seg>Title=Script de amostra - Objetivo principal e submetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Player Expertise</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142455Z" creationid="RAFAEL" creationdate="20210106T142455Z">
+        <seg>Title=Script de amostra - Experiência do jogador</seg>
       </tuv>
     </tu>
     <tu>
@@ -35926,6 +35966,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T214239Z" creationid="RAFAEL" creationdate="20200826T214239Z">
         <seg>Você alcançou seu primeiro objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your main goal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142310Z" creationid="RAFAEL" creationdate="20210106T142310Z">
+        <seg>Você alcançou seu objetivo principal.</seg>
       </tuv>
     </tu>
     <tu>
