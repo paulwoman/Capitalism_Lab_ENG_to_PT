@@ -16055,6 +16055,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the "Wallpaper" folder under the game folder, you may set custom wallpaper images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143123Z" creationid="RAFAEL" creationdate="20210106T143123Z">
+        <seg>Na pasta "Wallpaper" dentro da pasta do jogo, você pode definir imagens de papel de parede personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the game, each player is given an ability to create one IP from scratch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T024125Z" creationid="RAFAEL" creationdate="20200805T024051Z">
@@ -55430,6 +55438,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025341Z" creationid="RAFAEL" creationdate="20200805T025341Z">
         <seg>Aumentos de preços para vendas on-line </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>for different screen modes of the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143133Z" creationid="RAFAEL" creationdate="20210106T143133Z">
+        <seg>para diferentes modos de tela do jogo.</seg>
       </tuv>
     </tu>
     <tu>
