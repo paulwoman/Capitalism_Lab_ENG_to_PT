@@ -8086,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142557Z" creationid="RAFAEL" creationdate="20210106T142557Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [REGRAS ESPECIAIS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
@@ -8130,6 +8138,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230919Z" creationid="RAFAEL" creationdate="20200830T230919Z">
         <seg>Description=Este script modifica a configuração de salvamento automático para executar um salvamento automático uma vez a cada 15 minutos em tempo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the salaries of your senior management staff to 20% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142655Z" creationid="RAFAEL" creationdate="20210106T142655Z">
+        <seg>Description=Este script modifica os salários de sua equipe de gerenciamento sênior para 20% de seus valores originais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the salaries of your senior management staff to 50% of their original values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142721Z" creationid="RAFAEL" creationdate="20210106T142721Z">
+        <seg>Description=Este script modifica os salários de sua equipe de gerenciamento sênior para 50% de seus valores originais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32618,6 +32642,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title= 20% salaries for your senior management staff</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142643Z" creationid="RAFAEL" creationdate="20210106T142643Z">
+        <seg>Title=20% dos salários para sua equipe de gerenciamento sênior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T200036Z" creationid="Olivier" creationdate="20200730T200036Z">
@@ -32638,6 +32670,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200927T192246Z" creationid="RAFAEL" creationdate="20200927T192246Z">
         <seg>Title=200% de efeito de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=50% salaries for your senior management staff</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142706Z" creationid="RAFAEL" creationdate="20210106T142706Z">
+        <seg>Title=50% dos salários para sua equipe de gerenciamento sênior</seg>
       </tuv>
     </tu>
     <tu>
@@ -32862,6 +32902,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142455Z" creationid="RAFAEL" creationdate="20210106T142455Z">
         <seg>Title=Script de amostra - Experiência do jogador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Special Rules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142543Z" creationid="RAFAEL" creationdate="20210106T142543Z">
+        <seg>Title=Script de amostra - Regras especiais</seg>
       </tuv>
     </tu>
     <tu>
