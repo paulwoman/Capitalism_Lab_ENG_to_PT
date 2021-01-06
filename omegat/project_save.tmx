@@ -34538,6 +34538,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>User-defined wallpaper images for the main menu screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143050Z" creationid="RAFAEL" creationdate="20210106T143050Z">
+        <seg>Imagens de papel de parede definidas pelo usuário para a tela do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the MOD folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013412Z" creationid="RAFAEL" creationdate="20200805T013412Z">
