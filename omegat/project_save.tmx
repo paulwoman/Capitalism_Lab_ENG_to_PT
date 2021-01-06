@@ -8062,6 +8062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] and [SUBGOAL] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142128Z" creationid="RAFAEL" creationdate="20210106T142128Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​nas seções [OBJETIVO PRINCIPAL] e [SUBGOAL].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230557Z" creationid="RAFAEL" creationdate="20200830T230557Z">
@@ -32806,6 +32814,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T231013Z" creationid="RAFAEL" creationdate="20200830T231013Z">
         <seg>Title=Script de amostra - ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal and Subgoals</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142111Z" creationid="RAFAEL" creationdate="20210106T142111Z">
+        <seg>Title=Script de amostra - Objetivo principal e submetas</seg>
       </tuv>
     </tu>
     <tu>
