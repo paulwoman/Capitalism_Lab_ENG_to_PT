@@ -8086,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PRODUCTS] section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143451Z" creationid="RAFAEL" creationdate="20210106T143451Z">
+        <seg>Description=Este é um exemplo de script para o Capitalism Lab, listando todas as variáveis ​​na seção [PRODUTOS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142557Z" creationid="RAFAEL" creationdate="20210106T142557Z">
@@ -32910,6 +32918,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T142455Z" creationid="RAFAEL" creationdate="20210106T142455Z">
         <seg>Title=Script de amostra - Experiência do jogador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Products</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210106T143438Z" creationid="RAFAEL" creationdate="20210106T143438Z">
+        <seg>Title=Script de amostra - produtos</seg>
       </tuv>
     </tu>
     <tu>
