@@ -19039,14 +19039,6 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Manufacturing</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T153902Z" creationid="RAFAEL" creationdate="20200815T153902Z">
-        <seg>Manufatura</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -25579,14 +25571,6 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T025638Z" creationid="RAFAEL" creationdate="20200806T025638Z">
         <seg>Retomar empréstimos bancários</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Retail</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011323Z" creationid="Olivier" creationdate="20200802T011323Z">
-        <seg>Varejo</seg>
       </tuv>
     </tu>
     <tu>
