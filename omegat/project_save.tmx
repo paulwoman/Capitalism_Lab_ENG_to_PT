@@ -29801,6 +29801,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not grant a new loan.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002739Z" creationid="RAFAEL" creationdate="20210311T002739Z">
+        <seg>O banco não concede novo empréstimo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
@@ -54798,6 +54806,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002724Z" creationid="RAFAEL" creationdate="20210311T002724Z">
         <seg>[3352]&lt;PCRE&gt;Desculpe, a classificação de crédito da empresa é baixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3353]&lt;NPBD&gt;Cannot purchase the bond|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002759Z" creationid="RAFAEL" creationdate="20210311T002759Z">
+        <seg>[3353]&lt;NPBD&gt;Não é possível comprar o título|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3354]&lt;NCBS&gt;Sorry, you are not allowed to change your brand strategy in this game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002945Z" creationid="RAFAEL" creationdate="20210311T002945Z">
+        <seg>[3354]&lt;NCBS&gt;Desculpe, você não pode alterar a estratégia de sua marca neste jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3355]&lt;NSBB&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003217Z" creationid="RAFAEL" creationdate="20210311T003217Z">
+        <seg>[3355]&lt;NSBB&gt;Você não pode executar esta transação de recompra de ações, pois o número total de ações em circulação de empresa pública não deve ser inferior a 1.000.000 de ações.|</seg>
       </tuv>
     </tu>
     <tu>
