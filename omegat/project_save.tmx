@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annual Rent Per Square Foot</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001334Z" creationid="RAFAEL" creationdate="20210311T001334Z">
+        <seg>Aluguel anual por m² quadrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual limit on immigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003525Z" creationid="RAFAEL" creationdate="20200805T003525Z">
@@ -35006,6 +35014,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T235819Z" creationid="RAFAEL" creationdate="20200806T235819Z">
         <seg>Quando uma empresa utiliza uma única marca guarda-chuva para todos os seus produtos, os produtos recém-lançados serão beneficiados pela marca corporativa existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When all the workers in a functional unit have become experienced, the unit level will increase by one (training will speed this up).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T000957Z" creationid="RAFAEL" creationdate="20210311T000957Z">
+        <seg>Quando todos os trabalhadores em uma unidade funcional se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isso).</seg>
       </tuv>
     </tu>
     <tu>
