@@ -54892,8 +54892,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3363]&lt;LAY2&gt;Each software product in the factory is associated with a software development project in a software company and therefore cannot be saved as a template.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004118Z" creationid="RAFAEL" creationdate="20210311T004118Z">
-        <seg>[3363]&lt;LAY2&gt;Cada produto de software na fábrica está associado a um projeto de desenvolvimento de software em uma empresa de software e, portanto, não pode ser salvo como um modelo.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004457Z" creationid="RAFAEL" creationdate="20210311T004118Z">
+        <seg>[3363]&lt;LAY2&gt;Cada produto de software na fábrica está associado a um projeto de desenvolvimento de software em uma empresa, portanto, não pode salvar como um modelo.|</seg>
       </tuv>
     </tu>
     <tu>
