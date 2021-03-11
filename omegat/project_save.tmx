@@ -31562,6 +31562,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005502Z" creationid="RAFAEL" creationdate="20210311T005502Z">
+        <seg>Existem 12 membros da equipe em cada unidade de P&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are local competitors in each city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011934Z" creationid="RAFAEL" creationdate="20200806T011934Z">
@@ -32646,6 +32654,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144855Z" creationid="RAFAEL" creationdate="20200815T144855Z">
         <seg>Esta ~Unidade de fabricação~ produzirá agora o ~Taco de Golfe~.^^Veja como utilizamos uma ~Unidade de compra~ existente fornecendo ~Madeira~ e em conjunto com uma nova unidade de compra de ~Aço~, para fabricar um produto diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who have been trained are denoted by stars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005515Z" creationid="RAFAEL" creationdate="20210311T005515Z">
+        <seg>Aqueles que foram treinados são indicados por estrelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35302,6 +35318,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T215228Z" creationid="RAFAEL" creationdate="20200826T215228Z">
         <seg>Quando toda a equipe de uma unidade funcional for treinada (todos em ~macacão azul~), o ~nível de experiência~ da unidade aumentará em um ponto e a cor geral da equipe voltará ao vermelho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained, the unit's ~experience level~ will increase by one point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005611Z" creationid="RAFAEL" creationdate="20210311T005611Z">
+        <seg>Quando toda a equipe de uma unid. funcional tiver sido treinada, o ~nível de experiência~ da unid. aumentará em um ponto.</seg>
       </tuv>
     </tu>
     <tu>
