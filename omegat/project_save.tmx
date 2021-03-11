@@ -3782,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But no [Tech] is defined in this game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004716Z" creationid="RAFAEL" creationdate="20210311T004716Z">
+        <seg>Mas nenhuma [tecnologia] é definida neste jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200305Z" creationid="RAFAEL" creationdate="20200822T200305Z">
@@ -22987,6 +22995,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210123Z" creationid="RAFAEL" creationdate="20200802T210123Z">
         <seg>Filtro da Empresa do jogador (Tecla de atalho: F8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please set up [R&amp;D Units] instead.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004751Z" creationid="RAFAEL" creationdate="20210311T004751Z">
+        <seg>Em vez disso, configure [Unid. de P&amp;D].|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54894,6 +54910,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004457Z" creationid="RAFAEL" creationdate="20210311T004118Z">
         <seg>[3363]&lt;LAY2&gt;Cada produto de software na fábrica está associado a um projeto de desenvolvimento de software em uma empresa, portanto, não pode salvar como um modelo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3364]&lt;LAYO&gt;Sorry, you cannot use this layout plan on this firm because the plan contains [%1s] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004621Z" creationid="RAFAEL" creationdate="20210311T004621Z">
+        <seg>[3364]&lt;LAYO&gt;Você não pode usar este plano de layout nesta empresa porque o plano contém [%1s] que está fora do Escopo de Produção da empresa subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3365]&lt;LAT1&gt;Sorry, You cannot use this layout plan because it contains [Tech R&amp;D] units.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004649Z" creationid="RAFAEL" creationdate="20210311T004649Z">
+        <seg>[3365]&lt;LAT1&gt;Você não pode usar este plano de layout porque contém unidades [Tech R&amp;D].</seg>
       </tuv>
     </tu>
     <tu>
