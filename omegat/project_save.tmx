@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001518Z" creationid="RAFAEL" creationdate="20210311T001518Z">
+        <seg>Como tal, o #Aluguel anual por metro quadrado# não reflete a alteração que você fez no aluguel imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you are the CEO, that would be your office.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T200817Z" creationid="RAFAEL" creationdate="20200822T200817Z">
@@ -35398,6 +35406,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232939Z" creationid="RAFAEL" creationdate="20200830T232939Z">
         <seg>Quando você está vendo a #janela de detalhes empresa# ou o#Centro de Informações#, o jogo #não# precisa atualizar os gráficos da cidade abaixo da janela de informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001435Z" creationid="RAFAEL" creationdate="20210311T001435Z">
+        <seg>Quando você altera o aluguel, o novo aluguel afeta apenas os novos inquilinos e os inquilinos que renovam seus aluguéis.</seg>
       </tuv>
     </tu>
     <tu>
