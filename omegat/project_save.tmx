@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annual Rent Per Square Foot</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001334Z" creationid="RAFAEL" creationdate="20210311T001334Z">
+        <seg>Aluguel anual por m² quadrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual limit on immigrants</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T003525Z" creationid="RAFAEL" creationdate="20200805T003525Z">
@@ -2498,6 +2506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T000827Z" creationid="RAFAEL" creationdate="20200808T000827Z">
         <seg>Como tal, terá a inflação artificialmente reprimida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001518Z" creationid="RAFAEL" creationdate="20210311T001518Z">
+        <seg>Como tal, o #Aluguel anual por metro quadrado# não reflete a alteração que você fez no aluguel imediatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T230338Z" creationid="RAFAEL" creationdate="20200830T230338Z">
         <seg>Mas no ambiente de negócios altamente competitivo de hoje, os executivos realmente bons são recursos escassos, muito procurados por inúmeras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But no [Tech] is defined in this game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004716Z" creationid="RAFAEL" creationdate="20210311T004716Z">
+        <seg>Mas nenhuma [tecnologia] é definida neste jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +9474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230131Z" creationid="RAFAEL" creationdate="20200802T230131Z">
         <seg>Nível de experiência da unidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experienced workers are denoted by stars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T000912Z" creationid="RAFAEL" creationdate="20210311T000912Z">
+        <seg>Trabalhadores experientes são indicados por estrelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,6 +19071,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005242Z" creationid="RAFAEL" creationdate="20210311T005242Z">
+        <seg>Manufatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
@@ -22963,6 +23003,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T210123Z" creationid="RAFAEL" creationdate="20200802T210123Z">
         <seg>Filtro da Empresa do jogador (Tecla de atalho: F8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please set up [R&amp;D Units] instead.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004751Z" creationid="RAFAEL" creationdate="20210311T004751Z">
+        <seg>Em vez disso, configure [Unid. de P&amp;D].|</seg>
       </tuv>
     </tu>
     <tu>
@@ -29777,6 +29825,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not grant a new loan.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002739Z" creationid="RAFAEL" creationdate="20210311T002739Z">
+        <seg>O banco não concede novo empréstimo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20200802T192542Z" creationid="User" creationdate="20200802T192542Z">
@@ -31506,6 +31562,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005502Z" creationid="RAFAEL" creationdate="20210311T005502Z">
+        <seg>Existem 12 membros da equipe em cada unidade de P&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are local competitors in each city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T011934Z" creationid="RAFAEL" creationdate="20200806T011934Z">
@@ -32590,6 +32654,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T144855Z" creationid="RAFAEL" creationdate="20200815T144855Z">
         <seg>Esta ~Unidade de fabricação~ produzirá agora o ~Taco de Golfe~.^^Veja como utilizamos uma ~Unidade de compra~ existente fornecendo ~Madeira~ e em conjunto com uma nova unidade de compra de ~Aço~, para fabricar um produto diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who have been trained are denoted by stars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005515Z" creationid="RAFAEL" creationdate="20210311T005515Z">
+        <seg>Aqueles que foram treinados são indicados por estrelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,6 +35074,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When all the workers in a functional unit have become experienced, the unit level will increase by one (training will speed this up).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T000957Z" creationid="RAFAEL" creationdate="20210311T000957Z">
+        <seg>Quando todos os trabalhadores em uma unidade funcional se tornarem experientes, o nível da unidade aumentará em um (o treinamento irá acelerar isso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T230417Z" creationid="RAFAEL" creationdate="20200802T230417Z">
@@ -35242,6 +35322,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained, the unit's ~experience level~ will increase by one point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005611Z" creationid="RAFAEL" creationdate="20210311T005611Z">
+        <seg>Quando toda a equipe de uma unid. funcional tiver sido treinada, o ~nível de experiência~ da unid. aumentará em um ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the interest rate is high, the money supply is also tight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T025113Z" creationid="RAFAEL" creationdate="20200804T025113Z">
@@ -35374,6 +35462,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T232939Z" creationid="RAFAEL" creationdate="20200830T232939Z">
         <seg>Quando você está vendo a #janela de detalhes empresa# ou o#Centro de Informações#, o jogo #não# precisa atualizar os gráficos da cidade abaixo da janela de informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001435Z" creationid="RAFAEL" creationdate="20210311T001435Z">
+        <seg>Quando você altera o aluguel, o novo aluguel afeta apenas os novos inquilinos e os inquilinos que renovam seus aluguéis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35934,6 +36030,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004008Z" creationid="RAFAEL" creationdate="20200826T004008Z">
         <seg>Você pode visualizar o "Dinheiro do investidor público disponível para sua empresa" exibido na parte superior da tela de visualização da cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot add more.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002504Z" creationid="RAFAEL" creationdate="20210311T002504Z">
+        <seg>Você não pode adic. mais.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54662,6 +54766,238 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T014556Z" creationid="RAFAEL" creationdate="20201217T014556Z">
         <seg>[3341]&lt;SNAM&gt;Para localizar um item, digite a primeira letra de seu nome.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3342]&lt;NTEC&gt;Sorry, no technologies are available for research at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001944Z" creationid="RAFAEL" creationdate="20210311T001824Z">
+        <seg>[3342]&lt;NTEC&gt;Desculpe, não há tecnologia disponível para pesquisa no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002023Z" creationid="RAFAEL" creationdate="20210311T002023Z">
+        <seg>[3343]&lt;DIS1&gt;Desculpe, você não pode desabilitar este produto, pois ele é a entrada para outros produtos que estão habilitados atualmente na lista de Escopo de Produção.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002124Z" creationid="RAFAEL" creationdate="20210311T002124Z">
+        <seg>[3344]&lt;DIS2&gt;usa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002215Z" creationid="RAFAEL" creationdate="20210311T002215Z">
+        <seg>[3345]&lt;DLCN&gt;Desculpe, este jogo requer %1s, mas você ainda não tem este DLC.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002236Z" creationid="RAFAEL" creationdate="20210311T002236Z">
+        <seg>[3346]&lt;DMOD&gt;Desculpe, o MOD atual não é compatível com o DLC Digital Age.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002259Z" creationid="RAFAEL" creationdate="20210311T002259Z">
+        <seg>[3347]&lt;NCHA&gt;Desculpe, atualmente não há jogos de desafio disponível.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002318Z" creationid="RAFAEL" creationdate="20210311T002318Z">
+        <seg>[3348]&lt;MEOS&gt;Desculpe, é proibido pela Lei Antitruste fundir duas empresas que tenham um sistema operacional.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3349]&lt;NRHD&gt;Sorry, you cannot remove the hardware already supported by the current version of the OS.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002357Z" creationid="RAFAEL" creationdate="20210311T002357Z">
+        <seg>[3349]&lt;NRHD&gt;Desculpe, você não pode remover o hardware já suportado pela versão atual do SO.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3350]&lt;HDMR&gt;Sorry, the maximum number of hardware types supported by an OS has been reached.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002432Z" creationid="RAFAEL" creationdate="20210311T002432Z">
+        <seg>[3350]&lt;HDMR&gt;Desculpe, o número máximo de tipos de hardware suportados por um SO foi atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3351]&lt;NLOA&gt;Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002648Z" creationid="RAFAEL" creationdate="20210311T002648Z">
+        <seg>[3351]&lt;NLOA&gt;Lamento, no momento não pode pedir empréstimo porque ainda não foi criado nenhum banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3352]&lt;PCRE&gt;Sorry, the credit rating of the company is too poor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002724Z" creationid="RAFAEL" creationdate="20210311T002724Z">
+        <seg>[3352]&lt;PCRE&gt;Desculpe, a classificação de crédito da empresa é baixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3353]&lt;NPBD&gt;Cannot purchase the bond|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002759Z" creationid="RAFAEL" creationdate="20210311T002759Z">
+        <seg>[3353]&lt;NPBD&gt;Não é possível comprar o título|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3354]&lt;NCBS&gt;Sorry, you are not allowed to change your brand strategy in this game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002945Z" creationid="RAFAEL" creationdate="20210311T002945Z">
+        <seg>[3354]&lt;NCBS&gt;Desculpe, você não pode alterar a estratégia de sua marca neste jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3355]&lt;NSBB&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003217Z" creationid="RAFAEL" creationdate="20210311T003217Z">
+        <seg>[3355]&lt;NSBB&gt;Você não pode executar esta transação de recompra de ações, pois o número total de ações em circulação de empresa pública não deve ser inferior a 1.000.000 de ações.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3356]&lt;ICTL&gt;Sorry, you cannot select this as your current tech level is lower than the required tech level.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003517Z" creationid="RAFAEL" creationdate="20210311T003517Z">
+        <seg>[3356]&lt;ICTL&gt;Desculpe, seu nível de tecnologia atual é inferior ao nível de tecnologia necessário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3357]&lt;ICTN&gt;Sorry, you cannot select this as it is not known to you yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003650Z" creationid="RAFAEL" creationdate="20210311T003650Z">
+        <seg>[3357]&lt;ICTN&gt;Desculpe, isto ainda não é conhecido por você.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3358]&lt;ICOC&gt;Sorry, you cannot select this as it is owned by another company already.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003714Z" creationid="RAFAEL" creationdate="20210311T003714Z">
+        <seg>[3358]&lt;ICOC&gt;Você não pode selecionar isto porque já pertence a outra empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3359]&lt;DEVN&gt;Sorry, you have not developed any software yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003755Z" creationid="RAFAEL" creationdate="20210311T003755Z">
+        <seg>[3359]&lt;DEVN&gt;Você ainda não desenvolveu nenhum software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3360]&lt;NOSD&gt;Sorry, nobody has developed an operation system yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003829Z" creationid="RAFAEL" creationdate="20210311T003829Z">
+        <seg>[3360]&lt;NOSD&gt;Ninguém desenvolveu um sistema operacional ainda.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3361]&lt;NOFI&gt;Sorry, the company no longer owns any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003858Z" creationid="RAFAEL" creationdate="20210311T003858Z">
+        <seg>[3361]&lt;NOFI&gt;A empresa não possui mais nenhuma empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3362]&lt;LAY1&gt;Sorry, this factory layout plan cannot be saved because it contains a software product.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003928Z" creationid="RAFAEL" creationdate="20210311T003928Z">
+        <seg>[3362]&lt;LAY1&gt;Este plano de layout de fábrica não pode ser salvo porque contém um produto de software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3363]&lt;LAY2&gt;Each software product in the factory is associated with a software development project in a software company and therefore cannot be saved as a template.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004457Z" creationid="RAFAEL" creationdate="20210311T004118Z">
+        <seg>[3363]&lt;LAY2&gt;Cada produto de software na fábrica está associado a um projeto de desenvolvimento de software em uma empresa, portanto, não pode salvar como um modelo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3364]&lt;LAYO&gt;Sorry, you cannot use this layout plan on this firm because the plan contains [%1s] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004621Z" creationid="RAFAEL" creationdate="20210311T004621Z">
+        <seg>[3364]&lt;LAYO&gt;Você não pode usar este plano de layout nesta empresa porque o plano contém [%1s] que está fora do Escopo de Produção da empresa subsidiária.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3365]&lt;LAT1&gt;Sorry, You cannot use this layout plan because it contains [Tech R&amp;D] units.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004649Z" creationid="RAFAEL" creationdate="20210311T004649Z">
+        <seg>[3365]&lt;LAT1&gt;Você não pode usar este plano de layout porque contém unidades [Tech R&amp;D].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3366]&lt;LAT2&gt;Sorry, you cannot use this layout plan because it contains [Tech R&amp;D] units, which can only be used when you have enabled either the Subisidary DLC or the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004852Z" creationid="RAFAEL" creationdate="20210311T004852Z">
+        <seg>[3366]&lt;LAT2&gt;Desculpe, você não pode usar este plano de layout, ele contém unidades [Tech R&amp;D], que só podem ser usadas quando você habilitou o DLC Subisidary ou DLC Digital Age.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3367]&lt;RESK&gt;Sorry, there are no new product invention plans that fit the researcher's skill at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004938Z" creationid="RAFAEL" creationdate="20210311T004938Z">
+        <seg>[3367]&lt;RESK&gt;Não há planos de invenção de novos produtos que se encaixem na habilidade do pesquisador no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3368]&lt;CHE1&gt;You have enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004949Z" creationid="RAFAEL" creationdate="20210311T004949Z">
+        <seg>[3368]&lt;CHE1&gt;Você habilitou o modo de trapaça.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3369]&lt;CHE2&gt;Sorry, cheat mode cannot be enabled in a Challenge game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005031Z" creationid="RAFAEL" creationdate="20210311T005031Z">
+        <seg>[3369]&lt;CHE2&gt;Modo de trapaça não pode ser habilitado em jogo de desafio.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3370]&lt;FISP&gt;Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005115Z" creationid="RAFAEL" creationdate="20210311T005115Z">
+        <seg>[3370]&lt;FISP&gt;Desculpe, não pode alterar a velocidade do jogo atual, pois ela é fixada por um script de jogo.|</seg>
       </tuv>
     </tu>
     <tu>
