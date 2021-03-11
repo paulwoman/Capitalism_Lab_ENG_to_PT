@@ -54708,8 +54708,24 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3342]&lt;NTEC&gt;Sorry, no technologies are available for research at the moment.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001824Z" creationid="RAFAEL" creationdate="20210311T001824Z">
-        <seg>[3342]&lt;NTEC&gt;Desculpe, nenhuma tecnologia está disponível para pesquisa no momento.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001944Z" creationid="RAFAEL" creationdate="20210311T001824Z">
+        <seg>[3342]&lt;NTEC&gt;Desculpe, não há tecnologia disponível para pesquisa no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002023Z" creationid="RAFAEL" creationdate="20210311T002023Z">
+        <seg>[3343]&lt;DIS1&gt;Desculpe, você não pode desabilitar este produto, pois ele é a entrada para outros produtos que estão habilitados atualmente na lista de Escopo de Produção.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002124Z" creationid="RAFAEL" creationdate="20210311T002124Z">
+        <seg>[3344]&lt;DIS2&gt;usa|</seg>
       </tuv>
     </tu>
     <tu>
