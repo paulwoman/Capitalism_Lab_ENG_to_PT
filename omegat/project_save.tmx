@@ -35978,6 +35978,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot add more.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002504Z" creationid="RAFAEL" creationdate="20210311T002504Z">
+        <seg>Você não pode adic. mais.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot build any more new ones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T025222Z" creationid="RAFAEL" creationdate="20200805T025222Z">
@@ -54774,6 +54782,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002432Z" creationid="RAFAEL" creationdate="20210311T002432Z">
         <seg>[3350]&lt;HDMR&gt;Desculpe, o número máximo de tipos de hardware suportados por um SO foi atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3351]&lt;NLOA&gt;Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002648Z" creationid="RAFAEL" creationdate="20210311T002648Z">
+        <seg>[3351]&lt;NLOA&gt;Lamento, no momento não pode pedir empréstimo porque ainda não foi criado nenhum banco.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3352]&lt;PCRE&gt;Sorry, the credit rating of the company is too poor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002724Z" creationid="RAFAEL" creationdate="20210311T002724Z">
+        <seg>[3352]&lt;PCRE&gt;Desculpe, a classificação de crédito da empresa é baixa.</seg>
       </tuv>
     </tu>
     <tu>
