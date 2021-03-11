@@ -54930,6 +54930,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3366]&lt;LAT2&gt;Sorry, you cannot use this layout plan because it contains [Tech R&amp;D] units, which can only be used when you have enabled either the Subisidary DLC or the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004852Z" creationid="RAFAEL" creationdate="20210311T004852Z">
+        <seg>[3366]&lt;LAT2&gt;Desculpe, você não pode usar este plano de layout, ele contém unidades [Tech R&amp;D], que só podem ser usadas quando você habilitou o DLC Subisidary ou DLC Digital Age.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3367]&lt;RESK&gt;Sorry, there are no new product invention plans that fit the researcher's skill at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004938Z" creationid="RAFAEL" creationdate="20210311T004938Z">
+        <seg>[3367]&lt;RESK&gt;Não há planos de invenção de novos produtos que se encaixem na habilidade do pesquisador no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3368]&lt;CHE1&gt;You have enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004949Z" creationid="RAFAEL" creationdate="20210311T004949Z">
+        <seg>[3368]&lt;CHE1&gt;Você habilitou o modo de trapaça.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3369]&lt;CHE2&gt;Sorry, cheat mode cannot be enabled in a Challenge game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005031Z" creationid="RAFAEL" creationdate="20210311T005031Z">
+        <seg>[3369]&lt;CHE2&gt;Modo de trapaça não pode ser habilitado em jogo de desafio.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3370]&lt;FISP&gt;Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005115Z" creationid="RAFAEL" creationdate="20210311T005115Z">
+        <seg>[3370]&lt;FISP&gt;Desculpe, não pode alterar a velocidade do jogo atual, pois ela é fixada por um script de jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
