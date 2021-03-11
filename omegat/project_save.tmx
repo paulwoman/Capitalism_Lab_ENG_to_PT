@@ -54834,6 +54834,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3356]&lt;ICTL&gt;Sorry, you cannot select this as your current tech level is lower than the required tech level.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003517Z" creationid="RAFAEL" creationdate="20210311T003517Z">
+        <seg>[3356]&lt;ICTL&gt;Desculpe, seu nível de tecnologia atual é inferior ao nível de tecnologia necessário.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
