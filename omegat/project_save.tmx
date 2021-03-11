@@ -54842,6 +54842,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3357]&lt;ICTN&gt;Sorry, you cannot select this as it is not known to you yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003650Z" creationid="RAFAEL" creationdate="20210311T003650Z">
+        <seg>[3357]&lt;ICTN&gt;Desculpe, isto ainda não é conhecido por você.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
