@@ -54850,6 +54850,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3358]&lt;ICOC&gt;Sorry, you cannot select this as it is owned by another company already.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003714Z" creationid="RAFAEL" creationdate="20210311T003714Z">
+        <seg>[3358]&lt;ICOC&gt;Você não pode selecionar isto porque já pertence a outra empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3359]&lt;DEVN&gt;Sorry, you have not developed any software yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003755Z" creationid="RAFAEL" creationdate="20210311T003755Z">
+        <seg>[3359]&lt;DEVN&gt;Você ainda não desenvolveu nenhum software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3360]&lt;NOSD&gt;Sorry, nobody has developed an operation system yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003829Z" creationid="RAFAEL" creationdate="20210311T003829Z">
+        <seg>[3360]&lt;NOSD&gt;Ninguém desenvolveu um sistema operacional ainda.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3361]&lt;NOFI&gt;Sorry, the company no longer owns any firms.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003858Z" creationid="RAFAEL" creationdate="20210311T003858Z">
+        <seg>[3361]&lt;NOFI&gt;A empresa não possui mais nenhuma empresa.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3362]&lt;LAY1&gt;Sorry, this factory layout plan cannot be saved because it contains a software product.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T003928Z" creationid="RAFAEL" creationdate="20210311T003928Z">
+        <seg>[3362]&lt;LAY1&gt;Este plano de layout de fábrica não pode ser salvo porque contém um produto de software.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3363]&lt;LAY2&gt;Each software product in the factory is associated with a software development project in a software company and therefore cannot be saved as a template.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T004118Z" creationid="RAFAEL" creationdate="20210311T004118Z">
+        <seg>[3363]&lt;LAY2&gt;Cada produto de software na fábrica está associado a um projeto de desenvolvimento de software em uma empresa de software e, portanto, não pode ser salvo como um modelo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
