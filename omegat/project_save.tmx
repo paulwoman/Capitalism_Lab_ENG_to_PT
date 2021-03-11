@@ -54706,6 +54706,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3342]&lt;NTEC&gt;Sorry, no technologies are available for research at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T001824Z" creationid="RAFAEL" creationdate="20210311T001824Z">
+        <seg>[3342]&lt;NTEC&gt;Desculpe, nenhuma tecnologia está disponível para pesquisa no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
