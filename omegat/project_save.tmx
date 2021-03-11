@@ -9454,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Experienced workers are denoted by stars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T000912Z" creationid="RAFAEL" creationdate="20210311T000912Z">
+        <seg>Trabalhadores experientes são indicados por estrelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Express Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T011928Z" creationid="RAFAEL" creationdate="20200808T011928Z">
