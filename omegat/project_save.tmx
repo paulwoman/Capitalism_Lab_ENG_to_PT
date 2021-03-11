@@ -54730,6 +54730,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002215Z" creationid="RAFAEL" creationdate="20210311T002215Z">
+        <seg>[3345]&lt;DLCN&gt;Desculpe, este jogo requer %1s, mas você ainda não tem este DLC.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002236Z" creationid="RAFAEL" creationdate="20210311T002236Z">
+        <seg>[3346]&lt;DMOD&gt;Desculpe, o MOD atual não é compatível com o DLC Digital Age.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002259Z" creationid="RAFAEL" creationdate="20210311T002259Z">
+        <seg>[3347]&lt;NCHA&gt;Desculpe, atualmente não há jogos de desafio disponível.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002318Z" creationid="RAFAEL" creationdate="20210311T002318Z">
+        <seg>[3348]&lt;MEOS&gt;Desculpe, é proibido pela Lei Antitruste fundir duas empresas que tenham um sistema operacional.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3349]&lt;NRHD&gt;Sorry, you cannot remove the hardware already supported by the current version of the OS.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002357Z" creationid="RAFAEL" creationdate="20210311T002357Z">
+        <seg>[3349]&lt;NRHD&gt;Desculpe, você não pode remover o hardware já suportado pela versão atual do SO.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3350]&lt;HDMR&gt;Sorry, the maximum number of hardware types supported by an OS has been reached.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002432Z" creationid="RAFAEL" creationdate="20210311T002432Z">
+        <seg>[3350]&lt;HDMR&gt;Desculpe, o número máximo de tipos de hardware suportados por um SO foi atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
