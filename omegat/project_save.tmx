@@ -54818,6 +54818,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210312T013920Z" creationid="RAFAEL" creationdate="20210312T013920Z">
+        <seg>[3347]&lt;NCHA&gt;Desculpe, não há jogos de desafio disponível agora.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002318Z" creationid="RAFAEL" creationdate="20210311T002318Z">
