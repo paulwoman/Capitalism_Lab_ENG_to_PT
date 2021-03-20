@@ -44260,16 +44260,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1671]&lt;0675&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T183208Z" creationid="Olivier" creationdate="20200730T095511Z">
-        <seg>[1671]&lt;0675&gt;Nao.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210320T034255Z" creationid="Olivier" creationdate="20200730T095511Z">
+        <seg>[1671]&lt;0675&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1672]&lt;0676&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T183213Z" creationid="Olivier" creationdate="20200730T095514Z">
-        <seg>[1672]&lt;0676&gt;Nao.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210320T034107Z" creationid="Olivier" creationdate="20200730T095514Z">
+        <seg>[1672]&lt;0676&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
