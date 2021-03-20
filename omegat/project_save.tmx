@@ -37932,8 +37932,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0257]&lt;SVSU&gt;Game Saved Successfully|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T061915Z" creationid="Olivier" creationdate="20200728T061915Z">
-        <seg>[0257]&lt;SVSU&gt;Jogo salvo com súcesso|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210320T144410Z" creationid="Olivier" creationdate="20200728T061915Z">
+        <seg>[0257]&lt;SVSU&gt;Jogo salvo com sucesso|</seg>
       </tuv>
     </tu>
     <tu>
