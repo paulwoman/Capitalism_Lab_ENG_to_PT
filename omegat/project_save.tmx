@@ -34786,6 +34786,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the next product in the filtered list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224922Z" creationid="RAFAEL" creationdate="20210323T224922Z">
+        <seg>Veja o próximo produto na lista filtrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View the operating expenses of this bank branch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023638Z" creationid="RAFAEL" creationdate="20200806T023638Z">
