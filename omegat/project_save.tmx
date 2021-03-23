@@ -25839,6 +25839,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to set the filter based on the current firm's selected product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224553Z" creationid="RAFAEL" creationdate="20210323T224553Z">
+        <seg>Clique com o botão direito para definir o filtro com base no produto selecionado da empresa atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to set the filter based on the current firm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T202950Z" creationid="RAFAEL" creationdate="20200802T202950Z">
@@ -33130,6 +33138,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224642Z" creationid="RAFAEL" creationdate="20210323T224642Z">
+        <seg>Para alterar a lista filtrada, acesse o #Resumo de produtos# (Atalho: 'p') e escolha configurações diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200815T145735Z" creationid="RAFAEL" creationdate="20200815T145735Z">
@@ -34782,6 +34798,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T023653Z" creationid="RAFAEL" creationdate="20200806T023653Z">
         <seg>Veja as despesas operacionais deste escritório de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the previous product in the filtered list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224611Z" creationid="RAFAEL" creationdate="20210323T224611Z">
+        <seg>Veja o produto anterior na lista filtrada.</seg>
       </tuv>
     </tu>
     <tu>
