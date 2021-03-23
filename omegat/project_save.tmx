@@ -51820,16 +51820,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T011610Z" creationid="User" creationdate="20200802T011610Z">
-        <seg>[2977]&lt;LNR2&gt;Um empréstimo bancário concedido por sua empresa venceu, você deve reembolsá-lo agora.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224037Z" creationid="User" creationdate="20200802T011610Z">
+        <seg>[2977]&lt;LNR2&gt;Um empréstimo feito a sua empresa venceu, você deve reembolsá-lo agora|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2978]&lt;LNR3&gt;A Bank Loan taken by your subsidiary |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T223859Z" creationid="RAFAEL" creationdate="20210323T223859Z">
-        <seg>[2978]&lt;LNR3&gt;Um empréstimo bancário feito por sua subsidiária |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224218Z" creationid="RAFAEL" creationdate="20210323T223859Z">
+        <seg>[2978]&lt;LNR3&gt;Um empréstimo feito por sua subsidiária |</seg>
       </tuv>
     </tu>
     <tu>
