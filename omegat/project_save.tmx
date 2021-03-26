@@ -55978,6 +55978,46 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wp1024.jpg - wallpaper file for 1280x1024 screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021920Z" creationid="RAFAEL" creationdate="20210326T021816Z">
+        <seg>wp1024.jpg - arquivo de papel de parede para 1280x1024 modo tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1080.jpg - wallpaper file for 1920x1080 screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021926Z" creationid="RAFAEL" creationdate="20210326T021823Z">
+        <seg>wp1080.jpg - arquivo de papel de parede para 1920x1080 modo tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1200.jpg - wallpaper file for 1600x1200 screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021930Z" creationid="RAFAEL" creationdate="20210326T021827Z">
+        <seg>wp1200.jpg - arquivo de papel de parede para 1600x1200 modo tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1440.jpg - wallpaper file for 2560x1440 screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021934Z" creationid="RAFAEL" creationdate="20210326T021835Z">
+        <seg>wp1440.jpg - arquivo de papel de parede para 2560x1440 modo tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp2160.jpg - wallpaper file for 3840x2160 screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021943Z" creationid="RAFAEL" creationdate="20210326T021841Z">
+        <seg>wp2160.jpg - arquivo de papel de parede para 3840x2160 modo tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wp768.jpg - wallpaper file for 1024x768 screen mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021701Z" creationid="RAFAEL" creationdate="20210326T021701Z">
@@ -55996,40 +56036,40 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>wp864.jpg - wallpaper file for 1536x864 screen mode</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021740Z" creationid="RAFAEL" creationdate="20210326T021740Z">
-        <seg>wp864.jpg - wallpaper file for 1536x864 modo tela</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021900Z" creationid="RAFAEL" creationdate="20210326T021740Z">
+        <seg>wp864.jpg - arquivo de papel de parede para 1536x864 modo tela</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wp900.jpg - wallpaper file for 1200x900 screen mode</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021747Z" creationid="RAFAEL" creationdate="20210326T021747Z">
-        <seg>wp900.jpg - wallpaper file for 1200x900 modo tela</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021905Z" creationid="RAFAEL" creationdate="20210326T021747Z">
+        <seg>wp900.jpg - arquivo de papel de parede para 1200x900 modo tela</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wp900A.jpg - wallpaper file for 1440x900 screen mode</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021800Z" creationid="RAFAEL" creationdate="20210326T021754Z">
-        <seg>wp900A.jpg - wallpaper file for 1440x900 modo tela</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021909Z" creationid="RAFAEL" creationdate="20210326T021754Z">
+        <seg>wp900A.jpg - arquivo de papel de parede para 1440x900 modo tela</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wp900B.jpg - wallpaper file for 1600x900 screen mode</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021805Z" creationid="RAFAEL" creationdate="20210326T021805Z">
-        <seg>wp900B.jpg - wallpaper file for 1600x900 modo tela</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021913Z" creationid="RAFAEL" creationdate="20210326T021805Z">
+        <seg>wp900B.jpg - arquivo de papel de parede para 1600x900 modo tela</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wp960.jpg - wallpaper file for 1280x960 screen mode</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021811Z" creationid="RAFAEL" creationdate="20210326T021811Z">
-        <seg>wp960.jpg - wallpaper file for 1280x960 modo tela</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210326T021917Z" creationid="RAFAEL" creationdate="20210326T021811Z">
+        <seg>wp960.jpg - arquivo de papel de parede para 1280x960 modo tela</seg>
       </tuv>
     </tu>
     <tu>
