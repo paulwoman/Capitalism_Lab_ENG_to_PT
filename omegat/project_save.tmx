@@ -19071,14 +19071,6 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Manufacturing</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005242Z" creationid="RAFAEL" creationdate="20210311T005242Z">
-        <seg>Manufatura</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Manufacturing=100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T014053Z" creationid="Olivier" creationdate="20200802T014053Z">
