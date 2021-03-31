@@ -7960,8 +7960,8 @@
       <tuv lang="en-US">
         <seg>Description=A recent open source movement has led to a marked decrease in technology acquisition costs - they are now only about half of the original costs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210331T014305Z" creationid="RAFAEL" creationdate="20200901T003143Z">
-        <seg>Description=Um movimento recente de código aberto levou a uma redução acentuada nos custos de aquisição de tecnologia - eles representam cerca da metade dos custos originais.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210331T014550Z" creationid="RAFAEL" creationdate="20200901T003143Z">
+        <seg>Description=Um movimento recente de código aberto levou a uma redução acentuada nos custos de aquisição de tecnologia - eles representam metade dos custos originais.</seg>
       </tuv>
     </tu>
     <tu>
