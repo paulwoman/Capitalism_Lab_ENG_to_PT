@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43932,8 +43932,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1620]&lt;0645&gt;OPERATING EXPENSES|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201031T033018Z" creationid="Olivier" creationdate="20200729T185931Z">
-        <seg> [1620]&lt;0645&gt;CUSTOS OPERACIONAIS|</seg>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210406T170822Z" creationid="Olivier" creationdate="20200729T185931Z">
+        <seg>[1620]&lt;0645&gt;CUSTOS OPERACIONAIS|</seg>
       </tuv>
     </tu>
     <tu>
