@@ -30129,6 +30129,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current game version supports a different number of DLCs than the save game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005032Z" creationid="RAFAEL" creationdate="20210511T005032Z">
+        <seg>A versão do jogo atual suporta um número diferente de DLCs do que o jogo salvo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current stock price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005817Z" creationid="RAFAEL" creationdate="20200805T005817Z">
@@ -30365,6 +30373,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021436Z" creationid="RAFAEL" creationdate="20200806T021436Z">
         <seg>O financiamento aumentará a competitividade da cidade na área focada e melhorará as habilidades e a oferta de talentos especializados na área focada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is incompatible with the current game version.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005057Z" creationid="RAFAEL" creationdate="20210511T005057Z">
+        <seg>O jogo é incompatível com a versão atual do jogo.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55142,6 +55158,38 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T005115Z" creationid="RAFAEL" creationdate="20210311T005115Z">
         <seg>[3370]&lt;FISP&gt;Desculpe, não pode alterar a velocidade do jogo atual, pois ela é fixada por um script de jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3371]&lt;DVE1&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005019Z" creationid="RAFAEL" creationdate="20210511T005019Z">
+        <seg>[3371]&lt;DVE1&gt;Erro: Não é possível carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3372]&lt;DVE2&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005042Z" creationid="RAFAEL" creationdate="20210511T005042Z">
+        <seg>[3372]&lt;DVE2&gt;Erro: Não é possível carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3373]&lt;CNLD&gt;Cannot load the game as it was saved using a later game version.\nPlease first update your %1s to Version %2s or later.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005208Z" creationid="RAFAEL" creationdate="20210511T005208Z">
+        <seg>[3373]&lt;CNLD&gt;Não é possível carregar o jogo porque ele foi salvo em uma versão posterior do jogo.\nPor favor, atualize primeiro seu %1s para a versão %2s ou posterior.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3374]&lt;MTRC&gt;Monthly Training Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005228Z" creationid="RAFAEL" creationdate="20210511T005228Z">
+        <seg>[3374]&lt;MTRC&gt;Custo treinamento mensal|</seg>
       </tuv>
     </tu>
     <tu>
