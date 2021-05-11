@@ -55194,6 +55194,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3375]&lt;RDB7&gt;This Firm's Retail Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005244Z" creationid="RAFAEL" creationdate="20210511T005244Z">
+        <seg>[3375]&lt;RDB7&gt;Bônus de demanda de varejo desta empresa:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3378]&lt;RDS1&gt;Increase Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005430Z" creationid="RAFAEL" creationdate="20210511T005430Z">
+        <seg>[3378]&lt;RDS1&gt;Aumente o bônus de demanda das seguintes maneiras:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3379]&lt;RDS3&gt;-Build more service firms of the same type in the same city.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005445Z" creationid="RAFAEL" creationdate="20210511T005445Z">
+        <seg>[3379]&lt;RDS3&gt;-Construir mais empresas de serviços do mesmo tipo na mesma cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005506Z" creationid="RAFAEL" creationdate="20210511T005506Z">
+        <seg>[3380]&lt;RDS4&gt;-As empresas de serviço em áreas com alto tráfego de clientes aumentarão ainda mais a popularidade da rede.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3381]&lt;RDS7&gt;This Service Firm's Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005517Z" creationid="RAFAEL" creationdate="20210511T005517Z">
+        <seg>[3381]&lt;RDS7&gt;Bônus de demanda desta empresa de serviço:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3382]&lt;ESP1&gt;Score Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005531Z" creationid="RAFAEL" creationdate="20210511T005531Z">
+        <seg>[3382]&lt;ESP1&gt;Penalidade de pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
