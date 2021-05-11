@@ -55442,6 +55442,70 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3408]&lt;EUF1&gt;Unlock firm type|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010225Z" creationid="RAFAEL" creationdate="20210511T010209Z">
+        <seg>[3408]&lt;EUF1&gt;Desbloquear tipo firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3409]&lt;EUF0&gt;Unlock firm type &lt;unknown&gt;|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010245Z" creationid="RAFAEL" creationdate="20210511T010245Z">
+        <seg>[3409]&lt;EUF0&gt;Desbloquear tipo firma &lt;desconhecido&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3410]&lt;ELM1&gt;Unlock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010254Z" creationid="RAFAEL" creationdate="20210511T010254Z">
+        <seg>[3410]&lt;ELM1&gt;Desbloquear|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3411]&lt;ELM2&gt;Unlock landmark|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010319Z" creationid="RAFAEL" creationdate="20210511T010319Z">
+        <seg>[3411]&lt;ELM2&gt;Desbloquear um marco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3412]&lt;ELM3&gt;Unlock a landmark|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010336Z" creationid="RAFAEL" creationdate="20210511T010336Z">
+        <seg>[3412]&lt;ELM3&gt;Desbloquear um marco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3413]&lt;EUAC&gt;Unlock all cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010430Z" creationid="RAFAEL" creationdate="20210511T010430Z">
+        <seg>[3413]&lt;EUAC&gt;Desbloquear todas cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3414]&lt;EUOC&gt;Unlock city|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010440Z" creationid="RAFAEL" creationdate="20210511T010440Z">
+        <seg>[3414]&lt;EUOC&gt;Desbloquear a cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3415]&lt;TIOC&gt;Reminder: You may find additional job candidates in other cities.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010458Z" creationid="RAFAEL" creationdate="20210511T010458Z">
+        <seg>[3415]&lt;TIOC&gt;Lembrete: Você pode encontrar candidatos a empregos adicionais em outras cidades.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
