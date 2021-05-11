@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acquire technology from other companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004621Z" creationid="RAFAEL" creationdate="20210511T004621Z">
+        <seg>Adquira tecnologia de outras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the mode for buying plots of land.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224902Z" creationid="RAFAEL" creationdate="20200801T224902Z">
@@ -3306,6 +3314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223102Z" creationid="RAFAEL" creationdate="20200801T223102Z">
         <seg>Voltar à empresa anterior (Tecla de atalho: q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: Q)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004541Z" creationid="RAFAEL" creationdate="20210511T004541Z">
+        <seg>Voltar para a empresa anterior (Atalho: Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16463,6 +16479,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center (hotkey: I)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004458Z" creationid="RAFAEL" creationdate="20210511T004458Z">
+        <seg>Centro de Informações (Atalho: I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Billionaires 100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015346Z" creationid="Olivier" creationdate="20200802T015346Z">
@@ -19299,6 +19323,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T221839Z" creationid="RAFAEL" creationdate="20200801T221839Z">
         <seg>Mini Map (Tecla de atalho: 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mini Map (hotkey: M)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004400Z" creationid="RAFAEL" creationdate="20210511T004400Z">
+        <seg>Mini Map (Atalho: M)</seg>
       </tuv>
     </tu>
     <tu>
