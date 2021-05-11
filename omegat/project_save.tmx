@@ -55362,6 +55362,86 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3398]&lt;ESMO&gt;Salary Modifier|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005950Z" creationid="RAFAEL" creationdate="20210511T005950Z">
+        <seg>[3398]&lt;ESMO&gt;Modificador de salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3399]&lt;EACO&gt;Your COO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010007Z" creationid="RAFAEL" creationdate="20210511T010007Z">
+        <seg>[3399]&lt;EACO&gt;A atitude de seu COO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3400]&lt;EACT&gt;Your CTO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010022Z" creationid="RAFAEL" creationdate="20210511T010022Z">
+        <seg>[3400]&lt;EACT&gt;A atitude do seu CTO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3401]&lt;EACM&gt;Your CMO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010035Z" creationid="RAFAEL" creationdate="20210511T010035Z">
+        <seg>[3401]&lt;EACM&gt;A atitude do seu CMO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3402]&lt;ERCO&gt;Your COO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010045Z" creationid="RAFAEL" creationdate="20210511T010045Z">
+        <seg>[3402]&lt;ERCO&gt;Seu COO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3403]&lt;ERCT&gt;Your CTO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010053Z" creationid="RAFAEL" creationdate="20210511T010053Z">
+        <seg>[3403]&lt;ERCT&gt;Seu CTO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3404]&lt;ERCM&gt;Your CMO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010114Z" creationid="RAFAEL" creationdate="20210511T010114Z">
+        <seg>[3404]&lt;ERCM&gt;Seu CMO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3405]&lt;EUPR&gt;Unlock all other products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010127Z" creationid="RAFAEL" creationdate="20210511T010127Z">
+        <seg>[3405]&lt;EUPR&gt;Desbloqueie todos os outros produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3406]&lt;EUPC&gt;Unlock product class|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010138Z" creationid="RAFAEL" creationdate="20210511T010138Z">
+        <seg>[3406]&lt;EUPC&gt;Desbloquear classe de produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3407]&lt;EUFT&gt;Unlock all other firm types|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010159Z" creationid="RAFAEL" creationdate="20210511T010159Z">
+        <seg>[3407]&lt;EUFT&gt;Desbloqueie todos os tipos de empresa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
