@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternative Production Blueprints</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004732Z" creationid="RAFAEL" creationdate="20210511T004732Z">
+        <seg>Projetos de produção alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200819T004138Z" creationid="RAFAEL" creationdate="20200808T000146Z">
@@ -4782,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot acquire technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004634Z" creationid="RAFAEL" creationdate="20210511T004634Z">
+        <seg>Não é possível adquirir tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot add it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013926Z" creationid="RAFAEL" creationdate="20200805T013926Z">
@@ -5954,6 +5970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021338Z" creationid="RAFAEL" creationdate="20200804T021338Z">
         <seg>Clique no botão [Comprar Empresa] abaixo para comprá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the arrow icons to browse the different production blueprints.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004759Z" creationid="RAFAEL" creationdate="20210511T004759Z">
+        <seg>Clique nos ícones de seta para navegar pelos diferentes esquemas de produção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7954,6 +7978,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024846Z" creationid="RAFAEL" creationdate="20200806T024846Z">
         <seg>Depósito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit Market Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004918Z" creationid="RAFAEL" creationdate="20210511T004832Z">
+        <seg>Market Share Deposito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit Market Share = the amount on deposit at a particular bank divided by the total amount on deposit at all banks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004903Z" creationid="RAFAEL" creationdate="20210511T004903Z">
+        <seg>Market Share de depósitos = o valor em depósito em um determinado banco dividido pelo valor total em depósito em todos os bancos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +19859,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033101Z" creationid="RAFAEL" creationdate="20200806T033101Z">
         <seg>Nenhuma notificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004721Z" creationid="RAFAEL" creationdate="20210511T004721Z">
+        <seg>Nenhuma das outras empresas possui tecnologia mais avançada que a sua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31690,6 +31738,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is more than one way to make this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004741Z" creationid="RAFAEL" creationdate="20210511T004741Z">
+        <seg>Existe mais de uma maneira de fazer este produto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is only one type of functional unit to build in an R&amp;D Center, which is the ~R&amp;D unit~.^^You can set up a maximum of ~nine~ R&amp;D units in an R&amp;D center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T020507Z" creationid="RAFAEL" creationdate="20200822T020507Z">
@@ -36094,6 +36150,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004008Z" creationid="RAFAEL" creationdate="20200826T004008Z">
         <seg>Você pode visualizar o "Dinheiro do investidor público disponível para sua empresa" exibido na parte superior da tela de visualização da cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004709Z" creationid="RAFAEL" creationdate="20210511T004709Z">
+        <seg>Você não pode adquirir uma nova tecno. agora.</seg>
       </tuv>
     </tu>
     <tu>
