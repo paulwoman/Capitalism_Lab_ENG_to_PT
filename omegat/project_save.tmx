@@ -55242,6 +55242,126 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3383]&lt;ESB1&gt;Score Bonus (plus early completion bonus)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005545Z" creationid="RAFAEL" creationdate="20210511T005545Z">
+        <seg>[3383]&lt;ESB1&gt;Bônus de pontuação (mais bônus de conclusão antecipada)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3384]&lt;ESB2&gt;Score Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005556Z" creationid="RAFAEL" creationdate="20210511T005556Z">
+        <seg>[3384]&lt;ESB2&gt;Bônus de pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3385]&lt;ECCP&gt;Corporate Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005606Z" creationid="RAFAEL" creationdate="20210511T005606Z">
+        <seg>[3385]&lt;ECCP&gt;Penalidade de dinheiro corporativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3386]&lt;ECCB&gt;Corporate Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005620Z" creationid="RAFAEL" creationdate="20210511T005620Z">
+        <seg>[3386]&lt;ECCB&gt;Bônus em dinheiro corporativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3387]&lt;EPCP&gt;Personal Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005631Z" creationid="RAFAEL" creationdate="20210511T005631Z">
+        <seg>[3387]&lt;EPCP&gt;Penalidade de dinheiro pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3388]&lt;EPCB&gt;Personal Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005640Z" creationid="RAFAEL" creationdate="20210511T005640Z">
+        <seg>[3388]&lt;EPCB&gt;Bônus em dinheiro pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3389]&lt;EICP&gt;City Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005651Z" creationid="RAFAEL" creationdate="20210511T005651Z">
+        <seg>[3389]&lt;EICP&gt;Penalidade em dinheiro da cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3390]&lt;EICB&gt;City Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005700Z" creationid="RAFAEL" creationdate="20210511T005700Z">
+        <seg>[3390]&lt;EICB&gt;Bônus em dinheiro da cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3391]&lt;EEX1&gt;Player Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005713Z" creationid="RAFAEL" creationdate="20210511T005713Z">
+        <seg>[3391]&lt;EEX1&gt;Experiência do jogador em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3392]&lt;EEX2&gt;Your COO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005725Z" creationid="RAFAEL" creationdate="20210511T005725Z">
+        <seg>[3392]&lt;EEX2&gt;Experiência do seu COO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3393]&lt;EEX3&gt;Your CTO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005735Z" creationid="RAFAEL" creationdate="20210511T005735Z">
+        <seg>[3393]&lt;EEX3&gt;Experiência do seu CTO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3394]&lt;EEX4&gt;Your CMO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005743Z" creationid="RAFAEL" creationdate="20210511T005743Z">
+        <seg>[3394]&lt;EEX4&gt;A experiência do seu CMO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3395]&lt;ETEC&gt;Technology|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005755Z" creationid="RAFAEL" creationdate="20210511T005755Z">
+        <seg>[3395]&lt;ETEC&gt;Tecnologia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3396]&lt;EINV&gt;Instant Invention of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005822Z" creationid="RAFAEL" creationdate="20210511T005822Z">
+        <seg>[3396]&lt;EINV&gt;Invenção Instantânea de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3397]&lt;EBPE&gt;Business Permit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005934Z" creationid="RAFAEL" creationdate="20210511T005934Z">
+        <seg>[3397]&lt;EBPE&gt;Permissão de Negócios|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
