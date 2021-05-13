@@ -8414,6 +8414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to be satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210513T232623Z" creationid="RAFAEL" creationdate="20210513T232623Z">
+        <seg>Description=Você conseguiu uma série de investimentos de alguns dos investidores mais procurados e famosos.^^Agora vem a parte difícil: seus investidores exigentes não ficarão satisfeitos com nada menos do que sua empresa reinando suprema no digital mundo.^^Você vencerá este cenário e será elogiado por sua conquista ao dominar simultaneamente todas as três indústrias digitais: telecomunicações, Internet e sistema operacional e software de computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20201217T011605Z" creationid="RAFAEL" creationdate="20201217T011605Z">
