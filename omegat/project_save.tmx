@@ -55884,8 +55884,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
-        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210516T213944Z" creationid="Olivier" creationdate="20200728T055038Z">
+        <seg>[SHRD]%2j{Jan|Fev|Mar|Apr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
