@@ -42804,8 +42804,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182134Z" creationid="Olivier" creationdate="20200728T095207Z">
-        <seg>[1321]&lt;AE05&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035111Z" creationid="Olivier" creationdate="20200728T095207Z">
+        <seg>[1321]&lt;AE05&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42852,8 +42852,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182142Z" creationid="Olivier" creationdate="20200728T095211Z">
-        <seg>[1327]&lt;AF03&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035154Z" creationid="Olivier" creationdate="20200728T095211Z">
+        <seg>[1327]&lt;AF03&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
