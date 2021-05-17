@@ -42708,8 +42708,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1309]&lt;AC05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182111Z" creationid="Olivier" creationdate="20200728T095109Z">
-        <seg>[1309]&lt;AC05&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035027Z" creationid="Olivier" creationdate="20200728T095109Z">
+        <seg>[1309]&lt;AC05&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
