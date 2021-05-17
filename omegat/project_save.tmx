@@ -52676,8 +52676,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T195408Z" creationid="User" creationdate="20200802T195408Z">
-        <seg>[3064]&lt;EMP4&gt;foi perseguido.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T025415Z" creationid="User" creationdate="20200802T195408Z">
+        <seg>[3064]&lt;EMP4&gt;foi headhunted.|</seg>
       </tuv>
     </tu>
     <tu>
