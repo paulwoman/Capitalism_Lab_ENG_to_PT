@@ -51340,8 +51340,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T004014Z" creationid="User" creationdate="20200802T004014Z">
-        <seg>[2899]&lt;ECOM&gt;Venda de comércio oline %:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210518T033005Z" creationid="User" creationdate="20200802T004014Z">
+        <seg>[2899]&lt;ECOM&gt;Vendas e-commerce %:|</seg>
       </tuv>
     </tu>
     <tu>
