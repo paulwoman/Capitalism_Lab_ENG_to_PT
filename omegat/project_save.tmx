@@ -25287,6 +25287,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reach %</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210518T035954Z" creationid="RAFAEL" creationdate="20210518T035954Z">
+        <seg>Alcance %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Estate Focused Companies=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015631Z" creationid="Olivier" creationdate="20200802T015631Z">
