@@ -46756,16 +46756,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131550Z" creationid="Olivier" creationdate="20200730T131541Z">
-        <seg>[2236]&lt;1157&gt;Pesquisadores no |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T022901Z" creationid="Olivier" creationdate="20200730T131541Z">
+        <seg>[2236]&lt;1157&gt;Pesquisadores da |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131619Z" creationid="Olivier" creationdate="20200730T131619Z">
-        <seg>[2237]&lt;1158&gt;'s centro de tec. anunciaram nova invenção.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T023158Z" creationid="Olivier" creationdate="20200730T131619Z">
+        <seg>[2237]&lt;1158&gt;'s Centro de P&amp;D anuncia uma invenção.</seg>
       </tuv>
     </tu>
     <tu>
