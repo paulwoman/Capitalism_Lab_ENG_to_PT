@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acquire technology from other companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004621Z" creationid="RAFAEL" creationdate="20210511T004621Z">
+        <seg>Adquira tecnologia de outras empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the mode for buying plots of land.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T224902Z" creationid="RAFAEL" creationdate="20200801T224902Z">
@@ -2122,6 +2130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200823T204156Z" creationid="RAFAEL" creationdate="20200811T004919Z">
         <seg>Ao longo de sua borda superior, você verá o ~ícone de seleção da cidade~ (representado por uma seta para baixo), que mostra uma lista de cidades no jogo atual.^^Os ~ícones de seta para a esquerda e para a direita~ próximos ao nome da cidade permitem que você para percorrer a cidade anterior ou a próxima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternative Production Blueprints</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004732Z" creationid="RAFAEL" creationdate="20210511T004732Z">
+        <seg>Projetos de produção alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,6 +3322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T223102Z" creationid="RAFAEL" creationdate="20200801T223102Z">
         <seg>Voltar à empresa anterior (Tecla de atalho: q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: Q)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004541Z" creationid="RAFAEL" creationdate="20210511T004541Z">
+        <seg>Voltar para a empresa anterior (Atalho: Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot acquire technology</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004634Z" creationid="RAFAEL" creationdate="20210511T004634Z">
+        <seg>Não é possível adquirir tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot add it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013926Z" creationid="RAFAEL" creationdate="20200805T013926Z">
@@ -5938,6 +5970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021338Z" creationid="RAFAEL" creationdate="20200804T021338Z">
         <seg>Clique no botão [Comprar Empresa] abaixo para comprá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the arrow icons to browse the different production blueprints.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004759Z" creationid="RAFAEL" creationdate="20210511T004759Z">
+        <seg>Clique nos ícones de seta para navegar pelos diferentes esquemas de produção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,6 +7982,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deposit Market Share</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004918Z" creationid="RAFAEL" creationdate="20210511T004832Z">
+        <seg>Market Share Deposito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit Market Share = the amount on deposit at a particular bank divided by the total amount on deposit at all banks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004903Z" creationid="RAFAEL" creationdate="20210511T004903Z">
+        <seg>Market Share de depósitos = o valor em depósito em um determinado banco dividido pelo valor total em depósito em todos os bancos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deposits from all branches of this bank</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015331Z" creationid="RAFAEL" creationdate="20200806T015331Z">
@@ -8354,6 +8410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T202447Z" creationid="RAFAEL" creationdate="20200822T202447Z">
         <seg>Description=Você fez progressos impressionantes até agora e ganhou a reputação de ser uma das estrelas em ascensão no mundo dos negócios.^^Neste tutorial final, você aprenderá como construir sua sede corporativa e configurar vários departamentos para permitir que você gerencie seu império de negócios com ainda mais eficácia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to be satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210513T232623Z" creationid="RAFAEL" creationdate="20210513T232623Z">
+        <seg>Description=Você conseguiu uma série de investimentos de alguns dos investidores mais procurados e famosos.^^Agora vem a parte difícil: seus investidores exigentes não ficarão satisfeitos com nada menos do que sua empresa reinando suprema no digital mundo.^^Você vencerá este cenário e será elogiado por sua conquista ao dominar simultaneamente todas as três indústrias digitais: telecomunicações, Internet e sistema operacional e software de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16463,6 +16527,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center (hotkey: I)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004458Z" creationid="RAFAEL" creationdate="20210511T004458Z">
+        <seg>Centro de Informações (Atalho: I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Billionaires 100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015346Z" creationid="Olivier" creationdate="20200802T015346Z">
@@ -19303,6 +19375,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mini Map (hotkey: M)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004400Z" creationid="RAFAEL" creationdate="20210511T004400Z">
+        <seg>Mini Map (Atalho: M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini Map - Public Service mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T004231Z" creationid="RAFAEL" creationdate="20200805T004231Z">
@@ -19787,6 +19867,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T033101Z" creationid="RAFAEL" creationdate="20200806T033101Z">
         <seg>Nenhuma notificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004721Z" creationid="RAFAEL" creationdate="20210511T004721Z">
+        <seg>Nenhuma das outras empresas possui tecnologia mais avançada que a sua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25199,6 +25287,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reach %</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210518T035954Z" creationid="RAFAEL" creationdate="20210518T035954Z">
+        <seg>Alcance %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Estate Focused Companies=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T015631Z" creationid="Olivier" creationdate="20200802T015631Z">
@@ -30049,6 +30145,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current game version supports a different number of DLCs than the save game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005032Z" creationid="RAFAEL" creationdate="20210511T005032Z">
+        <seg>A versão do jogo atual suporta um número diferente de DLCs do que o jogo salvo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current stock price.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005817Z" creationid="RAFAEL" creationdate="20200805T005817Z">
@@ -30285,6 +30389,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T021436Z" creationid="RAFAEL" creationdate="20200806T021436Z">
         <seg>O financiamento aumentará a competitividade da cidade na área focada e melhorará as habilidades e a oferta de talentos especializados na área focada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is incompatible with the current game version.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005057Z" creationid="RAFAEL" creationdate="20210511T005057Z">
+        <seg>O jogo é incompatível com a versão atual do jogo.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -31654,6 +31766,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200812T013935Z" creationid="RAFAEL" creationdate="20200812T013935Z">
         <seg>Há mais de uma cidade neste tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is more than one way to make this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004741Z" creationid="RAFAEL" creationdate="20210511T004741Z">
+        <seg>Existe mais de uma maneira de fazer este produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36066,6 +36186,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T004709Z" creationid="RAFAEL" creationdate="20210511T004709Z">
+        <seg>Você não pode adquirir uma nova tecno. agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot add more.|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210311T002504Z" creationid="RAFAEL" creationdate="20210311T002504Z">
@@ -39764,16 +39892,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[0758]&lt;FA19&gt;Firm Profit|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084452Z" creationid="Olivier" creationdate="20200728T084452Z">
-        <seg>[0758]&lt;FA19&gt;lucro da firma|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210516T183845Z" creationid="Olivier" creationdate="20200728T084452Z">
+        <seg>[0758]&lt;FA19&gt;Lucro da Firma|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0759]&lt;FA20&gt;Firm Revenue|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T084454Z" creationid="Olivier" creationdate="20200728T084454Z">
-        <seg>[0759]&lt;FA20&gt;receita da firma|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210516T183852Z" creationid="Olivier" creationdate="20200728T084454Z">
+        <seg>[0759]&lt;FA20&gt;Receita da Firma|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42588,8 +42716,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1309]&lt;AC05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182111Z" creationid="Olivier" creationdate="20200728T095109Z">
-        <seg>[1309]&lt;AC05&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035027Z" creationid="Olivier" creationdate="20200728T095109Z">
+        <seg>[1309]&lt;AC05&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42684,8 +42812,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182134Z" creationid="Olivier" creationdate="20200728T095207Z">
-        <seg>[1321]&lt;AE05&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035111Z" creationid="Olivier" creationdate="20200728T095207Z">
+        <seg>[1321]&lt;AE05&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42732,8 +42860,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182142Z" creationid="Olivier" creationdate="20200728T095211Z">
-        <seg>[1327]&lt;AF03&gt;Gastos de publicidade e pesquisa|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T035154Z" creationid="Olivier" creationdate="20200728T095211Z">
+        <seg>[1327]&lt;AF03&gt;Publicidade&amp;Relações Public|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42852,8 +42980,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1352]&lt;0417&gt;Score|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182307Z" creationid="User" creationdate="20200801T182307Z">
-        <seg>[1352]&lt;0417&gt;pontuação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210521T000642Z" creationid="User" creationdate="20200801T182307Z">
+        <seg>[1352]&lt;0417&gt;Pontuação|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44028,8 +44156,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1636]&lt;AK04&gt;Advertising &amp; PR Expense|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T182919Z" creationid="Olivier" creationdate="20200730T180758Z">
-        <seg>[1636]&lt;AK04&gt;Gastos publicidade e P&amp;D|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T034540Z" creationid="Olivier" creationdate="20200730T180758Z">
+        <seg>[1636]&lt;AK04&gt;Publicidade&amp;Relações Publica|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46628,24 +46756,24 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131550Z" creationid="Olivier" creationdate="20200730T131541Z">
-        <seg>[2236]&lt;1157&gt;Pesquisadores no |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T022901Z" creationid="Olivier" creationdate="20200730T131541Z">
+        <seg>[2236]&lt;1157&gt;Pesquisadores da |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131619Z" creationid="Olivier" creationdate="20200730T131619Z">
-        <seg>[2237]&lt;1158&gt;'s centro de tec. anunciaram nova invenção.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T023158Z" creationid="Olivier" creationdate="20200730T131619Z">
+        <seg>[2237]&lt;1158&gt;'s Centro de P&amp;D anuncia uma invenção.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2238]&lt;1159&gt; Unveiled at Press Conference.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131626Z" creationid="Olivier" creationdate="20200730T131626Z">
-        <seg>[2238]&lt;1159&gt; Demonstrado na mídia.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T023559Z" creationid="Olivier" creationdate="20200730T131626Z">
+        <seg>[2238]&lt;1159&gt; Revelado na conferência de imprensa.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46684,48 +46812,48 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2245]&lt;1166&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131733Z" creationid="Olivier" creationdate="20200730T131733Z">
-        <seg>[2245]&lt;1166&gt;Pesquisadores no |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T024824Z" creationid="Olivier" creationdate="20200730T131733Z">
+        <seg>[2245]&lt;1166&gt;Pesquisadores da |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2246]&lt;1167&gt;'s R&amp;D Center Make a Breakthrough.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T181917Z" creationid="Olivier" creationdate="20200730T131740Z">
-        <seg>[2246]&lt;1167&gt;'s centro de tec. fizeram uma descoberta.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025217Z" creationid="Olivier" creationdate="20200730T131740Z">
+        <seg>[2246]&lt;1167&gt;'s Centro de P&amp;D faz um grande avanço.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2247]&lt;1168&gt; Unveiled at Press Conference.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131758Z" creationid="Olivier" creationdate="20200730T131758Z">
-        <seg>[2247]&lt;1168&gt; Demonstrado na mídia.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025240Z" creationid="Olivier" creationdate="20200730T131758Z">
+        <seg>[2247]&lt;1168&gt; Revelado na conferência de imprensa.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2248]&lt;1169&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131824Z" creationid="Olivier" creationdate="20200730T131824Z">
-        <seg>[2248]&lt;1169&gt;Pesquisadores em |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025353Z" creationid="Olivier" creationdate="20200730T131824Z">
+        <seg>[2248]&lt;1169&gt;Pesquisadores da |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2249]&lt;1170&gt;'s R&amp;D Center Make a Breakthrough in |</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200730T131829Z" creationid="Olivier" creationdate="20200730T131829Z">
-        <seg>[2249]&lt;1170&gt;'s centro de tec. fizeram uma descoberta em |</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025528Z" creationid="Olivier" creationdate="20200730T131829Z">
+        <seg>[2249]&lt;1170&gt;'s Centro de P&amp;D faz um grande avanço em |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200822T183952Z" creationid="Olivier" creationdate="20200730T131834Z">
-        <seg>[2250]&lt;1171&gt;'s Tec. de Produção.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025626Z" creationid="Olivier" creationdate="20200730T131834Z">
+        <seg>[2250]&lt;1171&gt;'s Tecnologia de Produção.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51220,8 +51348,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T004014Z" creationid="User" creationdate="20200802T004014Z">
-        <seg>[2899]&lt;ECOM&gt;Venda de comércio oline %:|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210518T033005Z" creationid="User" creationdate="20200802T004014Z">
+        <seg>[2899]&lt;ECOM&gt;Vendas e-commerce %:|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52556,16 +52684,16 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T195408Z" creationid="User" creationdate="20200802T195408Z">
-        <seg>[3064]&lt;EMP4&gt;foi perseguido.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T025415Z" creationid="User" creationdate="20200802T195408Z">
+        <seg>[3064]&lt;EMP4&gt;foi headhunted.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3065]&lt;EMP5&gt;was headhunted by|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T195424Z" creationid="User" creationdate="20200802T195424Z">
-        <seg>[3065]&lt;EMP5&gt;foi perseguido por|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210517T025426Z" creationid="User" creationdate="20200802T195424Z">
+        <seg>[3065]&lt;EMP5&gt;foi headhunted por|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55050,6 +55178,366 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3371]&lt;DVE1&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005019Z" creationid="RAFAEL" creationdate="20210511T005019Z">
+        <seg>[3371]&lt;DVE1&gt;Erro: Não é possível carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3372]&lt;DVE2&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005042Z" creationid="RAFAEL" creationdate="20210511T005042Z">
+        <seg>[3372]&lt;DVE2&gt;Erro: Não é possível carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3373]&lt;CNLD&gt;Cannot load the game as it was saved using a later game version.\nPlease first update your %1s to Version %2s or later.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005208Z" creationid="RAFAEL" creationdate="20210511T005208Z">
+        <seg>[3373]&lt;CNLD&gt;Não é possível carregar o jogo porque ele foi salvo em uma versão posterior do jogo.\nPor favor, atualize primeiro seu %1s para a versão %2s ou posterior.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3374]&lt;MTRC&gt;Monthly Training Cost|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005228Z" creationid="RAFAEL" creationdate="20210511T005228Z">
+        <seg>[3374]&lt;MTRC&gt;Custo treinamento mensal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3375]&lt;RDB7&gt;This Firm's Retail Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005244Z" creationid="RAFAEL" creationdate="20210511T005244Z">
+        <seg>[3375]&lt;RDB7&gt;Bônus de demanda de varejo desta empresa:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3376]&lt;RDB8&gt;star|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025004Z" creationid="RAFAEL" creationdate="20210520T025004Z">
+        <seg>[3376]&lt;RDB8&gt;Estrela|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3377]&lt;RDB9&gt;stars|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210520T025015Z" creationid="RAFAEL" creationdate="20210520T025015Z">
+        <seg>[3377]&lt;RDB9&gt;Estrelas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3378]&lt;RDS1&gt;Increase Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005430Z" creationid="RAFAEL" creationdate="20210511T005430Z">
+        <seg>[3378]&lt;RDS1&gt;Aumente o bônus de demanda das seguintes maneiras:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3379]&lt;RDS3&gt;-Build more service firms of the same type in the same city.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005445Z" creationid="RAFAEL" creationdate="20210511T005445Z">
+        <seg>[3379]&lt;RDS3&gt;-Construir mais empresas de serviços do mesmo tipo na mesma cidade.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005506Z" creationid="RAFAEL" creationdate="20210511T005506Z">
+        <seg>[3380]&lt;RDS4&gt;-As empresas de serviço em áreas com alto tráfego de clientes aumentarão ainda mais a popularidade da rede.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3381]&lt;RDS7&gt;This Service Firm's Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005517Z" creationid="RAFAEL" creationdate="20210511T005517Z">
+        <seg>[3381]&lt;RDS7&gt;Bônus de demanda desta empresa de serviço:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3382]&lt;ESP1&gt;Score Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005531Z" creationid="RAFAEL" creationdate="20210511T005531Z">
+        <seg>[3382]&lt;ESP1&gt;Penalidade de pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3383]&lt;ESB1&gt;Score Bonus (plus early completion bonus)|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005545Z" creationid="RAFAEL" creationdate="20210511T005545Z">
+        <seg>[3383]&lt;ESB1&gt;Bônus de pontuação (mais bônus de conclusão antecipada)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3384]&lt;ESB2&gt;Score Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005556Z" creationid="RAFAEL" creationdate="20210511T005556Z">
+        <seg>[3384]&lt;ESB2&gt;Bônus de pontuação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3385]&lt;ECCP&gt;Corporate Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005606Z" creationid="RAFAEL" creationdate="20210511T005606Z">
+        <seg>[3385]&lt;ECCP&gt;Penalidade de dinheiro corporativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3386]&lt;ECCB&gt;Corporate Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005620Z" creationid="RAFAEL" creationdate="20210511T005620Z">
+        <seg>[3386]&lt;ECCB&gt;Bônus em dinheiro corporativo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3387]&lt;EPCP&gt;Personal Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005631Z" creationid="RAFAEL" creationdate="20210511T005631Z">
+        <seg>[3387]&lt;EPCP&gt;Penalidade de dinheiro pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3388]&lt;EPCB&gt;Personal Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005640Z" creationid="RAFAEL" creationdate="20210511T005640Z">
+        <seg>[3388]&lt;EPCB&gt;Bônus em dinheiro pessoal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3389]&lt;EICP&gt;City Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005651Z" creationid="RAFAEL" creationdate="20210511T005651Z">
+        <seg>[3389]&lt;EICP&gt;Penalidade em dinheiro da cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3390]&lt;EICB&gt;City Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005700Z" creationid="RAFAEL" creationdate="20210511T005700Z">
+        <seg>[3390]&lt;EICB&gt;Bônus em dinheiro da cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3391]&lt;EEX1&gt;Player Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005713Z" creationid="RAFAEL" creationdate="20210511T005713Z">
+        <seg>[3391]&lt;EEX1&gt;Experiência do jogador em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3392]&lt;EEX2&gt;Your COO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005725Z" creationid="RAFAEL" creationdate="20210511T005725Z">
+        <seg>[3392]&lt;EEX2&gt;Experiência do seu COO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3393]&lt;EEX3&gt;Your CTO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005735Z" creationid="RAFAEL" creationdate="20210511T005735Z">
+        <seg>[3393]&lt;EEX3&gt;Experiência do seu CTO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3394]&lt;EEX4&gt;Your CMO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005743Z" creationid="RAFAEL" creationdate="20210511T005743Z">
+        <seg>[3394]&lt;EEX4&gt;A experiência do seu CMO em|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3395]&lt;ETEC&gt;Technology|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005755Z" creationid="RAFAEL" creationdate="20210511T005755Z">
+        <seg>[3395]&lt;ETEC&gt;Tecnologia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3396]&lt;EINV&gt;Instant Invention of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005822Z" creationid="RAFAEL" creationdate="20210511T005822Z">
+        <seg>[3396]&lt;EINV&gt;Invenção Instantânea de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3397]&lt;EBPE&gt;Business Permit|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005934Z" creationid="RAFAEL" creationdate="20210511T005934Z">
+        <seg>[3397]&lt;EBPE&gt;Permissão de Negócios|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3398]&lt;ESMO&gt;Salary Modifier|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T005950Z" creationid="RAFAEL" creationdate="20210511T005950Z">
+        <seg>[3398]&lt;ESMO&gt;Modificador de salário|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3399]&lt;EACO&gt;Your COO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010007Z" creationid="RAFAEL" creationdate="20210511T010007Z">
+        <seg>[3399]&lt;EACO&gt;A atitude de seu COO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3400]&lt;EACT&gt;Your CTO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010022Z" creationid="RAFAEL" creationdate="20210511T010022Z">
+        <seg>[3400]&lt;EACT&gt;A atitude do seu CTO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3401]&lt;EACM&gt;Your CMO's attitude towards you|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010035Z" creationid="RAFAEL" creationdate="20210511T010035Z">
+        <seg>[3401]&lt;EACM&gt;A atitude do seu CMO em relação a você|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3402]&lt;ERCO&gt;Your COO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010045Z" creationid="RAFAEL" creationdate="20210511T010045Z">
+        <seg>[3402]&lt;ERCO&gt;Seu COO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3403]&lt;ERCT&gt;Your CTO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010053Z" creationid="RAFAEL" creationdate="20210511T010053Z">
+        <seg>[3403]&lt;ERCT&gt;Seu CTO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3404]&lt;ERCM&gt;Your CMO will resign|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010114Z" creationid="RAFAEL" creationdate="20210511T010114Z">
+        <seg>[3404]&lt;ERCM&gt;Seu CMO irá renunciar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3405]&lt;EUPR&gt;Unlock all other products|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010127Z" creationid="RAFAEL" creationdate="20210511T010127Z">
+        <seg>[3405]&lt;EUPR&gt;Desbloqueie todos os outros produtos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3406]&lt;EUPC&gt;Unlock product class|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010138Z" creationid="RAFAEL" creationdate="20210511T010138Z">
+        <seg>[3406]&lt;EUPC&gt;Desbloquear classe de produto|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3407]&lt;EUFT&gt;Unlock all other firm types|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010159Z" creationid="RAFAEL" creationdate="20210511T010159Z">
+        <seg>[3407]&lt;EUFT&gt;Desbloqueie todos os tipos de empresa|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3408]&lt;EUF1&gt;Unlock firm type|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010225Z" creationid="RAFAEL" creationdate="20210511T010209Z">
+        <seg>[3408]&lt;EUF1&gt;Desbloquear tipo firma|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3409]&lt;EUF0&gt;Unlock firm type &lt;unknown&gt;|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010245Z" creationid="RAFAEL" creationdate="20210511T010245Z">
+        <seg>[3409]&lt;EUF0&gt;Desbloquear tipo firma &lt;desconhecido&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3410]&lt;ELM1&gt;Unlock|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010254Z" creationid="RAFAEL" creationdate="20210511T010254Z">
+        <seg>[3410]&lt;ELM1&gt;Desbloquear|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3411]&lt;ELM2&gt;Unlock landmark|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010319Z" creationid="RAFAEL" creationdate="20210511T010319Z">
+        <seg>[3411]&lt;ELM2&gt;Desbloquear um marco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3412]&lt;ELM3&gt;Unlock a landmark|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010336Z" creationid="RAFAEL" creationdate="20210511T010336Z">
+        <seg>[3412]&lt;ELM3&gt;Desbloquear um marco|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3413]&lt;EUAC&gt;Unlock all cities|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010430Z" creationid="RAFAEL" creationdate="20210511T010430Z">
+        <seg>[3413]&lt;EUAC&gt;Desbloquear todas cidades|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3414]&lt;EUOC&gt;Unlock city|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010440Z" creationid="RAFAEL" creationdate="20210511T010440Z">
+        <seg>[3414]&lt;EUOC&gt;Desbloquear a cidade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3415]&lt;TIOC&gt;Reminder: You may find additional job candidates in other cities.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010458Z" creationid="RAFAEL" creationdate="20210511T010458Z">
+        <seg>[3415]&lt;TIOC&gt;Lembrete: Você pode encontrar candidatos a empregos adicionais em outras cidades.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
@@ -55420,8 +55908,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T055038Z" creationid="Olivier" creationdate="20200728T055038Z">
-        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210516T213944Z" creationid="Olivier" creationdate="20200728T055038Z">
+        <seg>[SHRD]%2j{Jan|Fev|Mar|Apr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
