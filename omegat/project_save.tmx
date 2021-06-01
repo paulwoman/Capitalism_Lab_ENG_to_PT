@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8466,6 +8466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T224632Z" creationid="RAFAEL" creationdate="20200830T224632Z">
         <seg>Description=Seu objetivo é transformar as cidades em áreas metropolitanas prósperas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Your goal is to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210601T021635Z" creationid="RAFAEL" creationdate="20210601T021635Z">
+        <seg>Description=Seu objetivo é fazer sua empresa crescer de uma humilde startup de e-commerce a um formidável gigante, dominando o setor de e-commerce e apresentando ameaças existenciais a varejistas incompetentes.^^Você vencerá esse cenário quando as vendas de e-commerce de sua empresa chegarem a US $ 200 milhões por ano e a capitalização de mercado de sua empresa ultrapassa a marca de US $ 1 bilhão.</seg>
       </tuv>
     </tu>
     <tu>
