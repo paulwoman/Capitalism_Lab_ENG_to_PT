@@ -7198,6 +7198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Started On=2021-05-27</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210602T153506Z" creationid="Olivier" creationdate="20210602T153506Z">
+        <seg>Contest Started On=2021-05-27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-05-28</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Olivier" changedate="20210602T153520Z" creationid="Olivier" creationdate="20210602T153520Z">
+        <seg>Contest Started On=2021-05-28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled Companies Annual Profit=1500</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T013109Z" creationid="Olivier" creationdate="20200802T013109Z">
