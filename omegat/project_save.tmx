@@ -53108,8 +53108,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3114]&lt;MER2&gt;to acquire the remaining shares of|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T203307Z" creationid="User" creationdate="20200802T203307Z">
-        <seg>[3114]&lt;MER2&gt;adquirir as ações remanescentes of|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210610T012631Z" creationid="User" creationdate="20200802T203307Z">
+        <seg>[3114]&lt;MER2&gt;adquirir as ações remanescentes da|</seg>
       </tuv>
     </tu>
     <tu>
