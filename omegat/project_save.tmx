@@ -41596,32 +41596,32 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[1075]&lt;0231&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181429Z" creationid="Olivier" creationdate="20200728T091428Z">
-        <seg>[1075]&lt;0231&gt;Nao.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230701Z" creationid="Olivier" creationdate="20200728T091428Z">
+        <seg>[1075]&lt;0231&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1076]&lt;0232&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200801T181442Z" creationid="Olivier" creationdate="20200728T091433Z">
-        <seg>[1076]&lt;0232&gt;Nao.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230710Z" creationid="Olivier" creationdate="20200728T091433Z">
+        <seg>[1076]&lt;0232&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1077]&lt;0233&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091511Z" creationid="Olivier" creationdate="20200728T091511Z">
-        <seg>[1077]&lt;0233&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230721Z" creationid="Olivier" creationdate="20200728T091511Z">
+        <seg>[1077]&lt;0233&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1078]&lt;0234&gt;No.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091538Z" creationid="Olivier" creationdate="20200728T091538Z">
-        <seg>[1078]&lt;0234&gt;No.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230738Z" creationid="Olivier" creationdate="20200728T091538Z">
+        <seg>[1078]&lt;0234&gt;N°.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56396,8 +56396,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>of Product Classes|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091524Z" creationid="Olivier" creationdate="20200728T091524Z">
-        <seg>classes produto|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230823Z" creationid="Olivier" creationdate="20200728T091524Z">
+        <seg>de classes produto|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56420,8 +56420,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>of Product Types|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Olivier" changedate="20200728T091533Z" creationid="Olivier" creationdate="20200728T091533Z">
-        <seg>tipos produto|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210613T230749Z" creationid="Olivier" creationdate="20200728T091533Z">
+        <seg>tipos de produto|</seg>
       </tuv>
     </tu>
     <tu>
