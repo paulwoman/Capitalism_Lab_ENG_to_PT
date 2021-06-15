@@ -52636,8 +52636,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3055]&lt;INTT&gt;This Internet company does not have the required technology to start operation yet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T194733Z" creationid="User" creationdate="20200802T194733Z">
-        <seg>[3055]&lt;INTT&gt;Esta empresa de Internet não possui a tecnologia necessária para iniciar a operação.t.</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210615T031604Z" creationid="User" creationdate="20200802T194733Z">
+        <seg>[3055]&lt;INTT&gt;Esta empresa de Internet não possui a tecnologia necessária para entrar em operação.</seg>
       </tuv>
     </tu>
     <tu>
