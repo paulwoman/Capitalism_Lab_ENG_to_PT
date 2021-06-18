@@ -52908,8 +52908,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3089]&lt;GACQ&gt;Which company under your control will acquire the target company?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T200329Z" creationid="User" creationdate="20200802T200329Z">
-        <seg>[3089]&lt;GACQ&gt;Qual empresa sob seu controle adquirirá a empresa de destino?|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210618T015010Z" creationid="User" creationdate="20200802T200329Z">
+        <seg>[3089]&lt;GACQ&gt;Qual empresa sob seu controle adquirirá a empresa alvo?|</seg>
       </tuv>
     </tu>
     <tu>
