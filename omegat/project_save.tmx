@@ -51644,8 +51644,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2932]&lt;APR1&gt;can be acquired for|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T005652Z" creationid="User" creationdate="20200802T005652Z">
-        <seg>[2932]&lt;APR1&gt;pode ser adquirido por|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210618T012502Z" creationid="User" creationdate="20200802T005652Z">
+        <seg>[2932]&lt;APR1&gt;pode ser adquirida por|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51660,8 +51660,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2934]&lt;APR3&gt;Do you want to acquire it now?|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T005722Z" creationid="User" creationdate="20200802T005722Z">
-        <seg>[2934]&lt;APR3&gt;Deseja adquiri-lo agora?|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210618T012534Z" creationid="User" creationdate="20200802T005722Z">
+        <seg>[2934]&lt;APR3&gt;Deseja adquiri-la agora?|</seg>
       </tuv>
     </tu>
     <tu>
