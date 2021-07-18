@@ -7486,6 +7486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: C)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T234808Z" creationid="RAFAEL" creationdate="20210718T234808Z">
+        <seg>Relatório de Resumo Corporativo (Atalho: C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate cash change=10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T011943Z" creationid="Olivier" creationdate="20200802T011943Z">
@@ -10154,6 +10162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T134153Z" creationid="RAFAEL" creationdate="20200802T134153Z">
         <seg>Relatório resumido da empresa (Tecla de atalho: 'F')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: F)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T234838Z" creationid="RAFAEL" creationdate="20210718T234838Z">
+        <seg>Relatório de Resumo da Empresa (Atalho: F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13066,6 +13082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T014923Z" creationid="RAFAEL" creationdate="20200826T014819Z">
         <seg>SedeHQ (Atalho: 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters (hotkey: H)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T234906Z" creationid="RAFAEL" creationdate="20210718T234906Z">
+        <seg>Sede (Atalho: H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24619,6 +24643,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T133921Z" creationid="RAFAEL" creationdate="20200802T133921Z">
         <seg>Relatório de resumo do produto (Tecla de atalho: 'P')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: P)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T234734Z" creationid="RAFAEL" creationdate="20210718T234734Z">
+        <seg>Relatório de Resumo do Produto (Atalho: P)</seg>
       </tuv>
     </tu>
     <tu>
