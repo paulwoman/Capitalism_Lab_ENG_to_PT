@@ -5870,6 +5870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the manager of this firm (hotkey: Z).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235137Z" creationid="RAFAEL" creationdate="20210718T235137Z">
+        <seg>Clique aqui para definir o gerente desta empresa (Atalho: Z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to set up the layout (hotkey: A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200807T000721Z" creationid="RAFAEL" creationdate="20200807T000721Z">
@@ -6650,6 +6658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221450Z" creationid="RAFAEL" creationdate="20200802T221450Z">
         <seg>Fechar janela de registro de notícias (Tecla de atalho: 'V')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235116Z" creationid="RAFAEL" creationdate="20210718T235116Z">
+        <seg>Fechar janela de registro de Notícias (Atalho: V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19807,6 +19823,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Display Option (hotkey: N)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235028Z" creationid="RAFAEL" creationdate="20210718T235028Z">
+        <seg>Opção de Exibição de Notícias (Atalho: N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Arrow=Yes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121441Z" creationid="Olivier" creationdate="20200805T121441Z">
@@ -21423,6 +21447,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235050Z" creationid="RAFAEL" creationdate="20210718T235050Z">
+        <seg>Abrir janela de registro de notícias (Atalho: V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Event Tracker Window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200801T222947Z" creationid="RAFAEL" creationdate="20200801T222947Z">
@@ -21595,6 +21627,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T140119Z" creationid="RAFAEL" creationdate="20200802T140119Z">
         <seg>Menu Opções (Tecla de atalho: 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Menu (hotkey: O)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T234943Z" creationid="RAFAEL" creationdate="20210718T234943Z">
+        <seg>Menu de Opções (Atalho: O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24403,6 +24443,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021638Z" creationid="RAFAEL" creationdate="20200804T021638Z">
         <seg>Produto anterior (Tecla de atalho: 'u')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Product (Hotkey: U)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235209Z" creationid="RAFAEL" creationdate="20210718T235209Z">
+        <seg>Produto Anterior (Atalho: U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33318,6 +33366,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210323T224642Z" creationid="RAFAEL" creationdate="20210323T224642Z">
         <seg>Para alterar a lista filtrada, acesse o #Resumo de produtos# (Atalho: 'p') e escolha configurações diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the filtered list, access the #Products Summary# (hotkey: P) and choose different settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235302Z" creationid="RAFAEL" creationdate="20210718T235302Z">
+        <seg>Para alterar a lista filtrada, acesse o #Resumo de Produtos# (Atalho: P) e escolha configurações diferentes.</seg>
       </tuv>
     </tu>
     <tu>
