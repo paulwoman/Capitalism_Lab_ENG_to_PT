@@ -13455,6 +13455,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: C</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235358Z" creationid="RAFAEL" creationdate="20210718T235358Z">
+        <seg>Atalho: C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-B</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T012818Z" creationid="RAFAEL" creationdate="20200806T012818Z">
@@ -13483,6 +13491,30 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T015346Z" creationid="RAFAEL" creationdate="20200826T015346Z">
         <seg>Atalho: Ctrl-M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: D or F10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235410Z" creationid="RAFAEL" creationdate="20210718T235410Z">
+        <seg>Atalho: D ou F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: E</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235451Z" creationid="RAFAEL" creationdate="20210718T235451Z">
+        <seg>Atalho: E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235435Z" creationid="RAFAEL" creationdate="20210718T235435Z">
+        <seg>Atalho: F</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,10 +13567,34 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: G</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235457Z" creationid="RAFAEL" creationdate="20210718T235457Z">
+        <seg>Atalho: G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: I</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235444Z" creationid="RAFAEL" creationdate="20210718T235444Z">
+        <seg>Atalho: I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Left arrow key to go to the previous layout plan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005423Z" creationid="RAFAEL" creationdate="20200805T005423Z">
         <seg>Atalho: Tecla de seta à esquerda para ir para o plano de layout anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: P</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235418Z" creationid="RAFAEL" creationdate="20210718T235418Z">
+        <seg>Atalho: P</seg>
       </tuv>
     </tu>
     <tu>
@@ -13551,10 +13607,26 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: R</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235426Z" creationid="RAFAEL" creationdate="20210718T235426Z">
+        <seg>Atalho: R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Right arrow key to go to the next layout plan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005438Z" creationid="RAFAEL" creationdate="20200805T005438Z">
         <seg>Atalho: Tecla de seta para a direita para ir para o próximo plano de layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: T</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235502Z" creationid="RAFAEL" creationdate="20210718T235502Z">
+        <seg>Aotkey: T</seg>
       </tuv>
     </tu>
     <tu>
@@ -19875,6 +19947,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200804T021703Z" creationid="RAFAEL" creationdate="20200804T021703Z">
         <seg>Próximo produto (Tecla de atalho: 'x')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Product (Hotkey: X)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235333Z" creationid="RAFAEL" creationdate="20210718T235333Z">
+        <seg>Próximo Produto (Atalho: X)</seg>
       </tuv>
     </tu>
     <tu>
