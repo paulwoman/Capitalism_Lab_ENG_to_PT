@@ -55898,6 +55898,30 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
+        <seg>[3453]&lt;WBMD&gt;Este depósito a prazo ainda não atingiu sua data de vencimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3454]&lt;SGT1&gt;Which type of game do you want to save?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001827Z" creationid="RAFAEL" creationdate="20210719T001827Z">
+        <seg>[3454]&lt;SGT1&gt;Que tipo de jogo você deseja salvar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3457]&lt;SCDL&gt;Warning: Are you sure that you want to save a Challenge Game with DLC enabled?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001801Z" creationid="RAFAEL" creationdate="20210719T001801Z">
+        <seg>[3457]&lt;SCDL&gt;Aviso: tem certeza de que deseja salvar um jogo de desafio com DLC habilitado?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200805T121325Z" creationid="Olivier" creationdate="20200805T121325Z">
