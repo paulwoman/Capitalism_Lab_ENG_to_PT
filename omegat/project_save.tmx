@@ -8878,6 +8878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you confirm?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001920Z" creationid="RAFAEL" creationdate="20210719T001920Z">
+        <seg>Você confirma?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you have enough money to build a second department store yet?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200811T011204Z" creationid="RAFAEL" creationdate="20200811T011204Z">
@@ -16139,6 +16147,14 @@ Contratar Diretor de Tecnologia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T012304Z" creationid="RAFAEL" creationdate="20200808T012304Z">
         <seg>Se você quiser ver cidades emitindo títulos com mais freqüência, para que você possa investir em títulos municipais, você pode definir este cenário como "Baixo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to withdraw from it now, the time deposit will be cancelled and the interest will be forfeited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001859Z" creationid="RAFAEL" creationdate="20210719T001859Z">
+        <seg>Se você quiser sacar agora, o depósito a prazo será cancelado e os juros serão perdidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30165,6 +30181,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T015627Z" creationid="RAFAEL" creationdate="20200806T015627Z">
         <seg>O orçamento médio de treinamento de todos os escritórios da companhia de seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The balance will be transferred to your saving account.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001910Z" creationid="RAFAEL" creationdate="20210719T001910Z">
+        <seg>O saldo será transferido para sua conta poupança.</seg>
       </tuv>
     </tu>
     <tu>
