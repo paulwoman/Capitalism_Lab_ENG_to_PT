@@ -55930,6 +55930,78 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3431]&lt;HEAR&gt;Health rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235338Z" creationid="RAFAEL" creationdate="20210719T235338Z">
+        <seg>[3431]&lt;HEAR&gt;Avaliação de saúde|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3432]&lt;SOCR&gt;Social Security rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235353Z" creationid="RAFAEL" creationdate="20210719T235353Z">
+        <seg>[3432]&lt;SOCR&gt;Avaliação da previdência social|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3433]&lt;FOSR&gt;Food Supply rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235411Z" creationid="RAFAEL" creationdate="20210719T235411Z">
+        <seg>[3433]&lt;FOSR&gt;Avaliação de abastecimento de alimentos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3434]&lt;GOSR&gt;Goods Supply rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235429Z" creationid="RAFAEL" creationdate="20210719T235429Z">
+        <seg>[3434]&lt;GOSR&gt;Avaliação de fornecimento de bens|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3435]&lt;ENVR&gt;Environment rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235440Z" creationid="RAFAEL" creationdate="20210719T235440Z">
+        <seg>[3435]&lt;ENVR&gt;Avaliação ambiental|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3436]&lt;SAFR&gt;Safety rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235453Z" creationid="RAFAEL" creationdate="20210719T235453Z">
+        <seg>[3436]&lt;SAFR&gt;Avaliação de segurança|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3437]&lt;CULR&gt;Culture rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235507Z" creationid="RAFAEL" creationdate="20210719T235507Z">
+        <seg>[3437]&lt;CULR&gt;Avaliação da cultura|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3438]&lt;SPOR&gt;Sports rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235526Z" creationid="RAFAEL" creationdate="20210719T235526Z">
+        <seg>[3438]&lt;SPOR&gt;Avaliação dos esportes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3439]&lt;BALB&gt;You have bought back all outstanding issues of your bond and the bond is thus removed from the market.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235721Z" creationid="RAFAEL" creationdate="20210719T235721Z">
+        <seg>[3439]&lt;BALB&gt;Você comprou de volta todas as emissões pendentes do seu título e, portanto, o título é removido do mercado.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
