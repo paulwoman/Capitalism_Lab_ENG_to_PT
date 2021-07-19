@@ -17287,6 +17287,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It cannot be copied at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000648Z" creationid="RAFAEL" creationdate="20210719T000648Z">
+        <seg>Não pode ser copiado no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It consolidates the financial data from the Bank HQ and all its bank branches.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T024947Z" creationid="RAFAEL" creationdate="20200806T024947Z">
@@ -55822,6 +55830,62 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000258Z" creationid="RAFAEL" creationdate="20210719T000258Z">
         <seg>[3419]&lt;BNOC&gt;A prefeitura já tem dívidas demais.\nIt não é possível emitir novos títulos no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3420]&lt;MACA&gt;Mayoral candidate of|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000545Z" creationid="RAFAEL" creationdate="20210719T000545Z">
+        <seg>[3420]&lt;MACA&gt;Candidato a prefeito de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3421]&lt;SKPR&gt;Price|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000553Z" creationid="RAFAEL" creationdate="20210719T000553Z">
+        <seg>[3421]&lt;SKPR&gt;Preço|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3423]&lt;SOWN&gt;Owned%|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000613Z" creationid="RAFAEL" creationdate="20210719T000613Z">
+        <seg>[3423]&lt;SOWN&gt;Possui%|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3425]&lt;NCPY&gt;Sorry, this factory has not started production yet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000637Z" creationid="RAFAEL" creationdate="20210719T000637Z">
+        <seg>[3425]&lt;NCPY&gt;Desculpe, esta fábrica ainda não iniciou a produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3426]&lt;PMAY&gt;Your party's member is Mayor|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000702Z" creationid="RAFAEL" creationdate="20210719T000702Z">
+        <seg>[3426]&lt;PMAY&gt;O membro do seu partido é o prefeito |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3427]&lt;MAPR&gt;Mayor Approval Rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000719Z" creationid="RAFAEL" creationdate="20210719T000719Z">
+        <seg>[3427]&lt;MAPR&gt;Classificação de aprovação do prefeito|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3428]&lt;HCFR&gt;Housing and Community Facilities rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000746Z" creationid="RAFAEL" creationdate="20210719T000746Z">
+        <seg>[3428]&lt;HCFR&gt;Classificação de habitação e instalações comunitárias|</seg>
       </tuv>
     </tu>
     <tu>
