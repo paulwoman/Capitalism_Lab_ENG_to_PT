@@ -55922,6 +55922,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3430]&lt;EDUR&gt;Education rating|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235314Z" creationid="RAFAEL" creationdate="20210719T235314Z">
+        <seg>[3430]&lt;EDUR&gt;Avaliação de educação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
