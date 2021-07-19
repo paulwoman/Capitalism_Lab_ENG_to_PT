@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because of this, the system has automatically enabled them in the Scope of Production list for you.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235930Z" creationid="RAFAEL" creationdate="20210719T235930Z">
+        <seg>Por isso, o sistema os habilitou automaticamente na lista Escopo de produção para você.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T013959Z" creationid="RAFAEL" creationdate="20200805T013959Z">
@@ -55998,6 +56006,22 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235721Z" creationid="RAFAEL" creationdate="20210719T235721Z">
         <seg>[3439]&lt;BALB&gt;Você comprou de volta todas as emissões pendentes do seu título e, portanto, o título é removido do mercado.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3440]&lt;CHSA&gt;Challenge Game saved successfully.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235749Z" creationid="RAFAEL" creationdate="20210719T235749Z">
+        <seg>[3440]&lt;CHSA&gt;Jogo de desafio salvo com sucesso.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3441]&lt;PCAI&gt;Some products in this product class depend on inputs that must be enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235900Z" creationid="RAFAEL" creationdate="20210719T235900Z">
+        <seg>[3441]&lt;PCAI&gt;Alguns produtos desta classe de produtos dependem de insumos que devem ser habilitados.</seg>
       </tuv>
     </tu>
     <tu>
