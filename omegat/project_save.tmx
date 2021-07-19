@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change Sort Order</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235943Z" creationid="RAFAEL" creationdate="20210718T235943Z">
+        <seg>Alterar ordem de classificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change Training Budget</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200806T035012Z" creationid="RAFAEL" creationdate="20200806T035012Z">
@@ -5970,6 +5978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200802T221831Z" creationid="RAFAEL" creationdate="20200802T221831Z">
         <seg>Clique aqui para ver os detalhes da pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a column header to sort the stock list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235959Z" creationid="RAFAEL" creationdate="20210718T235959Z">
+        <seg>Clique no cabeçalho de uma coluna para classificar a lista de estoque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,6 +13094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headhunt (hotkey: U)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235907Z" creationid="RAFAEL" creationdate="20210718T235907Z">
+        <seg>Headhunt (Atalho: U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headhunt Targets Include Subsidiaries</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T030704Z" creationid="RAFAEL" creationdate="20200805T030506Z">
@@ -13274,6 +13298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200830T195210Z" creationid="RAFAEL" creationdate="20200830T195210Z">
         <seg>Contratar (Atalho: 'W')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire (hotkey: W)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210718T235859Z" creationid="RAFAEL" creationdate="20210718T235859Z">
+        <seg>Contratar (Atalho: W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30365,6 +30397,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200805T005817Z" creationid="RAFAEL" creationdate="20200805T005817Z">
         <seg>O preço atual das ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current store is already selling this product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000014Z" creationid="RAFAEL" creationdate="20210719T000014Z">
+        <seg>A loja atual já está vendendo este produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55750,6 +55790,38 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210511T010458Z" creationid="RAFAEL" creationdate="20210511T010458Z">
         <seg>[3415]&lt;TIOC&gt;Lembrete: Você pode encontrar candidatos a empregos adicionais em outras cidades.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3416]&lt;DISG&gt;is disabled in this game.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000039Z" creationid="RAFAEL" creationdate="20210719T000039Z">
+        <seg>[3416]&lt;DISG&gt;está desativado neste jogo.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3417]&lt;TWE1&gt;Tech Importance Weight|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000101Z" creationid="RAFAEL" creationdate="20210719T000101Z">
+        <seg>[3417]&lt;TWE1&gt;Peso da importância da tecnologia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3418]&lt;TWE2&gt;Weight of this tech contributing to the overall product:|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000118Z" creationid="RAFAEL" creationdate="20210719T000118Z">
+        <seg>[3418]&lt;TWE2&gt;Peso desta tecnologia contribuindo para o produto geral:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3419]&lt;BNOC&gt;Sorry, the city government already has too much debt.\nIt cannot issue new bonds at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000258Z" creationid="RAFAEL" creationdate="20210719T000258Z">
+        <seg>[3419]&lt;BNOC&gt;A prefeitura já tem dívidas demais.\nIt não é possível emitir novos títulos no momento.|</seg>
       </tuv>
     </tu>
     <tu>
