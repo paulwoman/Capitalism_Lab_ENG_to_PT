@@ -51380,8 +51380,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20200802T002335Z" creationid="User" creationdate="20200802T002335Z">
-        <seg>[2867]&lt;NSC1&gt;Agora você deve contratar um CEO para sua nova empresa subsidiáriay.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T020818Z" creationid="User" creationdate="20200802T002335Z">
+        <seg>[2867]&lt;NSC1&gt;Agora você deve contratar um CEO para sua nova empresa subsidiária.|</seg>
       </tuv>
     </tu>
     <tu>
