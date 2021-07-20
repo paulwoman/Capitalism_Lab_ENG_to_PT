@@ -55860,8 +55860,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3419]&lt;BNOC&gt;Sorry, the city government already has too much debt.\nIt cannot issue new bonds at the moment.|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T000258Z" creationid="RAFAEL" creationdate="20210719T000258Z">
-        <seg>[3419]&lt;BNOC&gt;A prefeitura já tem dívidas demais.\nIt não é possível emitir novos títulos no momento.|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T002251Z" creationid="RAFAEL" creationdate="20210719T000258Z">
+        <seg>[3419]&lt;BNOC&gt;A prefeitura já tem dívidas demais.\nNão é possível emitir novos títulos no momento.|</seg>
       </tuv>
     </tu>
     <tu>
