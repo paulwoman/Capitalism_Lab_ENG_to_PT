@@ -56026,6 +56026,38 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3442]&lt;NCIC&gt;Unfortunately, you do not have sufficient cash at the moment.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T235944Z" creationid="RAFAEL" creationdate="20210719T235944Z">
+        <seg>[3442]&lt;NCIC&gt;Infelizmente, você não tem dinheiro suficiente no momento.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3443]&lt;MERO&gt;In order to execute a merger, your player character must have some ownership of your main corporation.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000202Z" creationid="RAFAEL" creationdate="20210720T000202Z">
+        <seg>[3443]&lt;MERO&gt;Para executar uma fusão, seu personagem do jogador deve ter alguma propriedade de sua empresa principal.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3444]&lt;NOPR&gt;Sorry, no products can be produced in the current firm.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000220Z" creationid="RAFAEL" creationdate="20210720T000220Z">
+        <seg>[3444]&lt;NOPR&gt;Desculpe, nenhum produto pode ser produzido na empresa atual.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3445]&lt;NMER&gt;You cannot merge the two companies because the target company owns stock in the acquiring company.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000315Z" creationid="RAFAEL" creationdate="20210720T000315Z">
+        <seg>[3445]&lt;NMER&gt;Você não pode fundir as duas empresas porque a empresa-alvo possui ações da empresa adquirente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
