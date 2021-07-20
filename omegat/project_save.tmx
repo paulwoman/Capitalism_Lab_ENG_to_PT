@@ -56106,6 +56106,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3452]&lt;OEXF&gt;Open Export Folder|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000546Z" creationid="RAFAEL" creationdate="20210720T000546Z">
+        <seg>[3452]&lt;OEXF&gt;Abrir pasta de exportação|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
@@ -56118,6 +56126,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001827Z" creationid="RAFAEL" creationdate="20210719T001827Z">
         <seg>[3454]&lt;SGT1&gt;Que tipo de jogo você deseja salvar?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3455]&lt;SGT2&gt;Challenge Game|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000601Z" creationid="RAFAEL" creationdate="20210720T000601Z">
+        <seg>[3455]&lt;SGT2&gt;Jogo Desafio|</seg>
       </tuv>
     </tu>
     <tu>
