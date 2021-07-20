@@ -56058,6 +56058,54 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3446]&lt;AMER&gt;Under the special anti-exploitation game rules, your company can only merge with another company in which it DIRECTLY owns a majority of the shares.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000341Z" creationid="RAFAEL" creationdate="20210720T000341Z">
+        <seg>[3446]&lt;AMER&gt;De acordo com as regras especiais do jogo anti-exploração, sua empresa só pode se fundir com outra empresa em que detenha DIRETAMENTE a maioria das ações.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3447]&lt;HRPD&gt;Please hire a researcher with product development skill first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000423Z" creationid="RAFAEL" creationdate="20210720T000423Z">
+        <seg>[3447]&lt;HRPD&gt;Contrate um pesquisador com habilidade em desenvolvimento de produto primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3448]&lt;HRTK&gt;Please hire a researcher with technology knowhow first.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000437Z" creationid="RAFAEL" creationdate="20210720T000437Z">
+        <seg>[3448]&lt;HRTK&gt;Contrate um pesquisador com conhecimento de tecnologia primeiro.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3449]&lt;QSAV&gt;Quick save done.|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000458Z" creationid="RAFAEL" creationdate="20210720T000458Z">
+        <seg>[3449]&lt;QSAV&gt;Salvamento rápido concluído.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3450]&lt;CDEL&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000514Z" creationid="RAFAEL" creationdate="20210720T000514Z">
+        <seg>[3450]&lt;CDEL&gt;Este jogo de desafio será excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3451]&lt;COWR&gt;Overwrite this Challenge Game?|</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210720T000529Z" creationid="RAFAEL" creationdate="20210720T000529Z">
+        <seg>[3451]&lt;COWR&gt;Substituir este jogo de desafio?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210719T001841Z" creationid="RAFAEL" creationdate="20210719T001841Z">
