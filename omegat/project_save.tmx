@@ -32322,6 +32322,14 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This determines the quality of products imported via import companies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210728T014442Z" creationid="RAFAEL" creationdate="20210728T014442Z">
+        <seg>Isso determina a qualidade dos produtos importados por meio de empresas importadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines the sizes of start-up capital of AI controlled corporations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200808T001235Z" creationid="RAFAEL" creationdate="20200808T001235Z">
