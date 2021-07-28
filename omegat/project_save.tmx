@@ -54620,8 +54620,8 @@ A # quantia máxima de depósito # é restringida pelo limite de depósito #.</s
       <tuv lang="en-US">
         <seg>[3265]&lt;AIN1&gt;Increase all product prices monthly at the same rate as inflation|</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20200826T004857Z" creationid="RAFAEL" creationdate="20200826T004857Z">
-        <seg>[3265]&lt;AIN1&gt;Aumente todos os preços dos produtos mensalmente na mesma taxa da inflação|</seg>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210728T021837Z" creationid="RAFAEL" creationdate="20200826T004857Z">
+        <seg>[3265]&lt;AIN1&gt;Aumente todos os preços dos produtos mensalmente c/ base na inflação|</seg>
       </tuv>
     </tu>
     <tu>
