@@ -16231,6 +16231,14 @@ Contratar Diretor de Tecnologia</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="RAFAEL" changedate="20210728T014422Z" creationid="RAFAEL" creationdate="20210728T014422Z">
+        <seg>Qualidade da Importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=High</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Olivier" changedate="20200802T012900Z" creationid="Olivier" creationdate="20200802T012900Z">
